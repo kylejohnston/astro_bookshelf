@@ -1,0 +1,13 @@
+---
+export interface Props {
+	library: string;
+	bookshelf: string;
+	amazon: string;
+}
+
+const { library, bookshelf, amazon } = Astro.props;
+---
+
+{library   && <p><a href={library}>Local Library</a></p> }
+{bookshelf && <p><a href={bookshelf}>Bookshelf.org</a></p> }
+{amazon    && <p><a href={amazon}>Amazon</a></p> }

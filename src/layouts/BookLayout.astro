@@ -1,0 +1,47 @@
+---
+import BaseHead from '../components/BaseHead.astro'; // <head>
+import MainNav from '../components/MainNav.astro'; // logo, nav
+// import BuyBook from '../components/BuyBook.astro';
+// import ReadingTime from '../components/ReadingTime.astro';
+// import BookBody from '../components/BookBody.astro'; // content
+
+
+const { content } = Astro.props;
+const { title, description, author, coverImage, permalink } = content;
+---
+
+<html lang={content.lang || 'en'}>
+	<head>
+		<BaseHead {title} {description} {permalink} />
+	</head>
+
+	<body class="flex flex-col md:flex-row" style="">
+		<MainNav /> <!-- logo, nav -->
+    <article class="mt-8 px-3 md:px-8">
+      <header class="mb-8">
+        <h1 class="title">{title}</h1>
+        <h2 class="author"><span>by</span> {author}</h2>
+      </header>
+      <div class="grid md:grid-cols-2 gap-8">
+        <main class="max-w-3xl">
+          <section>
+            <h3>Description</h3>
+            <slot />
+          </section>
+          <section>
+            <h3>Notes &amp; Highlights</h3>
+            <slot name="time" />
+            <slot name="notes" />
+          </section>
+          <section>
+            <h4>Get a copy</h4>
+            <slot name="buy" />
+          </section>
+        </main>
+        <div class="order-first md:order-last">
+          <img width="100%" height="auto" class="rounded-3xl hero-image" loading="lazy" src={coverImage} alt={title} />
+        </div>
+      </div>
+    </article>
+	</body>
+</html>
