@@ -1,0 +1,14 @@
+---
+// renders the book cover on the homepage / index.astro
+export interface Props {
+	post: any;
+}
+
+const { post } = Astro.props;
+---
+
+<article class="post-preview">
+	<a href={post.url}>
+		{post.frontmatter.coverImage && <img width="100%" height="auto" class="book-cover" loading="lazy" src={post.frontmatter.coverImage} alt={post.frontmatter.title} /> }
+	</a>
+</article>
