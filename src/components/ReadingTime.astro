@@ -6,7 +6,7 @@ export interface Props {
 const { startDate, finishDate } = Astro.props;
 ---
 
-<div class="grid grid-cols-2 mb-3">
-	{ startDate  && <div><h4>Started:</h4><p class="mb-0">{startDate}</p></div> }
-	{ finishDate && <div><h4>Finished:</h4><p class="mb-0">{finishDate}</p></div> }
+<div class="reading-time">
+	{ startDate  && <div><h4>Started:</h4><p>{startDate}</p></div> }
+	{ finishDate && <div><h4>Finished:</h4><p>{finishDate}</p></div> }
 </div>

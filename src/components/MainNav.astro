@@ -1,13 +1,11 @@
-<nav class="shrink-0">
-  <div class="">
-    <a class="" href="/">Hello world</a>
-  </div>
-</nav>
+---
+import Logo from './Logo.astro';
 
-<style>
-  nav a:link, nav a:visited { color: #fff; }
-  nav a:hover, nav a:active { color: #fff; }
-  nav div {
-    writing-mode: vertical-rl;
-  }
-</style>
+---
+<nav>
+  <a href="/">
+  <div class="logo">
+    <Logo /> <span>Bookshelf</span>
+  </div>
+  </a>
+</nav>
