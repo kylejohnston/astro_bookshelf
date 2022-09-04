@@ -1,26 +1,26 @@
 ---
-setup: |
-  import Layout from '../../layouts/BookLayout.astro'
-  import BuyBook from '../../components/BuyBook.astro'
-  import ReadingTime from '../../components/ReadingTime.astro'
+layout: ../../layouts/BookLayout.astro
 title: ""
 author:
-startDate:
-finishDate:
+startDate: 2021 Mar 14
+finishDate: 2022 Mar 14
 coverImage: /covers/
 library: https://share.libbyapp.com/title/
 bookshelf:
 amazon:
 ---
+import BuyBook from '../../components/BuyBook.astro'
+import ReadingTime from '../../components/ReadingTime.astro'
+
+<ReadingTime
+  startDate  = {frontmatter.startDate}
+  finishDate = {frontmatter.finishDate}
+/>
+
 ### Description
 
-<Fragment slot="time">
-  <ReadingTime
-    startDate  = {frontmatter.startDate}
-    finishDate = {frontmatter.finishDate}
-  />
-</Fragment>
-<!--<Fragment slot="notes">### Notes & Highlights</Fragment>-->
+{/*### Notes & Highlights */}
+
 <Fragment slot="buy">
   <BuyBook
     library   = {frontmatter.library}
