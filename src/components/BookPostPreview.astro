@@ -5,10 +5,11 @@ export interface Props {
 }
 
 const { post } = Astro.props;
+const altContent = [post.frontmatter.title + " by " + post.frontmatter.author + " finished on " + post.frontmatter.finishDate];
 ---
 
 <article class="post-preview">
 	<a href={post.url}>
-		{post.frontmatter.coverImage && <img width="100%" height="auto" class="book-cover" loading="lazy" src={post.frontmatter.coverImage} alt={post.frontmatter.title} /> }
+		{post.frontmatter.coverImage && <img width="100%" height="auto" class="book-cover" loading="lazy" src={post.frontmatter.coverImage} alt={altContent} /> }
 	</a>
 </article>
