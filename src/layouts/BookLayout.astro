@@ -1,6 +1,7 @@
 ---
 import BaseHead from '../components/BaseHead.astro'; // <head>
 import MainNav from '../components/MainNav.astro'; // logo, nav
+import Pager from '../pages/book/[page].astro';
 
 const { content } = Astro.props;
 const { title, description, author, coverImage, permalink } = content;
@@ -11,26 +12,18 @@ const { title, description, author, coverImage, permalink } = content;
 		<BaseHead {title} {description} {permalink} />
 	</head>
 
-	<body class="" style="">
+	<body>
 		<MainNav /> <!-- logo, nav -->
     <article class="book-details">
       <header>
         <h1 class="title">{title}</h1>
         <h2 class="author"><span>by</span> {author}</h2>
+        <Pager />
       </header>
       <div class="book-content">
         <main>
           <section>
-            <slot name="time" />
-          </section>
-          <section>
             <slot />
-            <slot name="notes" />
-            <slot name="buy" />
-          </section>
-          <section>
-          </section>
-          <section>
           </section>
         </main>
         <div class="book-cover-col">

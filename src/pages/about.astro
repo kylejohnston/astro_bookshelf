@@ -1,0 +1,39 @@
+---
+// Component Imports
+import BaseHead from '../components/BaseHead.astro';
+// import BlogHeader from '../components/BlogHeader.astro';
+import MainNav from '../components/MainNav.astro'; // logo, nav
+import BookPostPreview from '../components/BookPostPreview.astro';
+
+// Component Script:
+// You can write any JavaScript/TypeScript that you'd like here.
+// It will run during the build, but never in the browser.
+// All variables are available to use in the HTML template below.
+let title = 'Example Blog';
+let description = 'The perfect starter for your perfect blog.';
+let permalink = 'https://example.com/';
+
+// Data Fetching: List all Markdown posts in the repo.
+---
+
+<html lang="en">
+	<head>
+		<BaseHead {title} {description} {permalink} />
+	</head>
+
+	<body>
+		<MainNav /> <!-- logo, nav -->
+		<div class="wrapper">
+			<main class="content max-w-3xl p-6 md:p-8">
+				<section class="mb-8">
+					<h1 class="mb-2">About this bookshelf</h1>
+					<p>This site is a running list of the books I've read since I started tracking my reading in 2018. When available, I've also included any notes or highlights I captured as I was reading.</p>
+				</section>
+				<section class="mb-8">
+					<h2 class="mb-2">About this site</h2>
+					<p>This site is built with <a href="https://astro.build/" title="Astro">Astro</a> – a modern, flexible website build tool. I wanted a place to experiment with features Astro's capabilities and test things like variable fonts.</p>
+				</section>
+			</main>
+		</div>
+	</body>
+</html>
