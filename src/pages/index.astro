@@ -15,7 +15,7 @@ let permalink = 'https://example.com/';
 
 // Data Fetching: List all Markdown posts in the repo.
 
-let allPosts = await Astro.glob('./book/*.md');
+let allPosts = await Astro.glob('./book/*.mdx');
 allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.finishDate).valueOf() - new Date(a.frontmatter.finishDate).valueOf());
 
 // Full Astro Component Syntax:
@@ -29,12 +29,10 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.finishDate).valueOf() 
 
 	<body>
 		<MainNav /> <!-- logo, nav -->
-		<div class="wrapper">
-			<main class="content">
-				<section aria-label="Bookshelf" class="book-grid">
-					{allPosts.map((p) => <BookPostPreview post={p} />)}
-				</section>
-			</main>
-		</div>
+		<main class="content">
+			<section aria-label="Bookshelf" class="book-grid">
+				{allPosts.map((p) => <BookPostPreview post={p} />)}
+			</section>
+		</main>
 	</body>
 </html>
