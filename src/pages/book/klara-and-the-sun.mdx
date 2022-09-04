@@ -1,0 +1,31 @@
+---
+layout: ../../layouts/BookLayout.astro
+title: "Klara and the Sun"
+author: Kazuo Ishiguro
+startDate:
+finishDate: 2021 May 13
+coverImage: /covers/klara-and-the-sun.jpg
+library: https://share.libbyapp.com/title/5558820
+bookshelf:
+amazon:
+---
+import BuyBook from '../../components/BuyBook.astro'
+import ReadingTime from '../../components/ReadingTime.astro'
+
+<ReadingTime
+  startDate  = {frontmatter.startDate}
+  finishDate = {frontmatter.finishDate}
+/>
+
+### Description
+Here is the story of Klara, an Artificial Friend with outstanding observational qualities, who, from her place in the store, watches carefully the behavior of those who come in to browse, and of those who pass on the street outside. She remains hopeful that a customer will soon choose her. Klara and the Sun is a thrilling book that offers a look at our changing world through the eyes of an unforgettable narrator, and one that explores the fundamental question: what does it mean to love?
+
+{/*### Notes & Highlights */}
+
+<Fragment slot="buy">
+  <BuyBook
+    library   = {frontmatter.library}
+    bookshelf = {frontmatter.bookshelf}
+    amazon    = {frontmatter.amazon}
+  />
+</Fragment>
