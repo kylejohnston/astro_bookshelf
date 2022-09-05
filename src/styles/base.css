@@ -19,9 +19,9 @@
 	text-black;
 	}
 	/* h1, h2, h3 { letter-spacing: .2rem !important; @apply font-headline uppercase; } */
-	h1 {
+	h1, .headline {
 		font-size: clamp(2.813rem, 1.108rem + 8.52vw, 7.5rem);
-		letter-spacing: .1rem !important;
+		/* letter-spacing: .1rem !important; */
 		line-height:85% !important;
 		@apply
 		font-headline
@@ -96,7 +96,7 @@
 			md:text-2xl
 			sticky
 			top-2
-			tracking-wider
+			/* tracking- */
 			uppercase
 			md:[writing-mode:vertical-rl]
 			md:[height:97vh]; }
@@ -109,7 +109,7 @@
 			text-xl
 			md:text-2xl
 			top-2
-			tracking-wider
+			/* tracking-normal */
 			uppercase
 			md:[writing-mode:vertical-rl];
 		}
