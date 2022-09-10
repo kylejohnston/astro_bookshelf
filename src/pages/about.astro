@@ -9,9 +9,9 @@ import BookPostPreview from '../components/BookPostPreview.astro';
 // You can write any JavaScript/TypeScript that you'd like here.
 // It will run during the build, but never in the browser.
 // All variables are available to use in the HTML template below.
-let title = 'Example Blog';
-let description = 'The perfect starter for your perfect blog.';
-let permalink = 'https://example.com/';
+let title = "Kyle Johnston's Bookshelf";
+let description = 'A running list of the books I\'ve read.';
+let permalink = 'https://bookshelf.kylewjohnston.com/about';
 
 // Data Fetching: List all Markdown posts in the repo.
 ---
@@ -25,7 +25,7 @@ let permalink = 'https://example.com/';
 		<MainNav /> <!-- logo, nav -->
 		<div class="wrapper max-w-7xl">
 			<main class="content p-6 md:p-8">
-				<section class="mb-8 max-w-3xl">
+				<section class="mb-16 max-w-3xl">
 					<h1 class="mb-2">About this bookshelf</h1>
 					<p class="text-xl md:text-3xl">This bookshelf is a running list of the books I've read since I started tracking my reading in 2018. When available, I've also included any notes or highlights I captured as I was reading.</p>
 					<p>Made by <a href="https://www.kylewjohnston.com" target="_blank">Kyle Johnston</a></p>
@@ -44,7 +44,7 @@ let permalink = 'https://example.com/';
 							<p class="headline text-gray-500">Headline Test</p>
 						</div>
 						<div>
-								<img class="rounded-3xl aspect-square object-cover border" src="herman-miller-ad.jpg" loading="lazy" alt="Design inspiration: Herman Miller ad">
+								<img class="rounded-3xl aspect-square object-cover border" src="static/herman-miller-ad.jpg" loading="lazy" alt="Design inspiration: Herman Miller ad">
 						</div>
 					</div>
 					<h3>Tooling</h3>
