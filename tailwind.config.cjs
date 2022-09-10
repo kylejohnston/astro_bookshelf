@@ -19,9 +19,8 @@ module.exports = {
 		},
 		extend: {
 			fontFamily: {
-				headline: ['Roboto Flex'],
-				// sans: ['Libre Franklin'],
-				mono: ['Roboto Mono'],
+				headline: ['"Roboto Flex"', 'Arial', 'sans-serif'],
+				mono: ['Roboto Mono', 'monospace'],
 			},
 		},
 	},
