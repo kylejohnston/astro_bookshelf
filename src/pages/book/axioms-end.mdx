@@ -6,8 +6,8 @@ startDate:
 finishDate: 2021 Sep 21
 coverImage: /covers/axioms-end.jpg
 library: https://share.libbyapp.com/title/5042640
-bookshelf:
-amazon:
+bookshelf: https://bookshop.org/books/axiom-s-end-9781250798138/9781250798138
+amazon: https://www.amazon.com/Axioms-End-A-Novel/dp/B082VK6CLT/
 ---
 import BuyBook from '../../components/BuyBook.astro'
 import ReadingTime from '../../components/ReadingTime.astro'
@@ -26,10 +26,8 @@ Realizing the extent to which both she and the public have been lied to, she set
 
 {/*### Notes & Highlights */}
 
-<Fragment slot="buy">
-  <BuyBook
-    library   = {frontmatter.library}
-    bookshelf = {frontmatter.bookshelf}
-    amazon    = {frontmatter.amazon}
-  />
-</Fragment>
+<BuyBook
+  library   = {frontmatter.library}
+  bookshelf = {frontmatter.bookshelf}
+  amazon    = {frontmatter.amazon}
+/>
