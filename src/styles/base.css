@@ -20,7 +20,8 @@
 	main p { @apply leading-normal mb-3 text-lg md:text-xl; }
 	main ul, main ol { @apply list-disc mb-7 ml-5; }
 	main ul li, main ol li { @apply leading-normal mb-2 text-lg md:text-xl; }
-	main blockquote { @apply border-l-2 border-gray-300 pl-3 mb-7 [text-indent:1.5em]; }
+	main blockquote { @apply border-l-2 border-gray-300 pl-3 mb-7 /*[text-indent:1.5em]*/; }
+		main blockquote br { content:""; @apply block mb-3; }
 	nav { @apply bg-gradient-to-l from-bright to-primary md:bg-gradient-to-t md:pt-4 px-4 md:px-1 py-1 md:py-0 shrink-0; }
 	nav a { @apply relative right-2 md:right-1; }
 		nav a:link, nav a:visited { @apply text-black; }
