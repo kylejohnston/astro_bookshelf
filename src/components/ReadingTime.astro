@@ -3,10 +3,13 @@ export interface Props {
 	startDate: string;
 	finishDate: string;
 }
-const { startDate, finishDate } = Astro.props;
+const { startDate, finishDate, currentlyReading } = Astro.props;
 ---
 
 <div class="reading-time">
-	{ startDate  && <div><h4>Started:</h4><p>{startDate}</p></div> }
-	{ finishDate && <div><h4>Finished:</h4><p>{finishDate}</p></div> }
+	{ startDate && <div><h4>Started:</h4><p>{startDate}</p></div> }
+	{ finishDate ? 
+		<div><h4>Finished:</h4><p>{finishDate}</p></div> : 
+		<div><h4>Finished:</h4><p>Currently Reading</p></div>
+	}
 </div>
