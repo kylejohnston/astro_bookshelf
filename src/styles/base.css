@@ -22,13 +22,13 @@
 	main ul li, main ol li { @apply leading-normal mb-2 text-lg md:text-xl; }
 	main blockquote { @apply border-l-2 border-gray-300 pl-3 mb-7 /*[text-indent:1.5em]*/; }
 		main blockquote br { content:""; @apply block mb-3; }
-	nav { @apply bg-gradient-to-l from-bright to-primary md:bg-gradient-to-t md:pt-4 px-4 md:px-1 py-1 md:py-0 shrink-0; }
-	nav a { @apply relative right-2 md:right-1; }
+	nav { @apply md:flex bg-gradient-to-l from-bright to-primary pt-4 px-4 py-3 shrink-0; }
+		nav { @apply justify-between md:pt-4 md:px-3 md:py-0 md:bg-gradient-to-t; }
+	nav a { @apply relative right-1; }
 		nav a:link, nav a:visited { @apply text-black; }
 		nav a:hover, nav a:active { @apply text-black; }
 		nav .content { font-variation-settings: 'wght' 400; @apply flex font-headline justify-between text-xl md:text-2xl sticky top-2 uppercase md:[writing-mode:vertical-rl] md:[height:97vh]; }
-		nav .logo { font-variation-settings: 'wght' 400; @apply flex font-headline sticky text-xl md:text-2xl top-2 uppercase md:[writing-mode:vertical-rl]; }
-		.logo span { @apply md:relative md:-right-0.5; }
+		nav .logo { font-variation-settings: 'wght' 400; @apply flex sticky top-2 uppercase md:[writing-mode:vertical-rl]; }
 	.logo-tall { width: 24px; height: auto; @apply md:block hidden mb-2; }
 	.logo-wide { width: auto; height: 24px; @apply md:hidden mr-2; }
 
@@ -40,6 +40,7 @@
 	.book-grid { grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr)); @apply p-8 gap-8 grid; }
 
 	.book-cover { @apply drop-shadow-md rounded-3xl; }
+		.book-cover:hover { @apply scale-110 transition-transform ease-in-out duration-[430ms] -rotate-2; }
 	.book-details { @apply max-w-7xl mt-4 md:mt-8 mb-16 px-4 md:px-8; }
 	.book-details header { @apply mb-8; }
 	.book-content { @apply md:flex gap-8 md:gap-16 grid; }
