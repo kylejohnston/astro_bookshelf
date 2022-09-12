@@ -27,8 +27,8 @@
 	nav a { @apply relative right-1; }
 		nav a:link, nav a:visited { @apply text-black; }
 		nav a:hover, nav a:active { @apply text-black; }
-		nav .content { font-variation-settings: 'wght' 400; @apply flex font-headline justify-between text-xl md:text-2xl sticky top-2 uppercase md:[writing-mode:vertical-rl] md:[height:97vh]; }
-		nav .logo { font-variation-settings: 'wght' 400; @apply flex sticky top-2 uppercase md:[writing-mode:vertical-rl]; }
+		nav .content { font-variation-settings: 'wght' 400; @apply grid grid-cols-3 font-headline md:justify-between text-xl md:text-2xl sticky top-2 uppercase md:[writing-mode:vertical-rl] md:[height:97vh]; }
+		nav .logo { font-variation-settings: 'wght' 400; @apply sticky md:[writing-mode:vertical-rl]; }
 	.logo-tall { width: 24px; height: auto; @apply md:block hidden mb-2; }
 	.logo-wide { width: auto; height: 24px; @apply md:hidden mr-2; }
 
@@ -40,7 +40,7 @@
 	.book-grid { grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr)); @apply p-8 gap-8 grid; }
 
 	.book-cover { @apply drop-shadow-md rounded-3xl; }
-		.book-cover:hover { @apply scale-110 transition-transform ease-in-out duration-[430ms] -rotate-2; }
+		main .book-cover:hover { @apply scale-110 transition-transform ease-in-out duration-[430ms] -rotate-2; }
 	.book-details { @apply max-w-7xl mt-4 md:mt-8 mb-16 px-4 md:px-8; }
 	.book-details header { @apply mb-8; }
 	.book-content { @apply md:flex gap-8 md:gap-16 grid; }
