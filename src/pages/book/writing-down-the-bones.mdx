@@ -1,0 +1,30 @@
+---
+layout: ../../layouts/BookLayout.astro
+title: "Writing Down the Bones"
+author: Natalie Goldberg
+currentlyReading: false
+startDate: 
+finishDate: 2020 Dec 26
+notes: false
+coverImage: /covers/writing-down-the-bones.webp
+library: https://share.libbyapp.com/title/
+bookshelf:
+amazon:
+---
+import BuyBook from '../../components/BuyBook.astro'
+import ReadingTime from '../../components/ReadingTime.astro'
+
+<ReadingTime
+  startDate  = {frontmatter.startDate}
+  finishDate = {frontmatter.finishDate}
+/>
+
+### Description
+
+{/*### Notes & Highlights */}
+
+<BuyBook
+  library   = {frontmatter.library}
+  bookshelf = {frontmatter.bookshelf}
+  amazon    = {frontmatter.amazon}
+/>
