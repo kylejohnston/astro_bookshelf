@@ -10,8 +10,7 @@
 		--color:  #FF5500;
 		--bright: #DDFF00;
 	}
-	body { @apply
-	bg-white flex flex-col md:flex-row font-sans text-black; }
+	body { @apply bg-white flex flex-col md:flex-row font-sans text-black; }
 	h1, .headline { font-size: clamp(2.813rem, 1.108rem + 8.52vw, 7.5rem) !important; @apply font-headline uppercase leading-[85%]; }
 	h2 { font-size: clamp(1.875rem, 0.739rem + 5.68vw, 5rem) !important; @apply font-headline leading-none uppercase; }
 	h2 span { color: var(--mid); }
@@ -37,7 +36,7 @@
 	main a:link, main a:visited { color: var(--color); }
 	main a:hover, main a:active { @apply underline underline-offset-8; }
 
-	.book-grid { grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr)); @apply p-8 gap-8 grid; }
+	.book-grid { @apply p-8 gap-8 grid [grid-template-columns:repeat(auto-fill,_minmax(8.5rem,_1fr))] md:[grid-template-columns:repeat(auto-fill,_minmax(18rem,_1fr))]; }
 
 	.book-cover { @apply drop-shadow-md rounded-3xl; }
 		main .book-cover:hover { @apply scale-110 transition-transform ease-in-out duration-[430ms] -rotate-2; }
