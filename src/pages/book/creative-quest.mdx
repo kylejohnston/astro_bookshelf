@@ -1,0 +1,38 @@
+---
+layout: ../../layouts/BookLayout.astro
+title: "Creative Quest"
+author: Questlove
+currentlyReading: false
+startDate:
+finishDate: 2018 May 23
+added: 2018 May 23
+notes: false
+coverImage: /covers/creative-quest.webp
+library: https://share.libbyapp.com/title/3535686
+bookshelf: https://bookshop.org/books/creative-quest/9780062670571
+amazon: https://www.amazon.com/Creative-Quest-Questlove/dp/0062670557
+---
+import BuyBook from '../../components/BuyBook.astro'
+import ReadingTime from '../../components/ReadingTime.astro'
+
+<ReadingTime
+  startDate  = {frontmatter.startDate}
+  finishDate = {frontmatter.finishDate}
+/>
+
+### Description
+A unique new guide to creativity from Questlove - inspirations, stories, and lessons on how to live your best creative life
+
+Questlove - musician, bandleader, designer, producer, culinary entrepreneur, professor, and all-around cultural omnivore - shares his wisdom on the topics of inspiration and originality in a one-of-a-kind guide to living your best creative life.
+
+In Creative Quest, Questlove synthesizes all the creative philosophies, lessons, and stories he’s heard from the many creators and collaborators in his life, and reflects on his own experience, to advise readers and fans on how to consider creativity and where to find it. He addresses many topics - what it means to be creative, how to find a mentor and serve as an apprentice, the wisdom of maintaining a creative network, coping with critics and the foibles of success, and the specific pitfalls of contemporary culture - all in the service of guiding admirers who have followed his career and newcomers not yet acquainted with his story.
+
+Whether discussing his own life or channeling the lessons he’s learned from forefathers such as George Clinton, collaborators like D’Angelo, or like-minded artists including Ava DuVernay, David Byrne, Björk, and others, Questlove speaks with the candor and enthusiasm that fans have come to expect. Creative Quest is many things - above all, a wise and wide-ranging conversation around the eternal mystery of creativity.
+
+{/* ### Notes & Highlights */}
+
+<BuyBook
+  library   = {frontmatter.library}
+  bookshelf = {frontmatter.bookshelf}
+  amazon    = {frontmatter.amazon}
+/>
