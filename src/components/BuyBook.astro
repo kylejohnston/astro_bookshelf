@@ -3,12 +3,14 @@ export interface Props {
 	library: string;
 	bookshelf: string;
 	amazon: string;
+	other: string;
 }
 
-const { library, bookshelf, amazon } = Astro.props;
+const { library, bookshelf, amazon, other } = Astro.props;
 ---
 
 <h4 class="mt-8">Get a copy</h4>
 {library   && <p><a href={library}>Local Library</a></p> }
 {bookshelf && <p><a href={bookshelf}>Bookshelf.org</a></p> }
 {amazon    && <p><a href={amazon}>Amazon</a></p> }
+{other     && <p><a href={other}>Website</a></p> }
