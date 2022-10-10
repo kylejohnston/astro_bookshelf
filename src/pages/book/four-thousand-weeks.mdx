@@ -1,0 +1,36 @@
+---
+layout: ../../layouts/BookLayout.astro
+title: "Four Thousand Weeks. Time Management for Mortals"
+author: Oliver Burkeman
+currentlyReading: true
+startDate: 2022 Oct 09
+finishDate:
+added: 2022 Oct 09
+notes: false
+coverImage: /covers/four-thousand-weeks.webp
+library: https://share.libbyapp.com/title/5665147
+bookshelf: https://bookshop.org/books/four-thousand-weeks-time-management-for-mortals-9781250849359/9780374159122
+amazon: https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122
+---
+import BuyBook from '../../components/BuyBook.astro'
+import ReadingTime from '../../components/ReadingTime.astro'
+
+<ReadingTime
+  startDate  = {frontmatter.startDate}
+  finishDate = {frontmatter.finishDate}
+/>
+
+### Description
+The average human lifespan is absurdly, insultingly brief. Assuming you live to be eighty, you have just over four thousand weeks.
+
+Nobody needs telling there isn’t enough time. We’re obsessed with our lengthening to-do lists, our overfilled inboxes, work-life balance, and the ceaseless battle against distraction; and we’re deluged with advice on becoming more productive and efficient, and “life hacks” to optimize our days. But such techniques often end up making things worse. The sense of anxious hurry grows more intense, and still the most meaningful parts of life seem to lie just beyond the horizon. Still, we rarely make the connection between our daily struggles with time and the ultimate time management problem: the challenge of how best to use our four thousand weeks.
+
+Drawing on the insights of both ancient and contemporary philosophers, psychologists, and spiritual teachers, Oliver Burkeman delivers an entertaining, humorous, practical, and ultimately profound guide to time and time management. Rejecting the futile modern fixation on “getting everything done,” Four Thousand Weeks introduces readers to tools for constructing a meaningful life by embracing finitude, showing how many of the unhelpful ways we’ve come to think about time aren’t inescapable, unchanging truths, but choices we’ve made as individuals and as a society - and that we could do things differently.
+
+{/*### Notes & Highlights */}
+
+<BuyBook
+  library   = {frontmatter.library}
+  bookshelf = {frontmatter.bookshelf}
+  amazon    = {frontmatter.amazon}
+/>
