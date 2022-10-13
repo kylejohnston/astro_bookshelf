@@ -7,7 +7,7 @@
 		--dark:   #262321;
 		--mid:    #6F6A67;
 		--light:  #D8D6D5;
-		--color:  #FF5500;
+		--color:  #CC3000;
 		--bright: #DDFF00;
 	}
 	body { @apply bg-white flex flex-col md:flex-row font-sans text-black; }
