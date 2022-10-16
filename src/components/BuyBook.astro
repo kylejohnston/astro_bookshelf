@@ -9,7 +9,7 @@ export interface Props {
 const { library, bookshelf, amazon, other } = Astro.props;
 ---
 
-<h4 class="mt-8">Get a copy</h4>
+<h3 class="mt-8">Get a copy</h3>
 {library   && <p><a href={library}>Local Library</a></p> }
 {bookshelf && <p><a href={bookshelf}>Bookshelf.org</a></p> }
 {amazon    && <p><a href={amazon}>Amazon</a></p> }
