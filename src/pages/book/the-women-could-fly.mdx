@@ -1,0 +1,31 @@
+---
+layout: ../../layouts/BookLayout.astro
+title: ""
+author:
+currentlyReading: false
+startDate: 2022 Mar 14
+finishDate: 2022 Mar 14
+added: 2022 Mar 14
+notes: false
+coverImage: /covers/
+library: https://share.libbyapp.com/title/
+bookshelf:
+amazon:
+---
+import BuyBook from '../../components/BuyBook.astro'
+import ReadingTime from '../../components/ReadingTime.astro'
+
+<ReadingTime
+  startDate  = {frontmatter.startDate}
+  finishDate = {frontmatter.finishDate}
+/>
+
+### Description
+
+{/*### Notes & Highlights */}
+
+<BuyBook
+  library   = {frontmatter.library}
+  bookshelf = {frontmatter.bookshelf}
+  amazon    = {frontmatter.amazon}
+/>
