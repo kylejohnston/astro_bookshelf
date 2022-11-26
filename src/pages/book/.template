@@ -12,17 +12,11 @@ library: https://share.libbyapp.com/title/
 bookshelf:
 amazon:
 ---
-import BuyBook from '../../components/BuyBook.astro'
-import ReadingTime from '../../components/ReadingTime.astro'
 
-<ReadingTime
-  startDate  = {frontmatter.startDate}
-  finishDate = {frontmatter.finishDate}
-/>
 
 ### Description
 
-{/*### Notes & Highlights */}
+<!-- ### Notes & Highlights -->
 
 <BuyBook
   library   = {frontmatter.library}
