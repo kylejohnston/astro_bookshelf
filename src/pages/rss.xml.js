@@ -29,7 +29,7 @@ async function getPosts() {
       link: slug,
       title: post.frontmatter.title,
       description: post.frontmatter.description,
-      pubDate: post.frontmatter.pubDate,
+      pubDate: post.frontmatter.added,
       customData: `<content:encoded><![CDATA[${await post.compiledContent()}]]></content:encoded>`,
   };
 });
