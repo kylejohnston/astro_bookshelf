@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BookLayout.astro
-title: ""
-author:
+title: "The Martian"
+author: Andy Weir
 currentlyReading: false
 startDate:
 finishDate: 2015 Dec 26
