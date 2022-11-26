@@ -5,7 +5,7 @@ author: Daniel Mall
 currentlyReading: false
 startDate: 
 finishDate: 2016 May 15
-pubDate: 2016 May 15
+added: 2016 May 15
 notes: false
 coverImage: /covers/pricing-design.webp
 library:

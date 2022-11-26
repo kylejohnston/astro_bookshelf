@@ -5,7 +5,7 @@ author: Shep Gordon
 currentlyReading: false
 startDate: 
 finishDate: 2017 Jun 08
-pubDate: 2017 Jun 08
+added: 2017 Jun 08
 notes: false
 coverImage: /covers/they-call-me-supermensch.webp
 library: https://share.libbyapp.com/title/1903305

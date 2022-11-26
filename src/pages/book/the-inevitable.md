@@ -5,7 +5,7 @@ author: Kevin Kelly
 currentlyReading: false
 startDate: 
 finishDate: 2018 Jul 09
-pubDate: 2018 Jul 09
+added: 2018 Jul 09
 notes: false
 coverImage: /covers/the-inevitable.webp
 library: https://share.libbyapp.com/title/2462271

@@ -5,7 +5,7 @@ author: Yuval Noah Harari
 currentlyReading: false
 startDate: 
 finishDate: 2019 Sep 13
-pubDate: 2019 Sep 13
+added: 2019 Sep 13
 notes: false
 coverImage: /covers/21-lessons-for-the-21st-century.webp
 library: https://share.libbyapp.com/title/3890132

@@ -4,7 +4,7 @@ title: "Blindsight"
 author: Peter Watts
 startDate: 
 finishDate: 2020 Nov 28
-pubDate: 2020 Nov 28
+added: 2020 Nov 28
 notes: false
 coverImage: /covers/blindsight.webp
 library: https://share.libbyapp.com/title/510981

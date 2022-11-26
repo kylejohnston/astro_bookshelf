@@ -5,7 +5,7 @@ author: C.S. Lewis
 currentlyReading: false
 startDate: 
 finishDate: 2020 Sep 26
-pubDate: 2020 Sep 26
+added: 2020 Sep 26
 notes: false
 coverImage: /covers/a-grief-observed.webp
 library: https://share.libbyapp.com/title/247582

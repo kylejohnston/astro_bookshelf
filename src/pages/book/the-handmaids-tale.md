@@ -5,7 +5,7 @@ author: Margaret Atwood
 currentlyReading: false
 startDate:
 finishDate: 2017 May 25
-pubDate: 2017 May 25
+added: 2017 May 25
 notes: false
 coverImage: /covers/the-handmaids-tale.webp
 library: https://share.libbyapp.com/title/574458

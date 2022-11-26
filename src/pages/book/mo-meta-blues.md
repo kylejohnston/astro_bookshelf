@@ -5,7 +5,7 @@ author: Ahmir "Questlove" Thompson
 currentlyReading: false
 startDate: 
 finishDate: 2013 Jul 13
-pubDate: 2013 Jul 13
+added: 2013 Jul 13
 notes: false
 coverImage: /covers/mo-meta-blues.webp
 library: https://share.libbyapp.com/title/1139442

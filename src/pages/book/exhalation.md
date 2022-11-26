@@ -5,7 +5,7 @@ author: Ted Chiang
 currentlyReading: false
 startDate: 
 finishDate: 2019 Jun 22
-pubDate: 2019 Jun 22
+added: 2019 Jun 22
 notes: true
 coverImage: /covers/exhalation.webp
 library: https://share.libbyapp.com/title/4387263

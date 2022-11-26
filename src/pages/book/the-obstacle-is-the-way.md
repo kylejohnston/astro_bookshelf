@@ -5,7 +5,7 @@ author: Ryan Holiday
 currentlyReading: false
 startDate:
 finishDate: 2016 Jun 12
-pubDate: 2016 Jun 12
+added: 2016 Jun 12
 notes: false
 coverImage: /covers/the-obstacle-is-the-way.webp
 library: https://share.libbyapp.com/title/1438759

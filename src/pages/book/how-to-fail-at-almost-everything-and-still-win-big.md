@@ -5,7 +5,7 @@ author: Scott Adams
 currentlyReading: false
 startDate: 
 finishDate: 2016 Nov 08
-pubDate: 2016 Nov 08
+added: 2016 Nov 08
 notes: true
 coverImage: /covers/how-to-fail.webp
 library: https://share.libbyapp.com/title/1308871

@@ -5,7 +5,7 @@ author: Paul Kalanithi
 currentlyReading: false
 startDate: 2022 Sep 11
 finishDate: 2022 Sep 21
-pubDate: 2022 Sep 11
+added: 2022 Sep 11
 notes: true
 coverImage: /covers/when-breath-becomes-air.webp
 library: https://share.libbyapp.com/title/2302232

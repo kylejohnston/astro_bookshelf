@@ -4,7 +4,7 @@ title: "The Outlier: The Unfinished Presidency of Jimmy Carter"
 author: Kai Bird
 startDate: 2022 Jan 17
 finishDate: 2022 Feb 04
-pubDate: 2022 Feb 04
+added: 2022 Feb 04
 coverImage: /covers/outlier.webp
 library: https://share.libbyapp.com/title/5775731
 bookshelf: https://bookshop.org/books/the-outlier-the-unfinished-presidency-of-jimmy-carter/9780451495235

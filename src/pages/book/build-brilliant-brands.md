@@ -5,7 +5,7 @@ author: Facebook EMEA Client Council
 currentlyReading: false
 startDate: 
 finishDate: 2020 Oct 27
-pubDate: 2020 Oct 27
+added: 2020 Oct 27
 notes: true
 coverImage: /covers/build-brilliant-brands.webp
 library: 

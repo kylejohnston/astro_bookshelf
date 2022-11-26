@@ -4,7 +4,7 @@ title: "The Remains of the Day"
 author: Kazuo Ishiguro
 startDate:
 finishDate: 2021 May 04
-pubDate: 2021 May 04
+added: 2021 May 04
 coverImage: /covers/remains-of-the-day.webp
 library: https://share.libbyapp.com/title/356385
 bookshelf: https://bookshop.org/books/the-remains-of-the-day-9780679731726/9780679731726

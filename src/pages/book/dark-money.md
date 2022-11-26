@@ -4,7 +4,7 @@ title: "Dark Money"
 author: Jane Meyer
 startDate:
 finishDate: 2021 Dec 26
-pubDate: 2021 Dec 26
+added: 2021 Dec 26
 coverImage: /covers/dark-money.webp
 library: https://share.libbyapp.com/title/2484766
 bookshelf: https://bookshop.org/books/dark-money-the-hidden-history-of-the-billionaires-behind-the-rise-of-the-radical-right/9780307947901

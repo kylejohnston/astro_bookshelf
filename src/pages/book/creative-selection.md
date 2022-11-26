@@ -5,7 +5,7 @@ author: Ken Kocienda
 currentlyReading: false
 startDate:
 finishDate: 2020 Dec 13
-pubDate: 2020 Dec 13
+added: 2020 Dec 13
 notes: true
 coverImage: /covers/creative-selection.webp
 library:

@@ -5,7 +5,7 @@ author: Kurt Vonnegut
 currentlyReading: false
 startDate:
 finishDate: 2016 May 06
-pubDate: 2016 May 06
+added: 2016 May 06
 notes: false
 coverImage: /covers/slaughterhouse-five.webp
 library: https://share.libbyapp.com/title/260840

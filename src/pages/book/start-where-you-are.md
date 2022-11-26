@@ -5,7 +5,7 @@ author: Pema Chödrön
 currentlyReading: false
 startDate: 
 finishDate: 2020 Sep 20
-pubDate: 2020 Sep 20
+added: 2020 Sep 20
 notes: false
 coverImage: /covers/start-where-you-are.webp
 library: https://share.libbyapp.com/title/467564

@@ -5,7 +5,7 @@ author: Neal Asher
 currentlyReading: false
 startDate:
 finishDate: 2016 Nov 30
-pubDate: 2016 Nov 30
+added: 2016 Nov 30
 notes: false
 coverImage: /covers/dark-intelligence.webp
 library: https://share.libbyapp.com/title/

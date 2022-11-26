@@ -4,7 +4,7 @@ title: "Kitchen Confidential: Adventures in the Culinary Underbelly"
 author: Anthony Bourdain
 startDate:
 finishDate: 2021 Jul 24
-pubDate: 2021 Jul 24
+added: 2021 Jul 24
 notes: true
 coverImage: /covers/kitchen-confidential.webp
 library: https://share.libbyapp.com/title/456923

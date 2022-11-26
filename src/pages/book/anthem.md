@@ -4,7 +4,7 @@ title: "Anthem"
 author: Noah Hawley
 startDate: 2022 Apr 30
 finishDate: 2022 May 08
-pubDate: 2022 May 08
+added: 2022 May 08
 coverImage: /covers/anthem.webp
 library: https://share.libbyapp.com/title/7002502
 bookshelf: https://bookshop.org/books/anthem-9781538711514/9781538711514

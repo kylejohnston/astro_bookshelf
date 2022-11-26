@@ -5,7 +5,7 @@ author: Sparks & Honey
 currentlyReading: false
 startDate: 2018 Feb 14
 finishDate: 2018 Feb 14
-pubDate: 2018 Feb 14
+added: 2018 Feb 14
 notes: false
 coverImage: /covers/reinvention-in-middle-america.webp
 library: https://share.libbyapp.com/title/

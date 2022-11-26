@@ -5,7 +5,7 @@ author: Tara Westover
 currentlyReading: false
 startDate: 
 finishDate: 2020 Apr 27
-pubDate: 2020 Apr 27
+added: 2020 Apr 27
 notes: false
 coverImage: /covers/educated.webp
 library: https://share.libbyapp.com/title/3441378

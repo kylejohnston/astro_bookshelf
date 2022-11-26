@@ -5,7 +5,7 @@ author: Natalie Goldberg
 currentlyReading: false
 startDate: 
 finishDate: 2020 Dec 26
-pubDate: 2020 Dec 26
+added: 2020 Dec 26
 notes: false
 coverImage: /covers/writing-down-the-bones.webp
 library: https://share.libbyapp.com/title/467573

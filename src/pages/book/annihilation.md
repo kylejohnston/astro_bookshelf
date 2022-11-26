@@ -5,7 +5,7 @@ author: Jeff VanderMeer
 currentlyReading: false
 startDate: 
 finishDate: 2020 Feb 15
-pubDate: 2020 Feb 15
+added: 2020 Feb 15
 notes: false
 coverImage: /covers/annihilation.webp
 library: https://share.libbyapp.com/title/1377954

@@ -4,7 +4,7 @@ title: "The Dawn of Everything: A New History of Humanity"
 author: David Graeber and David Wengrow
 startDate: 2022 Feb 03
 finishDate: 2022 Feb 22
-pubDate: 2022 Feb 22
+added: 2022 Feb 22
 coverImage: /covers/dawn-of-everything.webp
 library: https://share.libbyapp.com/title/5982188
 bookshelf: https://bookshop.org/books/the-dawn-of-everything-a-new-history-of-humanity/9780374157357

@@ -4,7 +4,7 @@ title: "Rosemary's Baby"
 author: Ira Levin
 startDate: 2022 May 15
 finishDate: 2022 May 22
-pubDate: 2022 May 22
+added: 2022 May 22
 coverImage: /covers/rosmarys-baby.webp
 library: https://share.libbyapp.com/title/3043791
 bookshelf: https://bookshop.org/books/rosemarys-baby/9788711834404

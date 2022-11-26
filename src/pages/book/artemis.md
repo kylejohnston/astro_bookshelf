@@ -5,7 +5,7 @@ author: Andy Weir
 currentlyReading: false
 startDate: 
 finishDate: 2019 Mar 03
-pubDate: 2019 Mar 03
+added: 2019 Mar 03
 notes: false
 coverImage: /covers/artemis.webp
 library: https://share.libbyapp.com/title/3280473

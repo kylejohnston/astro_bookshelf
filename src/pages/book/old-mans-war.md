@@ -4,7 +4,7 @@ title: "Old Man's War"
 author: John Scalzi
 startDate: 2022 Jul 19
 finishDate: 2022 Jul 30
-pubDate: 2022 Jul 30
+added: 2022 Jul 30
 coverImage: /covers/old-mans-war.webp
 library: https://share.libbyapp.com/title/512970
 bookshelf: https://bookshop.org/books/old-man-s-war/9780765348272

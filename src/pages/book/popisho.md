@@ -5,7 +5,7 @@ author: Leone Ross
 currentlyReading: 
 startDate: 2022 Oct 16
 finishDate: 2022 Nov 04
-pubDate: 2022 Oct 16
+added: 2022 Oct 16
 notes: true
 coverImage: /covers/popisho.webp
 library: https://share.libbyapp.com/title/5460586

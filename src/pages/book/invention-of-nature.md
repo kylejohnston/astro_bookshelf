@@ -4,7 +4,7 @@ title: "The Invention of Nature: Alexander Von Humboldt's New World"
 author: Andrea Wulf
 startDate: 2022 Aug 04
 finishDate: 2022 Aug 24
-pubDate: 2022 Aug 24
+added: 2022 Aug 24
 notes: true
 coverImage: /covers/invention-of-nature.webp
 library: https://share.libbyapp.com/title/2144442

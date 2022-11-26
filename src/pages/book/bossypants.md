@@ -5,7 +5,7 @@ author: Tina Fey
 currentlyReading: false
 startDate: 
 finishDate: 2018 Jun 17
-pubDate: 2018 Jun 17
+added: 2018 Jun 17
 notes: true
 coverImage: /covers/bossypants.webp
 library: https://share.libbyapp.com/title/465826

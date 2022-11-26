@@ -5,7 +5,7 @@ author: Kip Thorne
 currentlyReading: false
 startDate: 
 finishDate: 2018 Sep 25
-pubDate: 2018 Sep 25
+added: 2018 Sep 25
 notes: false
 coverImage: /covers/the-science-of-interstellar.webp
 library: https://share.libbyapp.com/title/2101702

@@ -5,7 +5,7 @@ author: Cornel West
 currentlyReading: false
 startDate: 
 finishDate: 2020 Jun 21
-pubDate: 2020 Jun 21
+added: 2020 Jun 21
 notes: true
 coverImage: /covers/race-matters.webp
 library: https://share.libbyapp.com/title/3369024

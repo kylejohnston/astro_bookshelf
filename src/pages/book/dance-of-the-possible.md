@@ -5,7 +5,7 @@ author: Scott Berkun
 currentlyReading: false
 startDate:
 finishDate: 2018 Apr 28
-pubDate: 2018 Apr 28
+added: 2018 Apr 28
 notes: true
 coverImage: /covers/dance-of-the-possible.webp
 library: 

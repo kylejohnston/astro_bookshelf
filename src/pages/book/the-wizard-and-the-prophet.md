@@ -5,7 +5,7 @@ author: Charles C. Mann
 currentlyReading: false
 startDate: 
 finishDate: 2019 Feb 20
-pubDate: 2019 Feb 20
+added: 2019 Feb 20
 notes: false
 coverImage: /covers/wizard-and-prophet.webp
 library: https://share.libbyapp.com/title/3348968

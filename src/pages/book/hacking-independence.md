@@ -5,7 +5,7 @@ author: And Co.
 currentlyReading: false
 startDate: 
 finishDate: 2018 Jan 05
-pubDate: 2018 Jan 05
+added: 2018 Jan 05
 notes: false
 coverImage: /covers/hacking-independence.webp
 library: 

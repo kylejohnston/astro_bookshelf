@@ -5,7 +5,7 @@ author: Ben Lerner
 currentlyReading: false
 startDate: 
 finishDate: 2020 Jun 13
-pubDate: 2020 Jun 13
+added: 2020 Jun 13
 notes: false
 coverImage: /covers/topeka-school.webp
 library: https://share.libbyapp.com/title/4538761

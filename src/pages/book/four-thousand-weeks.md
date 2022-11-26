@@ -5,7 +5,7 @@ author: Oliver Burkeman
 currentlyReading: false
 startDate: 2022 Oct 09
 finishDate: 2022 Oct 15
-pubDate: 2022 Oct 09
+added: 2022 Oct 09
 notes: true
 coverImage: /covers/four-thousand-weeks.webp
 library: https://share.libbyapp.com/title/5665147

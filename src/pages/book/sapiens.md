@@ -5,7 +5,7 @@ author: Yuval Noah Harari
 currentlyReading: false
 startDate: 
 finishDate: 2016 Dec 14
-pubDate: 2016 Dec 14
+added: 2016 Dec 14
 notes: false
 coverImage: /covers/sapiens.webp
 library: https://share.libbyapp.com/title/1553018

@@ -4,7 +4,7 @@ title: "The Mindbody Prescription"
 author: John E. Sarno, M.D.
 startDate:
 finishDate: 2021 Oct 23
-pubDate: 2021 Oct 23
+added: 2021 Oct 23
 coverImage: /covers/mindbody-prescription.webp
 library: https://share.libbyapp.com/title/500
 bookshelf: https://bookshop.org/books/the-mindbody-prescription-healing-the-body-healing-the-pain/9780446675154

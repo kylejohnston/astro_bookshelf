@@ -5,7 +5,7 @@ author: Rudyard Kipling
 currentlyReading: false
 startDate:
 finishDate: 2018 Sep 02
-pubDate: 2018 Sep 02
+added: 2018 Sep 02
 notes: false
 coverImage: /covers/the-jungle-book.webp
 library: https://share.libbyapp.com/title/432638

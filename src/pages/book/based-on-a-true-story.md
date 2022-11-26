@@ -5,7 +5,7 @@ author: Norm Macdonald
 currentlyReading:
 startDate: 2022 Nov 04
 finishDate: 2022 Nov 12
-pubDate: 2022 Nov 04
+added: 2022 Nov 04
 notes: true
 coverImage: /covers/based-on-a-true-story.webp
 library: https://share.libbyapp.com/title/https://share.libbyapp.com/title/2637556

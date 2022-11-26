@@ -4,7 +4,7 @@ title: "Hummingbird Salamander"
 author: Jeff VanderMeer
 startDate:
 finishDate: 2021 Oct 14
-pubDate: 2021 Oct 14
+added: 2021 Oct 14
 coverImage: /covers/hummingbird-salamander.webp
 library: https://share.libbyapp.com/title/5460515
 bookshelf: https://bookshop.org/books/hummingbird-salamander-9781250829771/9781250829771

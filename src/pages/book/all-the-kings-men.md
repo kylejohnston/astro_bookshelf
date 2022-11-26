@@ -5,7 +5,7 @@ author: Robert Penn Warren
 currentlyReading: false
 startDate:
 finishDate: 2018 Jul 24
-pubDate: 2018 Jul 24
+added: 2018 Jul 24
 notes: false
 coverImage: /covers/all-the-kings-men.webp
 library: https://share.libbyapp.com/title/1546050

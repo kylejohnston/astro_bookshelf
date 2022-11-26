@@ -5,7 +5,7 @@ author: Umberto Eco
 currentlyReading: true
 startDate: 2022 Nov 25
 finishDate: 
-pubDate: 2022 Nov 25
+added: 2022 Nov 25
 notes: false
 coverImage: /covers/foucaults-pendulum.webp
 library: https://share.libbyapp.com/title/573552

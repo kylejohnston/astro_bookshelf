@@ -5,7 +5,7 @@ author: Molly Bang
 currentlyReading: false
 startDate: 
 finishDate: 2018 Jul 14
-pubDate: 2018 Jul 14
+added: 2018 Jul 14
 notes: false
 coverImage: /covers/picture-this.webp
 library:

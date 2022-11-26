@@ -4,7 +4,7 @@ title: "The Power"
 author: Naomi Alderman
 startDate:
 finishDate: 2021 Apr 18
-pubDate: 2021 Apr 18
+added: 2021 Apr 18
 coverImage: /covers/the-power.webp
 library: https://share.libbyapp.com/title/3081674
 bookshelf: https://bookshop.org/books/the-power/9780316547604

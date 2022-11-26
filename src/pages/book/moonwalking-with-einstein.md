@@ -5,7 +5,7 @@ author: Joshua Foer
 currentlyReading: false
 startDate: 
 finishDate: 2019 Jun 14
-pubDate: 2019 Jun 14
+added: 2019 Jun 14
 notes: false
 coverImage: /covers/moonwalking-with-einstein.webp
 library: https://share.libbyapp.com/title/584477

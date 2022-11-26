@@ -5,7 +5,7 @@ author: Cormac McCarthy
 currentlyReading: false
 startDate: 
 finishDate: 2020 Mar 07
-pubDate: 2020 Mar 07
+added: 2020 Mar 07
 notes: false
 coverImage: /covers/blood-meridian.webp
 library: https://share.libbyapp.com/title/392199

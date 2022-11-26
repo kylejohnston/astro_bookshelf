@@ -5,7 +5,7 @@ author: Malcolm Gladwell
 currentlyReading: false
 startDate: 
 finishDate: 2020 Oct 06
-pubDate: 2020 Oct 06
+added: 2020 Oct 06
 notes: false
 coverImage: /covers/talking-to-strangers.webp
 library: https://share.libbyapp.com/title/4570668

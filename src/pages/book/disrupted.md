@@ -5,7 +5,7 @@ author: Dan Lyons
 currentlyReading: false
 startDate: 
 finishDate: 2019 Jul 31
-pubDate: 2019 Jul 31
+added: 2019 Jul 31
 notes: false
 coverImage: /covers/disrupted.webp
 library: https://share.libbyapp.com/title/2335575

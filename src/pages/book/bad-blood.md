@@ -5,7 +5,7 @@ author: John Carreyrou
 currentlyReading: false
 startDate: 
 finishDate: 2018 Sep 08
-pubDate: 2018 Sep 08
+added: 2018 Sep 08
 notes: false
 coverImage: /covers/bad-blood.webp
 library: https://share.libbyapp.com/title/3912688

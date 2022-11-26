@@ -5,7 +5,7 @@ author: Jaron Lanier
 currentlyReading: false
 startDate: 
 finishDate: 2020 Oct 17
-pubDate: 2020 Oct 17
+added: 2020 Oct 17
 notes: false
 coverImage: /covers/ten-arguments.webp
 library: https://share.libbyapp.com/title/3779021

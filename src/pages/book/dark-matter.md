@@ -5,7 +5,7 @@ author: Blake Crouch
 currentlyReading: false
 startDate: 
 finishDate: 2019 Sep 21
-pubDate: 2019 Sep 21
+added: 2019 Sep 21
 notes: false
 coverImage: /covers/dark-matter.webp
 library: https://share.libbyapp.com/title/2575561

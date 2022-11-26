@@ -5,7 +5,7 @@ author: Haruki Murakami
 currentlyReading: false
 startDate: 
 finishDate: 2019 Aug 22
-pubDate: 2019 Aug 22
+added: 2019 Aug 22
 notes: false
 coverImage: /covers/colorless-tsukuru-tazaki.webp
 library: https://share.libbyapp.com/title/1556607

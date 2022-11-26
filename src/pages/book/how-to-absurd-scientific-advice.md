@@ -5,7 +5,7 @@ author: Randall Munroe
 currentlyReading: false
 startDate: 
 finishDate: 2020 Jul 21
-pubDate: 2020 Jul 21
+added: 2020 Jul 21
 notes: false
 coverImage: /covers/how-to.webp
 library: https://share.libbyapp.com/title/4562535

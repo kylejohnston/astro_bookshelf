@@ -5,7 +5,7 @@ author: F. Scott Fitzgerald
 currentlyReading: false
 startDate: 
 finishDate: 2013 Sep 02
-pubDate: 2013 Sep 02
+added: 2013 Sep 02
 notes: false
 coverImage: /covers/curious-case-of-benjamin-button.webp
 library: https://share.libbyapp.com/title/784928

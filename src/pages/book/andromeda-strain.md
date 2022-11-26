@@ -5,7 +5,7 @@ author: Michael Crichton
 currentlyReading: false
 startDate: 
 finishDate: 2019 Sep 25
-pubDate: 2019 Sep 25
+added: 2019 Sep 25
 notes: false
 coverImage: /covers/the-andromeda-strain.webp
 library: https://share.libbyapp.com/title/871134
