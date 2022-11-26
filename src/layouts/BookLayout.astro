@@ -24,6 +24,7 @@ const { title, description, author, coverImage, permalink, library, bookshelf, a
         <main>
           <section>
             <ReadingTime {startDate} {finishDate} />
+            <h3>Description</h3>
             <slot />
             <BuyBook {library} {bookshelf} {amazon} {other} />
           </section>
