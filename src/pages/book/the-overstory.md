@@ -18,4 +18,4 @@ The Overstory, winner of the 2019 Pulitzer Prize in Fiction, is a sweeping, impa
 
 ### Notes & Highlights
 > A glance down at his handwritten notes. On cue, words boxed in red swim up from the clairvoyant past to the forgetful future. Adam has delivered the line before, for several years running in this survey course, but their full sense has waited for now. He pushes his rimless glasses back up the slope of his sweating nose and shakes his head at the packed hall. What a lesson these students will leave with today.  
-> “You can’t see what you don’t understand. But what you think you already understand, you’ll fail to notice.”  
+> **“You can’t see what you don’t understand. But what you think you already understand, you’ll fail to notice.”**  
