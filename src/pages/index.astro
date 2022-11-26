@@ -14,7 +14,7 @@ let permalink = 'https://bookshelf.kylewjohnston.com/';
 
 // Data Fetching: List all Markdown posts in the repo.
 
-let allPosts = await Astro.glob('./book/*.mdx');
+let allPosts = await Astro.glob('./book/*.md');
 allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.added).valueOf() - new Date(a.frontmatter.added).valueOf());
 
 // Full Astro Component Syntax:
