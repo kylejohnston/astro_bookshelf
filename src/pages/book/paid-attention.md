@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/paid-attention-innovative-advertising-for-
 amazon: https://www.amazon.com/Paid-Attention-Innovative-Advertising-Digital/dp/0749473606
 ---
 
-### Description
 The advertising attention marketplace is a confusing and vast playing field where the rules have changed drastically over the last decade. Make yourself heard and win the attention of your target audience with the new edition of this ultimate guide.
 
 Paid Attention delivers new and innovative insights into advertising ideas: what they are, why they are evolving and how to use them in day to day strategy to ensure commercial stability within a changing digital landscape. Packed with real-world examples of advertising campaigns such as Google, Sony and Old Spice, it provides a robust model for influencing human behaviour and toolkits that offer best practice on brand behaviour and effective communication.

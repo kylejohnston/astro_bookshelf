@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/how-google-works-9781455582327/97814555823
 amazon: https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328
 ---
 
-### Description
 Google Executive Chairman and ex-CEO Eric Schmidt and former SVP of Products Jonathan Rosenberg came to Google over a decade ago as proven technology executives. At the time, the company was already well-known for doing things differently, reflecting the visionary-and frequently contrarian-principles of founders Larry Page and Sergey Brin. If Eric and Jonathan were going to succeed, they realized they would have to relearn everything they thought they knew about management and business.
 
 Today, Google is a global icon that regularly pushes the boundaries of innovation in a variety of fields. How Google Works is an entertaining, page-turning primer containing lessons that Eric and Jonathan learned as they helped build the company. The authors explain how technology has shifted the balance of power from companies to consumers, and that the only way to succeed in this ever-changing landscape is to create superior products and attract a new breed of multifaceted employees whom Eric and Jonathan dub “smart creatives.”

@@ -12,7 +12,6 @@ bookshelf: https://bookshop.org/books/american-prometheus-the-triumph-and-traged
 amazon: https://www.amazon.com/American-Prometheus-Triumph-Tragedy-Oppenheimer/dp/0375726268
 ---
 
-### Description
 In this magisterial, acclaimed biography twenty-five years in the making, Kai Bird and Martin Sherwin capture Oppenheimer's life and times, from his early career to his central role in the Cold War. This is biography and history at its finest, riveting and deeply informative.
 
 ### Notes & Highlights

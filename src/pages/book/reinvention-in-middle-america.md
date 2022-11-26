@@ -13,7 +13,6 @@ bookshelf:
 amazon:
 ---
 
-### Description
 Looking past the stale clichés about the heartland, this report spotlights how cities from Cleveland to Columbus to Nashville are reinventing themselves and embracing innovation. From manufacturing and urban design, to healthcare and clean energy, Middle America is solving problems affecting the entire country. The growing critiques toxic elements in Silicon Valley highlight the lessons to be learned from Middle America. The future depends on it.
 
 <!-- ### Notes & Highlights -->

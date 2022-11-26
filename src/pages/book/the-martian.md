@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/the-martian/9780553418026
 amazon: https://www.amazon.com/Martian-Novel-Andy-Weir/dp/0804139024
 ---
 
-### Description
 Six days ago, astronaut Mark Watney became one of the first people to walk on Mars.
 
 Now, he’s sure he’ll be the first person to die there.

@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/the-undoing-project-a-friendship-that-chan
 amazon: https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593
 ---
 
-### Description
 Forty years ago, Israeli psychologists Daniel Kahneman and Amos Tversky wrote a series of breathtakingly original papers that invented the field of behavioral economics. One of the greatest partnerships in the history of science, Kahneman and Tversky’s extraordinary friendship incited a revolution in Big Data studies, advanced evidence-based medicine, led to a new approach to government regulation, and made much of Michael Lewis’s own work possible. In The Undoing Project, Lewis shows how their Nobel Prize - winning theory of the mind altered our perception of reality.
 
 <!-- ### Notes & Highlights -->

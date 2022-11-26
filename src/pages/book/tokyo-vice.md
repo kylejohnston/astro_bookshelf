@@ -12,7 +12,6 @@ bookshelf: https://bookshop.org/books/tokyo-vice-an-american-reporter-on-the-pol
 amazon: https://www.amazon.com/Tokyo-Vice-Jake-Adelstein-audiobook/dp/B002TNABR8/
 ---
 
-### Description
 Jake Adelstein is the only American journalist ever to have been admitted to the insular Tokyo Metropolitan Police Press Club, where for twelve years he covered the dark side of Japan: extortion, murder, human trafficking, fiscal corruption, and of course, the yakuza. But when his final scoop exposed a scandal that reverberated all the way from the neon soaked streets of Tokyo to the polished Halls of the FBI and resulted in a death threat for him and his family, Adelstein decided to step down. Then, he fought back.
 
 In Tokyo Vice he delivers an unprecedented look at Japanese culture and searing memoir about his rise from cub reporter to seasoned journalist with a price on his head.

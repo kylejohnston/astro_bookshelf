@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/hatching-twitter-a-true-story-of-money-pow
 amazon: https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal/dp/1591847087
 ---
 
-### Description
 The dramatic, unlikely story behind the founding of Twitter, by New York Times bestselling author and Vanity Fair special correspondent
 
 The San Francisco-based technology company Twitter has become a powerful force in less than ten years. Today it’s everything from a tool for fighting political oppression in the Middle East to a marketing must-have to the world’s living room during live TV events to President Trump’s preferred method of communication. It has hundreds of millions of active users all over the world.

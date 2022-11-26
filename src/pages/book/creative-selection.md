@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/creative-selection-inside-apple-s-design-p
 amazon: https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466
 ---
 
-### Description
 Hundreds of millions of people use Apple products every day; several thousand work on Apple's campus in Cupertino, California; but only a handful sit at the drawing board. Creative Selection recounts the life of one of the few who worked behind the scenes, a highly-respected software engineer who worked in the final years of the Steve Jobs era--the Golden Age of Apple.
 
 Ken Kocienda offers an inside look at Apple's creative process. For fifteen years, he was on the ground floor of the company as a specialist, directly responsible for experimenting with novel user interface concepts and writing powerful, easy-to-use software for products including the iPhone, the iPad, and the Safari web browser. His stories explain the symbiotic relationship between software and product development for those who have never dreamed of programming a computer, and reveal what it was like to work on the cutting edge of technology at one of the world's most admired companies.

@@ -11,7 +11,6 @@ bookshelf: https://bookshop.org/books/axiom-s-end-9781250798138/9781250798138
 amazon: https://www.amazon.com/Axioms-End-A-Novel/dp/B082VK6CLT/
 ---
 
-### Description
 Truth is a human right.
 
 It’s fall 2007. A well-timed leak has revealed that the US government might have engaged in first contact. Cora Sabino is doing everything she can to avoid the whole mess, since the force driving the controversy is her whistleblower father. Even though Cora hasn’t spoken to him in years, his celebrity has caught the attention of the press, the Internet, the paparazzi, and the government - and with him in hiding, that attention is on her. She neither knows nor cares whether her father’s leaks are a hoax, and wants nothing to do with him - until she learns just how deeply entrenched her family is in the cover-up, and that an extraterrestrial presence has been on Earth for decades.

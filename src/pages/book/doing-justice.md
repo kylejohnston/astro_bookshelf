@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/doing-justice-a-prosecutor-s-thoughts-on-c
 amazon: https://www.amazon.com/Doing-Justice-Prosecutors-Thoughts-Punishment/dp/0525521127
 ---
 
-### Description
 An important overview of the way our justice system works, and why the rule of law is essential to our survival as a society - from the one-time federal prosecutor for the Southern District of New York, and host of the Doing Justice podcast.
 
 Preet Bharara has spent much of his life examining our legal system, pushing to make it better, and prosecuting those looking to subvert it. Bharara believes in our system and knows it must be protected, but to do so, he argues, we must also acknowledge and allow for flaws both in our justice system and in human nature.

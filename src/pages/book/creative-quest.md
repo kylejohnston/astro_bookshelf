@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/creative-quest/9780062670571
 amazon: https://www.amazon.com/Creative-Quest-Questlove/dp/0062670557
 ---
 
-### Description
 A unique new guide to creativity from Questlove - inspirations, stories, and lessons on how to live your best creative life
 
 Questlove - musician, bandleader, designer, producer, culinary entrepreneur, professor, and all-around cultural omnivore - shares his wisdom on the topics of inspiration and originality in a one-of-a-kind guide to living your best creative life.

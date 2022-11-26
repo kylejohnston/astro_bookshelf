@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/misbehaving-the-making-of-behavioral-econo
 amazon: https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler/dp/039335279X
 ---
 
-### Description
 Get ready to change the way you think about economics.
 
 Nobel laureate Richard H. Thaler has spent his career studying the radical notion that the central agents in the economy are humans - predictable, error-prone individuals. Misbehaving is his arresting, frequently hilarious account of the struggle to bring an academic discipline back down to earth - and change the way we think about economics, ourselves, and our world.

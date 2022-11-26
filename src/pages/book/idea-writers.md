@@ -13,7 +13,6 @@ bookshelf:
 amazon: https://www.amazon.com/Idea-Writers-Copywriting-Media-Marketing/dp/0230613888
 ---
 
-### Description
 This book is a must read for any copywriter and anyone looking to understand the new realities of the brand creativity business.
 
 A memorable slogan has been the cornerstone of every great ad campaign. In the past, writing one great headline could launch a career. But today's advertising campaigns are interactive, multi-platform and ongoing, and the copywriter's canvas is vast. At any given time, a copywriter may be conceiving a video game, writing a TV show, maintaining a Twitter feed, creating a mobile app or an interactive installation or, yes, writing a headline or a TV script.

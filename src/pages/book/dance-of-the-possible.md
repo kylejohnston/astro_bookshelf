@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/the-dance-of-the-possible-the-mostly-hones
 amazon: https://www.amazon.com/Dance-Possible-completely-irreverent-creativity/dp/0983873143
 ---
 
-### Description
 The powers of creative thinking can be yours if you're willing to laugh and learn in this concise, cliche free, fun and memorable short book. With challenging chapters on topics like creative confidence, making bold decisions, and separating the need for feedback from the desire for encouragement, even if you've read other books on the subject or if this is your first, The Dance of The Possible will surprise you, make you think, laugh and perhaps even dance when you get back to work.
 
 ### Notes & Highlights

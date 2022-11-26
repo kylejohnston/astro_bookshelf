@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/popisho-9781250829634/9780374602451
 amazon: https://www.amazon.com/Popisho-Novel-Leone-Ross/dp/037460245X
 ---
 
-### Description
 Everyone in Popisho was born with a little something-something, boy, a little something extra. The local name was cors. Magic, but more than magic. A gift, nah? Yes. From the gods: a thing so inexpressibly your own.
 
 Somewhere far away—or maybe right nearby—lies an archipelago called Popisho. A place of stunning beauty and incorrigible mischief, destiny and mystery, it is also a place in need of change.

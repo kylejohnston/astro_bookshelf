@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/dark-matter-9781410491459/9781101904244
 amazon: https://www.amazon.com/Dark-Matter-Novel-Blake-Crouch/dp/1101904240
 ---
 
-### Description
 “Are you happy with your life?” 
 
 Those are the last words Jason Dessen hears before the masked abductor knocks him unconscious.

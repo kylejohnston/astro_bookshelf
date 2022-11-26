@@ -13,7 +13,6 @@ bookshelf:
 amazon: https://www.amazon.com/Dark-Matter-Trojan-Horses-Vocabulary/dp/0992914639
 ---
 
-### Description
 In this short book, Dan Hill outlines a new vocabulary of design, one that needs to be smuggled into the upper echelons of power. He asserts that, increasingly, effective design means engaging with the messy politics - the dark matter" - taking place above the designer's head."
 
 ### Notes & Highlights

@@ -11,7 +11,6 @@ bookshelf: https://bookshop.org/books/the-outlier-the-unfinished-presidency-of-j
 amazon: https://www.amazon.com/Outlier-Unfinished-Presidency-Jimmy-Carter/dp/0451495233
 ---
 
-### Description
 An essential re-evaluation of the complex triumphs and tragedies of Jimmy Carter's presidential legacy--from the expert biographer and Pulitzer Prize-winning co-author of American Prometheus
 
 Four decades after Ronald Reagan's landslide win in 1980, Jimmy Carter's one-term presidency is often labeled a failure; indeed, many Americans view Carter as the only ex-president to have used the White House as a stepping-stone to greater achievements. But in retrospect the Carter political odyssey is a rich and human story, marked by both formidable accomplishments and painful political adversity. In this deeply researched, brilliantly written account, Pulitzer Prize-winning biographer Kai Bird deftly unfolds the Carter saga as a tragic tipping point in American history.

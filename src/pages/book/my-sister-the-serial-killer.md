@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/my-sister-the-serial-killer/9780525564201
 amazon: https://www.amazon.com/My-Sister-Serial-Killer-Novel/dp/0385544235
 ---
 
-### Description
 Korede’s sister Ayoola is many things: the favorite child, the beautiful one, possibly sociopathic. And now Ayoola’s third boyfriend in a row is dead, stabbed through the heart with Ayoola’s knife.
 
 Korede’s practicality is the sisters’ saving grace. She knows the best solutions for cleaning blood (bleach, bleach, and more bleach), the best way to move a body (wrap it in sheets like a mummy), and she keeps Ayoola from posting pictures to Instagram when she should be mourning her “missing” boyfriend. Not that she gets any credit.

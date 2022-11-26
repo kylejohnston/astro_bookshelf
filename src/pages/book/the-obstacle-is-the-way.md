@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/the-obstacle-is-the-way-the-timeless-art-o
 amazon: https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358
 ---
 
-### Description
 The Obstacle is the Way has become a cult classic, beloved by men and women around the world who apply its wisdom to become more successful at whatever they do.
 
 The book draws its inspiration from stoicism, the ancient Greek philosophy of enduring pain or adversity with perseverance and resilience. Stoics focus on the things they can control, let go of everything else, and turn every new obstacle into an opportunity to get better, stronger, tougher. As Marcus Aurelius put it nearly 2000 years ago: “The impediment to action advances action. What stands in the way becomes the way.” 

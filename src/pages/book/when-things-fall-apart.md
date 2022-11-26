@@ -12,7 +12,6 @@ bookshelf: https://bookshop.org/books/when-things-fall-apart-heart-advice-for-di
 amazon: https://www.amazon.com/When-Things-Fall-Apart-Difficult/dp/1570621608/
 ---
 
-### Description
 The beautiful practicality of her teaching has made Pema Chödrön one of the most beloved of contemporary American spiritual authors among Buddhists and non-Buddhists alike. A collection of talks she gave between 1987 and 1994, the book is a treasury of wisdom for going on living when we are overcome by pain and difficulties. Chödrön discusses:
 
 * Using painful emotions to cultivate wisdom, compassion, and courage

@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/junior-writing-your-way-ahead-in-advertisi
 amazon: https://www.amazon.com/Junior-Writing-Your-Ahead-Advertising/dp/1576879127
 ---
 
-### Description
 There are a lot of great advertising books, but none that get down in the dirt with you quite like this one. Thomas Kemeny made a career at some of the best ad agencies in America. In this book he shows how he got in, how he's stayed in, and how you can do it too. He breaks apart how to write fun, smart, and effective copy-everything from headlines to scripts to experiential activations-giving readers a lesson on a language we all thought we already knew.
 
 This book is not a retrospective from some ad legend. It's a book that should be instantly useful for people starting out. A guide for the first few years at a place you'd actually want to work.

@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/they-call-me-supermensch-a-backstage-pass-
 amazon: https://www.amazon.com/They-Call-Supermensch-Backstage-RocknRoll-ebook/dp/B00MMFN8QY
 ---
 
-### Description
 An eye-popping peek into entertainment industry from the magnetic force who has worked with an impeccable roster of stars throughout his storied career.
 
 In the course of his legendary career as a manager, agent, and producer, Shep Gordon has worked with, and befriended, some of the biggest names in the entertainment industry, from Alice Cooper to Bette Davis, Raquel Welch to Groucho Marx, Blondie to Jimi Hendrix, Sylvester Stallone to Salvador Dali, Luther Vandross to Teddy Pendergrass. He is also credited with inventing the “celebrity chef,” and has worked with Nobu Matsuhisa, Emeril Lagasse, Wolfgang Puck, Roger Vergé, and many others, including his holiness the Dalai Lama.

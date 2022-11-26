@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/mademoiselle-coco-chanel-and-the-pulse-of-
 amazon: https://www.amazon.com/Mademoiselle-Coco-Chanel-Pulse-History/dp/0812981855
 ---
 
-### Description
 Certain lives are at once so exceptional, and yet so in step with their historical moments, that they illuminate cultural forces far beyond the scope of a single person. Such is the case with Coco Chanel, whose life offers one of the most fascinating tales of the twentieth century - throwing into dramatic relief an era of war, fashion, ardent nationalism, and earth-shaking change - here brilliantly treated, for the first time, with wide-ranging and incisive historical scrutiny.
 
 Coco Chanel transformed forever the way women dressed. Her influence remains so pervasive that to this day we can see her afterimage a dozen times while just walking down a single street: in all the little black dresses, flat shoes, costume jewelry, cardigan sweaters, and tortoiseshell eyeglasses on women of every age and background. A bottle of Chanel No. 5 perfume is sold every three seconds. Arguably, no other individual has had a deeper impact on the visual aesthetic of the world. But how did a poor orphan become a global icon of both luxury and everyday style? How did she develop such vast, undying influence? And what does our ongoing love of all things Chanel tell us about ourselves? These are the mysteries that Rhonda K. Garelick unravels in Mademoiselle.

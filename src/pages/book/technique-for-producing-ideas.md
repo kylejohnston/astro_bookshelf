@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/a-technique-for-producing-ideas-a-techniqu
 amazon: https://www.amazon.com/Technique-Producing-Advertising-Classics-Library/dp/0071410945
 ---
 
-### Description
 Since its publication in 1965, A Technique for Producing Ideas has helped thousands of advertising copywriters smash through internal barriers to unleash their creativity. Professionals from poets and painters to scientists and engineers have also used the techniques in this concise, powerful book to generate exciting ideas on demand, at any time, on any subject. Now let James Webb Young's unique insights help you look inside yourself to find that big, elusive idea--and once and for all lift the veil of mystery from the creative process.
 
 ### Notes & Highlights

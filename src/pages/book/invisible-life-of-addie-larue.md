@@ -12,7 +12,6 @@ bookshelf: https://bookshop.org/books/the-invisible-life-of-addie-larue-97807653
 amazon: https://www.amazon.com/Invisible-Life-Addie-LaRue/dp/B0844PWK76/
 ---
 
-### Description
 France, 1714: in a moment of desperation, a young woman makes a Faustian bargain to live forever - and is cursed to be forgotten by everyone she meets.
 
 Thus begins the extraordinary life of Addie LaRue, and a dazzling adventure that will play out across centuries and continents, across history and art, as a young woman learns how far she will go to leave her mark on the world.

@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/race-matters-25th-anniversary-with-a-new-i
 amazon: https://www.amazon.com/Race-Matters-25th-Anniversary-Introduction/dp/0807008834
 ---
 
-### Description
 First published in 1993, on the one-year anniversary of the Los Angeles riots, Race Matters became a national best seller that has gone on to sell more than half a million copies. This classic treatise on race contains Dr. West’s most incisive essays on the issues relevant to black Americans, including the crisis in leadership in the Black community, Black conservatism, Black-Jewish relations, myths about Black sexuality, and the legacy of Malcolm X. The insights Dr. West brings to these complex problems remain relevant, provocative, creative, and compassionate.
 
 In a new introduction for the twenty-fifth-anniversary edition, Dr. West argues that we are in the midst of a spiritual blackout characterized by imperial decline, racial animosity, and unchecked brutality and terror as seen in Baltimore, Ferguson, and Charlottesville. Calling for a moral and spiritual awakening, Dr. West finds hope in the collective and visionary resistance exemplified by the Movement for Black Lives, Standing Rock, and the Black freedom tradition.

@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/blood-meridian-or-the-evening-redness-in-t
 amazon: https://www.amazon.com/Blood-Meridian-Evening-Redness-West/dp/0679728759
 ---
 
-### Description
 Based on historical events that took place on the Texas-Mexico border in the 1850s, it traces the fortunes of the Kid, a fourteen-year-old Tennesseean who stumbles into the nightmarish world where Indians are being murdered and the market for their scalps is thriving.
 
 <!-- ### Notes & Highlights -->

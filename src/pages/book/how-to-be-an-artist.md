@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/how-to-be-an-artist/9780593086469
 amazon: https://www.amazon.com/How-Be-Artist-Jerry-Saltz/dp/0593086465
 ---
 
-### Description
 Art has the power to change our lives. For many, becoming an artist is a lifelong dream. But how to make it happen? In How to Be an Artist, Jerry Saltz, one of the art world’s most celebrated and passionate voices, offers an indispensable handbook for creative people of all kinds.
 
 From the first sparks of inspiration - and how to pursue them without giving in to self-doubt - Saltz offers invaluable insight into what really matters to emerging artists: originality, persistence, a balance between knowledge and intuition, and that most precious of qualities, self-belief. Brimming with rules, prompts, and practical tips, How to Be an Artist gives artists new ways to break through creative blocks, get the most from materials, navigate career challenges, and above all find joy in the work.

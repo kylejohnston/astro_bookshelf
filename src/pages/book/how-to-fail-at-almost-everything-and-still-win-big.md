@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/how-to-fail-at-almost-everything-and-still
 amazon: https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4
 ---
 
-### Description
 Blasting clichéd career advice, the contrarian pundit and creator of Dilbert recounts the humorous ups and downs of his career, revealing the outsized role of luck in our lives and how best to play the system.
 
 Scott Adams has likely failed at more things than anyone you’ve ever met or anyone you’ve even heard of. So how did he go from hapless office worker and serial failure to the creator of Dilbert, one of the world’s most famous syndicated comic strips, in just a few years? In How to Fail at Almost Everything and Still Win Big, Adams shares the game plan he’s followed since he was a teen: invite failure in, embrace it, then pick its pocket.

@@ -12,7 +12,6 @@ bookshelf: https://bookshop.org/books/range-why-generalists-triumph-in-a-special
 amazon: https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214506/
 ---
 
-### Description
 Plenty of experts argue that anyone who wants to develop a skill, play an instrument, or lead their field should start early, focus intensely, and rack up as many hours of deliberate practice as possible. If you dabble or delay, you’ll never catch up to the people who got a head start. But a closer look at research on the world’s top performers, from professional athletes to Nobel laureates, shows that early specialization is the exception, not the rule.
 
 David Epstein examined the world’s most successful athletes, artists, musicians, inventors, forecasters and scientists. He discovered that in most fields - especially those that are complex and unpredictable - generalists, not specialists, are primed to excel. Generalists often find their path late, and they juggle many interests rather than focusing on one. They’re also more creative, more agile, and able to make connections their more specialized peers can’t see.

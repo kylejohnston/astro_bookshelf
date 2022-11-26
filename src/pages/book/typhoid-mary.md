@@ -11,7 +11,6 @@ bookshelf:
 amazon: https://www.amazon.com/Typhoid-Mary-Anthony-Bourdain/dp/0747566879/
 ---
 
-### Description
 The story of a notorious cook and a riveting slice of 1900s New York from the bestselling author of Kitchen Confidential
 
 In 1906, at a prosperous Long Island summer home, a family falls ill and typhoid is diagnosed. When Dr George Soper is called in to find the source of the contagion, he notices that the household cook has gone missing. She is Mary Mallon, the woman who would become known as Typhoid Mary.

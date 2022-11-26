@@ -11,7 +11,6 @@ bookshelf: https://bookshop.org/books/the-fifth-season/9780316229296
 amazon: https://www.amazon.com/Fifth-Season-Broken-Earth-Jemisin/dp/B015X4XINI/
 ---
 
-### Description
 At the end of the world, a woman must hide her secret power and find her kidnapped daughter in this “intricate and extraordinary” Hugo Award winning novel of power, oppression, and revolution. (The New York Times)
 
 This is the way the world ends. . .for the last time.

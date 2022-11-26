@@ -12,7 +12,6 @@ bookshelf: https://bookshop.org/books/being-mortal-medicine-and-what-matters-in-
 amazon: https://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/1250076226/
 ---
 
-### Description
 In Being Mortal, bestselling author Atul Gawande tackles the hardest challenge of his profession: how medicine can not only improve life but also the process of its ending
 
 Medicine has triumphed in modern times, transforming birth, injury, and infectious disease from harrowing to manageable. But in the inevitable condition of aging and death, the goals of medicine seem too frequently to run counter to the interest of the human spirit. Nursing homes, preoccupied with safety, pin patients into railed beds and wheelchairs. Hospitals isolate the dying, checking for vital signs long after the goals of cure have become moot. Doctors, committed to extending life, continue to carry out devastating procedures that in the end extend suffering.

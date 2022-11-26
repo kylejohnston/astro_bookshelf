@@ -13,7 +13,6 @@ bookshelf:
 amazon: https://www.amazon.com/Hacking-Independence-Freelance-Growth-Right/dp/1975923243
 ---
 
-### Description
 This book is a compilation of some of the most replicable, easy-to-implement growth hacks for any freelancer. Each tip includes a concise summary with actionable steps for getting started.
 
 <!-- ### Notes & Highlights -->

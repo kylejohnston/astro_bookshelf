@@ -13,7 +13,6 @@ bookshelf:
 amazon:
 ---
 
-### Description
 Discover what’s changing in marketing and what needs to change, in a new book from 22 of the world’s leading marketers, brought to you by the Facebook Client Council for Europe, the Middle East and Africa.
 
 ### Notes & Highlights

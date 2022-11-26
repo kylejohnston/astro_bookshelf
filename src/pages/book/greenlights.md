@@ -11,7 +11,6 @@ bookshelf: https://bookshop.org/books/greenlights-9780593416952/9780593139134
 amazon: https://www.amazon.com/Greenlights-Matthew-McConaughey/dp/0593139135/
 ---
 
-### Description
 I’ve been in this life for fifty years, been trying to work out its riddle for forty-two, and been keeping diaries of clues to that riddle for the last thirty-five. Notes about successes and failures, joys and sorrows, things that made me marvel, and things that made me laugh out loud. How to be fair. How to have less stress. How to have fun. How to hurt people less. How to get hurt less. How to be a good man. How to have meaning in life. How to be more me.
 
 Recently, I worked up the courage to sit down with those diaries. I found stories I experienced, lessons I learned and forgot, poems, prayers, prescriptions, beliefs about what matters, some great photographs, and a whole bunch of bumper stickers. I found a reliable theme, an approach to living that gave me more satisfaction, at the time, and still: If you know how, and when, to deal with life’s challenges - how to get relative with the inevitable - you can enjoy a state of success I call “catching greenlights.”

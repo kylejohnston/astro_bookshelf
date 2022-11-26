@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/bossypants/9780316056878
 amazon: https://www.amazon.com/Bossypants-Tina-Fey/dp/0316056898
 ---
 
-### Description
 Before Liz Lemon, before “Weekend Update,” before “Sarah Palin,” Tina Fey was just a young girl with a dream: a recurring stress dream that she was being chased through a local airport by her middle-school gym teacher. She also had a dream that one day she would be a comedian on TV.
 
 She has seen both these dreams come true.

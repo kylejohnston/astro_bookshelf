@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/how-to-revised-and-expanded-edition/978006
 amazon: https://www.amazon.com/Graphic-Design-Things-Explain-Better/dp/0062413902
 ---
 
-### Description
 The first monograph, design manual, and manifesto by Michael Bierut, one of the world’s most renowned graphic designers — a career retrospective that showcases more than thirty-five of his most noteworthy projects for clients as the Brooklyn Academy of Music, the Yale School of Architecture, the New York Times, Saks Fifth Avenue, and the New York Jets, and reflects eclectic enthusiasm and accessibility that has been the hallmark of his career.
 
 Protégé of design legend Massimo Vignelli and partner in the New York office of the international design firm Pentagram, Michael Bierut has had one of the most varied and successful careers of any living graphic designer, serving a broad spectrum of clients as diverse as Saks Fifth Avenue, Harley-Davidson, the Atlantic Monthly, the William Jefferson Clinton Foundation, Billboard, Princeton University, the New York Jets, the Brooklyn Academy of Music, and the Morgan Library.

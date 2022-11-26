@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/talking-to-strangers-what-we-should-know-a
 amazon: https://www.amazon.com/Talking-Strangers-Should-about-People-ebook/dp/B07NDKVWZW
 ---
 
-### Description
 How did Fidel Castro fool the CIA for a generation? Why did Neville Chamberlain think he could trust Adolf Hitler? Why are campus sexual assaults on the rise? Do television sitcoms teach us something about the way we relate to one another that isn’t true?
 
 Talking to Strangers is a classically Gladwellian intellectual adventure, a challenging and controversial excursion through history, psychology, and scandals taken straight from the news. He revisits the deceptions of Bernie Madoff, the trial of Amanda Knox, the suicide of Sylvia Plath, the Jerry Sandusky pedophilia scandal at Penn State University, and the death of Sandra Bland - throwing our understanding of these and other stories into doubt.

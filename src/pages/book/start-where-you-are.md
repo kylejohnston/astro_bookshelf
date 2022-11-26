@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/start-where-you-are-a-journal-for-self-exp
 amazon: https://www.amazon.com/Start-Where-You-Are-Compassionate/dp/1570628394
 ---
 
-### Description
 The perennially helpful guide to transforming our pains and difficulties into opportunities for genuine joy and personal growth, from the beloved Buddhist nun and author of When Things Fall Apart
 
 We all want to be fearless, joyful, and fully alive. And we all know that it’s not so easy. We’re bombarded every day with false promises of ways to make our lives better - buy this, go here, eat this, don’t do that; the list goes on and on. But Pema Chödrön shows that, until we get to the heart of who we are and really make friends with ourselves, everything we do will always be superficial. 

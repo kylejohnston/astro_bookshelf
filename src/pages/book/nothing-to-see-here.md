@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/nothing-to-see-here-9780062913463/97800629
 amazon: https://www.amazon.com/Nothing-See-Here-Kevin-Wilson/dp/0062913468
 ---
 
-### Description
 Lillian and Madison were unlikely roommates and yet inseparable friends at their elite boarding school. But then Lillian had to leave the school unexpectedly in the wake of a scandal and they’ve barely spoken since. Until now, when Lillian gets a letter from Madison pleading for her help.
 
 Madison’s twin stepkids are moving in with her family and she wants Lillian to be their caretaker. However, there’s a catch: the twins spontaneously combust when they get agitated, flames igniting from their skin in a startling but beautiful way. Lillian is convinced Madison is pulling her leg, but it’s the truth.

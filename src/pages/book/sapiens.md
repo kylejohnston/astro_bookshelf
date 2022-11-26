@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/sapiens-a-brief-history-of-humankind-97814
 amazon: https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095
 ---
 
-### Description
 One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one - homo sapiens. What happened to the others? And what may happen to us?
 
 Most books about the history of humanity pursue either a historical or a biological approach, but Dr. Yuval Noah Harari breaks the mold with this highly original book that begins about 70,000 years ago with the appearance of modern cognition. From examining the role evolving humans have played in the global ecosystem to charting the rise of empires, Sapiens integrates history and science to reconsider accepted narratives, connect past developments with contemporary concerns, and examine specific events within the context of larger ideas.

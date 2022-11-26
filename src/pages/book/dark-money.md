@@ -11,7 +11,6 @@ bookshelf: https://bookshop.org/books/dark-money-the-hidden-history-of-the-billi
 amazon: https://www.amazon.com/Dark-Money-History-Billionaires-Radical/dp/0307947904/
 ---
 
-### Description
 Who are the immensely wealthy right-wing ideologues shaping the fate of America today? From the bestselling author of The Dark Side, an electrifying work of investigative journalism that uncovers the agenda of this powerful group.
 
 In her new preface, Jane Mayer discusses the results of the most recent election and Donald Trump’s victory, and how, despite much discussion to the contrary, this was a huge victory for the billionaires who have been pouring money in the American political system.

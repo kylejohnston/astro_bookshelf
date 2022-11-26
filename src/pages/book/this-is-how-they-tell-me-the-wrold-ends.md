@@ -12,7 +12,6 @@ bookshelf: https://bookshop.org/books/this-is-how-they-tell-me-the-world-ends-th
 amazon: https://www.amazon.com/This-They-Tell-World-Ends/dp/1635576059/
 ---
 
-### Description
 Zero day: a software bug that allows a hacker to break into your devices and move around undetected. One of the most coveted tools in a spy’s arsenal, a zero day has the power to silently spy on your iPhone, dismantle the safety controls at a chemical plant, alter an election, and shut down the electric grid (just ask Ukraine).
 
 For decades, under cover of classification levels and non-disclosure agreements, the United States government became the world’s dominant hoarder of zero days. U.S. government agents paid top dollar-first thousands, and later millions of dollars- to hackers willing to sell their lock-picking code and their silence.

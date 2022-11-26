@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/four-thousand-weeks-time-management-for-mo
 amazon: https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122
 ---
 
-### Description
 The average human lifespan is absurdly, insultingly brief. Assuming you live to be eighty, you have just over four thousand weeks.
 
 Nobody needs telling there isn’t enough time. We’re obsessed with our lengthening to-do lists, our overfilled inboxes, work-life balance, and the ceaseless battle against distraction; and we’re deluged with advice on becoming more productive and efficient, and “life hacks” to optimize our days. But such techniques often end up making things worse. The sense of anxious hurry grows more intense, and still the most meaningful parts of life seem to lie just beyond the horizon. Still, we rarely make the connection between our daily struggles with time and the ultimate time management problem: the challenge of how best to use our four thousand weeks.

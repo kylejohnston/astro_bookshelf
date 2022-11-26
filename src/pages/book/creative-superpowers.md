@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/creative-superpowers-equip-yourself-for-th
 amazon: https://www.amazon.com/Creative-Superpowers-Equip-Yourself-Creativity-ebook/dp/B0771X4LHC
 ---
 
-### Description
 We are about to enter an Age of Creativity that requires a new set of skills. This book introduces you to four creative superpowers that will help solve your biggest business problems and open up fresh opportunities, namely the powers of:
 
 - Hacking – learn how becoming a hacker will help you tackle problems in different ways.

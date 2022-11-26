@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/artemis-9780525532101/9780553448146
 amazon: https://www.amazon.com/Artemis-Novel-Andy-Weir/dp/0553448145
 ---
 
-### Description
 Jasmine Bashara never signed up to be a hero. She just wanted to get rich.
 
 Not crazy, eccentric-billionaire rich, like many of the visitors to her hometown of Artemis, humanity’s first and only lunar colony. Just rich enough to move out of her coffin-sized apartment and eat something better than flavored algae. Rich enough to pay off a debt she’s owed for a long time.

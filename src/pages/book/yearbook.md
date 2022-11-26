@@ -11,7 +11,6 @@ bookshelf: https://bookshop.org/books/yearbook-9781984825407/9781984825407
 amazon: https://www.amazon.com/Yearbook/dp/B08TX58CF6/
 ---
 
-### Description
 A collection of funny personal essays from one of the writers of Superbad and Pineapple Express and one of the producers of The Disaster Artist, Neighbors, and The Boys. (All of these words have been added to help this book show up in people’s searchesusing the wonders of algorithmic technology. Thanks for bearing with us!)
 
 Hi! I’m Seth! I was asked to describe my book, Yearbook, for the inside flap (which is a gross phrase) and for websites and shit like that, so… here it goes!!!

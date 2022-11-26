@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/the-women-could-fly/9780063116993
 amazon: https://www.amazon.com/Women-Could-Fly-Novel/dp/0063116995
 ---
 
-### Description
 Josephine Thomas has heard every conceivable theory about her mother’s disappearance. That she was kidnapped. Murdered. That she took on a new identity to start a new family. That she was a witch. This is the most worrying charge because in a world where witches are real, peculiar behavior raises suspicions and a woman - especially a Black woman - can find herself on trial for witchcraft.
 
 But fourteen years have passed since her mother’s disappearance, and now Jo is finally ready to let go of the past. Yet her future is in doubt. The State mandates that all women marry by the age of 30 - or enroll in a registry that allows them to be monitored, effectively forfeiting their autonomy. At 28, Jo is ambivalent about marriage. With her ability to control her life on the line, she feels as if she has her never understood her mother more. When she’s offered the opportunity to honor one last request from her mother’s will, Jo leaves her regular life to feel connected to her one last time.

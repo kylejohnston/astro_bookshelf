@@ -11,7 +11,6 @@ bookshelf: https://bookshop.org/books/sea-of-tranquility-9780593552070/978059332
 amazon: https://www.amazon.com/Sea-Tranquility-Emily-John-Mandel/dp/0593321448/
 ---
 
-### Description
 Edwin St. Andrew is eighteen years old when he crosses the Atlantic by steamship, exiled from polite society following an ill-conceived diatribe at a dinner party. He enters the forest, spellbound by the beauty of the Canadian wilderness, and suddenly hears the notes of a violin echoing in an airship terminal--an experience that shocks him to his core.
 
 Two centuries later a famous writer named Olive Llewellyn is on a book tour. She's traveling all over Earth, but her home is the second moon colony, a place of white stone, spired towers, and artificial beauty. Within the text of Olive's best-selling pandemic novel lies a strange passage: a man plays his violin for change in the echoing corridor of an airship terminal as the trees of a forest rise around him.

@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/norse-mythology-9781410499493/978039335618
 amazon: https://www.amazon.com/Norse-Mythology-Neil-Gaiman/dp/039360909X
 ---
 
-### Description
 Neil Gaiman, long inspired by ancient mythology in creating the fantastical realms of his fiction, presents a bravura rendition of the Norse gods and their world from their origin though their upheaval in Ragnarok.
 
 In Norse Mythology, Gaiman stays true to the myths in envisioning the major Norse pantheon: Odin, the highest of the high, wise, daring, and cunning; Thor, Odin’s son, incredibly strong yet not the wisest of gods; and Loki - son of a giant - blood brother to Odin and a trickster and unsurpassable manipulator.

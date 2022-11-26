@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/say-nothing-a-true-story-of-murder-and-mem
 amazon: https://www.amazon.com/Say-Nothing-Murder-Northern-Ireland-ebook/dp/B07CWGBK5K
 ---
 
-### Description
 Jean McConville’s abduction was one of the most notorious episodes of the vicious conflict known as The Troubles. Everyone in the neighborhood knew the I.R.A. was responsible. But in a climate of fear and paranoia, no one would speak of it. In 2003, five years after an accord brought an uneasy peace to Northern Ireland, a set of human bones was discovered on a beach. McConville’s children knew it was their mother when they were told a blue safety pin was attached to the dress - with so many kids, she had always kept it handy for diapers or ripped clothes.
 
 Patrick Radden Keefe’s mesmerizing book on the bitter conflict in Northern Ireland and its aftermath uses the McConville case as a starting point for the tale of a society wracked by a violent guerrilla war, a war whose consequences have never been reckoned with. The brutal violence seared not only people like the McConville children, but also I.R.A. members embittered by a peace that fell far short of the goal of a united Ireland, and left them wondering whether the killings they committed were not justified acts of war, but simple murders.

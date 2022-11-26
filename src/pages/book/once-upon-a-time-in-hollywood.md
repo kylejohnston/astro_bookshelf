@@ -11,7 +11,6 @@ bookshelf: https://bookshop.org/books/once-upon-a-time-in-hollywood/978006311252
 amazon: https://www.amazon.com/gp/product/B08NL69YYT/
 ---
 
-### Description
 RICK DALTON - Once he had his own TV series, but now Rick's a washed-up villain-of-the week drowning his sorrows in whiskey sours. Will a phone call from Rome save his fate or seal it?
 
 CLIFF BOOTH - Rick's stunt double, and the most infamous man on any movie set because he's the only one there who might have gotten away with murder. . . .

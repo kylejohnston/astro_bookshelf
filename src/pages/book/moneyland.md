@@ -11,7 +11,6 @@ bookshelf: https://bookshop.org/books/moneyland-the-inside-story-of-the-crooks-a
 amazon: https://www.amazon.com/Moneyland-Oliver-Bullough-audiobook/dp/B07PH2C912/
 ---
 
-### Description
 An investigative journalist’s deep dive into the corrupt workings of the world’s kleptocrats.
 
 From ruined towns on the edge of Siberia, to Bond-villain lairs in London and Manhattan, something has gone wrong. Kleptocracies, governments run by corrupt leaders that prosper at the expense of their people, are on the rise.

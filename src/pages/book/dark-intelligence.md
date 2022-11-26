@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/dark-intelligence-transformation-book-one/
 amazon: https://www.amazon.com/Dark-Intelligence-Transformation-Book-One/dp/159780844X
 ---
 
-### Description
 One man will transcend death to seek vengeance. One woman will transform herself to gain power. And no one will emerge unscathed.
 
 Thorvald Spear has been brought back from the dead. Killed a century earlier by Penny Royal, an unstable AI who turned rogue in the middle of a human versus alien war, the resurrected Spear has one thing on his mind: revenge.

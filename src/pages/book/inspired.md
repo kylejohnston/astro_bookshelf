@@ -12,7 +12,6 @@ bookshelf: https://bookshop.org/books/inspired-how-to-create-tech-products-custo
 amazon: https://www.amazon.com/Inspired-Marty-Cagan-audiobook/dp/B07BDQVC45/
 ---
 
-### Description
 In INSPIRED, technology product management thought leader Marty Cagan provides readers with a master class in how to structure and staff a vibrant and successful product organization, and how to discover and deliver technology products that your customers will love - and that will work for your business.
 
 With sections on assembling the right people and skillsets, discovering the right product, embracing an effective yet lightweight process, and creating a strong product culture, readers can take the information they learn and immediately leverage it within their own organizations - dramatically improving their own product efforts.

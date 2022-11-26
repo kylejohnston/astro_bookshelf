@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/never-split-the-difference-negotiating-as-
 amazon: https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805
 ---
 
-### Description
 A former international hostage negotiator for the FBI offers a new, field-tested approach to high-stakes negotiations - whether in the boardroom or at home.
 
 After a stint policing the rough streets of Kansas City, Missouri, Chris Voss joined the FBI, where his career as a hostage negotiator brought him face-to-face with a range of criminals, including bank robbers and terrorists. Reaching the pinnacle of his profession, he became the FBI’s lead international kidnapping negotiator. Never Split the Difference takes you inside the world of high-stakes negotiations and into Voss’s head, revealing the skills that helped him and his colleagues succeed where it mattered most: saving lives. In this practical guide, he shares the nine effective principles - counterintuitive tactics and strategies - you too can use to become more persuasive in both your professional and personal life.

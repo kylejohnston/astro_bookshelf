@@ -12,7 +12,6 @@ bookshelf: https://bookshop.org/books/what-i-talk-about-when-i-talk-about-runnin
 amazon: https://www.amazon.com/What-Talk-About-When-Running/dp/0307389839/
 ---
 
-### Description
 An intimate look at writing, running, and the incredible way they intersect, What I Talk About When I Talk About Running is an illuminating glimpse into the solitary passions of one of our greatest artists.
 
 While training for the New York City Marathon, Haruki Murakami decided to keep a journal of his progress. The result is a memoir about his intertwined obsessions with running and writing, full of vivid recollections and insights, including the eureka moment when he decided to become a writer. By turns funny and sobering, playful and philosophical, here is a rich and revelatory work that elevates the human need for motion to an art form.

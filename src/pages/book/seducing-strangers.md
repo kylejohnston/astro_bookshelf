@@ -13,7 +13,6 @@ bookshelf: https://bookshop.org/books/seducing-strangers-how-to-get-people-to-bu
 amazon: https://www.amazon.com/Seducing-Strangers-Selling-Advertising-Secrets/dp/076118175X
 --- 
 
-### Description
 The job is using words, pictures, stories, and music to seduce strangers. In the industrial, mass-media, consumer economy of the past, the job was called advertising, and "Mad Men" did it. In today's service-based, social media-focused, information economy, the job is called life, and everyone does it.
 
 Here's how you can do it. And do it better.

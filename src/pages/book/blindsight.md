@@ -12,7 +12,6 @@ bookshelf: https://bookshop.org/books/blindsight-9781250237484/9781250237484
 amazon: https://www.amazon.com/Blindsight-Peter-Watts/dp/0765319640
 ---
 
-### Description
 Two months since the stars fell…
 
 Two months of silence, while a world held its breath.
