@@ -1,9 +1,11 @@
 ---
 import BaseHead from '../components/BaseHead.astro'; // <head>
 import MainNav from '../components/MainNav.astro'; // logo, nav
+import BuyBook from '../components/BuyBook.astro';
+import ReadingTime from '../components/ReadingTime.astro';
 
 const { content } = Astro.props;
-const { title, description, author, coverImage, permalink } = content;
+const { title, description, author, coverImage, permalink, library, bookshelf, amazon, other, startDate, finishDate } = content;
 ---
 
 <html lang={content.lang || 'en'}>
@@ -21,11 +23,13 @@ const { title, description, author, coverImage, permalink } = content;
       <div class="book-content">
         <main>
           <section>
+            <ReadingTime {startDate} {finishDate} />
             <slot />
+            <BuyBook {library} {bookshelf} {amazon} {other} />
           </section>
         </main>
         <div class="book-cover-col">
-          {coverImage && <img width="100%" height="auto" class="book-cover" loading="lazy" src={coverImage} alt={title} /> }
+          {coverImage && <img width="100%" height="auto" class="sticky top-4 book-cover" loading="lazy" src={coverImage} alt={title} /> }
         </div>
       </div>
     </article>
