@@ -5,7 +5,7 @@ author: Oyinkan Braithwaite
 currentlyReading: false
 startDate: 
 finishDate: 2020 Jan 25
-added: 2020 Jan 25
+pubDate: 2020 Jan 25
 notes: false
 coverImage: /covers/my-sister-the-serial-killer.webp
 library: https://share.libbyapp.com/title/3994640

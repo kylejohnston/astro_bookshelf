@@ -5,7 +5,7 @@ author: A.G. Riddle
 currentlyReading: false
 startDate: 
 finishDate: 2018 Jan 27
-added: 2018 Jan 27
+pubDate: 2018 Jan 27
 notes: false
 coverImage: /covers/pandemic.webp
 library: https://share.libbyapp.com/title/6463480

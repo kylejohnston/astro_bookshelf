@@ -5,7 +5,7 @@ author: Philip K. Dick
 currentlyReading: false
 startDate: 
 finishDate: 2018 Oct 18
-added: 2018 Oct 18
+pubDate: 2018 Oct 18
 notes: false
 coverImage: /covers/the-man-in-the-high-castle.webp
 library: https://share.libbyapp.com/title/769247

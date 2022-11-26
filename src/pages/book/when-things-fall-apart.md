@@ -4,7 +4,7 @@ title: "When Things Fall Apart. Heart Advice for Difficult Times"
 author: Pema Chödrön
 startDate:
 finishDate: 2021 Mar 27
-added: 2021 Mar 27
+pubDate: 2021 Mar 27
 notes: true
 coverImage: /covers/when-things-fall-apart.webp
 library: https://share.libbyapp.com/title/467572

@@ -5,7 +5,7 @@ author: Dan Hill
 currentlyReading: false
 startDate:
 finishDate: 2018 Jun 07
-added: 2018 Jun 07
+pubDate: 2018 Jun 07
 notes: true
 coverImage: /covers/dark-matter-and-trojan-horses.webp
 library:

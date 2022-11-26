@@ -5,7 +5,7 @@ author: Teressa Iezzi
 currentlyReading: false
 startDate: 
 finishDate: 2015 Apr 15
-added: 2015 Apr 15
+pubDate: 2015 Apr 15
 notes: false
 coverImage: /covers/idea-writers.webp
 library: 

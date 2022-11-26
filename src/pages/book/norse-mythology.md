@@ -5,7 +5,7 @@ author: Neil Gaiman
 currentlyReading: false
 startDate: 
 finishDate: 2018 Dec 15
-added: 2018 Dec 15
+pubDate: 2018 Dec 15
 notes: false
 coverImage: /covers/norse-mythology.webp
 library: https://share.libbyapp.com/title/2833420

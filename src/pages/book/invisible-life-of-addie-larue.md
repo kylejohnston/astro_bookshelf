@@ -4,7 +4,7 @@ title: "The Invisible Life of Addie LaRue"
 author: V.E. Schwab
 startDate:
 finishDate: 2021 Aug 28
-added: 2021 Aug 28
+pubDate: 2021 Aug 28
 notes: true
 coverImage: /covers/invisible-life-of-addie-larue.webp
 library: https://share.libbyapp.com/title/5243310

@@ -5,7 +5,7 @@ author: Mary Roach
 currentlyReading: false
 startDate: 
 finishDate: 2020 Aug 30
-added: 2020 Aug 30
+pubDate: 2020 Aug 30
 notes: false
 coverImage: /covers/gulp.webp
 library: https://share.libbyapp.com/title/2313226

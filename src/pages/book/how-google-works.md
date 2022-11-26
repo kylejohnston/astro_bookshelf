@@ -5,7 +5,7 @@ author: Eric Schmidt, Jonathan Rosenberg
 currentlyReading: false
 startDate: 
 finishDate: 2015 Jan 02
-added: 2015 Jan 02
+pubDate: 2015 Jan 02
 notes: true
 coverImage: /covers/how-google-works.webp
 library: https://share.libbyapp.com/title/1531946

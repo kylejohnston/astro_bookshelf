@@ -5,7 +5,7 @@ author: Anna Wiener
 currentlyReading: false
 startDate: 2022 Oct 09
 finishDate: 2022 Oct 14
-added: 2022 Oct 09
+pubDate: 2022 Oct 09
 notes: false
 coverImage: /covers/uncanny-valley.webp
 library: https://share.libbyapp.com/title/4692681

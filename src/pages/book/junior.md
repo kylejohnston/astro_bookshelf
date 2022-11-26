@@ -5,7 +5,7 @@ author: Thomas Kemeny
 currentlyReading:
 startDate: 2022 Oct 15
 finishDate: 2022 Oct 16
-added: 2022 Oct 15
+pubDate: 2022 Oct 15
 notes: true
 coverImage: /covers/junior.webp
 library: 

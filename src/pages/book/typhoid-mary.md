@@ -4,7 +4,7 @@ title: "Typhoid Mary"
 author: Anthony Bourdain
 startDate:
 finishDate: 2021 Nov 29
-added: 2021 Nov 29
+pubDate: 2021 Nov 29
 coverImage: /covers/typhoid-mary.webp
 library: https://share.libbyapp.com/title/471788
 bookshelf:

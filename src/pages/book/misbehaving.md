@@ -5,7 +5,7 @@ author: Richard H. Thaler
 currentlyReading: false
 startDate:
 finishDate: 2018 Jan 03
-added: 2018 Jan 03
+pubDate: 2018 Jan 03
 notes: true
 coverImage: /covers/misbehaving.webp
 library: https://share.libbyapp.com/title/2310749

@@ -5,7 +5,7 @@ author: Megan Giddings
 currentlyReading: false
 startDate: 2022 Nov 12
 finishDate: 2022 Nov 24
-added: 2022 Nov 12
+pubDate: 2022 Nov 12
 notes: true
 coverImage: /covers/the-women-could-fly.webp
 library: https://share.libbyapp.com/title/7675536

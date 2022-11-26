@@ -5,7 +5,7 @@ author: Richard Powers
 currentlyReading: false
 startDate: 2022 Sep 22
 finishDate: 2022 Oct 09
-added: 2022 Sep 22
+pubDate: 2022 Sep 22
 notes: true
 coverImage: /covers/the-overstory.webp
 library: https://share.libbyapp.com/title/https://share.libbyapp.com/title/3360345

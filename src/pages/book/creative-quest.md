@@ -5,7 +5,7 @@ author: Questlove
 currentlyReading: false
 startDate:
 finishDate: 2018 May 23
-added: 2018 May 23
+pubDate: 2018 May 23
 notes: true
 coverImage: /covers/creative-quest.webp
 library: https://share.libbyapp.com/title/3535686

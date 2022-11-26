@@ -5,7 +5,7 @@ author: Preet Bharara
 currentlyReading: false
 startDate:
 finishDate: 2019 Oct 31
-added: 2019 Oct 31
+pubDate: 2019 Oct 31
 notes: false
 coverImage: /covers/doing-justice.webp
 library: https://share.libbyapp.com/title/4455153

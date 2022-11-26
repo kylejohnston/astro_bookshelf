@@ -4,7 +4,7 @@ title: "Range: Why Generalists Triumph in a Specialized World"
 author: David Epstein
 startDate:
 finishDate: 2021 Feb 21
-added: 2021 Feb 21
+pubDate: 2021 Feb 21
 notes: true
 coverImage: /covers/range.webp
 library: https://share.libbyapp.com/title/4265158

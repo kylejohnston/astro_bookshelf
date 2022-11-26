@@ -5,7 +5,7 @@ author: Kiese Laymon
 currentlyReading: false
 startDate: 
 finishDate: 2019 Sep 01
-added: 2019 Sep 01
+pubDate: 2019 Sep 01
 notes: false
 coverImage: /covers/heavy.webp
 library: https://share.libbyapp.com/title/2621219

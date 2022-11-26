@@ -4,7 +4,7 @@ title: "Shoe Dog"
 author: Phil Knight
 startDate:
 finishDate: 2021 Nov 28
-added: 2021 Nov 28
+pubDate: 2021 Nov 28
 notes: true
 coverImage: /covers/shoe-dog.webp
 library: https://share.libbyapp.com/title/2469402

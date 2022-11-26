@@ -5,7 +5,7 @@ author: F. Scott Fitzgerald
 currentlyReading: false
 startDate: 
 finishDate: 2013 Sep 01
-added: 2013 Sep 01
+pubDate: 2013 Sep 01
 notes: false
 coverImage: /covers/great-gatsby.webp
 library: https://share.libbyapp.com/title/58115

@@ -5,7 +5,7 @@ author: Rhonda Garelick
 currentlyReading: false
 startDate: 
 finishDate: 2019 Jul 22
-added: 2019 Jul 22
+pubDate: 2019 Jul 22
 notes: false
 coverImage: /covers/mademoiselle-coco-chanel.webp
 library: https://share.libbyapp.com/title/1681829

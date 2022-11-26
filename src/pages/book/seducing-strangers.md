@@ -5,7 +5,7 @@ author: Josh Weltman
 currentlyReading: false
 startDate: 
 finishDate: 2015 Apr 17
-added: 2015 Apr 17
+pubDate: 2015 Apr 17
 notes: false
 coverImage: /covers/seducing-strangers.webp
 library:

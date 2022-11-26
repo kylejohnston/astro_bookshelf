@@ -5,7 +5,7 @@ author: Pete Buttigieg
 currentlyReading: false
 startDate: 
 finishDate: 2019 Jul 13
-added: 2019 Jul 13
+pubDate: 2019 Jul 13
 notes: false
 coverImage: /covers/shortest-way-home.webp
 library: https://share.libbyapp.com/title/4127123

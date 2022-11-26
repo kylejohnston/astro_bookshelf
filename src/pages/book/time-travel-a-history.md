@@ -5,7 +5,7 @@ author: James Gleick
 currentlyReading: false
 startDate: 
 finishDate: 2018 Sep 21
-added: 2018 Sep 21
+pubDate: 2018 Sep 21
 notes: false
 coverImage: /covers/time-travel-a-history.webp
 library: https://share.libbyapp.com/title/2650947

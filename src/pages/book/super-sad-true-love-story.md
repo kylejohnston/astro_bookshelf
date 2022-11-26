@@ -5,7 +5,7 @@ author: Gary Shteyngart
 currentlyReading: false
 startDate: 
 finishDate: 2020 Jul 07
-added: 2020 Jul 07
+pubDate: 2020 Jul 07
 notes: false
 coverImage: /covers/super-sad-true-love-story.webp
 library: https://share.libbyapp.com/title/389390

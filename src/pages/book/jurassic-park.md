@@ -4,7 +4,7 @@ title: "Jurassic Park"
 author: Michael Chrichton
 startDate: 2022 May 29
 finishDate: 2022 Jun 05
-added: 2022 Jun 05
+pubDate: 2022 Jun 05
 coverImage: /covers/jurassic-park.webp
 library: https://share.libbyapp.com/title/871092
 bookshelf: https://bookshop.org/books/jurassic-park-ae2f2641-4b4a-4d33-85c7-6a2a16641248/9780345538987

@@ -5,7 +5,7 @@ author: Robert A. Caro
 currentlyReading: false
 startDate: 
 finishDate: 2019 Jul 27
-added: 2019 Jul 27
+pubDate: 2019 Jul 27
 notes: false
 coverImage: /covers/working.webp
 library: https://share.libbyapp.com/title/4455194

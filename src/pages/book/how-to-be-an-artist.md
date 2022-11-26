@@ -5,7 +5,7 @@ author: Jerry Saltz
 currentlyReading: false
 startDate: 
 finishDate: 2020 Dec 05
-added: 2020 Dec 05
+pubDate: 2020 Dec 05
 notes: true
 coverImage: /covers/how-to-be-an-artist.webp
 library: https://share.libbyapp.com/title/4849273

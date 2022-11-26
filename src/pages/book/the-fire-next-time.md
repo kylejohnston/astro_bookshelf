@@ -5,7 +5,7 @@ author: James Baldwin
 currentlyReading: false
 startDate: 
 finishDate: 2020 Jul 29
-added: 2020 Jul 29
+pubDate: 2020 Jul 29
 notes: false
 coverImage: /covers/the-fire-next-time.webp
 library: https://share.libbyapp.com/title/1377488

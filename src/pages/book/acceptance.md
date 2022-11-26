@@ -5,7 +5,7 @@ author: Jeff VanderMeer
 currentlyReading: false
 startDate: 
 finishDate: 2020 Apr 19
-added: 2020 Apr 19
+pubDate: 2020 Apr 19
 notes: false
 coverImage: /covers/acceptance.webp
 library: https://share.libbyapp.com/title/1576047

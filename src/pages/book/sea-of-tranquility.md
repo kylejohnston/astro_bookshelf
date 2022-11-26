@@ -4,7 +4,7 @@ title: "Sea of Tranquility"
 author: Emily St. John Mandel
 startDate: 2022 Jun 05
 finishDate: 2022 Jun 12
-added: 2022 Jun 12
+pubDate: 2022 Jun 12
 coverImage: /covers/sea-of-tranquility.webp
 library: https://share.libbyapp.com/title/6416295
 bookshelf: https://bookshop.org/books/sea-of-tranquility-9780593552070/9780593321447

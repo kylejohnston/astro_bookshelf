@@ -4,7 +4,7 @@ title: "Incognito, The Secret Lives of the Brain"
 author: David Eagleman
 startDate:
 finishDate: 2021 Nov 12
-added: 2021 Nov 12
+pubDate: 2021 Nov 12
 coverImage: /covers/incognito.webp
 library: https://share.libbyapp.com/title/494161
 bookshelf: https://bookshop.org/books/incognito-the-secret-lives-of-the-brain/9780307389923

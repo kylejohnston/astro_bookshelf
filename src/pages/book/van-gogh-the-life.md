@@ -4,7 +4,7 @@ title: "Van Gogh: The Life"
 author: Steven Naifeh and Gregory White Smith
 startDate:
 finishDate: 2021 Feb 24
-added: 2021 Feb 24
+pubDate: 2021 Feb 24
 notes: true
 coverImage: /covers/van-gogh-the-life.webp
 library: https://share.libbyapp.com/title/567401

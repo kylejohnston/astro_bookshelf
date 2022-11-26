@@ -4,7 +4,7 @@ title: "The Power of Now"
 author: Eckhart Tolle
 startDate:
 finishDate: 2021 Jan 10
-added: 2021 Jan 10
+pubDate: 2021 Jan 10
 notes: true
 coverImage: /covers/power-of-now.webp
 library: https://share.libbyapp.com/title/322127

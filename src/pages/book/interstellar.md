@@ -4,7 +4,7 @@ title: "Interstellar"
 author: Greg Keyes
 startDate:
 finishDate: 2021 Nov 20
-added: 2021 Nov 20
+pubDate: 2021 Nov 20
 coverImage: /covers/interstellar.webp
 library: https://share.libbyapp.com/title/1986486
 bookshelf: https://bookshop.org/books/interstellar-the-official-movie-novelization/9781783293698

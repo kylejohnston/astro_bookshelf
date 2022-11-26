@@ -5,7 +5,7 @@ author: Jonathan Haidt
 currentlyReading: false
 startDate:
 finishDate: 2018 Aug 21
-added: 2018 Aug 21
+pubDate: 2018 Aug 21
 notes: false
 coverImage: /covers/the-righteous-mind.webp
 library: https://share.libbyapp.com/title/601668

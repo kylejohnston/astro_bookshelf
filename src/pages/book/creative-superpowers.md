@@ -5,7 +5,7 @@ author: Laura Jordan Bambach, Mark Earls, Danielle Fiandaca, Scott Morriso
 currentlyReading: false
 startDate: 
 finishDate: 2019 Feb 02
-added: 2019 Feb 02
+pubDate: 2019 Feb 02
 notes: true
 coverImage: /covers/creative-superpowers.webp
 library:

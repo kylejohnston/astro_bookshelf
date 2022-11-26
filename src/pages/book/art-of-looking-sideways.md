@@ -5,7 +5,7 @@ author: Alan Fletcher
 currentlyReading: false
 startDate: 
 finishDate: 2015 Jul 26
-added: 2015 Jul 26
+pubDate: 2015 Jul 26
 notes: false
 coverImage: /covers/art-of-looking-sideways.webp
 library: 

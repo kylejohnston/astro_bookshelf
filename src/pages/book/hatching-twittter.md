@@ -5,7 +5,7 @@ author: Nick Bilton
 currentlyReading: false
 startDate:
 finishDate: 2016 Nov 12
-added: 2016 Nov 12
+pubDate: 2016 Nov 12
 notes: false
 coverImage: /covers/hatching-twittter.webp
 library: https://share.libbyapp.com/title/1286723

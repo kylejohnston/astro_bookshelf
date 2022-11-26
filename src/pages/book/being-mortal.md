@@ -4,7 +4,7 @@ title: "Being Mortal"
 author: Atul Gawande
 startDate:
 finishDate: 2021 Oct 07
-added: 2021 Oct 07
+pubDate: 2021 Oct 07
 notes: true
 coverImage: /covers/being-mortal.webp
 library: https://share.libbyapp.com/title/1665461

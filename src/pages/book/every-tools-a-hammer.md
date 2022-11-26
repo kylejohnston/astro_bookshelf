@@ -4,7 +4,7 @@ title: "Every Tool's a Hammer: Life Is What You Make It"
 author: Adam Savage
 startDate: 2022 Feb 22
 finishDate: 2022 Mar 01
-added: 2022 Mar 01
+pubDate: 2022 Mar 01
 notes: true
 coverImage: /covers/every-tools-a-hammer.webp
 library: https://share.libbyapp.com/title/4384969

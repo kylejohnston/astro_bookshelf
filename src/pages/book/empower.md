@@ -5,7 +5,7 @@ author: David Passiak
 currentlyReading: false
 startDate:
 finishDate: 2017 Apr 17
-added: 2017 Apr 17
+pubDate: 2017 Apr 17
 notes: false
 coverImage: /covers/empower.webp
 library:

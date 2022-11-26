@@ -5,7 +5,7 @@ author: Elliot Peper
 currentlyReading: false
 startDate: 
 finishDate: 2018 Apr 21
-added: 2018 Apr 21
+pubDate: 2018 Apr 21
 notes: false
 coverImage: /covers/bandwidth.webp
 library:

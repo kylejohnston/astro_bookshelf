@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/BookLayout.astro
-title: ""
-author:
+title: "The Martian"
+author: Andy Weir
 currentlyReading: false
 startDate:
 finishDate: 2015 Dec 26
-added: 2015 Dec 26
+pubDate: 2015 Dec 26
 notes: false
 coverImage: /covers/the-martian.webp
 library: https://share.libbyapp.com/title/1381708

@@ -5,7 +5,7 @@ author: Michael Bierut
 currentlyReading: false
 startDate:
 finishDate: 2017 Mar 14
-added: 2017 Mar 14
+pubDate: 2017 Mar 14
 notes: false
 coverImage: /covers/how-to.webp
 library:

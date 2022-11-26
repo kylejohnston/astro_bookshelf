@@ -5,7 +5,7 @@ author: Robert A. Caro
 currentlyReading: false
 startDate: 
 finishDate: 2019 Apr 15
-added: 2019 Apr 15
+pubDate: 2019 Apr 15
 notes: false
 coverImage: /covers/passage-of-power.webp
 library: https://share.libbyapp.com/title/667356

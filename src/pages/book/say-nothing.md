@@ -5,7 +5,7 @@ author: Patrick Radden Keefe
 currentlyReading: false
 startDate: 
 finishDate: 2020 May 31
-added: 2020 May 31
+pubDate: 2020 May 31
 notes: false
 coverImage: /covers/say-nothing.webp
 library: https://share.libbyapp.com/title/4229326

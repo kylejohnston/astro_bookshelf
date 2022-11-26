@@ -4,7 +4,7 @@ title: "Never Let Me Go"
 author: Kazuo Ishiguro
 startDate:
 finishDate: 2021 Mar 07
-added: 2021 Mar 07
+pubDate: 2021 Mar 07
 coverImage: /covers/never-let-me-go.webp
 library: https://share.libbyapp.com/title/66736
 bookshelf: https://bookshop.org/books/never-let-me-go/9781400078776

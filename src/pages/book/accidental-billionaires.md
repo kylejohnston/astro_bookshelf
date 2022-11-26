@@ -5,7 +5,7 @@ author: Ben Mezrich
 currentlyReading: false
 startDate: 
 finishDate: 2019 Oct 16
-added: 2019 Oct 16
+pubDate: 2019 Oct 16
 notes: false
 coverImage: /covers/the-accidental-billionaires.webp
 library: https://share.libbyapp.com/title/220482

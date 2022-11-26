@@ -5,7 +5,7 @@ author: James Webb Young
 currentlyReading: false
 startDate:
 finishDate: 2016 Feb 27
-added: 2016 Feb 27
+pubDate: 2016 Feb 27
 notes: true
 coverImage: /covers/technique-for-producing-ideas.webp
 library:
