@@ -1,6 +1,7 @@
 ---
 // Component Imports
 import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
 import MainNav from '../components/MainNav.astro'; // logo, nav
 import BookPostPreview from '../components/BookPostPreview.astro';
 
@@ -33,5 +34,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.added).valueOf() - new
 				{allPosts.map((p) => <BookPostPreview post={p} />)}
 			</section>
 		</main>
+		<p style="padding:8px; background:#CF0;">TEST</p>
+		<Footer />
 	</body>
 </html>
