@@ -2,9 +2,9 @@
 layout: ../../layouts/BookLayout.astro
 title: "Foucault's Pendulum"
 author: Umberto Eco
-currentlyReading: true
+currentlyReading: false
 startDate: 2022 Nov 25
-finishDate: 
+finishDate: 2022 Dec 13
 added: 2022 Nov 25
 notes: false
 coverImage: /covers/foucaults-pendulum.webp
