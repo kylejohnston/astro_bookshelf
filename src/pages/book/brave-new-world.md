@@ -2,15 +2,15 @@
 layout: ../../layouts/BookLayout.astro
 title: "Brave New World"
 author: Aldous Huxley
-currentlyReading: true
+currentlyReading: false
 startDate: 2022 Dec 13
-finishDate: 
+finishDate: 2022 Dec 21
 added: 2022 Dec 13
 notes: false
 coverImage: /covers/brave-new-world.webp
 library: https://share.libbyapp.com/title/1695615
-bookshelf:
-amazon:
+bookshelf: https://bookshop.org/p/books/brave-new-world-aldous-huxley/18711990
+amazon: https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523
 ---
 
 Now more than ever: Aldous Huxley’s enduring masterwork must be read and understood by anyone concerned with preserving the human spirit.
