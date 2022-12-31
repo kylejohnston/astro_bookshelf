@@ -2,9 +2,9 @@
 layout: ../../layouts/BookLayout.astro
 title: "Other Minds"
 author: Peter Godfrey-Smith
-currentlyReading: true
+currentlyReading: false
 startDate: 2022 Dec 24
-finishDate: 
+finishDate: 2022 Dec 31
 added: 2022 Dec 24
 notes: false
 coverImage: /covers/other-minds.webp
