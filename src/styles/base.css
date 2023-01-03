@@ -11,6 +11,7 @@
 		--bright: #DDFF00;
 	}
 	body { @apply bg-white flex flex-col md:flex-row font-sans text-black; }
+/* TYPOGRAPHY */
 	h1, .headline { font-size: clamp(2.813rem, 1.108rem + 8.52vw, 7.5rem) !important; @apply font-headline uppercase leading-[85%]; }
 	h2 { font-size: clamp(1.875rem, 0.739rem + 5.68vw, 5rem) !important; @apply font-headline leading-none uppercase; }
 	h2 span { color: var(--mid); }
@@ -21,12 +22,33 @@
 	main ul li, main ol li { @apply leading-normal mb-2 text-lg md:text-xl; }
 	main blockquote { @apply border-l-2 border-gray-300 pl-3 mb-7 /*[text-indent:1.5em]*/; }
 		main blockquote br { content:""; @apply block mb-3; }
-	nav { @apply md:flex bg-gradient-to-l from-bright to-primary pt-4 px-4 py-3 shrink-0; }
-		nav { @apply justify-between md:pt-4 md:px-3 md:py-0 md:bg-gradient-to-t; }
-	nav a { @apply relative right-1; }
+/* TOP NAV */
+	nav { @apply
+		pt-4 px-4 py-3
+		/* justify-between */
+		/* shrink-0 */
+		bg-gradient-to-l from-bright to-primary
+		/* Larger than mobile */
+		md:flex
+		md:pt-4 md:px-3 md:py-0
+		md:bg-gradient-to-t;
+	}
+		/* nav { @apply   } */
+	nav a { @apply md:relative md:right-0.5; }
 		nav a:link, nav a:visited { @apply text-black; }
 		nav a:hover, nav a:active { @apply text-black; }
-		nav .content { font-variation-settings: 'wght' 400; @apply grid grid-cols-3 font-headline md:justify-between text-xl md:text-2xl sticky top-2 uppercase md:[writing-mode:vertical-rl] md:[height:97vh]; }
+		nav .content {
+			font-variation-settings: 'wght' 400;
+			@apply grid grid-cols-3
+			top-2
+			font-headline
+			text-xl
+			sticky 
+			uppercase
+			md:justify-between
+			md:text-2xl
+			md:[writing-mode:vertical-rl] md:[height:97vh];
+		}
 		nav .logo { font-variation-settings: 'wght' 400; @apply sticky md:[writing-mode:vertical-rl]; }
 	.logo-tall { width: 24px; height: auto; @apply md:block hidden mb-2; }
 	.logo-wide { width: auto; height: 24px; @apply md:hidden mr-2; }
@@ -36,9 +58,20 @@
 	main a:link, main a:visited { color: var(--color); }
 	main a:hover, main a:active { @apply underline underline-offset-8; }
 
-	.book-grid { @apply p-8 gap-8 grid [grid-template-columns:repeat(auto-fill,_minmax(8.5rem,_1fr))] md:[grid-template-columns:repeat(auto-fill,_minmax(18rem,_1fr))]; }
+	.book-grid {
+		@apply 
+		px-4
+		py-4
+		gap-4
+		grid
+		[grid-template-columns:repeat(auto-fill,_minmax(8.5rem,_1fr))] 
+		md:[grid-template-columns:repeat(auto-fill,_minmax(18rem,_1fr))]
+		md:px-8
+		md:py-8
+		md:gap-8;
+	}
 
-	.book-cover { @apply drop-shadow-md rounded-3xl; }
+	.book-cover { @apply drop-shadow-md rounded-xl; }
 		main .book-cover:hover { @apply scale-110 transition-transform ease-in-out duration-[430ms] -rotate-2; }
 	.book-details { @apply max-w-7xl mt-4 md:mt-8 mb-16 px-4 md:px-8; }
 	.book-details header { @apply mb-8; }
@@ -46,7 +79,14 @@
 		.book-content section { @apply mb-8; }
 		.book-content h3 { @apply mt-8; }
 		.book-content main { @apply max-w-2xl; }
-		.book-content .book-cover-col { @apply max-w-xl order-first md:order-last px-8 md:px-0; }
+		.book-content .book-cover-col {
+			@apply
+			px-8
+			max-w-xl
+			order-first
+			md:order-last
+			md:px-0;
+		}
 		.reading-time { @apply grid grid-cols-2 mb-3; }
 		.reading-time p { @apply mb-0; }
 }
