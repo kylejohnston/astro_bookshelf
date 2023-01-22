@@ -2,7 +2,7 @@
 layout: ../../layouts/BookLayout.astro
 title: "The City We Became"
 author: N.K. Jemisin
-currentlyReading: true
+currentlyReading: false
 startDate: 2022 Dec 29
 finishDate: 2023 Jan 15
 added: 2022 Dec 29
