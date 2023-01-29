@@ -2,9 +2,9 @@
 layout: ../../layouts/BookLayout.astro
 title: "XX"
 author: Rian Hughes
-currentlyReading: true
+currentlyReading: false
 startDate: 2022 Dec 15
-finishDate: 
+finishDate: 2022 Jan 29
 added: 2022 Dec 15
 notes: false
 coverImage: /covers/xx.webp
