@@ -2,9 +2,9 @@
 layout: ../../layouts/BookLayout.astro
 title: "We Need to Talk. How to Have Conversations That Matter"
 author: Celeste Headle
-currentlyReading: true
+currentlyReading: false
 startDate: 2023 Jan 22
-finishDate: 
+finishDate: 2023 Feb 06
 added: 2023 Jan 22
 notes: false
 coverImage: /covers/we-need-to-talk.webp
