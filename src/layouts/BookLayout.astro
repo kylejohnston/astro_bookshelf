@@ -6,7 +6,7 @@ import BuyBook from '../components/BuyBook.astro';
 import ReadingTime from '../components/ReadingTime.astro';
 
 const { content } = Astro.props;
-const { title, description, author, coverImage, permalink, library, bookshelf, amazon, other, startDate, finishDate } = content;
+const { title, description, author, coverImage, permalink, library, bookshelf, bookshop, amazon, other, startDate, finishDate } = content;
 ---
 
 <html lang={content.lang || 'en'}>
@@ -27,7 +27,7 @@ const { title, description, author, coverImage, permalink, library, bookshelf, a
             <ReadingTime {startDate} {finishDate} />
             <h3>Description</h3>
             <slot />
-            <BuyBook {library} {bookshelf} {amazon} {other} />
+            <BuyBook {library} {bookshelf} {bookshop} {amazon} {other} />
           </section>
         </main>
         <div class="book-cover-col">
