@@ -20,11 +20,3 @@ At Jodrell Bank Observatory in England, a radio telescope has detected a mysteri
 Jack Fenwick, artificial intelligence expert, believes that he and his associates at tech startup Intelligencia can interpret the message a find a way to step into the realm the signal encodes. What they find is a complex alien network beyond anything mankind has imagined.  
 
 Drawing on Dada, punk and the modernist movements of the twentieth century, XX is assembled from redacted NASA reports, artwork, magazine articles, secret transcripts and a novel within a novel. Deconstructing layout and language in order to explore how idea propagate, acclaimed designer and artist Rian Hughes's debut novel presents a compelling vision of humanity's unique place in the universe, and a realistic depiction of what might happen in the wake of the biggest scientific discovery in human history.  
-
-<!-- ### Notes & Highlights -->
-
-<BuyBook
-  library   = {frontmatter.library}
-  bookshelf = {frontmatter.bookshelf}
-  amazon    = {frontmatter.amazon}
-/>

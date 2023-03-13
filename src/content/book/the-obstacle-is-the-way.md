@@ -19,6 +19,4 @@ The book draws its inspiration from stoicism, the ancient Greek philosophy of en
 
 Ryan Holiday shows us how some of the most successful people in history - from John D. Rockefeller to Amelia Earhart to Ulysses S. Grant to Steve Jobs - have applied stoicism to overcome difficult or even impossible situations. Their embrace of these principles ultimately mattered more than their natural intelligence, talents, or luck.
 
-If you’re feeling frustrated, demoralized, or stuck in a rut, this book can help you turn your problems into your biggest advantages. And along the way it will inspire you with dozens of true stories of the greats from every age and era.
-
-<!-- ### Notes & Highlights -->
+If you’re feeling frustrated, demoralized, or stuck in a rut, this book can help you turn your problems into your biggest advantages. And along the way it will inspire you with dozens of true stories of the greats from every age and era.  

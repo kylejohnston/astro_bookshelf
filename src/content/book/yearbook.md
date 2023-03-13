@@ -21,6 +21,4 @@ I talk about my grandparents, doing stand-up comedy as a teenager, bar mitzvahs,
 
 I hope you enjoy the book should you buy it, and if you don’t enjoy it, I’m sorry. If you ever see me on the street and explain the situation, I’ll do my best to make it up to you.
 
-*I was beaten by Bill O’Reilly, which really sucks.
-
-<!-- ### Notes & Highlights -->
+*I was beaten by Bill O’Reilly, which really sucks.  

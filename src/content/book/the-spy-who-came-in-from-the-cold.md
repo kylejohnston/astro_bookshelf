@@ -11,6 +11,4 @@ bookshop: https://bookshop.org/books/the-spy-who-came-in-from-the-cold/978014312
 amazon: https://www.amazon.com/Spy-Who-Came-in-from-Cold-audiobook/dp/B007N6GJ3G/
 ---
 
-In the shadow of the newly erected Berlin Wall, Alec Leamas watches as his last agent is shot dead by East German sentries. For Leamas, the head of Berlin Station, the Cold War is over. As he faces the prospect of retirement or worse - a desk job - Control offers him a unique opportunity for revenge. Assuming the guise of an embittered and dissolute ex-agent, Leamas is set up to trap Mundt, the deputy director of the East German Intelligence Service - with himself as the bait. In the background is George Smiley, ready to make the game play out just as Control wants.
-
-<!-- ### Notes & Highlights -->
+In the shadow of the newly erected Berlin Wall, Alec Leamas watches as his last agent is shot dead by East German sentries. For Leamas, the head of Berlin Station, the Cold War is over. As he faces the prospect of retirement or worse - a desk job - Control offers him a unique opportunity for revenge. Assuming the guise of an embittered and dissolute ex-agent, Leamas is set up to trap Mundt, the deputy director of the East German Intelligence Service - with himself as the bait. In the background is George Smiley, ready to make the game play out just as Control wants.  

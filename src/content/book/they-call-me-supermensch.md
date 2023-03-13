@@ -19,6 +19,4 @@ In the course of his legendary career as a manager, agent, and producer, Shep Go
 
 In this wonderfully engaging memoir, the charismatic entertainment legend recalls his life, from his humble beginnings as a “shy, no self-esteem, Jewish nebbisher kid with no ambition” in Oceanside, Long Island, to his unexpected rise as one of the most influential and respected personalities in show business, revered for his kindness, charisma - and fondness for a good time.
 
-Gordon shares riotous anecdotes and outrageous accounts of his free-wheeling, globe-trotting experiences with some of the biggest celebrities of the past five decades, including his first meeting with Janice Joplin in 1968, when the raspy singer punched him in the face. Told with incomparable humor and heart, They Call Me Supermensch is a sincere, hilarious behind-the-scenes look at the worlds of music and entertainment from the consummate Hollywood insider.
-
-<!-- ### Notes & Highlights -->
+Gordon shares riotous anecdotes and outrageous accounts of his free-wheeling, globe-trotting experiences with some of the biggest celebrities of the past five decades, including his first meeting with Janice Joplin in 1968, when the raspy singer punched him in the face. Told with incomparable humor and heart, They Call Me Supermensch is a sincere, hilarious behind-the-scenes look at the worlds of music and entertainment from the consummate Hollywood insider.  

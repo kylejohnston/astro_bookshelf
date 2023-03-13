@@ -24,11 +24,4 @@ And the only way forward, says Headlee, is to start talking to each other. In We
 - CHECK YOUR BIAS. The belief that your intelligence protects you from erroneous assumptions can end up making you more vulnerable to them. We all have blind spots that affect the way we view others. Check your bias before you judge someone else.
 - HIDE YOUR PHONE. Don’t just put down your phone, put it away. New research suggests that the mere presence of a cell phone can negatively impact the quality of a conversation.
 
-Whether you’re struggling to communicate with your kid’s teacher at school, an employee at work, or the people you love the most - Headlee offers smart strategies that can help us all have conversations that matter."
-<!-- ### Notes & Highlights -->
-
-<BuyBook
-  library   = {frontmatter.library}
-  bookshelf = {frontmatter.bookshelf}
-  amazon    = {frontmatter.amazon}
-/>
+Whether you’re struggling to communicate with your kid’s teacher at school, an employee at work, or the people you love the most - Headlee offers smart strategies that can help us all have conversations that matter."  

@@ -19,6 +19,4 @@ As president, Carter was not merely an outsider; he was an outlier. He was the o
 
 In these remarkable pages, Bird traces the arc of Carter's administration, from his aggressive domestic agenda to his controversial foreign policy record, taking readers inside the Oval Office and through Carter's battles with both a political establishment and a Washington press corps that proved as adversarial as any foreign power. Bird shows how issues still hotly debated today--from national health care to growing inequality and racism to the Israeli-Palestinian conflict--burned at the heart of Carter's America, and consumed a president who found a moral duty in solving them.
 
-Drawing on interviews with Carter and members of his administration and recently declassified documents, Bird delivers a profound, clear-eyed evaluation of a leader whose legacy has been deeply misunderstood. The Outlier is the definitive account of an enigmatic presidency--both as it really happened and as it is remembered in the American consciousness.
-
-<!-- ### Notes & Highlights -->
+Drawing on interviews with Carter and members of his administration and recently declassified documents, Bird delivers a profound, clear-eyed evaluation of a leader whose legacy has been deeply misunderstood. The Outlier is the definitive account of an enigmatic presidency--both as it really happened and as it is remembered in the American consciousness.  

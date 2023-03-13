@@ -13,6 +13,4 @@ bookshop: https://bookshop.org/books/the-jungle-book-official-edition/9781673300
 amazon: https://www.amazon.com/Jungle-Book-Rudyard-Kipling/dp/1503332543
 ---
 
-The Jungle Book, written by Rudyard Kipling, tells the story of Mowgli, a child who ends up living with wolves and learning the ways of nature, trying to survive against enemy animals and making great friendships along the way.
-
-<!-- ### Notes & Highlights -->
+The Jungle Book, written by Rudyard Kipling, tells the story of Mowgli, a child who ends up living with wolves and learning the ways of nature, trying to survive against enemy animals and making great friendships along the way.  

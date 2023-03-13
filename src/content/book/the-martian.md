@@ -21,6 +21,4 @@ After a dust storm nearly kills him and forces his crew to evacuate while thinki
 
 Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first.
 
-But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills - and a relentless, dogged refusal to quit - he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?
-
-<!-- ### Notes & Highlights -->
+But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills - and a relentless, dogged refusal to quit - he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?  
