@@ -1,0 +1,22 @@
+---
+layout: ../../layouts/BookLayout.astro
+title: ""
+author:
+currentlyReading: false
+startDate: 2023 Mar 14
+finishDate: 2023 Mar 14
+added: 2023 Mar 14
+notes: false
+coverImage: /covers/
+library: https://share.libbyapp.com/title/
+bookshelf:
+amazon:
+---
+
+<!-- ### Notes & Highlights -->
+
+<BuyBook
+  library   = {frontmatter.library}
+  bookshelf = {frontmatter.bookshelf}
+  amazon    = {frontmatter.amazon}
+/>

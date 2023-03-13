@@ -1,0 +1,51 @@
+---
+layout: ../../layouts/BookLayout.astro
+title: "Misbehaving: The Making of Behavioral Economics"
+author: Richard H. Thaler
+currentlyReading: false
+#startDate:
+finishDate: 2018 Jan 03
+added: 2018 Jan 03
+notes: true
+coverImage: /covers/misbehaving.webp
+library: https://share.libbyapp.com/title/2310749
+bookshop: https://bookshop.org/books/misbehaving-the-making-of-behavioral-economics/9780393352795
+amazon: https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler/dp/039335279X
+---
+
+Get ready to change the way you think about economics.
+
+Nobel laureate Richard H. Thaler has spent his career studying the radical notion that the central agents in the economy are humans - predictable, error-prone individuals. Misbehaving is his arresting, frequently hilarious account of the struggle to bring an academic discipline back down to earth - and change the way we think about economics, ourselves, and our world.
+
+Traditional economics assumes rational actors. Early in his research, Thaler realized these Spock-like automatons were nothing like real people. Whether buying a clock radio, selling basketball tickets, or applying for a mortgage, we all succumb to biases and make decisions that deviate from the standards of rationality assumed by economists. In other words, we misbehave. More importantly, our misbehavior has serious consequences. Dismissed at first by economists as an amusing sideshow, the study of human miscalculations and their effects on markets now drives efforts to make better decisions in our lives, our businesses, and our governments.
+
+Coupling recent discoveries in human psychology with a practical understanding of incentives and market behavior, Thaler enlightens readers about how to make smarter decisions in an increasingly mystifying world. He reveals how behavioral economic analysis opens up new ways to look at everything from household finance to assigning faculty offices in a new building, to TV game shows, the NFL draft, and businesses like Uber.
+
+Laced with antic stories of Thaler’s spirited battles with the bastions of traditional economic thinking, Misbehaving is a singular look into profound human foibles. When economics meets psychology, the implications for individuals, managers, and policy makers are both profound and entertaining.
+
+### Notes & Highlights
+> Eventually I settled on a formulation that involves two kinds of utility: acquisition utility and transaction utility. Acquisition utility is based on standard economic theory and is equivalent to what economists call “consumer surplus.” As the name suggests, it is the surplus remaining after we measure the utility of the object gained and then subtract the opportunity cost of what has to be given up. For an Econ, acquisition utility is the end of the story. A purchase will produce an abundance of acquisition utility only if a consumer values something much more than the marketplace does. If you are very thirsty, then a one-dollar bottle of water is a utility windfall. And for an Econ who owns a double bed, the acquisition utility of a quilt that fits the bed would be greater than one that hangs two feet over the side in every direction. Humans, on the other hand, also weigh another aspect of the purchase: the perceived quality of the deal. That is what transaction utility captures. It is defined as the difference between the price actually paid for the object and the price one would normally expect to pay, the reference price.
+
+> Further research by Ernst Fehr and his colleagues has shown that, consistent with Andreoni’s finding, a large proportion of people can be categorized as conditional cooperators, meaning that they are willing to cooperate if enough others do. People start out these games willing to give their fellow players the benefit of the doubt, but if cooperation rates are low, these conditional cooperators turn into free riders. However, cooperation can be maintained even in repeated games if players are given the opportunity to punish those who do not cooperate. As illustrated by the Punishment Game, described earlier, people are willing to spend some of their own money to teach a lesson to those who behave unfairly, and this willingness to punish disciplines potential free riders and keeps robust cooperation rates stable.
+
+> In this example, narrow framing prevented innovation and experimentation, two essential ingredients in the long-term success of any organization.
+
+> In order to get managers to be willing to take risks, it is necessary to create an environment in which those managers will be rewarded for decisions that were value-maximizing ex ante, that is, with information available at the time they were made, even if they turn out to lose money ex post. Implementing such a policy is made difficult by hindsight bias. Whenever there is a time lapse between the times when a decision is made and when the results come in, the boss may have trouble remembering that he originally thought it was a good idea too. The bottom line is that in many situations in which agents are making poor choices, the person who is misbehaving is often the principal, not the agent. The misbehavior is in failing to create an environment in which employees feel that they can take good risks and not be punished if the risks fail to pay off.
+
+> The focus of the experiment was on the way in which the returns were displayed. In one version, the subjects were shown the distribution of annual rates of return; in another, they were shown the distribution of simulated average annual rates of return for a thirty-year horizon (see figure 9).
+
+> For our Human subjects, the presentation of the data had a huge effect. The employees shown the annual rates of return chose to put 40% of their hypothetical portfolio in stocks, while those who looked at the long-term averages elected to put 90% of their money into stocks.
+
+> Recall that the first stage of the experiments involved tokens that were redeemable for cash, with each subject told a different personal redemption value for a token, meaning the cash they could get for it if they owned one at the end of the experiment. The Coase theorem predicts that the students who received the highest personal valuations for their tokens would end up owning them; that is what it means to say that resources flow to their highest valued use. And that is what happened. The market worked perfectly, just as the theory predicted, which also meant that transaction costs must not be inhibiting trade in any meaningful way. But the Coase theorem is not meant to be limited to tokens for which people are told their personal values. It says that the same thing should happen when we replace the tokens with real goods, such as coffee mugs. So when we gave every other student a coffee mug, the Coase theorem predicts that the students who liked the mugs most should end up owning them, and since the mugs were randomly assigned, about half the mugs should trade. Yet we found that trading volume was much lower than that: resources were not flowing at the rate predicted. And the reason was the endowment effect: people given mugs valued them about twice as much as people not given the mugs. How goods were allocated did affect who would end up owning the mugs. In other words, the Coase theorem worked in theory, when trading for tokens redeemable for cash, but it did not work in practice, when trading for real-world objects like coffee mugs. Questioning the Coase theorem at a law and economics workshop! That was high treason.
+
+> They had a project that studied the decisions made on a Dutch television game show. I was intrigued by their project, and was excited about their preliminary findings supporting the existence of a house money effect at very high stakes. (Recall that the house money effect, introduced in chapter 10, says that people are more willing to take chances when they think they are ahead in the game.)
+
+> The third behavioral insight was related to self-control. A key finding from the research on this topic is that we have more self-control when it comes to the future than the present. Even the kids in Walter Mischel’s marshmallow experiments would have no trouble if today they were given the choice between one marshmallow at 2 p.m. tomorrow or three marshmallows at 2:15 p.m. tomorrow. Yet, we know that if we give them that same choice tomorrow at 2 p.m., few would be able to wait until 2:15. They are present-biased.
+
+> The phrase “libertarian paternalism” is a mouthful, and it does sound like an oxymoron. But it is not; at least not the way we define the terms. By paternalism, we mean trying to help people achieve their own goals. If someone asks how to get to the nearest subway station and you give her accurate directions, you are acting as a paternalist in our usage. We use the word “libertarian” as an adjective to mean trying to help in this way but without restricting choices.*
+
+> If you want to encourage someone to do something, make it easy. This is a lesson I learned from Danny Kahneman, based on the work of Kurt Lewin, a prominent psychologist of the first half of the twentieth century. Lewin described the first step in getting people to change their behavior as “unfreezing.” One way to unfreeze people is to remove barriers that are preventing them from changing, however subtle those barriers might be.
+
+> Those on the left tend to push for targeted subsidies for industries they want to encourage (such as clean energy) or increased availability of loans from the Small Business Administration, a government agency whose mission is to encourage the creation and success of new enterprises.
+
+> Another interesting result comes directly from the behavioral economics playbook. The team of Fryer, John List, Steven Levitt, and Sally Sadoff has found that the framing of a bonus to teachers makes a big difference. Teachers who are given a bonus at the beginning of the school year that must be returned if they fail to meet some target improve the performance of their students significantly more than teachers who are offered an end-of-year bonus contingent on meeting the same goals.  
