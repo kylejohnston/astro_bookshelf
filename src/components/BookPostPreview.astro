@@ -1,17 +1,18 @@
 ---
 // renders the book cover on the homepage / index.astro
-export interface Props {
-	post: any;
+import type { CollectionEntry } from 'astro:content';
+interface Props {
+	post: CollectionEntry<'book'>;
 }
 
 const { post } = Astro.props;
-const altContent = [post.frontmatter.title + " by " + post.frontmatter.author + " finished on " + post.frontmatter.finishDate];
+const altContent = [post.data.title + " by " + post.data.author + " finished on " + post.data.finishDate];
 ---
 
 <article class="post-preview">
-	<a href={post.url}>
-		{post.frontmatter.coverImage && <img width="100%" height="auto" class="book-cover" loading="lazy" src={post.frontmatter.coverImage} alt={altContent} /> }
-		{post.frontmatter.notes && <p class="font-mono text-sm text-center mt-3 text-gray-600">📝 Notes</p> }
-		{post.frontmatter.currentlyReading && <p class="font-mono text-sm text-center mt-3 text-gray-600">📖 Currently Reading</p> }
+	<a href={"/book/" + post.slug + "/"}>
+		{post.data.coverImage && <img width="100%" height="auto" class="book-cover" loading="lazy" src={post.data.coverImage} alt={altContent} /> }
+		{post.data.notes && <p class="font-mono text-sm text-center mt-3 text-gray-600">📝 Notes</p> }
+		{post.data.currentlyReading && <p class="font-mono text-sm text-center mt-3 text-gray-600">📖 Currently Reading</p> }
 	</a>
 </article>
