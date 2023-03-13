@@ -1,4 +1,5 @@
 ---
+import { getCollection } from 'astro:content';
 // Component Imports
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
@@ -14,9 +15,14 @@ let description = 'A running list of the books I\'ve read.';
 let permalink = 'https://bookshelf.kylewjohnston.com/';
 
 // Data Fetching: List all Markdown posts in the repo.
+// let allPosts = await Astro.glob('./book/*.md');
+// allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.added).valueOf() - new Date(a.frontmatter.added).valueOf());
 
-let allPosts = await Astro.glob('./book/*.md');
-allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.added).valueOf() - new Date(a.frontmatter.added).valueOf());
+// New: Use Content Collections to list all posts from src/content/book
+const books = (await getCollection('book')).sort(
+	(a, b) => b.data.added.valueOf() - a.data.added.valueOf()
+);
+
 
 // Full Astro Component Syntax:
 // https://docs.astro.build/core-concepts/astro-components/
@@ -31,7 +37,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.added).valueOf() - new
 		<MainNav /> <!-- logo, nav -->
 		<main class="content">
 			<section aria-label="Bookshelf" class="book-grid">
-				{allPosts.map((p) => <BookPostPreview post={p} />)}
+				{books.map((p) => <BookPostPreview post={p} />)}
 			</section>
 		</main>
 		<Footer />
