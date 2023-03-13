@@ -23,6 +23,4 @@ It’s a love letter. To life.
 
 It’s also a guide to catching more greenlights - and to realizing that the yellows and reds eventually turn green too.
 
-Good luck.
-
-<!-- ### Notes & Highlights -->
+Good luck.  

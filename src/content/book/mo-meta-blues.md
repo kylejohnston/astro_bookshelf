@@ -21,6 +21,4 @@ But Mo‘ Meta Blues isn’t just a memoir. It’s a dialogue about the nature o
 
 It’s a rare gift that gives as well as takes.
 
-It’s a record that keeps going around and around.
-
-<!-- ### Notes & Highlights -->
+It’s a record that keeps going around and around.  

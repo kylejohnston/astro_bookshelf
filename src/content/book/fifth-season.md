@@ -17,6 +17,4 @@ This is the way the world ends. . .for the last time.
 
 It starts with the great red rift across the heart of the world’s sole continent, spewing ash that blots out the sun. It starts with death, with a murdered son and a missing daughter. It starts with betrayal, and long dormant wounds rising up to fester.
 
-This is the Stillness, a land long familiar with catastrophe, where the power of the earth is wielded as a weapon. And where there is no mercy.
-
-<!-- ### Notes & Highlights -->
+This is the Stillness, a land long familiar with catastrophe, where the power of the earth is wielded as a weapon. And where there is no mercy.  

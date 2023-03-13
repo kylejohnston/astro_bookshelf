@@ -26,6 +26,4 @@ You’ll learn Cialdini’s Universal Principles of Influence, including new res
 - Scarcity
 - Unity, the newest principle for this edition
 
-Understanding and applying the principles ethically is cost-free and deceptively easy. Backed by Dr. Cialdini’s 35 years of evidence-based, peer-reviewed scientific research - including a three-year field study on what leads people to change - Influence is a comprehensive guide to using these principles to move others in your direction.
-
-<!-- ### Notes & Highlights -->
+Understanding and applying the principles ethically is cost-free and deceptively easy. Backed by Dr. Cialdini’s 35 years of evidence-based, peer-reviewed scientific research - including a three-year field study on what leads people to change - Influence is a comprehensive guide to using these principles to move others in your direction.  

@@ -15,6 +15,4 @@ The Seven Principles for Making Marriage Work has revolutionized the way we unde
 
 Straightforward yet profound, these principles teach partners new approaches for resolving conflicts, creating new common ground, and achieving greater levels of intimacy. Gottman offers strategies and resources to help couples collaborate more effectively to resolve any problem, whether dealing with issues related to sex, money, religion, work, family, or anything else.
 
-Packed with new exercises and the latest research out of the esteemed Gottman Institute, this revised edition of The Seven Principles for Making Marriage Work is the definitive guide for anyone who wants their relationship to attain its highest potential.
-
-<!-- ### Notes & Highlights -->
+Packed with new exercises and the latest research out of the esteemed Gottman Institute, this revised edition of The Seven Principles for Making Marriage Work is the definitive guide for anyone who wants their relationship to attain its highest potential.  

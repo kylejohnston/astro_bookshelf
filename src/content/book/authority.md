@@ -17,6 +17,4 @@ After thirty years, the only human engagement with Area X - a seemingly malevole
 
 John Rodrigues (aka “Control”) is the Southern Reach’s newly appointed head. Working with a distrustful but desperate team, a series of frustrating interrogations, a cache of hidden notes, and hours of profoundly troubling video footage, Control begins to penetrate the secrets of Area X. But with each discovery he must confront disturbing truths about himself and the agency he’s pledged to serve.
 
-In Authority, the second volume of Jeff VanderMeer’s Southern Reach trilogy, Area X’s most disturbing questions are answered… but the answers are far from reassuring.
-
-<!-- ### Notes & Highlights -->
+In Authority, the second volume of Jeff VanderMeer’s Southern Reach trilogy, Area X’s most disturbing questions are answered… but the answers are far from reassuring.  

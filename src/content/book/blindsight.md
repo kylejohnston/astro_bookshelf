@@ -22,6 +22,4 @@ So who do you send to force introductions with unknown and unknowable alien inte
 
 You send a linguist with multiple personalities, her brain surgically partitioned into separate, sentient processing cores. You send a biologist so radically interfaced with machinery that he sees x-rays and tastes ultrasound. You send a pacifist warrior in the faint hope she won’t be needed. You send a monster to command them all, an extinct hominid predator once called vampire, recalled from the grave with the voodoo of recombinant genetics and the blood of sociopaths. And you send a synthesist - an informational topologist with half his mind gone - as an interface between here and there.
 
-Pray they can be trusted with the fate of a world. They may be more alien than the thing they’ve been sent to find.
-
-<!-- ### Notes & Highlights -->
+Pray they can be trusted with the fate of a world. They may be more alien than the thing they’ve been sent to find.  

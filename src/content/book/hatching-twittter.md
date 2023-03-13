@@ -21,6 +21,4 @@ But few people know that it nearly fell to pieces early on.
 
 In this rousing history that reads like a novel, Hatching Twitter takes readers behind the scenes of Twitter’s early exponential growth, following the four hackers - Ev Williams, Jack Dorsey, Biz Stone, and Noah Glass, who created the cultural juggernaut practically by accident.  It’s a drama of betrayed friendships and high-stakes power struggles over money, influence, and control over a company that was growing faster than they could ever imagine.
 
-Drawing on hundreds of sources, documents, and internal e-mails, Bilton offers a rarely-seen glimpse of the inner workings of technology startups, venture capital, and Silicon Valley culture.
-
-<!-- ### Notes & Highlights -->
+Drawing on hundreds of sources, documents, and internal e-mails, Bilton offers a rarely-seen glimpse of the inner workings of technology startups, venture capital, and Silicon Valley culture.  

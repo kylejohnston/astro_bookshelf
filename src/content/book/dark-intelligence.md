@@ -19,6 +19,4 @@ Thorvald Spear has been brought back from the dead. Killed a century earlier by 
 
 Crime lord Isobel Satomi got more than she bargained for when she struck a deal with Penny Royal. Turning part-AI herself gave her frightening power, but the upgrade came with horrifying repercussions--and it's turning Isobel into something far from human.
 
-Spear hires Isobel to track down Penny Royal, but as she continues her metamorphosis, it's clear that Isobel's monstrous transformations will eventually become uncontrollable. Will Spear finish his hunt before becoming the hunted?
-
-<!-- ### Notes & Highlights -->
+Spear hires Isobel to track down Penny Royal, but as she continues her metamorphosis, it's clear that Isobel's monstrous transformations will eventually become uncontrollable. Will Spear finish his hunt before becoming the hunted?  

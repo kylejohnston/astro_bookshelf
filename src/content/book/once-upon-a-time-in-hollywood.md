@@ -19,6 +19,4 @@ SHARON TATE - She left Texas to chase a movie-star dream, and found it. Sharon's
 
 CHARLES MANSON - The ex-con's got a bunch of zonked-out hippies thinking he's their spiritual leader, but he'd trade it all to be a rock 'n' roll star.
 
-HOLLYWOOD 1969 - YOU SHOULDA BEEN THERE
-
-<!-- ### Notes & Highlights -->
+HOLLYWOOD 1969 - YOU SHOULDA BEEN THERE  

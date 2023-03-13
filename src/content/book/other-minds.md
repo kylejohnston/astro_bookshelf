@@ -19,12 +19,4 @@ In Other Minds, Peter Godfrey-Smith, a distinguished philosopher of science and 
 
 But what kind of intelligence do cephalopods possess? Drawing on the latest scientific research and his own scuba-diving adventures, Godfrey-Smith probes the many mysteries that surround the lineage. How did the octopus, a solitary creature with little social life, become so smart? What is it like to have eight tentacles that are so packed with neurons that they virtually “think for themselves”? What happens when some octopuses abandon their hermit-like ways and congregate, as they do in a unique location off the coast of Australia?
 
-By tracing the question of inner life back to its roots and comparing human beings with our most remarkable animal relatives, Godfrey-Smith casts crucial new light on the octopus mind - and on our own.
-
-<!-- ### Notes & Highlights -->
-
-<BuyBook
-  library   = {frontmatter.library}
-  bookshelf = {frontmatter.bookshelf}
-  amazon    = {frontmatter.amazon}
-/>
+By tracing the question of inner life back to its roots and comparing human beings with our most remarkable animal relatives, Godfrey-Smith casts crucial new light on the octopus mind - and on our own.  

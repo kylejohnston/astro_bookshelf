@@ -19,6 +19,4 @@ Preet Bharara has spent much of his life examining our legal system, pushing to 
 
 Bharara uses the many illustrative anecdotes and case histories from his storied, formidable career - the successes as well as the failures - to shed light on the realities of the legal system and the consequences of taking action.
 
-Inspiring and inspiringly written, Doing Justice gives us hope that rational and objective fact-based thinking, combined with compassion, can help us achieve truth and justice in our daily lives. Sometimes poignant and sometimes controversial, Bharara’s expose is a thought-provoking, entertaining book about the need to find the humanity in our legal system as well as in our society.
-
-<!-- ### Notes & Highlights -->
+Inspiring and inspiringly written, Doing Justice gives us hope that rational and objective fact-based thinking, combined with compassion, can help us achieve truth and justice in our daily lives. Sometimes poignant and sometimes controversial, Bharara’s expose is a thought-provoking, entertaining book about the need to find the humanity in our legal system as well as in our society.  

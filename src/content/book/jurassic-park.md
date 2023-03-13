@@ -15,6 +15,4 @@ An astonishing technique for recovering and cloning dinosaur DNA has been discov
 
 Until something goes wrong…
 
-In Jurassic Park, Michael Crichton taps all his mesmerizing talent and scientific brilliance to create his most electrifying technothriller.
-
-<!-- ### Notes & Highlights -->
+In Jurassic Park, Michael Crichton taps all his mesmerizing talent and scientific brilliance to create his most electrifying technothriller.  

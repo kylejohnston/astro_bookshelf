@@ -17,6 +17,4 @@ Area X has been cut off from the rest of the continent for decades. Nature has r
 
 The group is made up of four women: an anthropologist; a surveyor; a psychologist, the de facto leader; and our narrator, a biologist. Their mission is to map the terrain, record all observations of their surroundings and of one another, and, above all, avoid being contaminated by Area X itself.
 
-They arrive expecting the unexpected, and Area X delivers - they discover a massive topographic anomaly and life forms that surpass understanding - but it’s the surprises that came across the border with them and the secrets the expedition members are keeping from one another that change everything.
-
-<!-- ### Notes & Highlights -->
+They arrive expecting the unexpected, and Area X delivers - they discover a massive topographic anomaly and life forms that surpass understanding - but it’s the surprises that came across the border with them and the secrets the expedition members are keeping from one another that change everything.  

@@ -25,6 +25,4 @@ Trapped between competing forces, pursued by a killer and the law alike, even Ja
 
 Jazz is no hero, but she is a very good criminal.
 
-That’ll have to do.
-
-<!-- ### Notes & Highlights -->
+That’ll have to do.  

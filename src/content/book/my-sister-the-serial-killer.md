@@ -17,6 +17,4 @@ Korede’s sister Ayoola is many things: the favorite child, the beautiful one, 
 
 Korede’s practicality is the sisters’ saving grace. She knows the best solutions for cleaning blood (bleach, bleach, and more bleach), the best way to move a body (wrap it in sheets like a mummy), and she keeps Ayoola from posting pictures to Instagram when she should be mourning her “missing” boyfriend. Not that she gets any credit.
 
-Korede has long been in love with a kind, handsome doctor at the hospital where she works. She dreams of the day when he will realize that she’s exactly what he needs. But when he asks Korede for Ayoola’s phone number, she must reckon with what her sister has become and how far she’s willing to go to protect her.
-
-<!-- ### Notes & Highlights -->
+Korede has long been in love with a kind, handsome doctor at the hospital where she works. She dreams of the day when he will realize that she’s exactly what he needs. But when he asks Korede for Ayoola’s phone number, she must reckon with what her sister has become and how far she’s willing to go to protect her.  

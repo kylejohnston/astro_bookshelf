@@ -21,6 +21,4 @@ While the best copywriters have always been brand storytellers, now that story c
 
 The art and science of advertising has gone from creating one-way messages to engaging audiences in ongoing conversations.
 
-A new ad landscape means new opportunities for writers who now have the incredible opportunity to push brand narrative to places it's never been before and to actually create something so useful or entertaining that it generates its own audience. It also means that many of the rules of the past - while exceedingly worthy of study - are insufficient to guide the modern copywriter. Co-published with AdvertisingAge, The Idea Writers outlines the changing landscape of the advertising industry while providing useful how-to advice.
-
-<!-- ### Notes & Highlights -->
+A new ad landscape means new opportunities for writers who now have the incredible opportunity to push brand narrative to places it's never been before and to actually create something so useful or entertaining that it generates its own audience. It also means that many of the rules of the past - while exceedingly worthy of study - are insufficient to guide the modern copywriter. Co-published with AdvertisingAge, The Idea Writers outlines the changing landscape of the advertising industry while providing useful how-to advice.  

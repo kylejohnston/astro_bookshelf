@@ -15,6 +15,4 @@ When COVID-19 sweeps through New York City, Jamie Gray is stuck as a dead-end dr
 
 What Tom doesn't tell Jamie is that the animals his team cares for are not here on Earth. Not our Earth, at least. In an alternate dimension, massive dinosaur-like creatures named Kaiju roam a warm, human-free world. They're the universe's largest and most dangerous panda and they're in trouble.
 
-It's not just the Kaiju Preservation Society who have found their way to the alternate world. Others have, too. And their carelessness could cause millions back on our Earth to die.
-
-<!-- ### Notes & Highlights -->
+It's not just the Kaiju Preservation Society who have found their way to the alternate world. Others have, too. And their carelessness could cause millions back on our Earth to die.  

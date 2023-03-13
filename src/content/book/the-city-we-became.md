@@ -21,12 +21,4 @@ In Brooklyn, a politician and mother finds she can hear the songs of her city, p
 
 And they’re not the only ones.
 
-Every great city has a soul. Some are ancient as myths, and others are as new and destructive as children. New York? She’s got six.
-
-<!-- ### Notes & Highlights -->
-
-<BuyBook
-  library   = {frontmatter.library}
-  bookshelf = {frontmatter.bookshelf}
-  amazon    = {frontmatter.amazon}
-/>
+Every great city has a soul. Some are ancient as myths, and others are as new and destructive as children. New York? She’s got six.  

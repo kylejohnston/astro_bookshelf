@@ -13,6 +13,4 @@ bookshop: https://bookshop.org/books/super-sad-true-love-story-9780812977868/978
 amazon: https://www.amazon.com/Super-Sad-True-Love-Story/dp/0812977866
 ---
 
-In the near future, America is crushed by a financial crisis and our patient Chinese creditors may just be ready to foreclose on the whole mess. Then Lenny Abramov, son of an Russian immigrant janitor and ardent fan of “printed, bound media artifacts” (aka books), meets Eunice Park, an impossibly cute Korean American woman with a major in Images and a minor in Assertiveness. Could falling in love redeem a planet falling apart?
-
-<!-- ### Notes & Highlights -->
+In the near future, America is crushed by a financial crisis and our patient Chinese creditors may just be ready to foreclose on the whole mess. Then Lenny Abramov, son of an Russian immigrant janitor and ardent fan of “printed, bound media artifacts” (aka books), meets Eunice Park, an impossibly cute Korean American woman with a major in Images and a minor in Assertiveness. Could falling in love redeem a planet falling apart?  

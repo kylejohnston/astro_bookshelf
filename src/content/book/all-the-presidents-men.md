@@ -17,5 +17,3 @@ The most devastating political detective story of the century: two Washington Po
 One of Time magazine's All-Time 100 Best Nonfiction Books, this is the book that changed America. Published just months before President Nixon's resignation, All the President's Men revealed the full scope of the scandal and introduced for the first time the mysterious ""Deep Throat."" Beginning with the story of a simple burglary at Democratic headquarters and then continuing through headline after headline, Bernstein and Woodward deliver a riveting firsthand account of their reporting. Their explosive reports won a Pulitzer Prize for The Washington Post, toppled the president, and have since inspired generations of reporters.
 
 All the President's Men is a riveting detective story, capturing the exhilarating rush of the biggest presidential scandal in US history as it unfolded in real time.
-
-<!-- ### Notes & Highlights -->

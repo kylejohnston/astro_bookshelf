@@ -15,6 +15,4 @@ In 2030, a grieving archeologist arrives in the Arctic Circle to continue the wo
 
 Once unleashed, the Arctic plague will reshape life on Earth for generations to come, quickly traversing the globe, forcing humanity to devise a myriad of moving and inventive ways to embrace possibility in the face of tragedy. In a theme park designed for terminally ill children, a cynical employee falls in love with a mother desperate to hold on to her infected son. A heartbroken scientist searching for a cure finds a second chance at fatherhood when one of his test subjects--a pig--develops the capacity for human speech. A widowed painter and her teenaged granddaughter embark on a cosmic quest to locate a new home planet.
 
-From funerary skyscrapers to hotels for the dead to interstellar starships, Sequoia Nagamatsu takes readers on a wildly original and compassionate journey, spanning continents, centuries, and even celestial bodies to tell a story about the resilience of the human spirit, our infinite capacity to dream, and the connective threads that tie us all together in the universe.
-
-<!-- ### Notes & Highlights -->
+From funerary skyscrapers to hotels for the dead to interstellar starships, Sequoia Nagamatsu takes readers on a wildly original and compassionate journey, spanning continents, centuries, and even celestial bodies to tell a story about the resilience of the human spirit, our infinite capacity to dream, and the connective threads that tie us all together in the universe.  

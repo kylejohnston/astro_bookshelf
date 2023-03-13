@@ -13,6 +13,4 @@ bookshop: https://bookshop.org/books/colorless-tsukuru-tazaki-and-his-years-of-p
 amazon: https://www.amazon.com/Colorless-Tsukuru-Tazaki-Years-Pilgrimage/dp/0804170126
 ---
 
-Colorless Tsukuru Tazaki and His Years of Pilgrimage is the remarkable story of a young man haunted by a great loss; of dreams and nightmares that have unintended consequences for the world around us; and of a journey into the past that is necessary to mend the present.
-
-<!-- ### Notes & Highlights -->
+Colorless Tsukuru Tazaki and His Years of Pilgrimage is the remarkable story of a young man haunted by a great loss; of dreams and nightmares that have unintended consequences for the world around us; and of a journey into the past that is necessary to mend the present.  

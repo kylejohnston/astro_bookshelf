@@ -19,6 +19,4 @@ Explores the mix of geometrical abstraction and emotional expressions, plus how 
 
 Encourages you to answer the question, "How does the structure of a picture—or any visual art form—affect our emotional response?"
 
-First published in 1991, Picture This has changed the way artists, illustrators, reviewers, critics, and readers look at and understand art.
-
-<!-- ### Notes & Highlights -->
+First published in 1991, Picture This has changed the way artists, illustrators, reviewers, critics, and readers look at and understand art.  

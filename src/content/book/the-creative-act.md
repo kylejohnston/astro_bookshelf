@@ -28,11 +28,4 @@ The Creative Act is a beautiful and generous course of study that illuminates th
 > Each mindset evokes a universal rule: **whatever we concentrate on, we get**.  
 > If the mind creates a world that is limited, where we think we don't have enough worthwhile ideas or material, we will not see the inspiration the universe is providing.  
 > And the river slows.  
-> In the abundant world, we have a greater capacity to complete and release our work. When there are so many ideas available and so much great art to make, we are compelled to engage. *~p.201*
-
-
-<BuyBook
-  library   = {frontmatter.library}
-  bookshelf = {frontmatter.bookshelf}
-  amazon    = {frontmatter.amazon}
-/>
+> In the abundant world, we have a greater capacity to complete and release our work. When there are so many ideas available and so much great art to make, we are compelled to engage. *~p.201*  

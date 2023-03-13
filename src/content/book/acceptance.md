@@ -18,5 +18,3 @@ It is winter in Area X, the mysterious wilderness that has defied explanation fo
 Meanwhile, Acceptance tunnels ever deeper into the circumstances surrounding the creation of Area X - what initiated this unnatural upheaval? Among the many who have tried, who has gotten close to understanding Area X - and who may have been corrupted by it?
 
 In this last installment of Jeff VanderMeer’s Southern Reach trilogy, the mysteries of Area X may be solved, but their consequences and implications are no less profound - or terrifying.
-
-<!-- ### Notes & Highlights -->

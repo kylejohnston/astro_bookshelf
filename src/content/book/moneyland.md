@@ -23,6 +23,4 @@ Join the investigative journalist Oliver Bullough on a journey into Moneyland - 
 
 Learn how the institutions of Europe and the United States have become money-laundering operations, attacking the foundations of many of the world’s most stable countries. Meet the kleptocrats. Meet their awful children. And find out how heroic activists around the world are fighting back.
 
-This is the story of wealth and power in the 21st century. It isn’t too late to change it.
-
-<!-- ### Notes & Highlights -->
+This is the story of wealth and power in the 21st century. It isn’t too late to change it.  

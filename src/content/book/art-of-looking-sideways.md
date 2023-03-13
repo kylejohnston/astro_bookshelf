@@ -17,6 +17,4 @@ The Art of Looking Sideways is a primer in visual intelligence, an exploration o
 
 This book does not set out to teach lessons, but it is full of wisdom and insight collected from all over the world. Describing himself as a visual jackdaw, master designer Alan Fletcher has distilled a lifetime of experience and reflection into a brilliantly witty and inimitable exploration of such subjects as perception, colour, pattern, proportion, paradox, illusion, language, alphabets, words, letters, ideas, creativity, culture, style, aesthetics and value.
 
-The Art of Looking Sideways is the ultimate guide to visual awareness, a magical compilation that will entertain and inspire all those who enjoy the interplay between word and image, and who relish the odd and the unexpected.
-
-<!-- ### Notes & Highlights -->
+The Art of Looking Sideways is the ultimate guide to visual awareness, a magical compilation that will entertain and inspire all those who enjoy the interplay between word and image, and who relish the odd and the unexpected.  

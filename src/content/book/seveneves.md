@@ -17,6 +17,4 @@ A catastrophic event renders the earth a ticking time bomb. In a feverish race a
 
 But the complexities and unpredictability of human nature coupled with unforeseen challenges and dangers threaten the intrepid pioneers, until only a handful of survivors remain…
 
-Five thousand years later, their progeny - seven distinct races now three billion strong - embark on yet another audacious journey into the unknown… to an alien world utterly transformed by cataclysm and time: Earth.
-
-<!-- ### Notes & Highlights -->
+Five thousand years later, their progeny - seven distinct races now three billion strong - embark on yet another audacious journey into the unknown… to an alien world utterly transformed by cataclysm and time: Earth.  

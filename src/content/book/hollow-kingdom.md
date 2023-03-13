@@ -19,6 +19,4 @@ But when Big Jim’s eyeball falls out of his head, S.T. starts to think somethi
 
 Humanity’s extinction has seemingly arrived, and the only one determined to save it is a cowardly crow whose only knowledge of the world comes from TV.
 
-What could possibly go wrong?
-
-<!-- ### Notes & Highlights -->
+What could possibly go wrong?  

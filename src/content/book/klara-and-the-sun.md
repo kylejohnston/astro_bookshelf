@@ -11,6 +11,4 @@ bookshop: https://bookshop.org/books/klara-and-the-sun-9780593396568/97805933112
 amazon: https://www.amazon.com/Klara-Sun-novel-Vintage-International/dp/0593311299/
 ---
 
-Here is the story of Klara, an Artificial Friend with outstanding observational qualities, who, from her place in the store, watches carefully the behavior of those who come in to browse, and of those who pass on the street outside. She remains hopeful that a customer will soon choose her. Klara and the Sun is a thrilling book that offers a look at our changing world through the eyes of an unforgettable narrator, and one that explores the fundamental question: what does it mean to love?
-
-<!-- ### Notes & Highlights -->
+Here is the story of Klara, an Artificial Friend with outstanding observational qualities, who, from her place in the store, watches carefully the behavior of those who come in to browse, and of those who pass on the street outside. She remains hopeful that a customer will soon choose her. Klara and the Sun is a thrilling book that offers a look at our changing world through the eyes of an unforgettable narrator, and one that explores the fundamental question: what does it mean to love?  

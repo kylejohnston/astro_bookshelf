@@ -23,6 +23,4 @@ Before a man Jason’s never met smiles down at him and says, “Welcome back, m
 
 In this world he’s woken up to, Jason’s life is not the one he knows. Hiswife is not his wife. His son was never born. And Jason is not an ordinary college physics professor, but a celebrated genius who has achieved something remarkable. Something impossible.
 
-Is it this world or the other that’s the dream? And even if the home he remembers is real, how can Jason possibly make it back to the family he loves? The answers lie in a journey more wondrous and horrifying than anything he could’ve imagined - one that will force him to confront the darkest parts of himself even as he battles a terrifying, seemingly unbeatable foe.
-
-<!-- ### Notes & Highlights -->
+Is it this world or the other that’s the dream? And even if the home he remembers is real, how can Jason possibly make it back to the family he loves? The answers lie in a journey more wondrous and horrifying than anything he could’ve imagined - one that will force him to confront the darkest parts of himself even as he battles a terrifying, seemingly unbeatable foe.  
