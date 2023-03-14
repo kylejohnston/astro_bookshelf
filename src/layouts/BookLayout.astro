@@ -7,11 +7,12 @@ import ReadingTime from '../components/ReadingTime.astro';
 
 const { content } = Astro.props;
 const { title, description, author, coverImage, permalink, library, bookshelf, bookshop, amazon, other, startDate, finishDate } = content;
+const pageTitle = [title + " by " + author];
 ---
 
 <html lang={content.lang || 'en'}>
 	<head>
-		<BaseHead {title} {description} {permalink} />
+		<BaseHead {pageTitle} {author} {description} {permalink} />
 	</head>
 
 	<body>
@@ -31,7 +32,7 @@ const { title, description, author, coverImage, permalink, library, bookshelf, b
           </section>
         </main>
         <div class="book-cover-col">
-          {coverImage && <img width="100%" height="auto" class="sticky top-4 book-cover" loading="lazy" src={coverImage} alt={title} /> }
+          {coverImage && <img width="100%" height="auto" class="sticky top-4 book-cover" loading="lazy" src={coverImage} alt={pageTitle} /> }
         </div>
       </div>
     </article>
