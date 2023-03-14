@@ -8,7 +8,7 @@ import MainNav from '../components/MainNav.astro'; // logo, nav
 // You can write any JavaScript/TypeScript that you'd like here.
 // It will run during the build, but never in the browser.
 // All variables are available to use in the HTML template below.
-let title = "Kyle Johnston's Bookshelf";
+let pageTitle = "About · Kyle Johnston's Bookshelf";
 let description = 'A running list of the books I\'ve read.';
 let permalink = 'https://bookshelf.kylewjohnston.com/about';
 
@@ -17,7 +17,7 @@ let permalink = 'https://bookshelf.kylewjohnston.com/about';
 
 <html lang="en">
 	<head>
-		<BaseHead {title} {description} {permalink} />
+		<BaseHead {pageTitle} {description} {permalink} />
 	</head>
 
 	<body>

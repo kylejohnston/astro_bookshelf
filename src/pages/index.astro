@@ -10,7 +10,8 @@ import BookPostPreview from '../components/BookPostPreview.astro';
 // You can write any JavaScript/TypeScript that you'd like here.
 // It will run during the build, but never in the browser.
 // All variables are available to use in the HTML template below.
-let title = "Kyle Johnston's Bookshelf";
+// let title = "Kyle Johnston's Bookshelf";
+let pageTitle = "Kyle Johnston's Bookshelf"
 let description = 'A running list of the books I\'ve read.';
 let permalink = 'https://bookshelf.kylewjohnston.com/';
 
@@ -30,7 +31,7 @@ const books = (await getCollection('book')).sort(
 
 <html lang="en">
 	<head>
-		<BaseHead {title} {description} {permalink} />
+		<BaseHead {pageTitle} {description} {permalink} />
 	</head>
 
 	<body>
