@@ -1112,6 +1112,13 @@ declare module 'astro:content' {
   collection: "book",
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] },
+"this-time-tomorrow.md": {
+  id: "this-time-tomorrow.md",
+  slug: "this-time-tomorrow",
+  body: string,
+  collection: "book",
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] },
 "time-travel-a-history.md": {
   id: "time-travel-a-history.md",
   slug: "time-travel-a-history",
