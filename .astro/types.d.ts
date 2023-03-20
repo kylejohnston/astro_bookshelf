@@ -1077,6 +1077,13 @@ declare module 'astro:content' {
   collection: "book",
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] },
+"the-untethered-soul.md": {
+  id: "the-untethered-soul.md",
+  slug: "the-untethered-soul",
+  body: string,
+  collection: "book",
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] },
 "the-wizard-and-the-prophet.md": {
   id: "the-wizard-and-the-prophet.md",
   slug: "the-wizard-and-the-prophet",
