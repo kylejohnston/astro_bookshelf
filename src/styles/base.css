@@ -53,6 +53,10 @@
 	.logo-tall { width: 24px; height: auto; @apply md:block hidden mb-2; }
 	.logo-wide { width: auto; height: 24px; @apply md:hidden mr-2; }
 
+	.search-wrapper { @apply mx-4 md:mx-8 mt-6 my-2 relative rounded-lg; }
+	.search-input   { @apply bg-[#FDFBF7] border border-gray-300 focus:border-primary text-base py-2 px-4 rounded-md w-full focus:outline-none placeholder:text-gray-400 focus:text-gray-800; }
+	.search-clear   { @apply absolute right-0 inset-y-0 bg-primary pl-3 pr-3 rounded-tr-lg rounded-br-lg hidden; }
+
 	main.content { @apply w-full; }
 
 	main a:link, main a:visited { color: var(--color); }
