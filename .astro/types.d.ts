@@ -377,6 +377,13 @@ declare module 'astro:content' {
   collection: "book",
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] },
+"elephant-in-the-brain.md": {
+  id: "elephant-in-the-brain.md",
+  slug: "elephant-in-the-brain",
+  body: string,
+  collection: "book",
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] },
 "empower.md": {
   id: "empower.md",
   slug: "empower",
