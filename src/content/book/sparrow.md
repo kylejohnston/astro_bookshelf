@@ -2,9 +2,9 @@
 layout: ../../layouts/BookLayout.astro
 title: "The Sparrow"
 author: Mary Doria Russell
-currentlyReading: true
+currentlyReading: false
 startDate: 2023 Apr 07
-# finishDate: 
+finishDate: 2023 May 14
 added: 2023 Apr 07
 notes: false
 coverImage: /covers/sparrow.webp
