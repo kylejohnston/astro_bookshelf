@@ -265,6 +265,13 @@ declare module 'astro:content' {
   collection: "book",
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] },
+"continuous-discovery-habits.md": {
+  id: "continuous-discovery-habits.md",
+  slug: "continuous-discovery-habits",
+  body: string,
+  collection: "book",
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] },
 "creative-quest.md": {
   id: "creative-quest.md",
   slug: "creative-quest",
@@ -625,6 +632,13 @@ declare module 'astro:content' {
 "mademoiselle-coco-chanel.md": {
   id: "mademoiselle-coco-chanel.md",
   slug: "mademoiselle-coco-chanel",
+  body: string,
+  collection: "book",
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] },
+"making-music.md": {
+  id: "making-music.md",
+  slug: "making-music",
   body: string,
   collection: "book",
   data: InferEntrySchema<"book">
