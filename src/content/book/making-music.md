@@ -4,7 +4,7 @@ title: "Making Music: 74 Creative Strategies for Electronic Music Producers"
 author: Dennis DeSantis
 currentlyReading: true
 startDate: 2023 Jun 3
-# finishDate: 2023 Mar 14
+finishDate: 2023 Jul 4
 added: 2023 Jun 3
 notes: false
 coverImage: /covers/making-music.webp
