@@ -32,5 +32,5 @@ THE BIG LEAP reveals a simple yet comprehensive model of life-fulfillment, prese
 > What is my unique ability?  
 > (There’s a special skill I’m gifted with. This unique ability, fully realized and put to work, can provide enormous benefits to me and any organization I serve.)  
 
-> “When you make the shift to Einstein Time, you experience a major surge in your productivity, creativity, and enjoyment. The shift takes place the moment you embrace one profoundly simple truth:  
-> You’re where time comes from.”  
+> When you make the shift to Einstein Time, you experience a major surge in your productivity, creativity, and enjoyment. The shift takes place the moment you embrace one profoundly simple truth:  
+> You’re where time comes from.  
