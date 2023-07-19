@@ -958,6 +958,13 @@ declare module 'astro:content' {
   collection: "book",
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] },
+"the-big-leap.md": {
+  id: "the-big-leap.md",
+  slug: "the-big-leap",
+  body: string,
+  collection: "book",
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] },
 "the-city-we-became.md": {
   id: "the-city-we-became.md",
   slug: "the-city-we-became",
