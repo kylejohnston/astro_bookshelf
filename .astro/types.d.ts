@@ -1162,6 +1162,13 @@ declare module 'astro:content' {
   collection: "book";
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] };
+"the-measure.md": {
+	id: "the-measure.md";
+  slug: "the-measure";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
 "the-mindbody-prescription.md": {
 	id: "the-mindbody-prescription.md";
   slug: "the-mindbody-prescription";
