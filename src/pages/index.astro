@@ -5,6 +5,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import MainNav from '../components/MainNav.astro'; // logo, nav
 import BookPostPreview from '../components/BookPostPreview.astro';
+import { ViewTransitions } from 'astro:transitions';
 
 // Component Script:
 // You can write any JavaScript/TypeScript that you'd like here.
@@ -32,6 +33,7 @@ const books = (await getCollection('book')).sort(
 <html lang="en">
 	<head>
 		<BaseHead {pageTitle} {description} {permalink} />
+		<ViewTransitions />
 	</head>
 
 	<body>
