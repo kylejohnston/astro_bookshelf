@@ -6,6 +6,7 @@ import BuyBook from '../components/BuyBook.astro';
 import ReadingTime from '../components/ReadingTime.astro';
 
 const { content } = Astro.props;
+const { slug } = Astro.params;
 const { title, description, author, coverImage, permalink, library, bookshelf, bookshop, amazon, other, startDate, finishDate } = content;
 const pageTitle = [title + " by " + author];
 ---
@@ -32,7 +33,7 @@ const pageTitle = [title + " by " + author];
           </section>
         </main>
         <div class="book-cover-col">
-          {coverImage && <img width="100%" height="auto" class="sticky top-4 book-cover" loading="lazy" src={coverImage} alt={pageTitle} /> }
+            {coverImage && <img transition:name={slug} width="100%" height="auto" class="book-cover sticky top-4" loading="lazy" src={coverImage} alt={pageTitle} /> }
         </div>
       </div>
     </article>
