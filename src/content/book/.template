@@ -9,8 +9,8 @@ added: 2023 Mar 14
 notes: false
 coverImage: /covers/
 library: https://share.libbyapp.com/title/
-bookshop: 
-amazon: 
+bookshop: https://bookshop.org/book/[13-digit ISBN]
+amazon: https://amazon.com/dp/[10-digit ISBN]
 other: 
 ---
 
