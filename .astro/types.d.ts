@@ -371,6 +371,13 @@ declare module 'astro:content' {
   collection: "book";
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] };
+"candy-house.md": {
+	id: "candy-house.md";
+  slug: "candy-house";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
 "colorless-tsukuru-tazaki.md": {
 	id: "colorless-tsukuru-tazaki.md";
   slug: "colorless-tsukuru-tazaki";
