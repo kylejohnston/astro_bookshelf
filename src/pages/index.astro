@@ -5,7 +5,6 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import MainNav from '../components/MainNav.astro'; // logo, nav
 import BookPostPreview from '../components/BookPostPreview.astro';
-import { ViewTransitions } from 'astro:transitions';
 
 // Component Script:
 // You can write any JavaScript/TypeScript that you'd like here.
@@ -33,21 +32,20 @@ const books = (await getCollection('book')).sort(
 <html lang="en">
 	<head>
 		<BaseHead {pageTitle} {description} {permalink} />
-		<ViewTransitions />
 	</head>
 
 	<body>
 		<MainNav /> <!-- logo, nav -->
 		<main class="content">
 		<div class="search-wrapper">
-			<input type="text" id="searchInput" placeholder="Search title, author, year, or notes…" class="search-input">
+			<input type="text" id="searchInput" placeholder="Search title, author, year, or notes…" class="search-input" transition:name="search" transition:persist>
 			<button id="clearButton" class="search-clear absolute right inset-y-0">
 				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="text-white w-5 h-5">
 					<path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
 				</svg>
 			</button>
 		</div>
-		<section aria-label="Bookshelf" class="book-grid">
+		<section aria-label="Bookshelf" id="view-container" class="book-grid">
 				{books.map((p) => <BookPostPreview post={p} />)}
 			</section>
 		</main>
@@ -55,74 +53,72 @@ const books = (await getCollection('book')).sort(
 	</body>
 </html>
 <script>
-	const searchInput = document.getElementById('searchInput');
-	const clearButton = document.getElementById('clearButton');
-	let results = document.querySelectorAll('.searchable');
+function initializeSearch() {
+  const searchInput = document.getElementById('searchInput');
+  const clearButton = document.getElementById('clearButton');
+  const viewContainer = document.getElementById('view-container');
+  let results = Array.from(viewContainer.getElementsByClassName('searchable'));
+  const initialResults = results.slice();
 
-	// Cache the initial set of results
-	const initialResults = results;
+  searchInput.addEventListener('input', debounce(search, 300));
+  searchInput.addEventListener('input', toggleClearButton);
+  clearButton.addEventListener('click', clearSearch);
+  document.addEventListener('keydown', handleKeyDown);
+  document.addEventListener('keydown', handleFocus);
 
-	searchInput.addEventListener('input', debounce(search, 300));
-	searchInput.addEventListener('input', toggleClearButton);
-	clearButton.addEventListener('click', clearSearch);
-	document.addEventListener('keydown', handleKeyDown);
-	document.addEventListener('keydown', handleFocus);
+  function search() {
+    const searchText = searchInput.value.trim().toLowerCase();
+    results.forEach(function(result) {
+      const text = result.textContent.toLowerCase();
+      const isMatch = text.includes(searchText);
+      result.classList.toggle('hidden', !isMatch);
+    });
+    toggleClearButton();
+  }
 
-	function search() {
-		const searchText = searchInput.value.toLowerCase();
+  function clearSearch() {
+    searchInput.value = '';
+    results = initialResults.slice();
+    results.forEach(function(result) {
+      result.classList.remove('hidden');
+    });
+    toggleClearButton();
+  }
 
-		results.forEach(function(result) {
-			const text = result.textContent.toLowerCase();
+  function toggleClearButton() {
+    clearButton.style.display = searchInput.value === '' ? 'none' : 'block';
+  }
 
-			if (text.includes(searchText)) {
-				result.classList.remove('hidden');
-			} else {
-				result.classList.add('hidden');
-			}
-		});
-	}
+  function handleKeyDown(event) {
+    if (event.key === 'Escape') {
+      clearSearch();
+      searchInput.blur();
+    }
+  }
 
-	function clearSearch() {
-		searchInput.value = '';
-		results = initialResults;
-		results.forEach(function(result) {
-			result.classList.remove('hidden');
-		});
-		toggleClearButton();
-	}
+  function handleFocus(event) {
+    if (event.key === '/' && !searchInput.matches(':focus')) {
+      event.preventDefault();
+      searchInput.focus();
+    }
+  }
 
-	function toggleClearButton() {
-		if (searchInput.value === '') {
-			clearButton.style.display = 'none';
-		} else {
-			clearButton.style.display = 'block';
-		}
-	}
+  // Debounce function to delay search execution
+  function debounce(func, wait) {
+    let timeout;
+    return function executedFunction(...args) {
+      const later = () => {
+        clearTimeout(timeout);
+        func(...args);
+      };
+      clearTimeout(timeout);
+      timeout = setTimeout(later, wait);
+    };
+  }
+}
 
-	function handleKeyDown(event) {
-		if (event.key === 'Escape') {
-			clearSearch();
-			searchInput.blur();
-		}
-	}
+// Initialize search functionality for the initial view
+initializeSearch();
+document.addEventListener('astro:after-swap', initializeSearch);
 
-	function handleFocus(event) {
-		if (event.key === '/' && !searchInput.matches(':focus')) {
-			event.preventDefault();
-			searchInput.focus();
-		}
-	}
-
-	// Debounce function to delay search execution
-	function debounce(func, wait) {
-		let timeout;
-		return function executedFunction(...args) {
-			const later = () => {
-				clearTimeout(timeout);
-				func(...args);
-			};
-			clearTimeout(timeout);
-			timeout = setTimeout(later, wait);
-		};
-	}
 </script>
