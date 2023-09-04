@@ -813,6 +813,13 @@ declare module 'astro:content' {
   collection: "book";
   data: any
 } & { render(): Render[".md"] };
+"never-use-futura.md": {
+	id: "never-use-futura.md";
+  slug: "never-use-futura";
+  body: string;
+  collection: "book";
+  data: any
+} & { render(): Render[".md"] };
 "norse-mythology.md": {
 	id: "norse-mythology.md";
   slug: "norse-mythology";
