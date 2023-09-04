@@ -6,7 +6,7 @@ currentlyReading: false
 startDate: 2023 Sep 02
 finishDate: 2023 Sep 04
 added: 2023 Sep 04
-notes: false
+notes: true
 coverImage: /covers/never-use-futura.webp
 # library: https://share.libbyapp.com/title/
 # bookshop: https://bookshop.org/book/[13-digit ISBN]
