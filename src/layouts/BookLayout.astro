@@ -1,12 +1,10 @@
 ---
-import { Image } from 'astro:assets'; //test
 
 import { Image } from 'astro:assets'; // …/guides/images/
 import BaseHead from '@components/BaseHead.astro'; // <head>
 import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
-import BuyBook from '@components/BuyBook.astro';
-import ReadingTime from '@components/ReadingTime.astro';
+// import ReadingTime from '@components/ReadingTime.astro';
 
 const { content } = Astro.props;
 const { slug } = Astro.params;
@@ -29,10 +27,21 @@ const pageTitle = [title + " by " + author];
       <div class="book-content">
         <main>
           <section>
-            <ReadingTime {startDate} {finishDate} />
+            <div class="reading-time">
+              { frontmatter.startDate && <div><h4>Started:</h4><p>{frontmatter.startDate}</p></div> }
+              { frontmatter.finishDate ? 
+                <div><h4>Finished:</h4><p>{frontmatter.finishDate}</p></div> : 
+                <div><h4>Finished:</h4><p>Currently Reading</p></div>
+              }
+            </div>
             <h3>Description</h3>
             <slot />
-            <BuyBook {library} {bookshelf} {bookshop} {amazon} {other} />
+            <h3 class="mt-8">Get a copy</h3>
+            {frontmatter.library   && <p><a href={frontmatter.library}>Local Library</a></p> }
+            {frontmatter.bookshelf && <p><a href={frontmatter.bookshelf}>Bookshop.org</a></p> }
+            {frontmatter.bookshop  && <p><a href={frontmatter.bookshop}>Bookshop.org</a></p> }
+            {frontmatter.amazon    && <p><a href={frontmatter.amazon}>Amazon</a></p> }
+            {frontmatter.other     && <p><a href={frontmatter.other}>Website</a></p> }
           </section>
         </main>
         <div class="book-cover-col">
