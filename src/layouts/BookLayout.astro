@@ -6,23 +6,23 @@ import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
 // import ReadingTime from '@components/ReadingTime.astro';
 
-const { content } = Astro.props;
+const { frontmatter } = Astro.props;
 const { slug } = Astro.params;
-const { title, description, author, coverImage, permalink, library, bookshelf, bookshop, amazon, other, startDate, finishDate } = content;
-const pageTitle = [title + " by " + author];
+const pageTitle = [frontmatter.title + " by " + frontmatter.author];
+const permalink = [Astro.url];
 ---
 
-<html lang={content.lang || 'en'}>
+<html lang="en">
 	<head>
-		<BaseHead {pageTitle} {author} {description} {permalink} />
+		<BaseHead {pageTitle} {permalink} />
 	</head>
 
 	<body>
 		<MainNav /> <!-- logo, nav -->
     <article class="book-details">
       <header>
-        <h1 class="title">{title}</h1>
-        <h2 class="author"><span>by </span> {author}</h2>
+        <h1 class="title">{frontmatter.title}</h1>
+        <h2 class="author"><span>by </span> {frontmatter.author}</h2>
       </header>
       <div class="book-content">
         <main>
