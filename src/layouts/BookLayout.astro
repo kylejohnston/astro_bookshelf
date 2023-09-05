@@ -8,6 +8,7 @@ import MainNav from '@components/MainNav.astro'; // logo, nav
 
 const { frontmatter } = Astro.props;
 const { slug } = Astro.params;
+const bookCover  = ["/covers/" + frontmatter.coverImage];
 const pageTitle = [frontmatter.title + " by " + frontmatter.author];
 const permalink = [Astro.url];
 ---
@@ -47,7 +48,7 @@ const permalink = [Astro.url];
         <div class="book-cover-col">
           <!-- <Image style="border:4px solid #f0f;" src={frontmatter.astroImage} alt={pageTitle} width="960" height="100%" class="book-cover sticky top-4" transition:name={slug} /> -->
             <!-- <p class="mb-12">Path: {frontmatter.astroImage}</p> -->
-            <Image src={frontmatter.coverImage} alt={pageTitle} width="960" height="100%" class="book-cover sticky top-4" transition:name={slug} />
+            <img src={bookCover} alt={pageTitle} width="960" height="100%" class="book-cover sticky top-4" transition:name={slug} />
         </div>
       </div>
     </article>
