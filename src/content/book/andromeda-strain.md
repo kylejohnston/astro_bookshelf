@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Sep 25
 added: 2019 Sep 25
 notes: false
-coverImage: /covers/the-andromeda-strain.webp
+coverImage: the-andromeda-strain.webp
 library: https://share.libbyapp.com/title/871134
 bookshop: https://bookshop.org/books/the-andromeda-strain-9781101974490/9781101974490
 amazon: https://www.amazon.com/Andromeda-Strain-Michael-Crichton/dp/1101974494

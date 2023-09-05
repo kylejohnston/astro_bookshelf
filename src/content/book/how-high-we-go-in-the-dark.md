@@ -5,7 +5,7 @@ author: Sequoia Nagamatsu
 startDate: 2022 Jun 13
 finishDate: 2022 Jun 21
 added: 2022 Jun 21
-coverImage: /covers/how-high-we-go-in-the-dark.webp
+coverImage: how-high-we-go-in-the-dark.webp
 library: https://share.libbyapp.com/title/6209943
 bookshop: https://bookshop.org/books/how-high-we-go-in-the-dark/9780063072640
 amazon: https://www.amazon.com/How-High-We-Go-Dark/dp/0063072645/

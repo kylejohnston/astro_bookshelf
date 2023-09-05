@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2015 Dec 26
 added: 2015 Dec 26
 notes: false
-coverImage: /covers/the-martian.webp
+coverImage: the-martian.webp
 library: https://share.libbyapp.com/title/1381708
 bookshop: https://bookshop.org/books/the-martian/9780553418026
 amazon: https://www.amazon.com/Martian-Novel-Andy-Weir/dp/0804139024

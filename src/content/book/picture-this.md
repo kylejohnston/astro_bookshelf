@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Jul 14
 added: 2018 Jul 14
 notes: false
-coverImage: /covers/picture-this.webp
+coverImage: picture-this.webp
 # library:
 bookshop: https://bookshop.org/books/picture-this-how-pictures-work-art-books-graphic-design-books-how-to-books-visual-arts-books-design-theory-books/9781452151991
 amazon: https://www.amazon.com/Picture-This-How-Pictures-Work/dp/1452151997

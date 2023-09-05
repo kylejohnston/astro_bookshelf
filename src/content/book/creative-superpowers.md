@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Feb 02
 added: 2019 Feb 02
 notes: true
-coverImage: /covers/creative-superpowers.webp
+coverImage: creative-superpowers.webp
 # library:
 bookshop: https://bookshop.org/books/creative-superpowers-equip-yourself-for-the-age-of-creativity/9781783525522
 amazon: https://www.amazon.com/Creative-Superpowers-Equip-Yourself-Creativity-ebook/dp/B0771X4LHC

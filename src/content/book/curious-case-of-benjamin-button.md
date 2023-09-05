@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2013 Sep 02
 added: 2013 Sep 02
 notes: false
-coverImage: /covers/curious-case-of-benjamin-button.webp
+coverImage: curious-case-of-benjamin-button.webp
 library: https://share.libbyapp.com/title/784928
 bookshop: https://bookshop.org/books/the-curious-case-of-benjamin-button-francis-scott-fitzgerald/9798627797427
 amazon: https://www.amazon.com/Curious-Case-Benjamin-Button/dp/1416556052

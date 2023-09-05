@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Apr 15
 added: 2019 Apr 15
 notes: false
-coverImage: /covers/passage-of-power.webp
+coverImage: passage-of-power.webp
 library: https://share.libbyapp.com/title/667356
 bookshop: https://bookshop.org/books/the-passage-of-power-the-years-of-lyndon-johnson-9780375713255/9780375713255
 amazon: https://www.amazon.com/Passage-Power-Years-Lyndon-Johnson/dp/0375713255

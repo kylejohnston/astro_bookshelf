@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Oct 09
 added: 2018 Oct 09
 notes: false
-coverImage: /covers/dark-places.webp
+coverImage: dark-places.webp
 library: https://share.libbyapp.com/title/199153
 bookshop: https://bookshop.org/books/dark-places-9780606359733/9780307341570
 amazon: https://www.amazon.com/Dark-Places-Gillian-Flynn/dp/0307341577

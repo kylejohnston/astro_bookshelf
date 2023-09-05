@@ -5,7 +5,7 @@ author: V.E. Schwab
 #startDate:
 finishDate: 2021 Dec 08
 added: 2021 Dec 08
-coverImage: /covers/vicious.webp
+coverImage: vicious.webp
 library: https://share.libbyapp.com/title/1311490
 bookshop: https://bookshop.org/books/vicious-9781491508350/9781250183507
 amazon: https://www.amazon.com/Audible-Vicious-Villains-Book-1/dp/B09N7PTKK2/

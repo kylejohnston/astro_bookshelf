@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 May 31
 added: 2020 May 31
 notes: false
-coverImage: /covers/say-nothing.webp
+coverImage: say-nothing.webp
 library: https://share.libbyapp.com/title/4229326
 bookshop: https://bookshop.org/books/say-nothing-a-true-story-of-murder-and-memory-in-northern-ireland/9780307279286
 amazon: https://www.amazon.com/Say-Nothing-Murder-Northern-Ireland-ebook/dp/B07CWGBK5K

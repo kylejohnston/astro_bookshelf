@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 May 27
 added: 2019 May 27
 notes: false
-coverImage: /covers/victoria-the-queen.webp
+coverImage: victoria-the-queen.webp
 library: https://share.libbyapp.com/title/2716119
 bookshop: https://bookshop.org/books/victoria-the-queen-an-intimate-biography-of-the-woman-who-ruled-an-empire/9780812982282
 amazon: https://www.amazon.com/Victoria-Queen-Intimate-Biography-Empire/dp/1400069882

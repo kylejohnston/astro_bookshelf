@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Apr 28
 added: 2018 Apr 28
 notes: true
-coverImage: /covers/dance-of-the-possible.webp
+coverImage: dance-of-the-possible.webp
 # library: 
 bookshop: https://bookshop.org/books/the-dance-of-the-possible-the-mostly-honest-completely-irreverent-guide-to-creativity/9780983873143
 amazon: https://www.amazon.com/Dance-Possible-completely-irreverent-creativity/dp/0983873143

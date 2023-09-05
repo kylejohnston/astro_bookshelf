@@ -6,7 +6,7 @@ author: Nicole Perloth
 finishDate: 2021 Sep 04
 added: 2021 Sep 04
 notes: true
-coverImage: /covers/this-is-how-they-tell-me-the-wrold-ends.webp
+coverImage: this-is-how-they-tell-me-the-wrold-ends.webp
 library: https://share.libbyapp.com/title/5427474
 bookshop: https://bookshop.org/books/this-is-how-they-tell-me-the-world-ends-the-cyberweapons-arms-race-9781635578492/9781635576054
 amazon: https://www.amazon.com/This-They-Tell-World-Ends/dp/1635576059/

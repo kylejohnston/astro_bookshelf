@@ -5,7 +5,7 @@ author: John Le Carré
 #startDate:
 finishDate: 2021 Apr 25
 added: 2021 Apr 25
-coverImage: /covers/the-spy-who-came-in-from-the-cold.webp
+coverImage: the-spy-who-came-in-from-the-cold.webp
 library: https://share.libbyapp.com/title/685890
 bookshop: https://bookshop.org/books/the-spy-who-came-in-from-the-cold/9780143124757
 amazon: https://www.amazon.com/Spy-Who-Came-in-from-Cold-audiobook/dp/B007N6GJ3G/

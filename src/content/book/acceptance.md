@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Apr 19
 added: 2020 Apr 19
 notes: false
-coverImage: /covers/acceptance.webp
+coverImage: acceptance.webp
 library: https://share.libbyapp.com/title/1576047
 bookshop: https://bookshop.org/books/acceptance-9780374104115/9780374104115
 amazon: https://www.amazon.com/Acceptance-Novel-Southern-Reach-Trilogy/dp/0374104115

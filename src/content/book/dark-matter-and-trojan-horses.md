@@ -6,7 +6,7 @@ currentlyReading: false
 finishDate: 2018 Jun 07
 added: 2018 Jun 07
 notes: true
-coverImage: /covers/dark-matter-and-trojan-horses.webp
+coverImage: dark-matter-and-trojan-horses.webp
 # library:
 # bookshelf:
 amazon: https://www.amazon.com/Dark-Matter-Trojan-Horses-Vocabulary/dp/0992914639

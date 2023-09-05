@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Jul 13
 added: 2019 Jul 13
 notes: false
-coverImage: /covers/shortest-way-home.webp
+coverImage: shortest-way-home.webp
 library: https://share.libbyapp.com/title/4127123
 bookshop: https://bookshop.org/books/shortest-way-home-one-mayor-s-challenge-and-a-model-for-america-s-future/9781631494369
 amazon: https://www.amazon.com/Shortest-Way-Home-Challenge-Americas/dp/1631494368

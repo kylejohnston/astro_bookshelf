@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Sep 21
 added: 2018 Sep 21
 notes: false
-coverImage: /covers/time-travel-a-history.webp
+coverImage: time-travel-a-history.webp
 library: https://share.libbyapp.com/title/2650947
 bookshop: https://bookshop.org/books/time-travel-a-history/9780804168922
 amazon: https://www.amazon.com/Time-Travel-History-James-Gleick/dp/0307908798

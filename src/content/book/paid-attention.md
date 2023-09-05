@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2015 Sep 07
 added: 2015 Sep 07
 notes: true
-coverImage: /covers/paid-attention.webp
+coverImage: paid-attention.webp
 # library: 
 bookshop: https://bookshop.org/books/paid-attention-innovative-advertising-for-a-digital-world-9781398602526/9781398602502
 amazon: https://www.amazon.com/Paid-Attention-Innovative-Advertising-Digital/dp/0749473606

@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2017 May 25
 added: 2017 May 25
 notes: false
-coverImage: /covers/the-handmaids-tale.webp
+coverImage: the-handmaids-tale.webp
 library: https://share.libbyapp.com/title/574458
 bookshop: https://bookshop.org/books/the-handmaid-s-tale-9780358120360/9780385490818
 amazon: https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS

@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Jul 09
 added: 2018 Jul 09
 notes: false
-coverImage: /covers/the-inevitable.webp
+coverImage: the-inevitable.webp
 library: https://share.libbyapp.com/title/2462271
 bookshop: https://bookshop.org/books/the-inevitable-understanding-the-12-technological-forces-that-will-shape-our-future/9780143110378
 amazon: https://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0143110373

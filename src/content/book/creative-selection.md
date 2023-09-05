@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Dec 13
 added: 2020 Dec 13
 notes: true
-coverImage: /covers/creative-selection.webp
+coverImage: creative-selection.webp
 # library:
 bookshop: https://bookshop.org/books/creative-selection-inside-apple-s-design-process-during-the-golden-age-of-steve-jobs/9781250203410
 amazon: https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466

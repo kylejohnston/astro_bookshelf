@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2016 Jun 12
 added: 2016 Jun 12
 notes: false
-coverImage: /covers/the-obstacle-is-the-way.webp
+coverImage: the-obstacle-is-the-way.webp
 library: https://share.libbyapp.com/title/1438759
 bookshop: https://bookshop.org/books/the-obstacle-is-the-way-the-timeless-art-of-turning-trials-into-triumph/9781591846352
 amazon: https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358

@@ -6,7 +6,7 @@ startDate: 2022 Aug 25
 finishDate: 2022 Sep 10
 added: 2022 Sep 10
 notes: true
-coverImage: /covers/tokyo-vice.webp
+coverImage: tokyo-vice.webp
 library: https://share.libbyapp.com/title/273183
 bookshop: https://bookshop.org/books/tokyo-vice-an-american-reporter-on-the-police-beat-in-japan/9780307475299
 amazon: https://www.amazon.com/Tokyo-Vice-Jake-Adelstein-audiobook/dp/B002TNABR8/

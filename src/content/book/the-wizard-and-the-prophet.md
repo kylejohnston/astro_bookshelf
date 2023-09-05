@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Feb 20
 added: 2019 Feb 20
 notes: false
-coverImage: /covers/wizard-and-prophet.webp
+coverImage: wizard-and-prophet.webp
 library: https://share.libbyapp.com/title/3348968
 # bookshelf:
 amazon: https://www.amazon.com/Wizard-Prophet-Remarkable-Scientists-Tomorrows/dp/0307961699

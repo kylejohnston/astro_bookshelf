@@ -7,7 +7,7 @@ startDate: 2023 Jun 14
 # finishDate: 
 added: 2023 Jul 1
 notes: false
-coverImage: /covers/continuous-discovery-habits.webp
+coverImage: continuous-discovery-habits.webp
 library: https://share.libbyapp.com/title/6271426
 bookshop: https://bookshop.org/p/books/continuous-discovery-habits-discover-products-that-create-customer-value-and-business-value-teresa-torres/17004458
 amazon: https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309

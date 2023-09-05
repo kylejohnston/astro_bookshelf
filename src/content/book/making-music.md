@@ -7,7 +7,7 @@ startDate: 2023 Jun 3
 finishDate: 2023 Jul 4
 added: 2023 Jun 3
 notes: true
-coverImage: /covers/making-music.webp
+coverImage: making-music.webp
 amazon: https://www.amazon.com/Making-Music-Strategies-Electronic-Producers-ebook/dp/B00WHXYZG8
 other: https://makingmusic.ableton.com/
 ---

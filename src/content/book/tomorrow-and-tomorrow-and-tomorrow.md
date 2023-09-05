@@ -7,7 +7,7 @@ startDate: 2023 Jan 01
 finishDate: 2023 Jan 22
 added: 2023 Jan 01
 notes: true
-coverImage: /covers/tomorrow-and-tomorrow-and-tomorrow.webp
+coverImage: tomorrow-and-tomorrow-and-tomorrow.webp
 library: https://share.libbyapp.com/title/7351331
 bookshop: https://bookshop.org/p/books/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin/17502475
 amazon: https://www.amazon.com/Tomorrow-novel-Gabrielle-Zevin/dp/0593321200

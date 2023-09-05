@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Jul 26
 added: 2019 Jul 26
 notes: false
-coverImage: /covers/the-fifth-risk.webp
+coverImage: the-fifth-risk.webp
 library: https://share.libbyapp.com/title/4188453
 bookshop: https://bookshop.org/books/the-fifth-risk-undoing-democracy/9780393357455
 amazon: https://www.amazon.com/Fifth-Risk-Undoing-Democracy/dp/0393357457

@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2017 Mar 05
 added: 2017 Mar 05
 notes: false
-coverImage: /covers/influence.webp
+coverImage: influence.webp
 library: https://share.libbyapp.com/title/5733713
 bookshop: https://bookshop.org/books/influence-the-psychology-of-persuasion/9780062937650
 amazon: https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X

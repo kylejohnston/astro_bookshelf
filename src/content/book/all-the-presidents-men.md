@@ -6,7 +6,7 @@ currentlyReading: false
 startDate: 2022 Jun 05
 finishDate: 2022 Jun 24
 added: 2022 Jun 24
-coverImage: /covers/all-the-presidents-men.webp
+coverImage: all-the-presidents-men.webp
 library: https://share.libbyapp.com/title/284664
 bookshop: https://bookshop.org/books/all-the-president-s-men/9781476770512
 amazon: https://www.amazon.com/All-Presidents-Men-Bob-Woodward/dp/1476770514/

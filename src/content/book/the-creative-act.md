@@ -7,7 +7,7 @@ startDate: 2023 Jan 30
 finishDate: 2023 Feb 25
 added: 2023 Jan 30
 notes: true
-coverImage: /covers/the-creative-act.webp
+coverImage: the-creative-act.webp
 # library:
 bookshop: https://bookshop.org/p/books/the-creative-act-a-way-of-being-rick-rubin/18543579
 amazon: https://www.amazon.com/Creative-Act-Way-Being/dp/0593652886

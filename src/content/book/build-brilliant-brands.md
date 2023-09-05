@@ -6,7 +6,7 @@ currentlyReading: false
 finishDate: 2020 Oct 27
 added: 2020 Oct 27
 notes: true
-coverImage: /covers/build-brilliant-brands.webp
+coverImage: build-brilliant-brands.webp
 # library: 
 # bookshelf:
 # amazon:

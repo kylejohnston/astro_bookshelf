@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Jun 21
 added: 2020 Jun 21
 notes: true
-coverImage: /covers/race-matters.webp
+coverImage: race-matters.webp
 library: https://share.libbyapp.com/title/3369024
 bookshop: https://bookshop.org/books/race-matters-25th-anniversary-with-a-new-introduction/9780807008836
 amazon: https://www.amazon.com/Race-Matters-25th-Anniversary-Introduction/dp/0807008834

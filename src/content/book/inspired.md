@@ -6,7 +6,7 @@ author: Marty Cagan
 finishDate: 2021 Mar 13
 added: 2021 Mar 13
 notes: true
-coverImage: /covers/inspired.webp
+coverImage: inspired.webp
 library: https://share.libbyapp.com/title/3310525
 bookshop: https://bookshop.org/books/inspired-how-to-create-tech-products-customers-love/9781119387503
 amazon: https://www.amazon.com/Inspired-Marty-Cagan-audiobook/dp/B07BDQVC45/

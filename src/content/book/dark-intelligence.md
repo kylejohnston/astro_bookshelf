@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2016 Nov 30
 added: 2016 Nov 30
 notes: false
-coverImage: /covers/dark-intelligence.webp
+coverImage: dark-intelligence.webp
 library: https://share.libbyapp.com/title/
 bookshop: https://bookshop.org/books/dark-intelligence-transformation-book-one/9781597808446
 amazon: https://www.amazon.com/Dark-Intelligence-Transformation-Book-One/dp/159780844X

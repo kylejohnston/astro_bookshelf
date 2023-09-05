@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Aug 30
 added: 2020 Aug 30
 notes: false
-coverImage: /covers/gulp.webp
+coverImage: gulp.webp
 library: https://share.libbyapp.com/title/2313226
 bookshop: https://bookshop.org/books/gulp-adventures-on-the-alimentary-canal-9780393348743/9780393348743
 amazon: https://www.amazon.com/Gulp-Adventures-Alimentary-Mary-Roach/dp/0393348741

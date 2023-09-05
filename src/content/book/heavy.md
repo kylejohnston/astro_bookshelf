@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Sep 01
 added: 2019 Sep 01
 notes: false
-coverImage: /covers/heavy.webp
+coverImage: heavy.webp
 library: https://share.libbyapp.com/title/2621219
 bookshop: https://bookshop.org/books/heavy-an-american-memoir/9781501125669
 amazon: https://www.amazon.com/Heavy-American-Memoir-Kiese-Laymon/dp/1501125656

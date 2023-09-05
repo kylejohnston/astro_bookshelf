@@ -7,7 +7,7 @@ startDate: 2022 Oct 09
 finishDate: 2022 Oct 14
 added: 2022 Oct 09
 notes: false
-coverImage: /covers/uncanny-valley.webp
+coverImage: uncanny-valley.webp
 library: https://share.libbyapp.com/title/4692681
 bookshop: https://bookshop.org/books/uncanny-valley-a-memoir/9780374278014
 amazon: https://www.amazon.com/Uncanny-Valley-Memoir-Anna-Wiener/dp/0374278016

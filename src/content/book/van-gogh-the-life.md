@@ -6,7 +6,7 @@ author: Steven Naifeh and Gregory White Smith
 finishDate: 2021 Feb 24
 added: 2021 Feb 24
 notes: true
-coverImage: /covers/van-gogh-the-life.webp
+coverImage: van-gogh-the-life.webp
 library: https://share.libbyapp.com/title/567401
 bookshop: https://bookshop.org/books/van-gogh-the-life/9780375758973
 amazon: https://www.amazon.com/Memoir-Vincent-Gogh-Lives-Artists/dp/1606065602/

@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2015 Apr 17
 added: 2015 Apr 17
 notes: false
-coverImage: /covers/seducing-strangers.webp
+coverImage: seducing-strangers.webp
 # library:
 bookshop: https://bookshop.org/books/seducing-strangers-how-to-get-people-to-buy-what-you-re-selling-the-little-black-book-of-advertising-secrets/9780761181750
 amazon: https://www.amazon.com/Seducing-Strangers-Selling-Advertising-Secrets/dp/076118175X

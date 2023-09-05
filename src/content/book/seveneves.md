@@ -5,7 +5,7 @@ author: Neal Stephenson
 #startDate:
 finishDate: 2021 Jul 03
 added: 2021 Jul 03
-coverImage: /covers/seveneves.webp
+coverImage: seveneves.webp
 library: https://share.libbyapp.com/title/1879383
 bookshop: https://bookshop.org/books/seveneves-9780062334510/9780062334510
 amazon: https://www.amazon.com/Seveneves-Neal-Stephenson-audiobook/dp/B00WNBHNWW/

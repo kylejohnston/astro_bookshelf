@@ -7,7 +7,7 @@ startDate: 2023 Mar 18
 finishDate: 2023 Apr 06
 added: 2023 Mar 18
 notes: false
-coverImage: /covers/the-untethered-soul.webp
+coverImage: the-untethered-soul.webp
 library: https://share.libbyapp.com/title/642586
 bookshop: https://bookshop.org/p/books/the-untethered-soul-the-journey-beyond-yourself-michael-a-singer/16621989
 amazon: https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379

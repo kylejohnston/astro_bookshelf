@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2016 Nov 12
 added: 2016 Nov 12
 notes: false
-coverImage: /covers/hatching-twittter.webp
+coverImage: hatching-twittter.webp
 library: https://share.libbyapp.com/title/1286723
 bookshop: https://bookshop.org/books/hatching-twitter-a-true-story-of-money-power-friendship-and-betrayal/9781591847083	
 amazon: https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal/dp/1591847087

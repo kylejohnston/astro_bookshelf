@@ -7,7 +7,7 @@ startDate: 2022 Dec 15
 finishDate: 2022 Jan 29
 added: 2022 Dec 15
 notes: false
-coverImage: /covers/xx.webp
+coverImage: xx.webp
 # library: 
 bookshop: https://bookshop.org/p/books/xx-rian-hughes/17329179?ean=9781419750694
 amazon: https://www.amazon.com/XX-Rian-Hughes/dp/1419750690

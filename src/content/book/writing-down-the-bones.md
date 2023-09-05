@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Dec 26
 added: 2020 Dec 26
 notes: false
-coverImage: /covers/writing-down-the-bones.webp
+coverImage: writing-down-the-bones.webp
 library: https://share.libbyapp.com/title/467573
 bookshop: https://bookshop.org/books/writing-down-the-bones-freeing-the-writer-within/9781611803082
 amazon: https://www.amazon.com/Writing-Down-Bones-Freeing-Writer/dp/1590302613

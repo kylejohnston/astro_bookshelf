@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2013 Jul 13
 added: 2013 Jul 13
 notes: false
-coverImage: /covers/mo-meta-blues.webp
+coverImage: mo-meta-blues.webp
 library: https://share.libbyapp.com/title/1139442
 bookshop: https://bookshop.org/books/mo-meta-blues-the-world-according-to-questlove-9781455501373/9781455501373
 amazon: https://www.amazon.com/Mo-Meta-Blues-According-Questlove/dp/B01LTHXJTG

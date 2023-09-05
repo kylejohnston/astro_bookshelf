@@ -6,7 +6,7 @@ author: Eckhart Tolle
 finishDate: 2021 Jan 10
 added: 2021 Jan 10
 notes: true
-coverImage: /covers/power-of-now.webp
+coverImage: power-of-now.webp
 library: https://share.libbyapp.com/title/322127
 bookshop: https://bookshop.org/books/the-power-of-now-a-guide-to-spiritual-enlightenment/9781577314806
 amazon: https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808/

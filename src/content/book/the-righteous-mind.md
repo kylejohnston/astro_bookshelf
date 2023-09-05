@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Aug 21
 added: 2018 Aug 21
 notes: false
-coverImage: /covers/the-righteous-mind.webp
+coverImage: the-righteous-mind.webp
 library: https://share.libbyapp.com/title/601668
 bookshop: https://bookshop.org/books/the-righteous-mind-why-good-people-are-divided-by-politics-and-religion-9798200560639/9780307455772
 amazon: https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777

@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Sep 13
 added: 2019 Sep 13
 notes: false
-coverImage: /covers/21-lessons-for-the-21st-century.webp
+coverImage: 21-lessons-for-the-21st-century.webp
 library: https://share.libbyapp.com/title/3890132
 bookshop: https://bookshop.org/books/21-lessons-for-the-21st-century/9780525512196
 amazon: https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179

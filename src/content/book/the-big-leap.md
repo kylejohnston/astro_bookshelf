@@ -7,7 +7,7 @@ startDate: 2023 Jul 05
 finishDate: 2023 Jul 17
 added: 2023 Jul 17
 notes: true
-coverImage: /covers/the-big-leap.webp
+coverImage: the-big-leap.webp
 library: https://share.libbyapp.com/title/238273
 bookshop: https://bookshop.org/p/books/the-big-leap-conquer-your-hidden-fear-and-take-life-to-the-next-level-gay-hendricks/15677083
 amazon: https://www.amazon.com/Big-Leap-Conquer-Hidden-Level/dp/0061735361

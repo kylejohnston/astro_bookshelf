@@ -6,7 +6,7 @@ startDate: 2022 Aug 04
 finishDate: 2022 Aug 24
 added: 2022 Aug 24
 notes: true
-coverImage: /covers/invention-of-nature.webp
+coverImage: invention-of-nature.webp
 library: https://share.libbyapp.com/title/2144442
 bookshop: https://bookshop.org/books/the-invention-of-nature-alexander-von-humboldt-s-new-world-9780385350662/9780345806291
 amazon: https://www.amazon.com/Invention-Nature-Alexander-Humboldts-World/dp/0345806298/

@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Oct 03
 added: 2018 Oct 03
 notes: false
-coverImage: /covers/sharp-objects.webp
+coverImage: sharp-objects.webp
 library: https://share.libbyapp.com/title/92818
 bookshop: https://bookshop.org/books/sharp-objects/9780307341556
 amazon: https://www.amazon.com/Sharp-Objects-Gillian-Flynn/dp/0307341550

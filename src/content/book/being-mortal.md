@@ -6,7 +6,7 @@ author: Atul Gawande
 finishDate: 2021 Oct 07
 added: 2021 Oct 07
 notes: true
-coverImage: /covers/being-mortal.webp
+coverImage: being-mortal.webp
 library: https://share.libbyapp.com/title/1665461
 bookshop: https://bookshop.org/books/being-mortal-medicine-and-what-matters-in-the-end/9781250076229
 amazon: https://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/1250076226/

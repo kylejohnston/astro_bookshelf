@@ -6,7 +6,7 @@ author: Peter Watts
 finishDate: 2020 Nov 28
 added: 2020 Nov 28
 notes: false
-coverImage: /covers/blindsight.webp
+coverImage: blindsight.webp
 library: https://share.libbyapp.com/title/510981
 bookshop: https://bookshop.org/books/blindsight-9781250237484/9781250237484
 amazon: https://www.amazon.com/Blindsight-Peter-Watts/dp/0765319640

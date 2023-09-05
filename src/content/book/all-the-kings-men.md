@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Jul 24
 added: 2018 Jul 24
 notes: false
-coverImage: /covers/all-the-kings-men.webp
+coverImage: all-the-kings-men.webp
 library: https://share.libbyapp.com/title/1546050
 bookshop: https://bookshop.org/books/all-the-king-s-men/9780156004800
 amazon: https://www.amazon.com/All-Kings-Robert-Penn-Warren/dp/B000SZCNAW

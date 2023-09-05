@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Jun 22
 added: 2019 Jun 22
 notes: true
-coverImage: /covers/exhalation.webp
+coverImage: exhalation.webp
 library: https://share.libbyapp.com/title/4387263
 bookshop: https://bookshop.org/books/exhalation/9781101972083
 amazon: https://www.amazon.com/Exhalation-Stories-Ted-Chiang/dp/1101947888

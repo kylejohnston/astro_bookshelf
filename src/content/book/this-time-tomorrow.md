@@ -7,7 +7,7 @@ startDate: 2023 Feb 26
 finishDate: 2023 Mar 17
 added: 2023 Mar 18
 notes: false
-coverImage: /covers/this-time-tomorrow.webp
+coverImage: this-time-tomorrow.webp
 library: https://share.libbyapp.com/title/7002694
 bookshop: https://bookshop.org/p/books/this-time-tomorrow-emma-straub/17736339
 amazon: https://www.amazon.com/This-Time-Tomorrow-Emma-Straub/dp/052553900X

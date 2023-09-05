@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Dec 07
 added: 2019 Dec 07
 notes: false
-coverImage: /covers/zen-and-the-art-of-motorcycle-maintenance.webp
+coverImage: zen-and-the-art-of-motorcycle-maintenance.webp
 library: https://share.libbyapp.com/title/238289
 bookshop: https://bookshop.org/books/zen-and-the-art-of-motorcycle-maintenance-an-inquiry-into-values/9780060839871
 amazon: https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469

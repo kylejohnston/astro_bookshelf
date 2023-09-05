@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Sep 08
 added: 2018 Sep 08
 notes: false
-coverImage: /covers/bad-blood.webp
+coverImage: bad-blood.webp
 library: https://share.libbyapp.com/title/3912688
 bookshop: https://bookshop.org/books/bad-blood-secrets-and-lies-in-a-silicon-valley-startup/9781524731656
 amazon: https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X

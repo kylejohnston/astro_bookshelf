@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2016 Dec 14
 added: 2016 Dec 14
 notes: false
-coverImage: /covers/sapiens.webp
+coverImage: sapiens.webp
 library: https://share.libbyapp.com/title/1553018
 bookshop: https://bookshop.org/books/sapiens-a-brief-history-of-humankind-9781467601573/9780062316110
 amazon: https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095

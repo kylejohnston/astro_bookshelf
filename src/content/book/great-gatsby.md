@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2013 Sep 01
 added: 2013 Sep 01
 notes: false
-coverImage: /covers/great-gatsby.webp
+coverImage: great-gatsby.webp
 library: https://share.libbyapp.com/title/58115
 bookshop: https://bookshop.org/books/the-great-gatsby-9780008509491/9780743273565
 amazon: https://www.amazon.com/Great-Gatsby-Books/s?k=The+Great+Gatsby&rh=n%3A283155

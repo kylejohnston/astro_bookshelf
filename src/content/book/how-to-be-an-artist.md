@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Dec 05
 added: 2020 Dec 05
 notes: true
-coverImage: /covers/how-to-be-an-artist.webp
+coverImage: how-to-be-an-artist.webp
 library: https://share.libbyapp.com/title/4849273
 bookshop: https://bookshop.org/books/how-to-be-an-artist/9780593086469
 amazon: https://www.amazon.com/How-Be-Artist-Jerry-Saltz/dp/0593086465

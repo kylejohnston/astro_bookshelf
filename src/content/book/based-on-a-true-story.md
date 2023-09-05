@@ -7,7 +7,7 @@ startDate: 2022 Nov 04
 finishDate: 2022 Nov 12
 added: 2022 Nov 04
 notes: true
-coverImage: /covers/based-on-a-true-story.webp
+coverImage: based-on-a-true-story.webp
 library: https://share.libbyapp.com/title/https://share.libbyapp.com/title/2637556
 bookshop: https://bookshop.org/p/books/based-on-a-true-story-not-a-memoir-norm-macdonald/11738248
 amazon: https://www.amazon.com/Based-True-Story-Not-Memoir/dp/0812983866

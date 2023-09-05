@@ -7,7 +7,7 @@ startDate: 2022 Oct 16
 finishDate: 2022 Nov 04
 added: 2022 Oct 16
 notes: true
-coverImage: /covers/popisho.webp
+coverImage: popisho.webp
 library: https://share.libbyapp.com/title/5460586
 bookshop: https://bookshop.org/books/popisho-9781250829634/9780374602451
 amazon: https://www.amazon.com/Popisho-Novel-Leone-Ross/dp/037460245X

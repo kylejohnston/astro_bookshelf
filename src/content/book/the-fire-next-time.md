@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Jul 29
 added: 2020 Jul 29
 notes: false
-coverImage: /covers/the-fire-next-time.webp
+coverImage: the-fire-next-time.webp
 library: https://share.libbyapp.com/title/1377488
 bookshop: https://bookshop.org/books/the-fire-next-time/9780679744726
 amazon: https://www.amazon.com/Fire-Next-Time-James-Baldwin/dp/067974472X

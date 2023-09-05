@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Jul 31
 added: 2019 Jul 31
 notes: false
-coverImage: /covers/disrupted.webp
+coverImage: disrupted.webp
 library: https://share.libbyapp.com/title/2335575
 bookshop: https://bookshop.org/books/disrupted-my-misadventure-in-the-start-up-bubble/9780316306096
 amazon: https://www.amazon.com/Disrupted-Dan-Lyons/dp/0316306096

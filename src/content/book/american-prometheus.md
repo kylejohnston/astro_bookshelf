@@ -7,7 +7,7 @@ startDate: 2022 Mar 05
 finishDate: 2022 Mar 24
 added: 2022 Mar 24
 notes: true
-coverImage: /covers/american-prometheus.webp
+coverImage: american-prometheus.webp
 library: https://share.libbyapp.com/title/449409
 bookshop: https://bookshop.org/books/american-prometheus-the-triumph-and-tragedy-of-j-robert-oppenheimer/9780375726262
 amazon: https://www.amazon.com/American-Prometheus-Triumph-Tragedy-Oppenheimer/dp/0375726268

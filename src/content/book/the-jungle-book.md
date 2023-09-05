@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Sep 02
 added: 2018 Sep 02
 notes: false
-coverImage: /covers/the-jungle-book.webp
+coverImage: the-jungle-book.webp
 library: https://share.libbyapp.com/title/432638
 bookshop: https://bookshop.org/books/the-jungle-book-official-edition/9781673300826
 amazon: https://www.amazon.com/Jungle-Book-Rudyard-Kipling/dp/1503332543

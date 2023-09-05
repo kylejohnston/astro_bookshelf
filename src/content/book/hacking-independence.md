@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Jan 05
 added: 2018 Jan 05
 notes: false
-coverImage: /covers/hacking-independence.webp
+coverImage: hacking-independence.webp
 # library: 
 # bookshelf:
 amazon: https://www.amazon.com/Hacking-Independence-Freelance-Growth-Right/dp/1975923243

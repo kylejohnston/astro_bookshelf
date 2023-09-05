@@ -7,7 +7,7 @@ startDate: 2022 Oct 09
 finishDate: 2022 Oct 15
 added: 2022 Oct 09
 notes: true
-coverImage: /covers/four-thousand-weeks.webp
+coverImage: four-thousand-weeks.webp
 library: https://share.libbyapp.com/title/5665147
 bookshop: https://bookshop.org/books/four-thousand-weeks-time-management-for-mortals-9781250849359/9780374159122
 amazon: https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122

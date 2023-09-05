@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2016 Feb 27
 added: 2016 Feb 27
 notes: true
-coverImage: /covers/technique-for-producing-ideas.webp
+coverImage: technique-for-producing-ideas.webp
 # library:
 bookshop: https://bookshop.org/books/a-technique-for-producing-ideas-a-technique-for-getting-ideas/9789389701012
 amazon: https://www.amazon.com/Technique-Producing-Advertising-Classics-Library/dp/0071410945

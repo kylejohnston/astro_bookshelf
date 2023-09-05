@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Sep 20
 added: 2020 Sep 20
 notes: false
-coverImage: /covers/start-where-you-are.webp
+coverImage: start-where-you-are.webp
 library: https://share.libbyapp.com/title/467564
 bookshop: https://bookshop.org/books/start-where-you-are-a-journal-for-self-exploration-9780399174827/9780399174827
 amazon: https://www.amazon.com/Start-Where-You-Are-Compassionate/dp/1570628394

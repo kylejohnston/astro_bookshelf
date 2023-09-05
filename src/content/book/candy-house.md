@@ -7,7 +7,7 @@ startDate: 2023 Jul 30
 finishDate: 2023 Aug 10
 added: 2023 Aug 10
 notes: false
-coverImage: /covers/candy-house.webp
+coverImage: candy-house.webp
 library: https://share.libbyapp.com/title/6383171
 bookshop: https://bookshop.org/book/9781476716763
 amazon: https://amazon.com/dp/1476716765

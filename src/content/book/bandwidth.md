@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Apr 21
 added: 2018 Apr 21
 notes: false
-coverImage: /covers/bandwidth.webp
+coverImage: bandwidth.webp
 # library: 
 bookshop: https://bookshop.org/books/bandwidth-9781503954427/9781503954601
 amazon: https://www.amazon.com/Bandwidth-Analog-Novel-Eliot-Peper/dp/1503954420

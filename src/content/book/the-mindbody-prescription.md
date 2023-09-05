@@ -5,7 +5,7 @@ author: John E. Sarno, M.D.
 #startDate:
 finishDate: 2021 Oct 23
 added: 2021 Oct 23
-coverImage: /covers/mindbody-prescription.webp
+coverImage: mindbody-prescription.webp
 library: https://share.libbyapp.com/title/500
 bookshop: https://bookshop.org/books/the-mindbody-prescription-healing-the-body-healing-the-pain/9780446675154
 amazon: https://www.amazon.com/The-Mindbody-Prescription-audiobook/dp/B006YUXP84/

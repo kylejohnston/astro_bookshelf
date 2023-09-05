@@ -7,7 +7,7 @@ startDate: 2023 Jul 11
 finishDate: 2023 Aug 12
 added: 2023 Aug 12
 notes: false
-coverImage: /covers/in-praise-of-shadows.webp
+coverImage: in-praise-of-shadows.webp
 library: https://share.libbyapp.com/title/
 bookshop: https://bookshop.org/p/books/in-praise-of-shadows-junichiro-tanizaki/9514727
 amazon: https://amazon.com/dp/0099283573

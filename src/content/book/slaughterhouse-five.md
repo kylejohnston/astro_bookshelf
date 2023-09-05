@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2016 May 06
 added: 2016 May 06
 notes: false
-coverImage: /covers/slaughterhouse-five.webp
+coverImage: slaughterhouse-five.webp
 library: https://share.libbyapp.com/title/260840
 bookshop: https://bookshop.org/books/slaughterhouse-five-a-novel-50th-anniversary-edition/9780385312080
 amazon: https://www.amazon.com/Slaughterhouse-Five-Novel-Modern-Library-Novels/dp/0385333846

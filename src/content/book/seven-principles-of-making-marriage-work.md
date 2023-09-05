@@ -5,7 +5,7 @@ author: John M. Gottman
 #startDate:
 finishDate: 2021 Aug 09
 added: 2021 Aug 09
-coverImage: /covers/seven-principles-of-making-marriage-work.webp
+coverImage: seven-principles-of-making-marriage-work.webp
 library: https://share.libbyapp.com/title/
 bookshop: https://bookshop.org/books/the-seven-principles-for-making-marriage-work-a-practical-guide-from-the-country-s-foremost-relationship-expert/9780553447712
 amazon: https://www.amazon.com/Seven-Principles-Making-Marriage-Work/dp/B083JKQPVQ/

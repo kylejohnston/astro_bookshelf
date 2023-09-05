@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Jul 27
 added: 2019 Jul 27
 notes: false
-coverImage: /covers/working.webp
+coverImage: working.webp
 library: https://share.libbyapp.com/title/4455194
 bookshop: https://bookshop.org/books/working-9780593081914/9780593081914
 amazon: https://www.amazon.com/Working-Robert-Caro/dp/0525656340

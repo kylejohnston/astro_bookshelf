@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Dec 15
 added: 2018 Dec 15
 notes: false
-coverImage: /covers/norse-mythology.webp
+coverImage: norse-mythology.webp
 library: https://share.libbyapp.com/title/2833420
 bookshop: https://bookshop.org/books/norse-mythology-9781410499493/9780393356182
 amazon: https://www.amazon.com/Norse-Mythology-Neil-Gaiman/dp/039360909X

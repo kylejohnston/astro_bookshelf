@@ -6,7 +6,7 @@ author: Anthony Bourdain
 finishDate: 2021 Jul 24
 added: 2021 Jul 24
 notes: true
-coverImage: /covers/kitchen-confidential.webp
+coverImage: kitchen-confidential.webp
 library: https://share.libbyapp.com/title/456923
 bookshop: https://bookshop.org/books/kitchen-confidential-adventures-in-the-culinary-underbelly-9780060899226/9780060899226
 amazon: https://www.amazon.com/Kitchen-Confidential-Updated-Adventures-Underbelly/dp/0060899220/

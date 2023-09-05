@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2015 Apr 15
 added: 2015 Apr 15
 notes: false
-coverImage: /covers/idea-writers.webp
+coverImage: idea-writers.webp
 # library: 
 # bookshelf:
 amazon: https://www.amazon.com/Idea-Writers-Copywriting-Media-Marketing/dp/0230613888

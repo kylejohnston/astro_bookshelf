@@ -7,7 +7,7 @@ startDate: 2023 May 15
 finishDate: 2023 May 29
 added: 2023 May 30
 notes: false
-coverImage: /covers/elephant-in-the-brain.webp
+coverImage: elephant-in-the-brain.webp
 library: https://libbyapp.com/library/mcpl/similar-4976983/page-1/4976983
 bookshop: https://bookshop.org/p/books/the-elephant-in-the-brain-hidden-motives-in-everyday-life-kevin-simler/7857234
 amazon: https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995

@@ -5,7 +5,7 @@ author: Kazuo Ishiguro
 #startDate:
 finishDate: 2021 Mar 07
 added: 2021 Mar 07
-coverImage: /covers/never-let-me-go.webp
+coverImage: never-let-me-go.webp
 library: https://share.libbyapp.com/title/66736
 bookshop: https://bookshop.org/books/never-let-me-go/9781400078776
 amazon: https://www.amazon.com/Never-Let-Me-Kazuo-Ishiguro/dp/1400078776/

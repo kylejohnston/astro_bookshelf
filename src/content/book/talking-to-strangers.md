@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Oct 06
 added: 2020 Oct 06
 notes: false
-coverImage: /covers/talking-to-strangers.webp
+coverImage: talking-to-strangers.webp
 library: https://share.libbyapp.com/title/4570668
 bookshop: https://bookshop.org/books/talking-to-strangers-what-we-should-know-about-the-people-we-don-t-know-47593b03-0533-4356-a4c9-837d39973ceb/9780316478526
 amazon: https://www.amazon.com/Talking-Strangers-Should-about-People-ebook/dp/B07NDKVWZW

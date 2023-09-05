@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2017 Apr 17
 added: 2017 Apr 17
 notes: false
-coverImage: /covers/empower.webp
+coverImage: empower.webp
 # library:
 bookshop: https://bookshop.org/books/empower-how-to-co-create-the-future-9780989823326/9780989823326
 amazon: https://www.amazon.com/Empower-Co-Create-Future-David-Passiak/dp/0989823326

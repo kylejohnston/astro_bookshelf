@@ -7,7 +7,7 @@ startDate: 2022 Oct 15
 finishDate: 2022 Oct 16
 added: 2022 Oct 15
 notes: true
-coverImage: /covers/junior.webp
+coverImage: junior.webp
 # library: 
 bookshop: https://bookshop.org/books/junior-writing-your-way-ahead-in-advertising/9781576879122
 amazon: https://www.amazon.com/Junior-Writing-Your-Ahead-Advertising/dp/1576879127

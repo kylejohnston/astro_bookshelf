@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Jan 20
 added: 2019 Jan 20
 notes: false
-coverImage: /covers/flow.webp
+coverImage: flow.webp
 library: https://share.libbyapp.com/title/171077
 bookshop: https://bookshop.org/books/flow-the-psychology-of-optimal-experience/9780061339202
 amazon: https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202

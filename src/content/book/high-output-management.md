@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2016 Aug 31
 added: 2016 Aug 31
 notes: false
-coverImage: /covers/high-output-management.webp
+coverImage: high-output-management.webp
 library: https://share.libbyapp.com/title/2405293
 bookshop: https://bookshop.org/books/high-output-management/9780679762881
 amazon: https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884

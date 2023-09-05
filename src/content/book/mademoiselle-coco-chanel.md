@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Jul 22
 added: 2019 Jul 22
 notes: false
-coverImage: /covers/mademoiselle-coco-chanel.webp
+coverImage: mademoiselle-coco-chanel.webp
 library: https://share.libbyapp.com/title/1681829
 bookshop: https://bookshop.org/books/mademoiselle-coco-chanel-and-the-pulse-of-history-257bb955-84d9-43d0-9f9b-3d20fc5b2c6c/9780812981858
 amazon: https://www.amazon.com/Mademoiselle-Coco-Chanel-Pulse-History/dp/0812981855

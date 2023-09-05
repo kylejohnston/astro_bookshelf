@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Sep 26
 added: 2020 Sep 26
 notes: false
-coverImage: /covers/a-grief-observed.webp
+coverImage: a-grief-observed.webp
 library: https://share.libbyapp.com/title/247582
 bookshop: https://bookshop.org/books/a-grief-observed-9780060652388/9780060652388
 amazon: https://www.amazon.com/Grief-Observed-C-S-Lewis/dp/0060652381

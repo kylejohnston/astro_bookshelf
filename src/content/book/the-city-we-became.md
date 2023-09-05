@@ -7,7 +7,7 @@ startDate: 2022 Dec 29
 finishDate: 2023 Jan 15
 added: 2022 Dec 29
 notes: false
-coverImage: /covers/the-city-we-became.webp
+coverImage: the-city-we-became.webp
 library: https://share.libbyapp.com/title/4513535
 bookshop: https://bookshop.org/p/books/the-city-we-became-n-k-jemisin/113989?ean=9780316509886
 amazon: https://www.amazon.com/City-We-Became-N-Jemisin/dp/0316509841

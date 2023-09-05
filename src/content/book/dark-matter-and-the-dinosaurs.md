@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Sep 04
 added: 2018 Sep 04
 notes: false
-coverImage: /covers/dark-matter-and-the-dinosaurs.webp
+coverImage: dark-matter-and-the-dinosaurs.webp
 library: https://share.libbyapp.com/title/2106020
 bookshop: https://bookshop.org/books/dark-matter-and-the-dinosaurs-the-astounding-interconnectedness-of-the-universe-9780062328472/9780062328502
 amazon: https://www.amazon.com/Dark-Matter-Dinosaurs-Astounding-Interconnectedness/dp/0062328506

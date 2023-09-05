@@ -7,7 +7,7 @@ startDate: 2022 Dec 24
 finishDate: 2022 Dec 31
 added: 2022 Dec 24
 notes: false
-coverImage: /covers/other-minds.webp
+coverImage: other-minds.webp
 library: https://share.libbyapp.com/title/3156823
 bookshop: https://bookshop.org/p/books/other-minds-the-octopus-the-sea-and-the-deep-origins-of-consciousness-peter-godfrey-smith/8487100
 amazon: https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness/dp/0374227764

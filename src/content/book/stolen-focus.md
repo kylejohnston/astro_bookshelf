@@ -6,7 +6,7 @@ startDate: 2022 Apr 10
 finishDate: 2022 Apr 18
 added: 2022 Apr 18
 notes: true
-coverImage: /covers/stolen-focus.webp
+coverImage: stolen-focus.webp
 library: https://share.libbyapp.com/title/6225834
 bookshop: https://bookshop.org/books/stolen-focus-why-you-can-t-pay-attention-and-how-to-think-deeply-again/9780593138519
 amazon: https://www.amazon.com/Stolen-Focus-Attention-Think-Deeply/dp/0593138511

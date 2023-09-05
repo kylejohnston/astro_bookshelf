@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Jun 14
 added: 2019 Jun 14
 notes: false
-coverImage: /covers/moonwalking-with-einstein.webp
+coverImage: moonwalking-with-einstein.webp
 library: https://share.libbyapp.com/title/584477
 bookshop: https://bookshop.org/books/moonwalking-with-einstein-the-art-and-science-of-remembering-everything-9780143120537/9780143120537
 amazon: https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530

@@ -7,7 +7,7 @@ startDate: 2023 Jun 30
 finishDate: 2023 July 4
 added: 2023 July 4
 notes: false
-coverImage: /covers/visual-research.webp
+coverImage: visual-research.webp
 # library:
 # bookshop: 
 amazon: https://www.amazon.com/Visual-Research-Introduction-Methodologies-Graphic/dp/2884790497

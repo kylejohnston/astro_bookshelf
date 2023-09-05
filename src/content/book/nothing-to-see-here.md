@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Mar 19
 added: 2020 Mar 19
 notes: false
-coverImage: /covers/nothing-to-see-here.webp
+coverImage: nothing-to-see-here.webp
 library: https://share.libbyapp.com/title/4559196
 bookshop: https://bookshop.org/books/nothing-to-see-here-9780062913463/9780062913494
 amazon: https://www.amazon.com/Nothing-See-Here-Kevin-Wilson/dp/0062913468

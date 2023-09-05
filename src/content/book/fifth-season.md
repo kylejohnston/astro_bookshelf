@@ -5,7 +5,7 @@ author: N.K. Jemisin
 #startDate:
 finishDate: 2021 Apr 06
 added: 2021 Apr 06
-coverImage: /covers/fifth-season.webp
+coverImage: fifth-season.webp
 library: https://share.libbyapp.com/title/1485080
 bookshop: https://bookshop.org/books/the-fifth-season/9780316229296
 amazon: https://www.amazon.com/Fifth-Season-Broken-Earth-Jemisin/dp/B015X4XINI/

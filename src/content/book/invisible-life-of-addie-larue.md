@@ -6,7 +6,7 @@ author: V.E. Schwab
 finishDate: 2021 Aug 28
 added: 2021 Aug 28
 notes: true
-coverImage: /covers/invisible-life-of-addie-larue.webp
+coverImage: invisible-life-of-addie-larue.webp
 library: https://share.libbyapp.com/title/5243310
 bookshop: https://bookshop.org/books/the-invisible-life-of-addie-larue-9780765387578/9780765387561
 amazon: https://www.amazon.com/Invisible-Life-Addie-LaRue/dp/B0844PWK76/

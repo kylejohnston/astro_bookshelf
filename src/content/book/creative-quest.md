@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 May 23
 added: 2018 May 23
 notes: true
-coverImage: /covers/creative-quest.webp
+coverImage: creative-quest.webp
 library: https://share.libbyapp.com/title/3535686
 bookshop: https://bookshop.org/books/creative-quest/9780062670571
 amazon: https://www.amazon.com/Creative-Quest-Questlove/dp/0062670557

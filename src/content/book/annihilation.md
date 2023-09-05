@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Feb 15
 added: 2020 Feb 15
 notes: false
-coverImage: /covers/annihilation.webp
+coverImage: annihilation.webp
 library: https://share.libbyapp.com/title/1377954
 bookshop: https://bookshop.org/books/annihilation-9780374104092/9780374104092
 amazon: https://www.amazon.com/Annihilation-Novel-Southern-Reach-Trilogy/dp/0374104093

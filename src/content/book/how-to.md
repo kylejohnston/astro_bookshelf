@@ -6,7 +6,7 @@ currentlyReading: false
 finishDate: 2017 Mar 14
 added: 2017 Mar 14
 notes: false
-coverImage: /covers/how-to.webp
+coverImage: how-to.webp
 # library:
 bookshop: https://bookshop.org/books/how-to-revised-and-expanded-edition/9780063141575
 amazon: https://www.amazon.com/Graphic-Design-Things-Explain-Better/dp/0062413902

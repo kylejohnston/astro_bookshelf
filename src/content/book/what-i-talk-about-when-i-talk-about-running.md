@@ -6,7 +6,7 @@ author: Haruki Murakami
 finishDate: 2021 Sep 06
 added: 2021 Sep 06
 notes: true
-coverImage: /covers/what-i-talk-about-when-i-talk-about-running.webp
+coverImage: what-i-talk-about-when-i-talk-about-running.webp
 library: https://share.libbyapp.com/title/148536
 bookshop: https://bookshop.org/books/what-i-talk-about-when-i-talk-about-running-a-memoir/9780307389831
 amazon: https://www.amazon.com/What-Talk-About-When-Running/dp/0307389839/

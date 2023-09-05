@@ -7,7 +7,7 @@ startDate: 2022 Dec 13
 finishDate: 2022 Dec 21
 added: 2022 Dec 13
 notes: false
-coverImage: /covers/brave-new-world.webp
+coverImage: brave-new-world.webp
 library: https://share.libbyapp.com/title/1695615
 bookshop: https://bookshop.org/p/books/brave-new-world-aldous-huxley/18711990
 amazon: https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523

@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Oct 31
 added: 2019 Oct 31
 notes: false
-coverImage: /covers/doing-justice.webp
+coverImage: doing-justice.webp
 library: https://share.libbyapp.com/title/4455153
 bookshop: https://bookshop.org/books/doing-justice-a-prosecutor-s-thoughts-on-crime-punishment-and-the-rule-of-law/9780525562931
 amazon: https://www.amazon.com/Doing-Justice-Prosecutors-Thoughts-Punishment/dp/0525521127

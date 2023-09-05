@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Jul 21
 added: 2020 Jul 21
 notes: false
-coverImage: /covers/how-to.webp
+coverImage: how-to.webp
 library: https://share.libbyapp.com/title/4562535
 bookshop: https://bookshop.org/books/how-to-absurd-scientific-advice-for-common-real-world-problems/9780525537090
 amazon: https://www.amazon.com/How-Absurd-Scientific-Real-World-Problems/dp/0525537090

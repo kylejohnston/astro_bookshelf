@@ -7,7 +7,7 @@ startDate: 2022 Nov 25
 finishDate: 2022 Dec 13
 added: 2022 Nov 25
 notes: false
-coverImage: /covers/foucaults-pendulum.webp
+coverImage: foucaults-pendulum.webp
 library: https://share.libbyapp.com/title/573552
 bookshop: https://bookshop.org/p/books/foucault-s-pendulum-umberto-eco/6669265
 amazon: https://www.amazon.com/Foucaults-Pendulum-Umberto-Eco/dp/015603297X

@@ -7,7 +7,7 @@ startDate: 2023 May 30
 finishDate: 2023 Jul 30
 added: 2023 Jul 30
 notes: true
-coverImage: /covers/the-measure.webp
+coverImage: the-measure.webp
 library: https://share.libbyapp.com/title/6526264
 bookshop: https://bookshop.org/p/books/the-measure-nikki-erlick/19045139
 amazon: https://www.amazon.com/Measure-Novel-Nikki-Erlick-ebook/dp/B09DGFDD3T

@@ -6,7 +6,7 @@ author: David Epstein
 finishDate: 2021 Feb 21
 added: 2021 Feb 21
 notes: true
-coverImage: /covers/range.webp
+coverImage: range.webp
 library: https://share.libbyapp.com/title/4265158
 bookshop: https://bookshop.org/books/range-why-generalists-triumph-in-a-specialized-world/9780735214484
 amazon: https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214506/

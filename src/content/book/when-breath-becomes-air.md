@@ -7,7 +7,7 @@ startDate: 2022 Sep 11
 finishDate: 2022 Sep 21
 added: 2022 Sep 11
 notes: true
-coverImage: /covers/when-breath-becomes-air.webp
+coverImage: when-breath-becomes-air.webp
 library: https://share.libbyapp.com/title/2302232
 bookshop: https://bookshop.org/books/when-breath-becomes-air/9780812988406
 amazon: https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X/

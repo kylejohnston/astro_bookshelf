@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2016 Aug 27
 added: 2016 Aug 27
 notes: true
-coverImage: /covers/never-split-the-difference.webp
+coverImage: never-split-the-difference.webp
 library: https://share.libbyapp.com/title/2360580
 bookshop: https://bookshop.org/books/never-split-the-difference-negotiating-as-if-your-life-depended-on-it/9780062407801
 amazon: https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805

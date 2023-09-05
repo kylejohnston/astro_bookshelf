@@ -7,7 +7,7 @@ startDate: 2023 Jan 22
 finishDate: 2023 Feb 06
 added: 2023 Jan 22
 notes: false
-coverImage: /covers/we-need-to-talk.webp
+coverImage: we-need-to-talk.webp
 library: https://share.libbyapp.com/title/3064629
 bookshop: https://bookshop.org/p/books/we-need-to-talk-how-to-have-conversations-that-matter-celeste-headlee/266175
 amazon: https://www.amazon.com/We-Need-Talk-Conversations-Matter/dp/0062669001

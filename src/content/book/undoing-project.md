@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Jul 03
 added: 2019 Jul 03
 notes: false
-coverImage: /covers/undoing-project.webp
+coverImage: undoing-project.webp
 library: https://share.libbyapp.com/title/2778101
 bookshop: https://bookshop.org/books/the-undoing-project-a-friendship-that-changed-our-minds-9781508229117/9780393354775
 amazon: https://www.amazon.com/Undoing-Project-Friendship-Changed-Minds/dp/0393254593

@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Aug 26
 added: 2018 Aug 26
 notes: false
-coverImage: /covers/the-graveyard-book.webp
+coverImage: the-graveyard-book.webp
 library: https://share.libbyapp.com/title/171106
 bookshop: https://bookshop.org/a/397/9780063089686
 amazon: https://www.amazon.com/Graveyard-Book-Neil-Gaiman/dp/0060530944

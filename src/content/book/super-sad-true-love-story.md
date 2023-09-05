@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Jul 07
 added: 2020 Jul 07
 notes: false
-coverImage: /covers/super-sad-true-love-story.webp
+coverImage: super-sad-true-love-story.webp
 library: https://share.libbyapp.com/title/389390
 bookshop: https://bookshop.org/books/super-sad-true-love-story-9780812977868/9780812977868
 amazon: https://www.amazon.com/Super-Sad-True-Love-Story/dp/0812977866

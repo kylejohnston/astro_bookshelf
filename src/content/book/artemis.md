@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Mar 03
 added: 2019 Mar 03
 notes: false
-coverImage: /covers/artemis.webp
+coverImage: artemis.webp
 library: https://share.libbyapp.com/title/3280473
 bookshop: https://bookshop.org/books/artemis-9780525532101/9780553448146
 amazon: https://www.amazon.com/Artemis-Novel-Andy-Weir/dp/0553448145

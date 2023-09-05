@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2016 Nov 08
 added: 2016 Nov 08
 notes: true
-coverImage: /covers/how-to-fail.webp
+coverImage: how-to-fail.webp
 library: https://share.libbyapp.com/title/1308871
 bookshop: https://bookshop.org/books/how-to-fail-at-almost-everything-and-still-win-big-kind-of-the-story-of-my-life-9781491518854/9781591847748
 amazon: https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4

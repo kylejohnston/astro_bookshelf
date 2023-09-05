@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Apr 27
 added: 2020 Apr 27
 notes: false
-coverImage: /covers/educated.webp
+coverImage: educated.webp
 library: https://share.libbyapp.com/title/3441378
 bookshop: https://bookshop.org/books/educated-a-memoir-9781987146127/9780399590504
 amazon: https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501

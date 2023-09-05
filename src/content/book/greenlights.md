@@ -5,7 +5,7 @@ author: Matthew McConaughey
 #startDate:
 finishDate: 2021 Apr 11
 added: 2021 Apr 11
-coverImage: /covers/greenlights.webp
+coverImage: greenlights.webp
 library: https://share.libbyapp.com/title/5359233
 bookshop: https://bookshop.org/books/greenlights-9780593416952/9780593139134
 amazon: https://www.amazon.com/Greenlights-Matthew-McConaughey/dp/0593139135/

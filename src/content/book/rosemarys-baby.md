@@ -5,7 +5,7 @@ author: Ira Levin
 startDate: 2022 May 15
 finishDate: 2022 May 22
 added: 2022 May 22
-coverImage: /covers/rosmarys-baby.webp
+coverImage: rosmarys-baby.webp
 library: https://share.libbyapp.com/title/3043791
 bookshop: https://bookshop.org/books/rosemarys-baby/9788711834404
 amazon: https://www.amazon.com/Rosemarys-Baby-Ira-Levin/dp/1605981109/

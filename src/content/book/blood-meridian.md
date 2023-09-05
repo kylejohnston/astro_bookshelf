@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Mar 07
 added: 2020 Mar 07
 notes: false
-coverImage: /covers/blood-meridian.webp
+coverImage: blood-meridian.webp
 library: https://share.libbyapp.com/title/392199
 bookshop: https://bookshop.org/books/blood-meridian-or-the-evening-redness-in-the-west/9780679728757
 amazon: https://www.amazon.com/Blood-Meridian-Evening-Redness-West/dp/0679728759

@@ -5,7 +5,7 @@ author: Quentin Tarantino
 startDate: 2022 Jan 08
 finishDate: 2022 Jan 17
 added: 2022 Jan 17
-coverImage: /covers/once-upon-a-time-in-hollywood.webp
+coverImage: once-upon-a-time-in-hollywood.webp
 library: https://share.libbyapp.com/title/5904080
 bookshop: https://bookshop.org/books/once-upon-a-time-in-hollywood/9780063112520
 amazon: https://www.amazon.com/gp/product/B08NL69YYT/

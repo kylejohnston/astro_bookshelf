@@ -7,7 +7,7 @@ startDate: 2022 Nov 12
 finishDate: 2022 Nov 24
 added: 2022 Nov 12
 notes: true
-coverImage: /covers/the-women-could-fly.webp
+coverImage: the-women-could-fly.webp
 library: https://share.libbyapp.com/title/7675536
 bookshop: https://bookshop.org/books/the-women-could-fly/9780063116993
 amazon: https://www.amazon.com/Women-Could-Fly-Novel/dp/0063116995

@@ -5,7 +5,7 @@ author: Naomi Alderman
 #startDate:
 finishDate: 2021 Apr 18
 added: 2021 Apr 18
-coverImage: /covers/the-power.webp
+coverImage: the-power.webp
 library: https://share.libbyapp.com/title/3081674
 bookshop: https://bookshop.org/books/the-power/9780316547604
 amazon: https://www.amazon.com/Power-Naomi-Alderman/dp/0316547603/

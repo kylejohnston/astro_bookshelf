@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2016 May 15
 added: 2016 May 15
 notes: false
-coverImage: /covers/pricing-design.webp
+coverImage: pricing-design.webp
 # library:
 # bookshelf:
 # amazon:

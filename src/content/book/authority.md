@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Mar 19
 added: 2020 Mar 19
 notes: false
-coverImage: /covers/authority.webp
+coverImage: authority.webp
 library: https://share.libbyapp.com/title/1444896
 bookshop: https://bookshop.org/books/authority-9780374104108/9781250824059
 amazon: https://www.amazon.com/Authority-Novel-Southern-Reach-Trilogy/dp/0374104107

@@ -7,7 +7,7 @@ startDate: 2023 Apr 07
 finishDate: 2023 May 14
 added: 2023 Apr 07
 notes: false
-coverImage: /covers/sparrow.webp
+coverImage: sparrow.webp
 library: https://share.libbyapp.com/title/164466
 bookshop: https://bookshop.org/p/books/the-sparrow-mary-doria-russell/7472159
 amazon: https://www.amazon.com/Sparrow-Novel-Book-ebook/dp/B000SEIFGO

@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Jun 13
 added: 2020 Jun 13
 notes: false
-coverImage: /covers/topeka-school.webp
+coverImage: topeka-school.webp
 library: https://share.libbyapp.com/title/4538761
 bookshop: https://bookshop.org/books/the-topeka-school/9780374277789
 amazon: https://www.amazon.com/Topeka-School-Novel-Ben-Lerner/dp/0374277788

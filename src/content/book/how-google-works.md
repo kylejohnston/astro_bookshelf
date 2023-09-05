@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2015 Jan 02
 added: 2015 Jan 02
 notes: true
-coverImage: /covers/how-google-works.webp
+coverImage: how-google-works.webp
 library: https://share.libbyapp.com/title/1531946
 bookshop: https://bookshop.org/books/how-google-works-9781455582327/9781455582327
 amazon: https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328

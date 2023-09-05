@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Jan 25
 added: 2020 Jan 25
 notes: false
-coverImage: /covers/my-sister-the-serial-killer.webp
+coverImage: my-sister-the-serial-killer.webp
 library: https://share.libbyapp.com/title/3994640
 bookshop: https://bookshop.org/books/my-sister-the-serial-killer/9780525564201
 amazon: https://www.amazon.com/My-Sister-Serial-Killer-Novel/dp/0385544235

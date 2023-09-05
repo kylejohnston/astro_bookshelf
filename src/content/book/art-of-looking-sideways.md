@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2015 Jul 26
 added: 2015 Jul 26
 notes: false
-coverImage: /covers/art-of-looking-sideways.webp
+coverImage: art-of-looking-sideways.webp
 # library:
 bookshop: https://bookshop.org/books/the-art-of-looking-sideways/9780714834498
 amazon: https://www.amazon.com/Art-Looking-Sideways-Alan-Fletcher/dp/0714834491

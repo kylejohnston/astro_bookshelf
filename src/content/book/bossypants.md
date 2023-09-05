@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Jun 17
 added: 2018 Jun 17
 notes: true
-coverImage: /covers/bossypants.webp
+coverImage: bossypants.webp
 library: https://share.libbyapp.com/title/465826
 bookshop: https://bookshop.org/books/bossypants/9780316056878
 amazon: https://www.amazon.com/Bossypants-Tina-Fey/dp/0316056898

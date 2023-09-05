@@ -6,7 +6,7 @@ startDate: 2022 Feb 22
 finishDate: 2022 Mar 01
 added: 2022 Mar 01
 notes: true
-coverImage: /covers/every-tools-a-hammer.webp
+coverImage: every-tools-a-hammer.webp
 library: https://share.libbyapp.com/title/4384969
 bookshop: https://bookshop.org/books/every-tool-s-a-hammer-life-is-what-you-make-it-9781508297857/9781982113483
 amazon: https://www.amazon.com/Every-Tools-Hammer-Life-What/dp/1982113472

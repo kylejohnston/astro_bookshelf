@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Jan 27
 added: 2018 Jan 27
 notes: false
-coverImage: /covers/pandemic.webp
+coverImage: pandemic.webp
 library: https://share.libbyapp.com/title/6463480
 bookshop: https://uk.bookshop.org/books/pandemic-9781489481764/9781788541282
 amazon: https://www.amazon.com/Pandemic-Extinction-Files-Book-1-ebook/dp/B06Y382BHS

@@ -6,7 +6,7 @@ author: Phil Knight
 finishDate: 2021 Nov 28
 added: 2021 Nov 28
 notes: true
-coverImage: /covers/shoe-dog.webp
+coverImage: shoe-dog.webp
 library: https://share.libbyapp.com/title/2469402
 bookshop: https://bookshop.org/books/shoe-dog-a-memoir-by-the-creator-of-nike-9781501135927/9781501135927
 amazon: https://www.amazon.com/Shoe-Dog-Phil-Knight-audiobook/dp/B01CRJA470/

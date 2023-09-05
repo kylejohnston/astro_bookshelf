@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2019 Sep 21
 added: 2019 Sep 21
 notes: false
-coverImage: /covers/dark-matter.webp
+coverImage: dark-matter.webp
 library: https://share.libbyapp.com/title/2575561
 bookshop: https://bookshop.org/books/dark-matter-9781410491459/9781101904244
 amazon: https://www.amazon.com/Dark-Matter-Novel-Blake-Crouch/dp/1101904240

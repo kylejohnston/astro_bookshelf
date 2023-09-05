@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Oct 18
 added: 2018 Oct 18
 notes: false
-coverImage: /covers/the-man-in-the-high-castle.webp
+coverImage: the-man-in-the-high-castle.webp
 library: https://share.libbyapp.com/title/769247
 bookshop: https://bookshop.org/books/the-man-in-the-high-castle-9781455840342/9780547572482
 amazon: https://www.amazon.com/Man-High-Castle-Philip-Dick/dp/0547572484

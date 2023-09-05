@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Oct 17
 added: 2020 Oct 17
 notes: false
-coverImage: /covers/ten-arguments.webp
+coverImage: ten-arguments.webp
 library: https://share.libbyapp.com/title/3779021
 bookshop: https://bookshop.org/books/ten-arguments-for-deleting-your-social-media-accounts-right-now/9781250239082
 amazon: https://www.amazon.com/Arguments-Deleting-Social-Media-Accounts/dp/125019668X

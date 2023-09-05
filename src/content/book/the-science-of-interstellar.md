@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Sep 25
 added: 2018 Sep 25
 notes: false
-coverImage: /covers/the-science-of-interstellar.webp
+coverImage: the-science-of-interstellar.webp
 library: https://share.libbyapp.com/title/2101702
 bookshop: https://bookshop.org/books/the-science-of-interstellar-9781467600804/9780393351378
 amazon: https://www.amazon.com/Science-Interstellar-Kip-Thorne/dp/0393351378

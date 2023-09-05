@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2016 Dec 04
 added: 2016 Dec 04
 notes: false
-coverImage: /covers/branding-in-five-and-a-half-steps.webp
+coverImage: branding-in-five-and-a-half-steps.webp
 # library: 
 bookshop: https://bookshop.org/books/branding-in-five-and-a-half-steps/9780500518960
 amazon: https://www.amazon.com/Branding-Five-Steps-Michael-Johnson/dp/0500518963

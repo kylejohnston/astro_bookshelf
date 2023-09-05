@@ -7,7 +7,7 @@ startDate: 2022 Sep 22
 finishDate: 2022 Oct 09
 added: 2022 Sep 22
 notes: true
-coverImage: /covers/the-overstory.webp
+coverImage: the-overstory.webp
 library: https://share.libbyapp.com/title/https://share.libbyapp.com/title/3360345
 bookshop: https://bookshop.org/books/the-overstory-0b6e2046-f62f-40aa-8589-97b751cbcfc8/9780393356687
 amazon: https://www.amazon.com/Overstory-Novel-Richard-Powers/dp/039335668X

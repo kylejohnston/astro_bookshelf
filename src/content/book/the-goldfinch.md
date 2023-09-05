@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2020 Jan 04
 added: 2020 Jan 04
 notes: false
-coverImage: /covers/the-goldfinch.webp
+coverImage: the-goldfinch.webp
 library: https://share.libbyapp.com/title/1223597
 bookshop: https://bookshop.org/books/the-goldfinch-a-novel-pulitzer-prize-for-fiction-9780316055444/9780316055444
 amazon: https://www.amazon.com/Goldfinch-Novel-Pulitzer-Prize-Fiction/dp/0316055441

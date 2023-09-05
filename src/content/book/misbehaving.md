@@ -7,7 +7,7 @@ currentlyReading: false
 finishDate: 2018 Jan 03
 added: 2018 Jan 03
 notes: true
-coverImage: /covers/misbehaving.webp
+coverImage: misbehaving.webp
 library: https://share.libbyapp.com/title/2310749
 bookshop: https://bookshop.org/books/misbehaving-the-making-of-behavioral-economics/9780393352795
 amazon: https://www.amazon.com/Misbehaving-Behavioral-Economics-Richard-Thaler/dp/039335279X
