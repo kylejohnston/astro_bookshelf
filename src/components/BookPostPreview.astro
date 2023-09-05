@@ -1,5 +1,6 @@
 ---
 // renders the book cover on the homepage / index.astro
+import { Image } from 'astro:assets'; //test
 import type { CollectionEntry } from 'astro:content';
 interface Props {
 	post: CollectionEntry<'book'>;
@@ -12,7 +13,7 @@ const searchable = [post.data.title + post.data.author + post.data.finishDate];
 
 <article class="post-preview searchable">
 	<a href={"/book/" + post.slug + "/"}>
-			{post.data.coverImage && <img transition:name={post.slug} width="100%" height="auto" class="book-cover" loading="lazy" src={post.data.coverImage} alt={altContent} /> }
+		{post.data.coverImage && <img transition:name={post.slug} width="480" height="100%" class="book-cover" loading="lazy" src={post.data.coverImage} alt={altContent} /> }
 		{post.data.notes && <p class="font-mono text-sm text-center mt-3 text-gray-600">📝 Notes</p> }
 		{post.data.currentlyReading && <p class="font-mono text-sm text-center mt-3 text-gray-600">📖 Currently Reading</p> }
 	</a>
