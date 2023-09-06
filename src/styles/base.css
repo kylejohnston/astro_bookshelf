@@ -67,11 +67,9 @@
 		px-4
 		py-4
 		gap-4
-		flex
-		flex-wrap
-		/* grid */
-		/* [grid-template-columns:repeat(auto-fill,_minmax(8.5rem,_1fr))]  */
-		/* md:[grid-template-columns:repeat(auto-fill,_minmax(18rem,_1fr))] */
+		grid
+		[grid-template-columns:repeat(auto-fill,_minmax(8.5rem,_1fr))] 
+		md:[grid-template-columns:repeat(auto-fill,_minmax(18rem,_1fr))]
 		md:px-8
 		md:py-8
 		md:gap-8;
