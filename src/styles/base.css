@@ -15,8 +15,8 @@
 	h1, .headline { font-size: clamp(2.813rem, 1.108rem + 8.52vw, 7.5rem) !important; @apply font-headline uppercase leading-[85%]; }
 	h2 { font-size: clamp(1.875rem, 0.739rem + 5.68vw, 5rem) !important; @apply font-headline leading-none uppercase; }
 	h2 span { color: var(--mid); }
-	main h3 { color: var(--mid); @apply font-mono mb-3 text-xl uppercase; }
-	main h4 { color: var(--mid); @apply font-mono mb-0 text-base uppercase; }
+	main h3, main .h3 { color: var(--mid); @apply font-mono mb-3 text-xl uppercase; }
+	main h4, main .h4 { color: var(--mid); @apply font-mono mb-0 text-base uppercase; }
 	main p { @apply leading-normal mb-3 text-lg md:text-xl; }
 	main ul, main ol { @apply list-disc mb-7 ml-5; }
 	main ul li, main ol li { @apply leading-normal mb-2 text-lg md:text-xl; }

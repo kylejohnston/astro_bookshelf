@@ -29,10 +29,10 @@ const permalink = [Astro.url];
         <main>
           <section>
             <div class="reading-time">
-              { frontmatter.startDate && <div><h4>Started:</h4><p>{frontmatter.startDate}</p></div> }
+              { frontmatter.startDate && <div><h3 class="h4">Started:</h4><p>{frontmatter.startDate}</p></div> }
               { frontmatter.finishDate ? 
-                <div><h4>Finished:</h4><p>{frontmatter.finishDate}</p></div> : 
-                <div><h4>Finished:</h4><p>Currently Reading</p></div>
+                <div><h3 class="h4">Finished:</h4><p>{frontmatter.finishDate}</p></div> : 
+                <div><h3 class="h4">Finished:</h4><p>Currently Reading</p></div>
               }
             </div>
             <h3>Description</h3>
