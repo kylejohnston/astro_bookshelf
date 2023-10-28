@@ -8,7 +8,7 @@ interface Props {
 
 const { post } = Astro.props;
 const altContent = [post.data.title + " by " + post.data.author + " finished on " + post.data.finishDate];
-const bookCover  = ["/covers/small/" + post.data.coverImage];
+const bookCover  = ["/covers/" + post.data.coverImage];
 const searchable = [post.data.title + post.data.author + post.data.finishDate];
 ---
 
