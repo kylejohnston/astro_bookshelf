@@ -2,9 +2,9 @@
 layout: ../../layouts/BookLayout.astro
 title: "Continuous Discovery Habits, Discover Products that Create Customer Value and Business"
 author: Teresa Torres
-currentlyReading: true
+currentlyReading: false
 startDate: 2023 Jun 14
-# finishDate: 
+finishDate: 2023 Sep 22
 added: 2023 Jul 1
 notes: false
 coverImage: continuous-discovery-habits.webp
