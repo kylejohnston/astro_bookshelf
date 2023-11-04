@@ -17,9 +17,9 @@
 	h2 span { color: var(--mid); }
 	main h3, main .h3 { color: var(--mid); @apply font-mono mb-3 text-xl uppercase; }
 	main h4, main .h4 { color: var(--mid); @apply font-mono mb-0 text-base uppercase; }
-	main p { @apply leading-normal mb-3 text-lg md:text-xl; }
+	main p { line-height: 1.55 !important; @apply mb-3 text-lg md:text-xl; }
 	main ul, main ol { @apply list-disc mb-7 ml-5; }
-	main ul li, main ol li { @apply leading-normal mb-2 text-lg md:text-xl; }
+	main ul li, main ol li { line-height: 1.55 !important; @apply mb-2 text-lg md:text-xl; }
 	main blockquote { @apply border-l-2 border-gray-300 pl-3 mb-7 /*[text-indent:1.5em]*/; }
 		main blockquote br { content:""; @apply block mb-3; }
 /* TOP NAV */
