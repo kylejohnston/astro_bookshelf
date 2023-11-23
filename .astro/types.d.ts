@@ -406,6 +406,13 @@ declare module 'astro:content' {
   collection: "book";
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] };
+"creative-thinking.md": {
+	id: "creative-thinking.md";
+  slug: "creative-thinking";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
 "cryptonomicon.md": {
 	id: "cryptonomicon.md";
   slug: "cryptonomicon";
