@@ -1120,6 +1120,13 @@ declare module 'astro:content' {
   collection: "book";
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] };
+"the-end-of-the-world.md": {
+	id: "the-end-of-the-world.md";
+  slug: "the-end-of-the-world";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
 "the-fifth-risk.md": {
 	id: "the-fifth-risk.md";
   slug: "the-fifth-risk";
