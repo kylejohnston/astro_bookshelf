@@ -16,7 +16,8 @@ export async function get(context) {
       pubDate: post.data.added,
       image:   post.data.coverImage,
       // Note: this will not process components or JSX expressions in MDX files.
-      content: sanitizeHtml(parser.render(post.body)),
+      // content: sanitizeHtml(parser.render(post.body)),
+      content: sanitizeHtml(post.compiledContent()),
     })),
   });
 }
