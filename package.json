@@ -9,14 +9,12 @@
     "preview": "astro preview"
   },
   "devDependencies": {
-    "@astrojs/preact": "^3.0.1",
     "@astrojs/tailwind": "^5.0.3",
     "astro": "^4.0.5"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.1",
-    "markdown-it": "^13.0.1",
-    "preact": "^10.13.0",
-    "sanitize-html": "^2.10.0"
+    "markdown-it": "^14.0.0",
+    "sanitize-html": "^2.11.0"
   }
 }
