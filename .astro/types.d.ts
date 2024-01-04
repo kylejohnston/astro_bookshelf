@@ -217,6 +217,13 @@ declare module 'astro:content' {
   collection: "book";
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] };
+"alchemy.md": {
+	id: "alchemy.md";
+  slug: "alchemy";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
 "all-the-kings-men.md": {
 	id: "all-the-kings-men.md";
   slug: "all-the-kings-men";
@@ -1193,6 +1200,13 @@ declare module 'astro:content' {
 "the-jungle-book.md": {
 	id: "the-jungle-book.md";
   slug: "the-jungle-book";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
+"the-machine-stops.md": {
+	id: "the-machine-stops.md";
+  slug: "the-machine-stops";
   body: string;
   collection: "book";
   data: InferEntrySchema<"book">
