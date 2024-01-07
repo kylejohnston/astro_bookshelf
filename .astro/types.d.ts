@@ -378,6 +378,13 @@ declare module 'astro:content' {
   collection: "book";
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] };
+"checklist-manifesto.md": {
+	id: "checklist-manifesto.md";
+  slug: "checklist-manifesto";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
 "colorless-tsukuru-tazaki.md": {
 	id: "colorless-tsukuru-tazaki.md";
   slug: "colorless-tsukuru-tazaki";
@@ -416,6 +423,13 @@ declare module 'astro:content' {
 "creative-thinking.md": {
 	id: "creative-thinking.md";
   slug: "creative-thinking";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
+"creativity-inc.md": {
+	id: "creativity-inc.md";
+  slug: "creativity-inc";
   body: string;
   collection: "book";
   data: InferEntrySchema<"book">
@@ -766,6 +780,13 @@ declare module 'astro:content' {
 "klara-and-the-sun.md": {
 	id: "klara-and-the-sun.md";
   slug: "klara-and-the-sun";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
+"let-my-people-go-surfing.md": {
+	id: "let-my-people-go-surfing.md";
+  slug: "let-my-people-go-surfing";
   body: string;
   collection: "book";
   data: InferEntrySchema<"book">
