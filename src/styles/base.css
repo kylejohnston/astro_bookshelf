@@ -62,29 +62,6 @@
 	main a:link, main a:visited { color: var(--color); }
 	main a:hover, main a:active { @apply underline underline-offset-8; }
 
-	.book-grid {
-		@apply 
-		px-4
-		py-4
-		gap-4
-		grid
-		items-baseline
-		[grid-template-columns:repeat(auto-fill,_minmax(8.5rem,_1fr))] 
-		md:[grid-template-columns:repeat(auto-fill,_minmax(18rem,_1fr))]
-		md:px-8
-		md:py-8
-		md:gap-8;
-	}
-	.book-grid article {
-		@apply
-		flex
-		content-between;
-	}
-	.book-grid article a:hover {
-		@apply
-		no-underline;
-	}
-
 	.book-cover { 
 		box-shadow:
 			0px 2.8px 4.7px rgba(0, 0, 0, 0.028),
