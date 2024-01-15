@@ -1,10 +1,7 @@
 ---
-
-import { Image } from 'astro:assets'; // …/guides/images/
 import BaseHead from '@components/BaseHead.astro'; // <head>
 import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
-// import ReadingTime from '@components/ReadingTime.astro';
 
 const { frontmatter } = Astro.props;
 const { slug } = Astro.params;
@@ -20,7 +17,7 @@ const permalink = [Astro.url];
 
 	<body>
 		<MainNav /> <!-- logo, nav -->
-    <article class="book-details">
+    <article class="book-details" data-pagefind-body>
       <header>
         <h1 class="title">{frontmatter.title}</h1>
         <h2 class="author"><span>by </span> {frontmatter.author}</h2>
