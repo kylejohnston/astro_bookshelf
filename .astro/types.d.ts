@@ -378,6 +378,13 @@ declare module 'astro:content' {
   collection: "book";
   data: any
 } & { render(): Render[".md"] };
+"building-a-second-brain.md": {
+	id: "building-a-second-brain.md";
+  slug: "building-a-second-brain";
+  body: string;
+  collection: "book";
+  data: any
+} & { render(): Render[".md"] };
 "candy-house.md": {
 	id: "candy-house.md";
   slug: "candy-house";
