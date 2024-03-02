@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 import BaseHead from '@components/BaseHead.astro';
 import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
-import BookPostPreview from '@components/BookPostPreview.astro';
+import BookShelf from '@components/BookShelf.astro';
 import Search from "astro-pagefind/components/Search";
 
 let pageTitle = "Kyle Johnston's Bookshelf"
@@ -36,7 +36,8 @@ const { page } = Astro.props;
       <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
     </div>
     <section aria-label="Bookshelf" id="view-container" class="book-grid">
-      {page.data.map((books) => <BookPostPreview post={books} />)}
+      {page.data.map((books) => <BookShelf
+     post={books} />)}
     </section>
     <div class="pagination pb-4 md:pb-8">
       <div class="flex gap-4 items-center">
