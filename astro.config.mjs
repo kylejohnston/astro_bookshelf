@@ -6,6 +6,6 @@ export default defineConfig({
   build: {
     format: "file",
   },
-  site: 'https://bookshelf.kylewjohnston.com/',
+  site: 'https://books.kyle-io.com/',
   integrations: [tailwind(), pagefind()],
 });
