@@ -20,3 +20,6 @@ pnpm-debug.log*
 
 # Other stuff
 _archive/
+.vscode/extensions.json
+.vscode/launch.json
+_books.code-workspace
