@@ -1085,6 +1085,13 @@ declare module 'astro:content' {
   collection: "book";
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] };
+"seeing-like-a-state.md": {
+	id: "seeing-like-a-state.md";
+  slug: "seeing-like-a-state";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
 "seven-principles-of-making-marriage-work.md": {
 	id: "seven-principles-of-making-marriage-work.md";
   slug: "seven-principles-of-making-marriage-work";
