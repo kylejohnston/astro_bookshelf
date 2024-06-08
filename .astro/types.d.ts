@@ -413,6 +413,13 @@ declare module 'astro:content' {
   collection: "book";
   data: any
 } & { render(): Render[".md"] };
+"co-intelligence.md": {
+	id: "co-intelligence.md";
+  slug: "co-intelligence";
+  body: string;
+  collection: "book";
+  data: any
+} & { render(): Render[".md"] };
 "colorless-tsukuru-tazaki.md": {
 	id: "colorless-tsukuru-tazaki.md";
   slug: "colorless-tsukuru-tazaki";
