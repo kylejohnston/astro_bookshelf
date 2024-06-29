@@ -1225,6 +1225,13 @@ declare module 'astro:content' {
   collection: "book";
   data: any
 } & { render(): Render[".md"] };
+"the-diamond-age.md": {
+	id: "the-diamond-age.md";
+  slug: "the-diamond-age";
+  body: string;
+  collection: "book";
+  data: any
+} & { render(): Render[".md"] };
 "the-end-of-the-world.md": {
 	id: "the-end-of-the-world.md";
   slug: "the-end-of-the-world";
