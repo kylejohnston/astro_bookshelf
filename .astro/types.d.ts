@@ -623,6 +623,13 @@ declare module 'astro:content' {
   collection: "book";
   data: any
 } & { render(): Render[".md"] };
+"from-strength-to-strength.md": {
+	id: "from-strength-to-strength.md";
+  slug: "from-strength-to-strength";
+  body: string;
+  collection: "book";
+  data: any
+} & { render(): Render[".md"] };
 "great-gatsby.md": {
 	id: "great-gatsby.md";
   slug: "great-gatsby";
@@ -1557,6 +1564,13 @@ declare module 'astro:content' {
 "when-breath-becomes-air.md": {
 	id: "when-breath-becomes-air.md";
   slug: "when-breath-becomes-air";
+  body: string;
+  collection: "book";
+  data: any
+} & { render(): Render[".md"] };
+"when-the-clock-broke.md": {
+	id: "when-the-clock-broke.md";
+  slug: "when-the-clock-broke";
   body: string;
   collection: "book";
   data: any
