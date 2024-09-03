@@ -2,9 +2,9 @@
 layout: ../../layouts/BookLayout.astro
 title: "Wool"
 author: Hugh Howey
-currentlyReading: true
+currentlyReading: false
 startDate: 2024 Aug 07
-# finishDate: 2024 Aug XX
+finishDate: 2024 Sep 02
 added: 2024 Aug 07
 notes: false
 coverImage: wool.webp
