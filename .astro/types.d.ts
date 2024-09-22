@@ -702,6 +702,13 @@ declare module 'astro:content' {
   collection: "book";
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] };
+"in-ascension.md": {
+	id: "in-ascension.md";
+  slug: "in-ascension";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
 "in-cold-blood.md": {
 	id: "in-cold-blood.md";
   slug: "in-cold-blood";
