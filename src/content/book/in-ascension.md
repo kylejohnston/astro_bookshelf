@@ -9,8 +9,8 @@ added: 2024 Sep 22
 notes: true
 coverImage: in-ascension.webp
 library: https://share.libbyapp.com/title/10250822
-bookshop: https://bookshop.org/book/[13-digit ISBN]
-amazon: https://amazon.com/dp/[10-digit ISBN]
+bookshop: https://bookshop.org/book/9780802163462
+amazon: https://amazon.com/dp/0802163467
 # other: 
 ---
 
