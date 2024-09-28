@@ -1108,6 +1108,20 @@ declare module 'astro:content' {
   collection: "book";
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] };
+"silo-shift.md": {
+	id: "silo-shift.md";
+  slug: "silo-shift";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
+"silo-wool.md": {
+	id: "silo-wool.md";
+  slug: "silo-wool";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
 "slaughterhouse-five.md": {
 	id: "slaughterhouse-five.md";
   slug: "slaughterhouse-five";
@@ -1552,13 +1566,6 @@ declare module 'astro:content' {
 "when-we-cease-to-understand-the-world.md": {
 	id: "when-we-cease-to-understand-the-world.md";
   slug: "when-we-cease-to-understand-the-world";
-  body: string;
-  collection: "book";
-  data: InferEntrySchema<"book">
-} & { render(): Render[".md"] };
-"wool.md": {
-	id: "wool.md";
-  slug: "wool";
   body: string;
   collection: "book";
   data: InferEntrySchema<"book">
