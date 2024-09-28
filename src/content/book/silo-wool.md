@@ -7,7 +7,7 @@ startDate: 2024 Aug 07
 finishDate: 2024 Sep 02
 added: 2024 Sep 02
 notes: false
-coverImage: wool.webp
+coverImage: silo-wool.webp
 library: https://share.libbyapp.com/title/5507204
 bookshop: https://bookshop.org/book/9780358447849
 amazon: https://amazon.com/dp/0358447844
