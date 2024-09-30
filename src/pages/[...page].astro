@@ -36,8 +36,7 @@ const { page } = Astro.props;
       <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
     </div>
     <section aria-label="Bookshelf" id="view-container" class="book-grid">
-      {page.data.map((books) => <BookShelf
-     post={books} />)}
+      {page.data.map((books) => <BookShelf post={books} />)}
     </section>
     <div class="pagination pb-4 md:pb-8">
       <div class="flex gap-4 items-center">
