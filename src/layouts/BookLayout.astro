@@ -3,11 +3,18 @@ import BaseHead from '@components/BaseHead.astro'; // <head>
 import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
 
-const { frontmatter } = Astro.props;
-const { slug } = Astro.params;
-const bookCover  = ["/covers/" + frontmatter.coverImage];
-const pageTitle = [frontmatter.title + " by " + frontmatter.author];
+const { title, author, coverImage, added, library, bookshelf, bookshop, amazon, other } = Astro.props;
+const bookCover  = ["/covers/" + coverImage];
+const pageTitle = [title + " by " + author];
 const permalink = [Astro.url];
+
+// Function to format the date
+function formatDate(dateString) {
+  if (!dateString) return '';
+  const [year, month, day] = dateString.split(' ');
+  return `${year} ${month} ${day.padStart(2, '0')}`;
+}
+const formattedDate = formatDate(added);
 ---
 
 <html lang="en">
@@ -19,27 +26,27 @@ const permalink = [Astro.url];
 		<MainNav /> <!-- logo, nav -->
     <article class="book-details" data-pagefind-body>
       <header>
-        <h1 class="title">{frontmatter.title}</h1>
-        <h2 class="author"><span>by </span> {frontmatter.author}</h2>
+        <h1 class="title">{title}</h1>
+        <h2 class="author"><span>by </span> {author}</h2>
       </header>
       <div class="book-content">
         <main>
           <section>
             <div class="reading-time">
-              { frontmatter.added && <div><h3 class="h4">Added:</h4><p>{frontmatter.added}</p></div> }
+              { formattedDate && <div><h3 class="h4">Added:</h3><p>{formattedDate}</p></div> }
             </div>
             <h3>Description</h3>
             <slot />
             <h3 class="mt-8">Get a copy</h3>
-            {frontmatter.library   && <p><a href={frontmatter.library}>Local Library</a></p> }
-            {frontmatter.bookshelf && <p><a href={frontmatter.bookshelf}>Bookshop.org</a></p> }
-            {frontmatter.bookshop  && <p><a href={frontmatter.bookshop}>Bookshop.org</a></p> }
-            {frontmatter.amazon    && <p><a href={frontmatter.amazon}>Amazon</a></p> }
-            {frontmatter.other     && <p><a href={frontmatter.other}>Website</a></p> }
+            {library   && <p><a href={library}>Local Library</a></p> }
+            {bookshelf && <p><a href={bookshelf}>Bookshop.org</a></p> }
+            {bookshop  && <p><a href={bookshop}>Bookshop.org</a></p> }
+            {amazon    && <p><a href={amazon}>Amazon</a></p> }
+            {other     && <p><a href={other}>Website</a></p> }
           </section>
         </main>
         <div class="book-cover-col">
-            <img src={bookCover} alt={pageTitle} width="960" height="100%" class="book-cover sticky top-4" transition:name={slug} contentTransitionAnimate="slide" />
+            <img src={bookCover} alt={pageTitle} width="960" height="100%" class="book-cover sticky top-4" transition:name={Astro.props.slug} contentTransitionAnimate="slide" />
         </div>
       </div>
     </article>
