@@ -1,15 +1,15 @@
 ---
+import { Image } from 'astro:assets';
 import BaseHead from '@components/BaseHead.astro'; // <head>
 import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
 
 const { title, author, coverImage, added, library, bookshelf, bookshop, amazon, other } = Astro.props;
-const bookCover  = ["/covers/" + coverImage];
-const pageTitle = [title + " by " + author];
+const bookCover = `/covers/${coverImage}`;
+const pageTitle = `${title} by ${author}`;
 const permalink = [Astro.url];
 
 // Function to format the date
-// Improved function to format the date
 function formatDate(date) {
   if (!date) return '';
   
@@ -71,7 +71,17 @@ const formattedDate = formatDate(added);
           </section>
         </main>
         <div class="book-cover-col">
-            <img src={bookCover} alt={pageTitle} width="960" height="100%" class="book-cover sticky top-4" transition:name={Astro.props.slug} contentTransitionAnimate="slide" />
+          <Image
+            src={bookCover}
+            alt={pageTitle}
+            width={960}
+            height={1440}
+            format="webp"
+            quality={80} 
+            class="book-cover sticky top-4" 
+            transition:name={Astro.props.slug}
+            transition:animate="slide"
+          />
         </div>
       </div>
     </article>
