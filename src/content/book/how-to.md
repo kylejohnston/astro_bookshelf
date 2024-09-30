@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "How to use graphic design to sell things, explain things, make things, look better, make people laugh, make people cry, and (every once in a while) change the world"
 author: Michael Bierut
 currentlyReading: false

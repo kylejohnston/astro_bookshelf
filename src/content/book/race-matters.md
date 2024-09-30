@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Race Matters"
 author: Cornel West
 currentlyReading: false

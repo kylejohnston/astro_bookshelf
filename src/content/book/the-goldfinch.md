@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Goldfinch"
 author: Donna Tartt
 currentlyReading: false

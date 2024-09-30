@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The End of the World Is Just the Beginning: Mapping the Collapse of Globalization"
 author: Peter Zeihan
 currentlyReading: false

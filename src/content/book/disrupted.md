@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Disrupted: My Misadventure in the Start-Up Bubble"
 author: Dan Lyons
 currentlyReading: false

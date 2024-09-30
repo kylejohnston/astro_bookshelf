@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Martian"
 author: Andy Weir
 currentlyReading: false

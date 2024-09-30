@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Artemis"
 author: Andy Weir
 currentlyReading: false

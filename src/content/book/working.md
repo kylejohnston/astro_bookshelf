@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Working"
 author: Robert A. Caro
 currentlyReading: false

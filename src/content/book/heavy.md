@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Heavy: An American Memoir"
 author: Kiese Laymon
 currentlyReading: false

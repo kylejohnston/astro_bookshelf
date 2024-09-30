@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Power of Now"
 author: Eckhart Tolle
 #startDate:

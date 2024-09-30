@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Jungle Book"
 author: Rudyard Kipling
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Time Travel: A History"
 author: James Gleick
 currentlyReading: false

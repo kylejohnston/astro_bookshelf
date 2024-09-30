@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Machine Stops"
 author: E.M. Forster
 currentlyReading: false

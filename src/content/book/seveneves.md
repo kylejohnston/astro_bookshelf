@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Seveneves"
 author: Neal Stephenson
 #startDate:

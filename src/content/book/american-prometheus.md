@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "American Prometheus: The Tragedy and Triumph of J. Robert Oppenheimer"
 author: Kai Bird and Martin J. Sherwin
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Mo' Meta Blues"
 author: Ahmir "Questlove" Thompson
 currentlyReading: false

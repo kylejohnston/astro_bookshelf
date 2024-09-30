@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "In Ascension"
 author: Martin MacInnes
 currentlyReading: false

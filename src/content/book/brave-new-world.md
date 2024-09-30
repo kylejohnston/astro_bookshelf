@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Brave New World"
 author: Aldous Huxley
 currentlyReading: false

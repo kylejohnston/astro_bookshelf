@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Tokyo Vice"
 author: Jake Adelstein
 startDate: 2022 Aug 25

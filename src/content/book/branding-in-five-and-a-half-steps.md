@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Branding in five and a half steps"
 author: Michael Johnson
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "In Praise of Shadows"
 author: Junʼichirō Tanizaki
 currentlyReading: false

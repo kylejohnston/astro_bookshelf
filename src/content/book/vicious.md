@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Vicious"
 author: V.E. Schwab
 #startDate:

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Anthem"
 author: Noah Hawley
 startDate: 2022 Apr 30

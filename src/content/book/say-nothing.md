@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Say Nothing: A True Story of Murder and Memory in Northern Ireland"
 author: Patrick Radden Keefe
 currentlyReading: false

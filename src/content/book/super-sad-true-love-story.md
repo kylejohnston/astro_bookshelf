@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Super Sad True Love Story"
 author: Gary Shteyngart
 currentlyReading: false

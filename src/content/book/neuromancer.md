@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Neuromancer"
 author: William Gibson
 startDate: 2022 May 22

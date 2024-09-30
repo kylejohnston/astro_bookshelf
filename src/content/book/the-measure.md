@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Measure"
 author: Nikki Erlick
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "How High We Go in the Dark"
 author: Sequoia Nagamatsu
 startDate: 2022 Jun 13

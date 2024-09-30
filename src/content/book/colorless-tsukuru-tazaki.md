@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Colorless Tsukuru Tazaki and His Years of Pilgrimage"
 author: Haruki Murakami
 currentlyReading: false

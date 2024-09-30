@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Range: Why Generalists Triumph in a Specialized World"
 author: David Epstein
 #startDate:

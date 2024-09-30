@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Influence, The Psychology of Persuasion"
 author: Robert B. Cialdini, Ph.D.
 currentlyReading: false

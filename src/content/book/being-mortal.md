@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Being Mortal"
 author: Atul Gawande
 #startDate:

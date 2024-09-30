@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Candy House: A Novel"
 author: Jennifer Egan
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Invention of Nature: Alexander Von Humboldt's New World"
 author: Andrea Wulf
 startDate: 2022 Aug 04

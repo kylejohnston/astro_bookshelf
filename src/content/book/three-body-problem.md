@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Three Body Problem"
 author: Cixin Liu
 currentlyReading: false

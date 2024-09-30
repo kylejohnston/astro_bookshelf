@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Building a Second Brain"
 author: Tiago Forte
 currentlyReading: false

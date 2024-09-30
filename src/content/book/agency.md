@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Agency"
 author: William Gibson
 currentlyReading: false

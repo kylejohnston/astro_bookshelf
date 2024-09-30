@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "This Time Tomorrow, A Novel"
 author: Emma Straub
 currentlyReading: false

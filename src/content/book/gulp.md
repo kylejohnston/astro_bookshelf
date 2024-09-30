@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Gulp: Adventures on the Alimentary Canal"
 author: Mary Roach
 currentlyReading: false

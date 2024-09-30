@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Art of Looking Sideways"
 author: Alan Fletcher
 currentlyReading: false

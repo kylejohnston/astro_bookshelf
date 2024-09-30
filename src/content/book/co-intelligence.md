@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Co-Intelligence: Living and Working with AI"
 author: Ethan Mollick
 currentlyReading: false

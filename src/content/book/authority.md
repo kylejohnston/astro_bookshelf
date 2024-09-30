@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Authority"
 author: Jeff VanderMeer
 currentlyReading: false

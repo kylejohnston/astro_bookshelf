@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Think Again"
 author: Adam Grant
 #startDate:

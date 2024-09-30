@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Build Brilliant Brands"
 author: Facebook EMEA Client Council
 currentlyReading: false

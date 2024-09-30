@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Dark Places"
 author: Gillian Flynn
 currentlyReading: false

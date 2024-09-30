@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "A Technique for Producing Ideas"
 author: James Webb Young
 currentlyReading: false

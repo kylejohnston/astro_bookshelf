@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Every Tool's a Hammer: Life Is What You Make It"
 author: Adam Savage
 startDate: 2022 Feb 22

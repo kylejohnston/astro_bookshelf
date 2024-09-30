@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Accidental Billionaires: The Founding of Facebook: A Tale of Sex, Money, Genius and Betrayal"
 author: Ben Mezrich
 currentlyReading: false

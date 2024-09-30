@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Peripheral"
 author: William Gibson
 currentlyReading: false

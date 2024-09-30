@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Start Where You Are"
 author: Pema Chödrön
 currentlyReading: false

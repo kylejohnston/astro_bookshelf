@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Station Eleven"
 author: Emily St. John Mandel
 #startDate:

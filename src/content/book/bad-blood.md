@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Bad Blood: Secrets and Lies in a Silicon Valley Startup"
 author: John Carreyrou
 currentlyReading: false

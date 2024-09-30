@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "We Need to Talk. How to Have Conversations That Matter"
 author: Celeste Headle
 currentlyReading: false

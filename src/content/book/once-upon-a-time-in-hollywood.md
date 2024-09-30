@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: Once Upon a Time in Hollywood
 author: Quentin Tarantino
 startDate: 2022 Jan 08

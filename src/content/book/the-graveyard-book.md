@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Graveyard Book"
 author: Neil Gaiman
 currentlyReading: false

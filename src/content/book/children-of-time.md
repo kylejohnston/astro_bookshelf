@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Children of Time"
 author: Adrian Tchaikovsky
 currentlyReading: false

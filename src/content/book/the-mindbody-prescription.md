@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Mindbody Prescription"
 author: John E. Sarno, M.D.
 #startDate:

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Making Music: 74 Creative Strategies for Electronic Music Producers"
 author: Dennis DeSantis
 currentlyReading: false

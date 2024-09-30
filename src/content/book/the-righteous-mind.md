@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Righteous Mind: Why Good People are Divided by Politics and Religion"
 author: Jonathan Haidt
 currentlyReading: false

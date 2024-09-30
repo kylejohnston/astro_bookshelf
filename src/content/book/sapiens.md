@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Sapiens, A Brief History of Humankind"
 author: Yuval Noah Harari
 currentlyReading: false

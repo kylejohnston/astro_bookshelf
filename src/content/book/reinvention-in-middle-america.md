@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Reinvention In Middle America — Innovation From the Interior"
 author: Sparks & Honey
 currentlyReading: false

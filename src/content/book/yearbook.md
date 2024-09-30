@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Yearbook"
 author: Seth Rogen
 #startDate:

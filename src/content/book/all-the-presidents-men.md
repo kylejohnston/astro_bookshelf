@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "All the President's Men"
 author: Carl Bernstein & Bob Woodward
 currentlyReading: false

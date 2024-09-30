@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Creative Act: A Way of Being"
 author: Rick Rubin
 currentlyReading: false

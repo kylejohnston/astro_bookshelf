@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Never Let Me Go"
 author: Kazuo Ishiguro
 #startDate:

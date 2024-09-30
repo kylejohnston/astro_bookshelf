@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Hummingbird Salamander"
 author: Jeff VanderMeer
 #startDate:

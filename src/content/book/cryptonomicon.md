@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Cryptonomicon"
 author: Neal Stephenson
 #startDate:

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Science of Interstellar"
 author: Kip Thorne
 currentlyReading: false

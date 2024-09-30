@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Undoing Project"
 author: Michael Lewis
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Visual Research: An Introduction to Research Methodologies in Graphic Design"
 author: Ian Noble, Russell Bestley
 currentlyReading: false

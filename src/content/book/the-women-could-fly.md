@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Women Could Fly"
 author: Megan Giddings
 currentlyReading: false

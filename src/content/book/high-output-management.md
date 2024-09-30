@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "High Output Management"
 author: Andrew S. Grove
 currentlyReading: false

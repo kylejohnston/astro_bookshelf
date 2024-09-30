@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Dark Matter and the Dinosaurs: The astounding interconnectedness of the Universe"
 author: Lisa Randall
 currentlyReading: false

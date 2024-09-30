@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: Zone One
 author: Colson Whitehead
 startDate: 2022 Mar 26

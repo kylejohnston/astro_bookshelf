@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Blood Meridian"
 author: Cormac McCarthy
 currentlyReading: false

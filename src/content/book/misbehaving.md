@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Misbehaving: The Making of Behavioral Economics"
 author: Richard H. Thaler
 currentlyReading: false

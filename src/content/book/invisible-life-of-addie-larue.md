@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Invisible Life of Addie LaRue"
 author: V.E. Schwab
 #startDate:

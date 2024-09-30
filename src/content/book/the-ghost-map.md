@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Ghost Map"
 author: Steven Johnson
 currentlyReading: false

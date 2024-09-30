@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Fifth Risk: Undoing Democracy"
 author: Michael Lewis
 currentlyReading: false

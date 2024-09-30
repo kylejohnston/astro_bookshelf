@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Termination Shock"
 author: Neal Stephenson
 currentlyReading: false

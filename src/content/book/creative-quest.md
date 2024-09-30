@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Creative Quest"
 author: Questlove
 currentlyReading: false

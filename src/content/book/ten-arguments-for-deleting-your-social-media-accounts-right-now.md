@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Ten Arguments for Deleting Your Social Media Accounts Right Now"
 author: Jaron Lanier
 currentlyReading: false

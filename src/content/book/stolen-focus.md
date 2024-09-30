@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Stolen Focus"
 author: Johann Hari
 startDate: 2022 Apr 10

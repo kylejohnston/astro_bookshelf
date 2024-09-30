@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Inspired, How to Create Tech Products Customers Love"
 author: Marty Cagan
 #startDate:

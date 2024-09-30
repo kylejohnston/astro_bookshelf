@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Inevitable: Understanding the 12 Technological Forces that Will Shape Our Future"
 author: Kevin Kelly
 currentlyReading: false

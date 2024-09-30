@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Never Use Futura"
 author: Douglas Thomas
 currentlyReading: false

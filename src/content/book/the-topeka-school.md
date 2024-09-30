@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Topeka School"
 author: Ben Lerner
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Shoe Dog"
 author: Phil Knight
 #startDate:

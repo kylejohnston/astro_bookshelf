@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Outlier: The Unfinished Presidency of Jimmy Carter"
 author: Kai Bird
 startDate: 2022 Jan 17

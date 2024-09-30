@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Axiom's End"
 author: Lindsay Ellis
 #startDate:

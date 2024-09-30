@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Dawn of Everything: A New History of Humanity"
 author: David Graeber and David Wengrow
 startDate: 2022 Feb 03

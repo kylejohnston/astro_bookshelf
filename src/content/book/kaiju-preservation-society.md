@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Kaiju Preservation Society"
 author: John Scalzi
 startDate: 2022 May 08

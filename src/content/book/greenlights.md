@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Greenlights"
 author: Matthew McConaughey
 #startDate:

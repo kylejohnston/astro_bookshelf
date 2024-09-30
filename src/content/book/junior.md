@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Junior: Writing Your Way Ahead in Advertising"
 author: Thomas Kemeny
 currentlyReading: false

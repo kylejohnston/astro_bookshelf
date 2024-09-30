@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "FIASCO: Blood in the Water on Wall Street"
 author: Frank Partnoy
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Handmaid's Tale"
 author: Margaret Atwood
 currentlyReading: false

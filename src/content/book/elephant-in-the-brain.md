@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Elephant in the Brain"
 author: Kevin Simler and Robin Hanson
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration"
 author: Ed Catmull and Amy Wallace
 currentlyReading: false

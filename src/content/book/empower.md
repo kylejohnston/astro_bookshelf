@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Empower: How to Co-Create the Future"
 author: David Passiak
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "From Strength to Strength"
 author: Arthur C. Brooks
 currentlyReading: false

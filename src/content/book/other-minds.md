@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Other Minds"
 author: Peter Godfrey-Smith
 currentlyReading: false

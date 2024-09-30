@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "My Sister, The Serial Killer"
 author: Oyinkan Braithwaite
 currentlyReading: false

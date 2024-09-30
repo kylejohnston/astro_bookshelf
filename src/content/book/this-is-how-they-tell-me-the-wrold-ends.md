@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "This is How They Tell Me the World Ends"
 author: Nicole Perloth
 #startDate:

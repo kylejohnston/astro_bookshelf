@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Big Leap"
 author: Gay Hendricks, PhD
 currentlyReading: false

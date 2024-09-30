@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Great Gatsby"
 author: F. Scott Fitzgerald
 currentlyReading: false

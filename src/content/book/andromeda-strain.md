@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Andromeda Strain"
 author: Michael Crichton
 currentlyReading: false

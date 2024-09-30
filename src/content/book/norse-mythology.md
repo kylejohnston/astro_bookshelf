@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Norse Mythology"
 author: Neil Gaiman
 currentlyReading: false

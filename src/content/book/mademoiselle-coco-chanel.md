@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Mademoiselle, Coco Chanel and the Pulse of History"
 author: Rhonda Garelick
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Jurassic Park"
 author: Michael Chrichton
 startDate: 2022 May 29

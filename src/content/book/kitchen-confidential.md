@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Kitchen Confidential: Adventures in the Culinary Underbelly"
 author: Anthony Bourdain
 #startDate:

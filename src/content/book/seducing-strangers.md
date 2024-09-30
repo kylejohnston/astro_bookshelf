@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Seducing Strangers. How to Get People to Buy What You're Selling (The Little Black Book of Advertising Secrets)"
 author: Josh Weltman
 currentlyReading: false

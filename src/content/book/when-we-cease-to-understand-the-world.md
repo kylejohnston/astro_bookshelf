@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "When We Cease to Understand the World"
 author: Benjamin Labatut
 currentlyReading: false

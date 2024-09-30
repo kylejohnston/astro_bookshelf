@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Untethered Soul: The Journey Beyond Yourself"
 author: Michael A. Singer
 currentlyReading: false

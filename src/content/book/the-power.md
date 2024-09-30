@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Power"
 author: Naomi Alderman
 #startDate:

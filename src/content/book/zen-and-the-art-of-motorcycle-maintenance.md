@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Zen and the Art of Motorcycle Maintenance"
 author: Robert M. Pirsig
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Hollow Kingdom"
 author: Kira Jane Buxton
 currentlyReading: false

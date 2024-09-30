@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "How to Be an Artist"
 author: Jerry Saltz
 currentlyReading: false

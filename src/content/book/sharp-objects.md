@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Sharp Objects"
 author: Gillian Flynn
 currentlyReading: false

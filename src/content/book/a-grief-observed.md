@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "A Grief Observed"
 author: C.S. Lewis
 currentlyReading: false

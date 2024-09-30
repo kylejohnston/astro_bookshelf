@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Moonwalking with Einstein, The Art and Science of Remembering Everything"
 author: Joshua Foer
 currentlyReading: false

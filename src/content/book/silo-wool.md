@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Wool"
 author: Hugh Howey
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "When Things Fall Apart. Heart Advice for Difficult Times"
 author: Pema Chödrön
 #startDate:

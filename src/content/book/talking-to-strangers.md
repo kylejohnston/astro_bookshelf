@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Talking to Strangers"
 author: Malcolm Gladwell
 currentlyReading: false

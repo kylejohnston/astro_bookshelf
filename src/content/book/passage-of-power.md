@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Passage of Power"
 author: Robert A. Caro
 currentlyReading: false

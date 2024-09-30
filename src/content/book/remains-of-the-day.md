@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Remains of the Day"
 author: Kazuo Ishiguro
 #startDate:

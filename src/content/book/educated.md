@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Educated"
 author: Tara Westover
 currentlyReading: false

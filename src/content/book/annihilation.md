@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Annihilation"
 author: Jeff VanderMeer
 currentlyReading: false

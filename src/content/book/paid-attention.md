@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Paid Attention. Innovative Advertising for a Digital World"
 author: Faris Yakob
 currentlyReading: false

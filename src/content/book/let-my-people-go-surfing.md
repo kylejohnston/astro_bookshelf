@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Let My People Go Surfing: The Education of a Reluctant Businessman"
 author: Yvon Chouinard
 currentlyReading: false

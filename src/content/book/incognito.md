@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Incognito, The Secret Lives of the Brain"
 author: David Eagleman
 #startDate:

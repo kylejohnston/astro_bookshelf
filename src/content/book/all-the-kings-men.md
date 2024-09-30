@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "All the King’s Men"
 author: Robert Penn Warren
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Picture This: How Pictures Work"
 author: Molly Bang
 currentlyReading: false

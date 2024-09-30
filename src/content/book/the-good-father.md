@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Good Father"
 author: Noah Hawley
 startDate: 2022 Jun 26

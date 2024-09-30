@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Sparrow"
 author: Mary Doria Russell
 currentlyReading: false

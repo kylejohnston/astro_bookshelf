@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Old Man's War"
 author: John Scalzi
 startDate: 2022 Jul 19

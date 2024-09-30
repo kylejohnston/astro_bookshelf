@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "How Google Works"
 author: Eric Schmidt, Jonathan Rosenberg
 currentlyReading: false

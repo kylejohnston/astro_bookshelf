@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Lincoln in the Bardo"
 author: George Saunders
 currentlyReading: false

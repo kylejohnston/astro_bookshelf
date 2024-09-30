@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Curious Case of Benjamin Button"
 author: F. Scott Fitzgerald
 currentlyReading: false

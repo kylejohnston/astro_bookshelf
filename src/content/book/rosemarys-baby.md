@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Rosemary's Baby"
 author: Ira Levin
 startDate: 2022 May 15

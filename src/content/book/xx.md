@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "XX"
 author: Rian Hughes
 currentlyReading: false

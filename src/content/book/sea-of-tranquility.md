@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Sea of Tranquility"
 author: Emily St. John Mandel
 startDate: 2022 Jun 05

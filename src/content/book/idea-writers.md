@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Idea Writers"
 author: Teressa Iezzi
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Girl with All the Gifts"
 author: M.R. Carey
 currentlyReading: false

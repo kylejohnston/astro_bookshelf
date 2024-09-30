@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "An Immense World"
 author: Ed Yong
 currentlyReading: false

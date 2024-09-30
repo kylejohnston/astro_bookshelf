@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Dark Matter"
 author: Blake Crouch
 currentlyReading: false

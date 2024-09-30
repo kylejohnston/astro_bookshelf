@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Moneyland"
 author: Oliver Bullough
 #startDate:

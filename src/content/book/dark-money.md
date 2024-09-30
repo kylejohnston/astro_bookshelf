@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Dark Money"
 author: Jane Meyer
 #startDate:

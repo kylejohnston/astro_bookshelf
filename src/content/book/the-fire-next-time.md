@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Fire Next Time"
 author: James Baldwin
 currentlyReading: false

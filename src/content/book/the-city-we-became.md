@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The City We Became"
 author: N.K. Jemisin
 currentlyReading: false

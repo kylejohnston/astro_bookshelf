@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Creative Selection: Inside Apple’s Design Process During the Golden Age of Steve Jobs"
 author: Ken Kocienda
 currentlyReading: false

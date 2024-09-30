@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "How To Write One Song"
 author: Jeff Tweedy
 currentlyReading: false

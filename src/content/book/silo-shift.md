@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Shift"
 author: Hugh Howey
 currentlyReading: false

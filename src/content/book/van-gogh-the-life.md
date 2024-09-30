@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Van Gogh: The Life"
 author: Steven Naifeh and Gregory White Smith
 #startDate:

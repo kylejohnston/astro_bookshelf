@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Fifth Season"
 author: N.K. Jemisin
 #startDate:

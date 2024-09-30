@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Wizard and the Prophet"
 author: Charles C. Mann
 currentlyReading: false

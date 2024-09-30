@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Doing Justice. A Prosecutor’s Thoughts on Crime, Punishment, and the Rule of Law"
 author: Preet Bharara
 currentlyReading: false

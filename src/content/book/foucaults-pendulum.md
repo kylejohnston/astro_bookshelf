@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Foucault's Pendulum"
 author: Umberto Eco
 currentlyReading: false

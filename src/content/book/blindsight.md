@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Blindsight"
 author: Peter Watts
 # startDate:

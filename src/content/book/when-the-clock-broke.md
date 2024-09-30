@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "When the Clock Broke: Con Men, Conspiracists, and How America Cracked Up in the Early 1990s"
 author: John Ganz
 currentlyReading: false

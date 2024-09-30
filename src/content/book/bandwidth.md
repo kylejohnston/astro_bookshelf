@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Bandwidth"
 author: Elliot Peper
 currentlyReading: false

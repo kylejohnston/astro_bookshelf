@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Interstellar"
 author: Greg Keyes
 #startDate:

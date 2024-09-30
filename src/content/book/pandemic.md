@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Pandemic (The Extinction Files Book 1)"
 author: A.G. Riddle
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Four Thousand Weeks. Time Management for Mortals"
 author: Oliver Burkeman
 currentlyReading: false

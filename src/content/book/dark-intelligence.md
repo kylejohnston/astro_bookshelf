@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Dark Intelligence (Transformations)"
 author: Neal Asher
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Popisho"
 author: Leone Ross
 currentlyReading: false

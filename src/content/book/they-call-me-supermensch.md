@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "They Call Me Supermensch"
 author: Shep Gordon
 currentlyReading: false

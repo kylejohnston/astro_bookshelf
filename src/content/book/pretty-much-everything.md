@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Draplin Design Co.: Pretty Much Everything"
 author: Aaron James Draplin
 currentlyReading: false

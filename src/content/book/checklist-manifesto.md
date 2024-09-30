@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Checklist Manifesto: How to Get Things Right"
 author: Atul Gawande
 currentlyReading: false

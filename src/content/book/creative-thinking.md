@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Creative Thinking: A Field Guide to Building Your Strategic Core"
 author: Angus Fletcher
 currentlyReading: false

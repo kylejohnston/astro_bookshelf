@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Typhoid Mary"
 author: Anthony Bourdain
 #startDate:

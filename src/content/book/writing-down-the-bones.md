@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Writing Down the Bones"
 author: Natalie Goldberg
 currentlyReading: false

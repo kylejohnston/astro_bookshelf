@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "How To: Absurd Scientific Advice for Common Real-World Problems"
 author: Randall Munroe
 currentlyReading: false

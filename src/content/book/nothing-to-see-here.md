@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Nothing to See Here"
 author: Kevin Wilson
 currentlyReading: false

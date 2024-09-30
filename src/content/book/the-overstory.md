@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Overstory"
 author: Richard Powers
 currentlyReading: false

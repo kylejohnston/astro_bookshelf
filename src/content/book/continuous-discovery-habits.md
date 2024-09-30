@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Continuous Discovery Habits, Discover Products that Create Customer Value and Business"
 author: Teresa Torres
 currentlyReading: false

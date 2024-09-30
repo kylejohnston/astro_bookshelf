@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Analog In, Digital Out"
 author: Brendan Dawes
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "In Cold Blood"
 author: Truman Capote
 currentlyReading: false

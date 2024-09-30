@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Slaughterhouse Five"
 author: Kurt Vonnegut
 currentlyReading: false

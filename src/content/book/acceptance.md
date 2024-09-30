@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Acceptance"
 author: Jeff VanderMeer
 currentlyReading: false

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Premonition"
 author: Michael Lewis
 startDate: 2022 Apr 18

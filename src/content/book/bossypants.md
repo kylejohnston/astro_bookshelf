@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Bossypants"
 author: Tina Fey
 currentlyReading: false

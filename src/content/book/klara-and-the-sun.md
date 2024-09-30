@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Klara and the Sun"
 author: Kazuo Ishiguro
 #startDate:

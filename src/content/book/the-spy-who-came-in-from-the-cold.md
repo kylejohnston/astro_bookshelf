@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Spy Who Came in from the Cold"
 author: John Le Carré
 #startDate:

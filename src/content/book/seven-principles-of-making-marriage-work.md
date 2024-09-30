@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Seven Principles of Making Marriage Work"
 author: John M. Gottman
 #startDate:

@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Mountain in the Sea"
 author: Ray Nayler
 currentlyReading: false

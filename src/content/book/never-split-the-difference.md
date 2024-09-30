@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Never Split the Difference. Negotiating As If Your Life Depended On It"
 author: Chris Voss, Tahl Raz
 currentlyReading: false

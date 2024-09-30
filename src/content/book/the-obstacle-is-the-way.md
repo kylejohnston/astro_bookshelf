@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Obstacle is the Way: The Timeless Art of Turning Trials into Triumph"
 author: Ryan Holiday
 currentlyReading: false

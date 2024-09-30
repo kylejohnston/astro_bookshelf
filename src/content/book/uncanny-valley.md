@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Uncanny Valley. A Memoir"
 author: Anna Wiener
 currentlyReading: false

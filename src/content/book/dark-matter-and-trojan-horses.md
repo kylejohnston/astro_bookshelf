@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Dark Matter and Trojan Horses: A Strategic Design Vocabulary"
 author: Dan Hill
 currentlyReading: false

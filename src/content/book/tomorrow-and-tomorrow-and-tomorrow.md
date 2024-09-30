@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Tomorrow, and Tomorrow, and Tomorrow"
 author: Gabrielle Zevin
 currentlyReading: false

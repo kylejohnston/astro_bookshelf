@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Pricing Design"
 author: Daniel Mall
 currentlyReading: false

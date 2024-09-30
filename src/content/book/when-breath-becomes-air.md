@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "When Breath Becomes Air"
 author: Paul Kalanithi
 currentlyReading: false

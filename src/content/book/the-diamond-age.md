@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "The Diamond Age: Or, A Young Lady's Illustrated Primer"
 author: Neal Stephenson
 currentlyReading: false

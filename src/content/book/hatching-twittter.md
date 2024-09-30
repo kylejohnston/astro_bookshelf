@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal"
 author: Nick Bilton
 currentlyReading: false

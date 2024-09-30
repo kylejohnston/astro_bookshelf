@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: The Ministry for the Future
 author: Kim Stanley Robinson
 startDate: 2021 Dec 24

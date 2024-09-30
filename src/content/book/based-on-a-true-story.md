@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Based on a True Story: Not a Memoir"
 author: Norm Macdonald
 currentlyReading: false

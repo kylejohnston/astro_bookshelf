@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Shortest Way Home"
 author: Pete Buttigieg
 currentlyReading: false

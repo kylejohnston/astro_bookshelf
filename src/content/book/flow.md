@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BookLayout.astro
 title: "Flow, The Psychology of Optimal Experience"
 author: Mihaly Csikszentmihalyi
 currentlyReading: false
