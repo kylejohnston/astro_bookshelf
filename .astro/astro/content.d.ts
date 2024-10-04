@@ -1121,6 +1121,13 @@ declare module 'astro:content' {
   collection: "book";
   data: InferEntrySchema<"book">
 } & { render(): Render[".md"] };
+"silo-dust.md": {
+	id: "silo-dust.md";
+  slug: "silo-dust";
+  body: string;
+  collection: "book";
+  data: InferEntrySchema<"book">
+} & { render(): Render[".md"] };
 "silo-shift.md": {
 	id: "silo-shift.md";
   slug: "silo-shift";
