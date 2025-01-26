@@ -5,7 +5,7 @@ currentlyReading: false
 startDate: 2025 Jan 5
 finishDate: 2025 Jan 25
 added: 2025 Jan 25
-notes: false
+notes: true
 coverImage: meditations-for-mortals.webp
 library: https://share.libbyapp.com/title/10392817
 bookshop: https://bookshop.org/book/9780374611996
@@ -18,3 +18,11 @@ Addressing the fundamental questions about how to live, Meditations for Mortals 
 How can we embrace our nonnegotiable limitations? Or make good decisions when there’s always too much to do? How do we shed the illusion that life will really begin as soon as we can “get on top of everything”? Reflecting on quotations drawn from philosophy, religion, literature, psychology, and self-help, Burkeman explores a combination of practical tools and daily shifts in perspective. The result is a life-enhancing and surprising challenge to much familiar advice - and a profound yet entertaining crash course in living more fully.  
 
 To be read either as a four-week “retreat of the mind” or devoured in one or two sittings, Meditations for Mortals will be a source of solace and inspiration, and an aid to a saner, freer, and more enchantment-filled life. In anxiety-inducing times, it is rich in truths we have never needed more.  
+
+### Notes & Highlights
+
+**DAY FOURTEEN**  
+**Develop a taste for problems**  
+**On never reaching the trouble-free phase**  
+> ‘Beyond the mountains, more mountains.’  
+> – HAITIAN PROVERB”
