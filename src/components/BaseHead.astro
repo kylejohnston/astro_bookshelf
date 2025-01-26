@@ -1,6 +1,6 @@
 ---
 import '../styles/base.css';
-import { ViewTransitions } from 'astro:transitions';
+import { ClientRouter } from 'astro:transitions';
 
 export interface Props {
 	pageTitle: string;
@@ -45,4 +45,4 @@ const { pageTitle, description, permalink } = Astro.props;
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wdth,wght@8..144,36,550&family=Roboto+Mono&display=swap">
 
-<ViewTransitions fallback="none" />
+<ClientRouter fallback="none" />
