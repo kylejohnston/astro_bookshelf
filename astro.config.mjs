@@ -1,11 +1,16 @@
 import { defineConfig } from 'astro/config';
-import tailwind from '@astrojs/tailwind';
+import tailwindcss from '@tailwindcss/vite';
 import pagefind from 'astro-pagefind';
 
 export default defineConfig({
   build: {
     format: "file",
   },
+
   site: 'https://books.kyleio.com/',
-  integrations: [tailwind(), pagefind()],
+  integrations: [pagefind()],
+
+  vite: {
+    plugins: [tailwindcss()],
+  },
 });
