@@ -1,0 +1,100 @@
+/* 2025-02-23 updated css to work with tailwind 4 */
+/* should be ready to retest in Astro */
+@import "tailwindcss";
+
+@theme {
+    --color-black: #262321;
+    --color-white: #FDFBF7;
+    --primary: #FF5500;
+    --bright: #DDFF00;
+    --font-headline: "Roboto Flex", "Arial", "sans-serif";
+    --font-mono: "Roboto Mono", "monospace";
+}
+
+:root {
+    --dark:   #262321;
+    --mid:    #6F6A67;
+    --light:  #D8D6D5;
+    --color:  #CC3000;
+}
+body { @apply bg-gradient-to-b from-[#FDFBF7] to-[#F8F3E7] flex flex-col font-sans text-black md:flex-row; }
+/* TYPOGRAPHY */
+h1, .headline { font-size: clamp(2.813rem, 1.108rem + 8.52vw, 7.5rem) !important; @apply font-headline uppercase leading-[85%]; }
+h2 { font-size: clamp(1.875rem, 0.739rem + 5.68vw, 5rem) !important; @apply font-headline leading-none uppercase; }
+h2 span { color: var(--mid); }
+main h3, main .h3 { color: var(--mid); @apply font-mono mb-3 text-xl uppercase; }
+main h4, main .h4 { color: var(--mid); @apply font-mono mb-0 text-base uppercase; }
+main p { line-height: 1.55 !important; @apply mb-3 text-lg md:text-xl; }
+
+main ul, main ol { @apply list-disc mb-7 ml-5; }
+main ul li, main ol li { line-height: 1.55 !important; @apply mb-2 text-lg md:text-xl; }
+main blockquote { @apply border-l-2 border-gray-300 pl-3 mb-7 /*[text-indent:1.5em]*/; }
+    main blockquote br { content:""; @apply block mb-3; }
+
+/* TOP NAV */
+nav { 
+    @apply
+    pt-4 px-4 py-3
+    justify-between
+    shrink-0
+    bg-gradient-to-l from-[#DDFF00] to-[#FF5500]
+    md:flex
+    md:pt-4 md:px-3 md:py-0
+    md:bg-gradient-to-t;
+}
+nav a { @apply md:relative md:right-0.5; }
+    nav a:link, nav a:visited { @apply text-black; }
+    nav a:hover, nav a:active { @apply text-black; }
+    nav .content {
+        font-variation-settings: 'wght' 400;
+        @apply grid grid-cols-3
+        top-2
+        font-headline
+        text-xl
+        sticky 
+        uppercase
+        md:justify-between
+        md:text-2xl
+        md:[writing-mode:vertical-rl]
+        md:[height:97vh];
+    }
+    nav .logo { font-variation-settings: 'wght' 400; @apply sticky md:[writing-mode:vertical-rl]; }
+.logo-tall { width: 24px; height: auto; @apply hidden mb-2 md:block; }
+.logo-wide { width: auto; height: 24px; @apply mr-2 md:hidden; }
+
+/* SEARCH */
+.search-wrapper { @apply mx-4 mt-6 my-2 relative rounded-lg md:mx-8; }
+.search-input   { @apply bg-[#FDFBF7] border border-gray-300 focus:border-[--primary] text-base py-2 px-4 rounded-md w-full focus:outline-none placeholder:text-gray-400 focus:text-gray-800; }
+.search-clear   { @apply absolute right-0 inset-y-0 bg-[--primary] pl-3 pr-3 rounded-tr-lg rounded-br-lg hidden; }
+
+/* CONTENT */
+main.content { @apply w-full; }
+
+main a:link, main a:visited { color: var(--color); }
+main a:hover, main a:active { @apply underline underline-offset-8; }
+
+.book-cover { 
+    box-shadow:
+        0px 2.8px 4.7px rgba(0, 0, 0, 0.028),
+        0px 9.4px 15.6px rgba(0, 0, 0, 0.042),
+        0px 42px 70px rgba(0, 0, 0, 0.07)
+    ;
+    @apply rounded-xl; 
+}
+    main .book-cover:hover { @apply scale-110 transition-transform ease-in-out duration-[430ms] -rotate-2; }
+.book-details { @apply max-w-7xl mt-4 lg:mt-8 mb-16 px-4 lg:px-8; }
+.book-details header { @apply mb-8; }
+.book-content { @apply lg:flex gap-8 lg:gap-16 grid; }
+    .book-content section { @apply mb-8; }
+    .book-content h3 { @apply mt-8; }
+    .book-content main { @apply max-w-2xl; }
+    .book-content .book-cover-col {
+        @apply
+        px-8
+        max-w-xl
+        order-first
+        lg:order-last
+        lg:px-0;
+    }
+    .reading-time { @apply grid grid-cols-2 mb-3; }
+    .reading-time p { @apply mb-0; }
