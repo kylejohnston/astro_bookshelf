@@ -30,15 +30,19 @@ const { page } = Astro.props;
 </head>
 <body>
   <MainNav /> <!-- logo, nav -->
+
   <main class="content">
-    
-    <div class="pagination pt-4 md:pt-8">
+<!-- search -->
+    <div class="flex justify-center items-center font-headline uppercase px-4 pt-4 text-lg text-gray-700 md:px-8 md:pt-8 md:justify-between md:text-2xl;">
       <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
     </div>
-    <section aria-label="Bookshelf" id="view-container" class="book-grid">
+
+    <section aria-label="Bookshelf" id="view-container" class="px-4 py-4 gap-4 grid grid-cols-2 md:grid-cols-4 md:px-8 md:py-8 md:gap-8;">
       {page.data.map((books) => <BookShelf post={books} />)}
     </section>
-    <div class="pagination pb-4 md:pb-8">
+
+<!-- pagination -->
+    <div class="flex justify-center items-center font-headline uppercase px-4 pb-4 text-lg text-gray-700 md:px-8 md:pb-8 md:justify-between md:text-2xl;">
       <div class="flex gap-4 items-center">
         {page.url.prev ? 
           <a href={page.url.prev} aria-label="Previous page">
@@ -75,41 +79,5 @@ const { page } = Astro.props;
     --pagefind-ui-scale: 0.8;
     --pagefind-ui-border: rgb(212 212 212);
     --pagefind-ui-border-radius: 12px;
-  }
-  input { @apply rounded-full;}
-  .pagination {
-    @apply
-    flex
-    justify-center
-    md:justify-between
-    items-center
-    font-headline
-    uppercase
-    px-4
-    md:px-8
-    text-lg
-    md:text-2xl
-    text-gray-700
-  }
-  .book-grid {
-    @apply 
-    px-4
-    py-4
-    gap-4
-    grid
-    grid-cols-2
-    md:grid-cols-4
-    md:px-8
-    md:py-8
-    md:gap-8;
-  }
-  .book-grid article {
-    @apply
-    flex
-    content-between;
-  }
-  .book-grid article a:hover {
-    @apply
-    no-underline;
   }
 </style>
