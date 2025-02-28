@@ -15,7 +15,7 @@ const searchable = [post.data.title + post.data.author + post.data.finishDate];
 <article class="post-preview searchable grid items-end">
 	<a href={"/book/" + post.slug + "/"}>
 		{post.data.coverImage && <img src={bookCover} alt={altContent} width="480" height="100%" class="book-cover" decoding="async" transition:name={post.slug} transition:animate="slide" /> }
-		<p class="font-mono text-sm text-center mt-3 text-gray-600">
+		<p class="font-mono text-sm! text-center mt-3 text-gray-600">
 			{post.data.notes ? <span>📝 Notes</span> : <span>&nbsp;</span> }
 			{post.data.currentlyReading && <span>📖 Currently Reading</span>}
 		</p>
