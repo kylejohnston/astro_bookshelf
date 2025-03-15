@@ -1,0 +1,72 @@
+---
+// Homepage - display a paginated list of books 
+import { getCollection } from 'astro:content';
+import BaseHead from '@components/BaseHead.astro';
+import Footer from '@components/Footer.astro';
+import MainNav from '@components/MainNav.astro'; // logo, nav
+import BookShelf from '@components/BookShelf.astro';
+import BookList from '@components/BookList.astro';
+import Search from "astro-pagefind/components/Search";
+
+let pageTitle = "Kyle Johnston's Bookshelf · List"
+let description = 'A running list of the books I\'ve read.';
+let permalink = 'https://books.kyleio.com/list';
+
+// const books = await getCollection('book', ({ data }) => {
+//   return data.draft !== true;
+// });
+
+// export async function getStaticPaths({ paginate }) {
+//   const books = (await getCollection('book')).sort(
+//   (a, b) => b.data.added.valueOf() - a.data.added.valueOf()
+//   );
+//   return paginate(books, { pageSize: 24 });
+// }
+
+const books = (await getCollection('book')).sort(
+(a, b) => b.data.added.valueOf() - a.data.added.valueOf()
+);
+---
+
+<html lang="en">
+<head>
+	<BaseHead {pageTitle} {description} {permalink} />
+</head>
+
+<body>
+	<MainNav /> <!-- logo, nav -->
+	<main class="content">
+		<!-- search -->
+		<div class="flex justify-center items-center font-headline uppercase px-4 pt-4 text-lg text-gray-700 md:px-8 md:pt-8 md:justify-between md:text-2xl;">
+			<Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
+			<p class="m-0! pl-4">
+				<a href="/">
+					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+						<path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25a2.25 2.25 0 0 1-2.25-2.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z" />
+					</svg>					  
+				</a>
+			</p>
+		</div>
+		
+		<!-- books (list view) -->
+		<section aria-label="Bookshelf" id="view-container" class="px-4 py-4 md:px-8 md:py-8;">
+			<!-- <ul class="list-none! m-0!"> -->
+			{books.map(book => (
+				<p>
+					<a class="" href={"/book/" + book.slug + "/"}>
+						{book.data.title}
+					</a><br>
+					<span class="text-base font-medium">{book.data.author}</span> &centerdot;  
+					<span class="text-base! text-gray-500">
+						Added {book.data.finishDate}
+						{book.data.notes ? <span> &centerdot; <a href={"/book/" + book.slug + "/"}>Notes</a></span> : <span></span> }
+						{book.data.currentlyReading && <span>📖 Currently Reading</span>}
+					</span>
+				</p>
+			))}
+			{/* </ul> */}
+		</section>
+	</main>
+	<Footer />
+</body>
+</html>
