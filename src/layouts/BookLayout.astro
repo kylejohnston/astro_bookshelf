@@ -1,5 +1,5 @@
 ---
-import { Image } from 'astro:assets';
+import { Picture } from 'astro:assets';
 import BaseHead from '@components/BaseHead.astro'; // <head>
 import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
@@ -71,7 +71,7 @@ const formattedDate = formatDate(added);
           </section>
         </main>
         <div class="book-cover-col">
-          <Image
+          <Picture
             src={bookCover}
             alt={pageTitle}
             width={960}
