@@ -36,16 +36,17 @@ const { page } = Astro.props;
     <div class="flex justify-center items-center font-headline uppercase px-4 pt-4 text-lg text-gray-700 md:px-8 md:pt-8 md:justify-between md:text-2xl;">
       <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
       <p class="m-0! pl-4">
-        <a href="/list">
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+				<a href="/list" aria-label="Switch to list view">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6" role="img" aria-labelledby="listIconTitle">
+            <title id="listIconTitle">List icon</title>
+            <desc>Switch to list view</desc>
             <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 6.75h12M8.25 12h12m-12 5.25h12M3.75 6.75h.007v.008H3.75V6.75Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0ZM3.75 12h.007v.008H3.75V12Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm-.375 5.25h.007v.008H3.75v-.008Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
-          </svg>          
+          </svg>
         </a>
       </p>
     </div>
 
 <!-- books (grid view) -->
-    <section aria-label="Bookshelf" id="view-container" class="px-4 py-4 gap-4 grid grid-cols-2 md:grid-cols-4 md:px-8 md:py-8 md:gap-8;">
     <section aria-label="Bookshelf" id="view-container" class="px-4 py-4 gap-4 grid grid-cols-2 items-end md:grid-cols-4 md:px-8 md:py-8 md:gap-8;">
       {page.data.map((books) => <BookShelf post={books} />)}
     </section>
