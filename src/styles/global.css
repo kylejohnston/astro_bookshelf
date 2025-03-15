@@ -59,8 +59,8 @@ nav a { @apply md:relative md:right-0.5; }
         md:[height:97vh];
     }
     nav .logo { font-variation-settings: 'wght' 400; @apply sticky md:[writing-mode:vertical-rl]; }
-.logo-tall { width: 24px; height: auto; @apply hidden mb-2 md:block; }
-.logo-wide { width: auto; height: 24px; @apply mr-2 md:hidden; }
+.logo-tall { width: 24px; height: 65px; @apply hidden mb-2 md:block; }
+.logo-wide { width: 65px; height: 24px; @apply mr-2 md:hidden; }
 
 /* SEARCH */
 .search-wrapper { @apply mx-4 mt-6 my-2 relative rounded-lg md:mx-8; }
