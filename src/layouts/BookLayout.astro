@@ -5,7 +5,7 @@ import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
 
 const { title, author, coverImage, added, library, bookshelf, bookshop, amazon, other } = Astro.props;
-const bookCover = `/src/assets/${coverImage}`;
+const bookCover = `/covers/${coverImage}`;
 const pageTitle = `${title} by ${author}`;
 const permalink = [Astro.url];
 
