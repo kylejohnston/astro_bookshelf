@@ -55,10 +55,10 @@ const books = (await getCollection('book')).sort(
 			<!-- <ul class="list-none! m-0!"> -->
 			{books.map(book => (
 				<p>
-					<a class="" href={"/book/" + book.slug + "/"}>
+					<a class="font-normal" href={"/book/" + book.slug + "/"}>
 						{book.data.title}
 					</a><br>
-					<span class="text-base font-medium">{book.data.author}</span> &centerdot;  
+					<span class="text-base font-normal">{book.data.author}</span> &centerdot;  
 					<span class="text-base! text-gray-500">
 						Added {book.data.finishDate}
 						{book.data.notes ? <span> &centerdot; <a href={"/book/" + book.slug + "/"}>Notes</a></span> : <span></span> }
