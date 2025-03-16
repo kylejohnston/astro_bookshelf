@@ -1,6 +1,6 @@
 ---
 // renders the book cover on the homepage / index.astro
-import { Picture } from 'astro:assets';
+import { Image } from 'astro:assets'; //test
 import type { CollectionEntry } from 'astro:content';
 interface Props {
 	post: CollectionEntry<'book'>;
@@ -15,15 +15,10 @@ const searchable = [post.data.title + post.data.author + post.data.finishDate];
 <article class="post-preview searchable grid items-end">
 	<a href={"/book/" + post.slug + "/"}>
 		{post.data.coverImage && <img src={bookCover} alt={altContent} width="480" height="100%" class="book-cover" decoding="async" transition:name={post.slug} transition:animate="slide" /> }
-		<Picture src={bookCover} formats={['webp']} width="480" height="720" alt={altContent} class="book-cover" decoding="async" transition:name={post.slug} transition:animate="slide"  />
 	</a>
 		<p class="font-mono text-sm! text-center mt-3 text-gray-600">
 			{post.data.notes ? <span><a href={"/book/" + post.slug + "/"}>📝 Notes</a></span> : <span>&nbsp;</span> }
 			{post.data.currentlyReading && <span>📖 Currently Reading</span>}
 		</p>
-	<p class="font-mono text-sm! text-center mt-3 text-gray-600">
-		{post.data.notes ? <span><a href={"/book/" + post.slug + "/"}>📝 Notes</a></span> : <span>&nbsp;</span> }
-		{post.data.currentlyReading && <span>📖 Currently Reading</span>}
-	</p>
 	<div class="hidden">{altContent}</div>
 </article>
