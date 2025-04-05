@@ -5,8 +5,8 @@ import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
 
 const { title, author, coverImage, added, library, bookshop, amazon, other } = Astro.props;
+const bookCover = `/covers/${coverImage}`;
 const pageTitle = `${title} by ${author}`;
-const coverImagePath = `/src/content/covers/${coverImage}`;
 const permalink = [Astro.url];
 
 function formatDate(dateString) {
@@ -16,6 +16,14 @@ function formatDate(dateString) {
 	const day = date.getDate();
 	return `${year} ${month} ${day}`;
 }
+
+// Import all cover images
+const coverImages = import.meta.glob('/src/content/covers/*.{webp}');
+// Find the matching cover by filename
+const coverImagePath = Object.keys(coverImages).find(path => path.endsWith(`/${coverImage}`));
+const coverImageModule = coverImagePath ? await coverImages[coverImagePath]() : null;
+const coverImageSrc = coverImageModule?.default;
+
 
 ---
 
@@ -48,7 +56,7 @@ function formatDate(dateString) {
         </main>
         <div class="book-cover-col">
             <Image
-              src={coverImagePath}
+              src={bookCover}
               alt={pageTitle}
               width={480}
               height={960}
