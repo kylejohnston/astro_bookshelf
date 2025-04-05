@@ -11,7 +11,16 @@
           "type": "string"
         },
         "coverImage": {
-          "type": "string"
+          "type": "object",
+          "properties": {
+            "url": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "url"
+          ],
+          "additionalProperties": false
         },
         "startDate": {
           "type": "string"
