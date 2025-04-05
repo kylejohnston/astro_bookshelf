@@ -6,7 +6,7 @@ finishDate: 2021 Nov 29
 added: 2021 Nov 29
 coverImage: typhoid-mary.webp
 library: https://share.libbyapp.com/title/471788
-bookshelf:
+# bookshelf:
 amazon: https://www.amazon.com/Typhoid-Mary-Anthony-Bourdain/dp/0747566879/
 ---
 
