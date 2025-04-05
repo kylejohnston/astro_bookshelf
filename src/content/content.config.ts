@@ -6,11 +6,10 @@ const bookCollection = defineCollection({
   schema: ({ image }) => z.object({
     title: z.string(),
     author: z.string(),
-    // coverImage: z.string(),
     coverImage: image().refine(img => img.src.startsWith('/src/content/covers/')),
     startDate: z.string().optional(),
     finishDate: z.string().optional(),
-    added: z.string().transform((str) => new Date(str)),
+    added: z.date(),
     currentlyReading: z.boolean().optional(),
     notes: z.boolean().optional(),
     library: z.string().optional(),
