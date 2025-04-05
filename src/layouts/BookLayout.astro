@@ -6,7 +6,9 @@ import MainNav from '@components/MainNav.astro'; // logo, nav
 
 const { title, author, coverImage, added, library, bookshelf, bookshop, amazon, other } = Astro.props;
 const bookCover = `/covers/${coverImage}`;
+const { title, author, coverImage, added, library, bookshop, amazon, other } = Astro.props;
 const pageTitle = `${title} by ${author}`;
+const coverImagePath = `/src/content/covers/${coverImage}`;
 const permalink = [Astro.url];
 
 // Function to format the date
