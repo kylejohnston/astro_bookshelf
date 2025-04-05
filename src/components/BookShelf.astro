@@ -6,9 +6,9 @@ interface Props {
 	post: CollectionEntry<'book'>;
 }
 
-const { post } = Astro.props;
-const altContent = [post.data.title + " by " + post.data.author + " finished on " + post.data.finishDate];
-const bookCover  = ["/covers/" + post.data.coverImage];
+const { post, formattedDate } = Astro.props;
+const altContent = [post.data.title + " by " + post.data.author];
+const coverImagePath = `/src/content/covers/${post.data.coverImage}`;
 const searchable = [post.data.title + post.data.author + post.data.finishDate];
 ---
 
