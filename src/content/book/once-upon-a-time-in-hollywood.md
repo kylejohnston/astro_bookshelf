@@ -1,9 +1,9 @@
 ---
 title: Once Upon a Time in Hollywood
 author: Quentin Tarantino
-startDate: 2022 Jan 08
-finishDate: 2022 Jan 17
-added: 2022 Jan 17
+startDate: 2022-01-08
+finishDate: 2022-01-17
+added: 2022-01-17
 coverImage: once-upon-a-time-in-hollywood.webp
 library: https://share.libbyapp.com/title/5904080
 bookshop: https://bookshop.org/books/once-upon-a-time-in-hollywood/9780063112520

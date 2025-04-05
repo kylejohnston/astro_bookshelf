@@ -1,9 +1,9 @@
 ---
 title: "Stolen Focus"
 author: Johann Hari
-startDate: 2022 Apr 10
-finishDate: 2022 Apr 18
-added: 2022 Apr 18
+startDate: 2022-04-10
+finishDate: 2022-04-18
+added: 2022-04-18
 notes: true
 coverImage: stolen-focus.webp
 library: https://share.libbyapp.com/title/6225834

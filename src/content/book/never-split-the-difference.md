@@ -3,8 +3,8 @@ title: "Never Split the Difference. Negotiating As If Your Life Depended On It"
 author: Chris Voss, Tahl Raz
 currentlyReading: false
 # startDate:
-finishDate: 2016 Aug 27
-added: 2016 Aug 27
+finishDate: 2016-08-27
+added: 2016-08-27
 notes: true
 coverImage: never-split-the-difference.webp
 library: https://share.libbyapp.com/title/2360580

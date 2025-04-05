@@ -2,9 +2,9 @@
 title: "Lincoln in the Bardo"
 author: George Saunders
 currentlyReading: false
-startDate: 2024 May 27
-finishDate: 2024 Jun 03
-added: 2024 Jun 03
+startDate: 2024-05-27
+finishDate: 2024-06-03
+added: 2024-06-03
 notes: true
 coverImage: lincoln-in-the-bardo.webp
 library: https://share.libbyapp.com/title/2914958

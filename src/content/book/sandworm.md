@@ -2,9 +2,9 @@
 title: "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers"
 author: Andy Greenberg
 currentlyReading: false
-startDate: 2024 Oct 16
-finishDate: 2024 Oct 29
-added: 2024 Oct 29
+startDate: 2024-10-16
+finishDate: 2024-10-29
+added: 2024-10-29
 notes: false
 coverImage: sandworm.webp
 library: https://share.libbyapp.com/title/4715580

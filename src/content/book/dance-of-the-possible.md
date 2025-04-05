@@ -3,8 +3,8 @@ title: "The Dance of the Possible: The Mostly Honest and Completely Irreverent G
 author: Scott Berkun
 currentlyReading: false
 #startDate:
-finishDate: 2018 Apr 28
-added: 2018 Apr 28
+finishDate: 2018-04-28
+added: 2018-04-28
 notes: true
 coverImage: dance-of-the-possible.webp
 # library: 

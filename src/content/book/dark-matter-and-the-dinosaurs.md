@@ -3,8 +3,8 @@ title: "Dark Matter and the Dinosaurs: The astounding interconnectedness of the 
 author: Lisa Randall
 currentlyReading: false
 # startDate:
-finishDate: 2018 Sep 04
-added: 2018 Sep 04
+finishDate: 2018-09-04
+added: 2018-09-04
 notes: false
 coverImage: dark-matter-and-the-dinosaurs.webp
 library: https://share.libbyapp.com/title/2106020

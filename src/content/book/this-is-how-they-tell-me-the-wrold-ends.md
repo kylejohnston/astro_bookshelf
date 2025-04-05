@@ -2,8 +2,8 @@
 title: "This is How They Tell Me the World Ends"
 author: Nicole Perloth
 #startDate:
-finishDate: 2021 Sep 04
-added: 2021 Sep 04
+finishDate: 2021-09-04
+added: 2021-09-04
 notes: true
 coverImage: this-is-how-they-tell-me-the-wrold-ends.webp
 library: https://share.libbyapp.com/title/5427474

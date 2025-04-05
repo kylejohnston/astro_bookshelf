@@ -2,9 +2,9 @@
 title: "Junior: Writing Your Way Ahead in Advertising"
 author: Thomas Kemeny
 currentlyReading: false
-startDate: 2022 Oct 15
-finishDate: 2022 Oct 16
-added: 2022 Oct 15
+startDate: 2022-10-15
+finishDate: 2022-10-16
+added: 2022-10-15
 notes: true
 coverImage: junior.webp
 # library: 

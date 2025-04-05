@@ -3,8 +3,8 @@ title: "Nothing to See Here"
 author: Kevin Wilson
 currentlyReading: false
 # startDate:
-finishDate: 2020 Mar 19
-added: 2020 Mar 19
+finishDate: 2020-03-19
+added: 2020-03-19
 notes: false
 coverImage: nothing-to-see-here.webp
 library: https://share.libbyapp.com/title/4559196

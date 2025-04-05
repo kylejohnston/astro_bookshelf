@@ -3,8 +3,8 @@ title: "The Righteous Mind: Why Good People are Divided by Politics and Religion
 author: Jonathan Haidt
 currentlyReading: false
 #startDate:
-finishDate: 2018 Aug 21
-added: 2018 Aug 21
+finishDate: 2018-08-21
+added: 2018-08-21
 notes: false
 coverImage: the-righteous-mind.webp
 library: https://share.libbyapp.com/title/601668

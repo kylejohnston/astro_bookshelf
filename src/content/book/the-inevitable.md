@@ -3,8 +3,8 @@ title: "The Inevitable: Understanding the 12 Technological Forces that Will Shap
 author: Kevin Kelly
 currentlyReading: false
 # startDate:
-finishDate: 2018 Jul 09
-added: 2018 Jul 09
+finishDate: 2018-07-09
+added: 2018-07-09
 notes: false
 coverImage: the-inevitable.webp
 library: https://share.libbyapp.com/title/2462271

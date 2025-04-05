@@ -3,8 +3,8 @@ title: "Doing Justice. A Prosecutor’s Thoughts on Crime, Punishment, and the R
 author: Preet Bharara
 currentlyReading: false
 #startDate:
-finishDate: 2019 Oct 31
-added: 2019 Oct 31
+finishDate: 2019-10-31
+added: 2019-10-31
 notes: false
 coverImage: doing-justice.webp
 library: https://share.libbyapp.com/title/4455153

@@ -3,8 +3,8 @@ title: "Exhalation"
 author: Ted Chiang
 currentlyReading: false
 # startDate:
-finishDate: 2019 Jun 22
-added: 2019 Jun 22
+finishDate: 2019-06-22
+added: 2019-06-22
 notes: true
 coverImage: exhalation.webp
 library: https://share.libbyapp.com/title/4387263

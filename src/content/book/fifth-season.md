@@ -2,8 +2,8 @@
 title: "The Fifth Season"
 author: N.K. Jemisin
 #startDate:
-finishDate: 2021 Apr 06
-added: 2021 Apr 06
+finishDate: 2021-04-06
+added: 2021-04-06
 coverImage: fifth-season.webp
 library: https://share.libbyapp.com/title/1485080
 bookshop: https://bookshop.org/books/the-fifth-season/9780316229296

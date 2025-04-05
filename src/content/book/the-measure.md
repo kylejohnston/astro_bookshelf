@@ -2,9 +2,9 @@
 title: "The Measure"
 author: Nikki Erlick
 currentlyReading: false
-startDate: 2023 May 30
-finishDate: 2023 Jul 30
-added: 2023 Jul 30
+startDate: 2023-05-30
+finishDate: 2023-07-30
+added: 2023-07-30
 notes: true
 coverImage: the-measure.webp
 library: https://share.libbyapp.com/title/6526264

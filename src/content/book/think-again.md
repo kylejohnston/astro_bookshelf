@@ -2,8 +2,8 @@
 title: "Think Again"
 author: Adam Grant
 #startDate:
-finishDate: 2021 Nov 12
-added: 2021 Nov 12
+finishDate: 2021-11-12
+added: 2021-11-12
 notes: true
 coverImage: think-again.webp
 library: https://share.libbyapp.com/title/5704292

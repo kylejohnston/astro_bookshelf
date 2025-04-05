@@ -3,8 +3,8 @@ title: "Sapiens, A Brief History of Humankind"
 author: Yuval Noah Harari
 currentlyReading: false
 # startDate:
-finishDate: 2016 Dec 14
-added: 2016 Dec 14
+finishDate: 2016-12-14
+added: 2016-12-14
 notes: false
 coverImage: sapiens.webp
 library: https://share.libbyapp.com/title/1553018

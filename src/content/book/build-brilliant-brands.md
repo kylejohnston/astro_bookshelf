@@ -2,8 +2,8 @@
 title: "Build Brilliant Brands"
 author: Facebook EMEA Client Council
 currentlyReading: false
-finishDate: 2020 Oct 27
-added: 2020 Oct 27
+finishDate: 2020-10-27
+added: 2020-10-27
 notes: true
 coverImage: build-brilliant-brands.webp
 # library: 

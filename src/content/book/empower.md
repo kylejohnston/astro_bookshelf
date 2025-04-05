@@ -3,8 +3,8 @@ title: "Empower: How to Co-Create the Future"
 author: David Passiak
 currentlyReading: false
 #startDate:
-finishDate: 2017 Apr 17
-added: 2017 Apr 17
+finishDate: 2017-04-17
+added: 2017-04-17
 notes: false
 coverImage: empower.webp
 # library:

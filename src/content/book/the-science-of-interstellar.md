@@ -3,8 +3,8 @@ title: "The Science of Interstellar"
 author: Kip Thorne
 currentlyReading: false
 # startDate:
-finishDate: 2018 Sep 25
-added: 2018 Sep 25
+finishDate: 2018-09-25
+added: 2018-09-25
 notes: false
 coverImage: the-science-of-interstellar.webp
 library: https://share.libbyapp.com/title/2101702

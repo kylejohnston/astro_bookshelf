@@ -2,9 +2,9 @@
 title: "Shift"
 author: Hugh Howey
 currentlyReading: false
-startDate: 2024 Sep 04
-finishDate: 2024 Sep 27
-added: 2024 Sep 27
+startDate: 2024-09-04
+finishDate: 2024-09-27
+added: 2024-09-27
 notes: false
 coverImage: silo-shift.webp
 library: https://share.libbyapp.com/title/5507203

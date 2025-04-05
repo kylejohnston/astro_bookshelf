@@ -1,9 +1,9 @@
 ---
 title: "The Good Father"
 author: Noah Hawley
-startDate: 2022 Jun 26
-finishDate: 2022 Jul 12
-added: 2022 Jul 12
+startDate: 2022-06-26
+finishDate: 2022-07-12
+added: 2022-07-12
 coverImage: the-good-father.webp
 library: https://share.libbyapp.com/title/647378
 bookshop: https://bookshop.org/books/the-good-father-f27526a7-a941-48ce-a8a0-5d9e14946760/9780307947918

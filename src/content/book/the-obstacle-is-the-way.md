@@ -3,8 +3,8 @@ title: "The Obstacle is the Way: The Timeless Art of Turning Trials into Triumph
 author: Ryan Holiday
 currentlyReading: false
 #startDate:
-finishDate: 2016 Jun 12
-added: 2016 Jun 12
+finishDate: 2016-06-12
+added: 2016-06-12
 notes: false
 coverImage: the-obstacle-is-the-way.webp
 library: https://share.libbyapp.com/title/1438759

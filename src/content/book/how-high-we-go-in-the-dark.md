@@ -1,9 +1,9 @@
 ---
 title: "How High We Go in the Dark"
 author: Sequoia Nagamatsu
-startDate: 2022 Jun 13
-finishDate: 2022 Jun 21
-added: 2022 Jun 21
+startDate: 2022-06-13
+finishDate: 2022-06-21
+added: 2022-06-21
 coverImage: how-high-we-go-in-the-dark.webp
 library: https://share.libbyapp.com/title/6209943
 bookshop: https://bookshop.org/books/how-high-we-go-in-the-dark/9780063072640

@@ -2,8 +2,8 @@
 title: "Axiom's End"
 author: Lindsay Ellis
 #startDate:
-finishDate: 2021 Sep 21
-added: 2021 Sep 21
+finishDate: 2021-09-21
+added: 2021-09-21
 coverImage: axioms-end.webp
 library: https://share.libbyapp.com/title/5042640
 bookshop: https://bookshop.org/books/axiom-s-end-9781250798138/9781250798138

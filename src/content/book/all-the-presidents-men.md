@@ -2,9 +2,9 @@
 title: "All the President's Men"
 author: Carl Bernstein & Bob Woodward
 currentlyReading: false
-startDate: 2022 Jun 05
-finishDate: 2022 Jun 24
-added: 2022 Jun 24
+startDate: 2022-06-05
+finishDate: 2022-06-24
+added: 2022-06-24
 coverImage: all-the-presidents-men.webp
 library: https://share.libbyapp.com/title/284664
 bookshop: https://bookshop.org/books/all-the-president-s-men/9781476770512

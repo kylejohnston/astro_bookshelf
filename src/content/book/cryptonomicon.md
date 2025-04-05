@@ -2,8 +2,8 @@
 title: "Cryptonomicon"
 author: Neal Stephenson
 #startDate:
-finishDate: 2021 Jun 23
-added: 2021 Jun 23
+finishDate: 2021-06-23
+added: 2021-06-23
 coverImage: cryptonomicon.webp
 library: https://share.libbyapp.com/title/35193
 bookshop: https://bookshop.org/books/cryptonomicon/9780060512804

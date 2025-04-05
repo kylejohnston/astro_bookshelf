@@ -2,9 +2,9 @@
 title: "From Strength to Strength"
 author: Arthur C. Brooks
 currentlyReading: false
-startDate: 2024 Jul 08
-finishDate: 2024 Jul 21
-added: 2024 Jul 21
+startDate: 2024-07-08
+finishDate: 2024-07-21
+added: 2024-07-21
 notes: false
 coverImage: from-strength-to-strength.webp
 library: https://share.libbyapp.com/title/6070377

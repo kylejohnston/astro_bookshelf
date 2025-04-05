@@ -2,9 +2,9 @@
 title: "Recursion"
 author: Blake Crouch
 currentlyReading: false
-startDate: 2024 Oct 05
-finishDate: 2024 Oct 12
-added: 2024 Oct 12
+startDate: 2024-10-05
+finishDate: 2024-10-12
+added: 2024-10-12
 notes: false
 coverImage: recursion.webp
 library: https://share.libbyapp.com/title/4483738

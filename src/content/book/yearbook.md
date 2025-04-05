@@ -2,8 +2,8 @@
 title: "Yearbook"
 author: Seth Rogen
 #startDate:
-finishDate: 2021 Jul 14
-added: 2021 Jul 14
+finishDate: 2021-07-14
+added: 2021-07-14
 coverImage: yearbook.webp
 library: https://share.libbyapp.com/title/4669496
 bookshop: https://bookshop.org/books/yearbook-9781984825407/9781984825407

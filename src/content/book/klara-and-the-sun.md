@@ -2,8 +2,8 @@
 title: "Klara and the Sun"
 author: Kazuo Ishiguro
 #startDate:
-finishDate: 2021 May 13
-added: 2021 May 13
+finishDate: 2021-05-13
+added: 2021-05-13
 coverImage: klara-and-the-sun.webp
 library: https://share.libbyapp.com/title/5558820
 bookshop: https://bookshop.org/books/klara-and-the-sun-9780593396568/9780593311295

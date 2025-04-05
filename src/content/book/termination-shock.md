@@ -2,9 +2,9 @@
 title: "Termination Shock"
 author: Neal Stephenson
 currentlyReading: false
-startDate: 2024 Jul 08
-finishDate: 2024 Aug 06
-added: 2024 Aug 06
+startDate: 2024-07-08
+finishDate: 2024-08-06
+added: 2024-08-06
 notes: false
 coverImage: termination-shock.webp
 library: https://share.libbyapp.com/title/6071337

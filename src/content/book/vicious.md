@@ -2,8 +2,8 @@
 title: "Vicious"
 author: V.E. Schwab
 #startDate:
-finishDate: 2021 Dec 08
-added: 2021 Dec 08
+finishDate: 2021-12-08
+added: 2021-12-08
 coverImage: vicious.webp
 library: https://share.libbyapp.com/title/1311490
 bookshop: https://bookshop.org/books/vicious-9781491508350/9781250183507

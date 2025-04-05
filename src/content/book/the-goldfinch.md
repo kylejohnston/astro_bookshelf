@@ -3,8 +3,8 @@ title: "The Goldfinch"
 author: Donna Tartt
 currentlyReading: false
 # startDate:
-finishDate: 2020 Jan 04
-added: 2020 Jan 04
+finishDate: 2020-01-04
+added: 2020-01-04
 notes: false
 coverImage: the-goldfinch.webp
 library: https://share.libbyapp.com/title/1223597

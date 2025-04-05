@@ -3,8 +3,8 @@ title: "The Fire Next Time"
 author: James Baldwin
 currentlyReading: false
 # startDate:
-finishDate: 2020 Jul 29
-added: 2020 Jul 29
+finishDate: 2020-07-29
+added: 2020-07-29
 notes: false
 coverImage: the-fire-next-time.webp
 library: https://share.libbyapp.com/title/1377488

@@ -2,9 +2,9 @@
 title: "Never Use Futura"
 author: Douglas Thomas
 currentlyReading: false
-startDate: 2023 Sep 02
-finishDate: 2023 Sep 04
-added: 2023 Sep 04
+startDate: 2023-09-02
+finishDate: 2023-09-04
+added: 2023-09-04
 notes: true
 coverImage: never-use-futura.webp
 # library: https://share.libbyapp.com/title/

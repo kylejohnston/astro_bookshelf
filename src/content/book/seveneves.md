@@ -2,8 +2,8 @@
 title: "Seveneves"
 author: Neal Stephenson
 #startDate:
-finishDate: 2021 Jul 03
-added: 2021 Jul 03
+finishDate: 2021-07-03
+added: 2021-07-03
 coverImage: seveneves.webp
 library: https://share.libbyapp.com/title/1879383
 bookshop: https://bookshop.org/books/seveneves-9780062334510/9780062334510

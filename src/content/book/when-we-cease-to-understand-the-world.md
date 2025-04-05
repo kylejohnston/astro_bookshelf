@@ -2,9 +2,9 @@
 title: "When We Cease to Understand the World"
 author: Benjamin Labatut
 currentlyReading: false
-startDate: 2024 Apr 01
-finishDate: 2024 Apr 07
-added: 2024 Apr 07
+startDate: 2024-04-01
+finishDate: 2024-04-07
+added: 2024-04-07
 notes: false
 coverImage: when-we-cease-to-understand-the-world.webp
 library: https://share.libbyapp.com/title/5979378

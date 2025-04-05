@@ -2,9 +2,9 @@
 title: "An Immense World"
 author: Ed Yong
 currentlyReading: false
-startDate: 2023 Sep 04
-finishDate: 2023 Oct 22
-added: 2023 Oct 22
+startDate: 2023-09-04
+finishDate: 2023-10-22
+added: 2023-10-22
 notes: true
 coverImage: an-immense-world.webp
 library: https://share.libbyapp.com/title/7344335

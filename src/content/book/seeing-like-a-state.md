@@ -2,9 +2,9 @@
 title: "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed"
 author: James C. Scott
 currentlyReading: false
-startDate: 2024 May 09
-finishDate: 2024 May 27
-added: 2024 May 27
+startDate: 2024-05-09
+finishDate: 2024-05-27
+added: 2024-05-27
 notes: true
 coverImage: seeing-like-a-state.webp
 library: https://share.libbyapp.com/title/5329621

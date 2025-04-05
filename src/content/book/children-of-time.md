@@ -2,9 +2,9 @@
 title: "Children of Time"
 author: Adrian Tchaikovsky
 currentlyReading: false
-startDate: 2024 Jan 04
-finishDate: 2024 Jan 14
-added: 2024 Jan 14
+startDate: 2024-01-04
+finishDate: 2024-01-14
+added: 2024-01-14
 notes: false
 coverImage: children-of-time.webp
 library: https://share.libbyapp.com/title/4056736

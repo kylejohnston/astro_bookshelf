@@ -2,9 +2,9 @@
 title: "Other Minds"
 author: Peter Godfrey-Smith
 currentlyReading: false
-startDate: 2022 Dec 24
-finishDate: 2022 Dec 31
-added: 2022 Dec 24
+startDate: 2022-12-24
+finishDate: 2022-12-31
+added: 2022-12-24
 notes: false
 coverImage: other-minds.webp
 library: https://share.libbyapp.com/title/3156823

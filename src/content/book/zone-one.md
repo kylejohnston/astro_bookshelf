@@ -1,9 +1,9 @@
 ---
 title: Zone One
 author: Colson Whitehead
-startDate: 2022 Mar 26
-finishDate: 2022 Apr 10
-added: 2022 Apr 10
+startDate: 2022-03-26
+finishDate: 2022-04-10
+added: 2022-04-10
 coverImage: zone-one.webp
 library: https://share.libbyapp.com/title/567409
 bookshop: https://bookshop.org/books/zone-one/9780307455178

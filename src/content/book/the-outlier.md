@@ -1,7 +1,7 @@
 ---
 title: "The Outlier: The Unfinished Presidency of Jimmy Carter"
 author: Kai Bird
-startDate: 2022 Jan 17
+startDate: 2022-01-17
 finishDate: 2022 Feb 04
 added: 2022 Feb 04
 coverImage: outlier.webp

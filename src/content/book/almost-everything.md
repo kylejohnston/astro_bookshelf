@@ -2,9 +2,9 @@
 title: "Almost Everything. Notes on Hope."
 author: Anne Lamott
 currentlyReading: false
-startDate: 2024 Oct 13
-finishDate: 2024 Oct 15
-added: 2024 Oct 15
+startDate: 2024-10-13
+finishDate: 2024-10-15
+added: 2024-10-15
 notes: true
 coverImage: almost-everything.webp
 library: https://share.libbyapp.com/title/3878136

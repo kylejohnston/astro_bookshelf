@@ -2,9 +2,9 @@
 title: "Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger"
 author: Charles T. Munger
 currentlyReading: false
-startDate: 2024 Mar 15
-finishDate: 2024 Mar 31
-added: 2024 Mar 31
+startDate: 2024-03-15
+finishDate: 2024-03-31
+added: 2024-03-31
 notes: true
 coverImage: poor-charlies-almanack.webp
 library: https://share.libbyapp.com/title/10262525

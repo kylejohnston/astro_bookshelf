@@ -2,9 +2,9 @@
 title: "Analog In, Digital Out"
 author: Brendan Dawes
 currentlyReading: false
-startDate: 2007 Mar 14
-finishDate: 2007 Mar 14
-added: 2007 Mar 14
+startDate: 2007-03-14
+finishDate: 2007-03-14
+added: 2007-03-14
 notes: false
 coverImage: analog-in-digital-out.webp
 # library: https://share.libbyapp.com/title/

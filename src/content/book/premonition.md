@@ -1,9 +1,9 @@
 ---
 title: "The Premonition"
 author: Michael Lewis
-startDate: 2022 Apr 18
-finishDate: 2022 Apr 29
-added: 2022 Apr 29
+startDate: 2022-04-18
+finishDate: 2022-04-29
+added: 2022-04-29
 notes: true
 coverImage: the-premonition.webp
 library: https://share.libbyapp.com/title/6045559

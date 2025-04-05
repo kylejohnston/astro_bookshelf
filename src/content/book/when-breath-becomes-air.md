@@ -2,9 +2,9 @@
 title: "When Breath Becomes Air"
 author: Paul Kalanithi
 currentlyReading: false
-startDate: 2022 Sep 11
-finishDate: 2022 Sep 21
-added: 2022 Sep 11
+startDate: 2022-09-11
+finishDate: 2022-09-21
+added: 2022-09-11
 notes: true
 coverImage: when-breath-becomes-air.webp
 library: https://share.libbyapp.com/title/2302232

@@ -2,8 +2,8 @@
 title: "How to use graphic design to sell things, explain things, make things, look better, make people laugh, make people cry, and (every once in a while) change the world"
 author: Michael Bierut
 currentlyReading: false
-finishDate: 2017 Mar 14
-added: 2017 Mar 14
+finishDate: 2017-03-14
+added: 2017-03-14
 notes: false
 coverImage: how-to.webp
 # library:

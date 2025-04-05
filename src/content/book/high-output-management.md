@@ -3,8 +3,8 @@ title: "High Output Management"
 author: Andrew S. Grove
 currentlyReading: false
 #startDate:
-finishDate: 2016 Aug 31
-added: 2016 Aug 31
+finishDate: 2016-08-31
+added: 2016-08-31
 notes: false
 coverImage: high-output-management.webp
 library: https://share.libbyapp.com/title/2405293

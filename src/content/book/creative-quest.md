@@ -3,8 +3,8 @@ title: "Creative Quest"
 author: Questlove
 currentlyReading: false
 #startDate:
-finishDate: 2018 May 23
-added: 2018 May 23
+finishDate: 2018-05-23
+added: 2018-05-23
 notes: true
 coverImage: creative-quest.webp
 library: https://share.libbyapp.com/title/3535686

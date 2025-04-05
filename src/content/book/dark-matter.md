@@ -3,8 +3,8 @@ title: "Dark Matter"
 author: Blake Crouch
 currentlyReading: false
 # startDate:
-finishDate: 2019 Sep 21
-added: 2019 Sep 21
+finishDate: 2019-09-21
+added: 2019-09-21
 notes: false
 coverImage: dark-matter.webp
 library: https://share.libbyapp.com/title/2575561

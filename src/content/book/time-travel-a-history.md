@@ -3,8 +3,8 @@ title: "Time Travel: A History"
 author: James Gleick
 currentlyReading: false
 # startDate:
-finishDate: 2018 Sep 21
-added: 2018 Sep 21
+finishDate: 2018-09-21
+added: 2018-09-21
 notes: false
 coverImage: time-travel-a-history.webp
 library: https://share.libbyapp.com/title/2650947

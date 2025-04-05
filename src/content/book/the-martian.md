@@ -3,8 +3,8 @@ title: "The Martian"
 author: Andy Weir
 currentlyReading: false
 #startDate:
-finishDate: 2015 Dec 26
-added: 2015 Dec 26
+finishDate: 2015-12-26
+added: 2015-12-26
 notes: false
 coverImage: the-martian.webp
 library: https://share.libbyapp.com/title/1381708

@@ -2,8 +2,8 @@
 title: "What I Talk About When I Talk About Running"
 author: Haruki Murakami
 #startDate:
-finishDate: 2021 Sep 06
-added: 2021 Sep 06
+finishDate: 2021-09-06
+added: 2021-09-06
 notes: true
 coverImage: what-i-talk-about-when-i-talk-about-running.webp
 library: https://share.libbyapp.com/title/148536

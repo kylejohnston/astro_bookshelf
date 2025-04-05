@@ -3,8 +3,8 @@ title: "The Passage of Power"
 author: Robert A. Caro
 currentlyReading: false
 # startDate:
-finishDate: 2019 Apr 15
-added: 2019 Apr 15
+finishDate: 2019-04-15
+added: 2019-04-15
 notes: false
 coverImage: passage-of-power.webp
 library: https://share.libbyapp.com/title/667356

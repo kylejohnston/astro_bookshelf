@@ -3,8 +3,8 @@ title: "How To: Absurd Scientific Advice for Common Real-World Problems"
 author: Randall Munroe
 currentlyReading: false
 # startDate:
-finishDate: 2020 Jul 21
-added: 2020 Jul 21
+finishDate: 2020-07-21
+added: 2020-07-21
 notes: false
 coverImage: how-to.webp
 library: https://share.libbyapp.com/title/4562535

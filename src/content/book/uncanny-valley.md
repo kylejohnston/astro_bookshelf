@@ -2,9 +2,9 @@
 title: "Uncanny Valley. A Memoir"
 author: Anna Wiener
 currentlyReading: false
-startDate: 2022 Oct 09
-finishDate: 2022 Oct 14
-added: 2022 Oct 09
+startDate: 2022-10-09
+finishDate: 2022-10-14
+added: 2022-10-09
 notes: false
 coverImage: uncanny-valley.webp
 library: https://share.libbyapp.com/title/4692681

@@ -3,8 +3,8 @@ title: "The Art of Looking Sideways"
 author: Alan Fletcher
 currentlyReading: false
 # startDate:
-finishDate: 2015 Jul 26
-added: 2015 Jul 26
+finishDate: 2015-07-26
+added: 2015-07-26
 notes: false
 coverImage: art-of-looking-sideways.webp
 # library:

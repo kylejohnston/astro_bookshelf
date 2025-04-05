@@ -3,8 +3,8 @@ title: "The Andromeda Strain"
 author: Michael Crichton
 currentlyReading: false
 # startDate:
-finishDate: 2019 Sep 25
-added: 2019 Sep 25
+finishDate: 2019-09-25
+added: 2019-09-25
 notes: false
 coverImage: the-andromeda-strain.webp
 library: https://share.libbyapp.com/title/871134

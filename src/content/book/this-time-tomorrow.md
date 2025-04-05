@@ -3,8 +3,8 @@ title: "This Time Tomorrow, A Novel"
 author: Emma Straub
 currentlyReading: false
 startDate: 2023 Feb 26
-finishDate: 2023 Mar 17
-added: 2023 Mar 18
+finishDate: 2023-03-17
+added: 2023-03-18
 notes: false
 coverImage: this-time-tomorrow.webp
 library: https://share.libbyapp.com/title/7002694

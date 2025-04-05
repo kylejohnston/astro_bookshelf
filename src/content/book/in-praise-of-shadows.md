@@ -2,9 +2,9 @@
 title: "In Praise of Shadows"
 author: Junʼichirō Tanizaki
 currentlyReading: false
-startDate: 2023 Jul 11
-finishDate: 2023 Aug 12
-added: 2023 Aug 12
+startDate: 2023-07-11
+finishDate: 2023-08-12
+added: 2023-08-12
 notes: false
 coverImage: in-praise-of-shadows.webp
 library: https://share.libbyapp.com/title/

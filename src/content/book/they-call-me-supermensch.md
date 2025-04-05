@@ -3,8 +3,8 @@ title: "They Call Me Supermensch"
 author: Shep Gordon
 currentlyReading: false
 # startDate:
-finishDate: 2017 Jun 08
-added: 2017 Jun 08
+finishDate: 2017-06-08
+added: 2017-06-08
 notes: false
 coverImage: they-call-me-supermensch.webp
 library: https://share.libbyapp.com/title/1903305

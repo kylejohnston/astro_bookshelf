@@ -2,9 +2,9 @@
 title: "The Candy House: A Novel"
 author: Jennifer Egan
 currentlyReading: false
-startDate: 2023 Jul 30
-finishDate: 2023 Aug 10
-added: 2023 Aug 10
+startDate: 2023-07-30
+finishDate: 2023-08-10
+added: 2023-08-10
 notes: false
 coverImage: candy-house.webp
 library: https://share.libbyapp.com/title/6383171

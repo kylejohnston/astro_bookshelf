@@ -3,8 +3,8 @@ title: "Zen and the Art of Motorcycle Maintenance"
 author: Robert M. Pirsig
 currentlyReading: false
 # startDate:
-finishDate: 2019 Dec 07
-added: 2019 Dec 07
+finishDate: 2019-12-07
+added: 2019-12-07
 notes: false
 coverImage: zen-and-the-art-of-motorcycle-maintenance.webp
 library: https://share.libbyapp.com/title/238289

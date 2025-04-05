@@ -1,9 +1,9 @@
 ---
 title: The Ministry for the Future
 author: Kim Stanley Robinson
-startDate: 2021 Dec 24
-finishDate: 2022 Jan 05
-added: 2022 Jan 05
+startDate: 2021-12-24
+finishDate: 2022-01-05
+added: 2022-01-05
 coverImage: the-ministry-for-the-future.webp
 library: https://share.libbyapp.com/title/5255196
 bookshop: https://bookshop.org/books/the-ministry-for-the-future/9780316300131

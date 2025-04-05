@@ -2,9 +2,9 @@
 title: "The Sparrow"
 author: Mary Doria Russell
 currentlyReading: false
-startDate: 2023 Apr 07
-finishDate: 2023 May 14
-added: 2023 Apr 07
+startDate: 2023-04-07
+finishDate: 2023-05-14
+added: 2023-04-07
 notes: false
 coverImage: sparrow.webp
 library: https://share.libbyapp.com/title/164466

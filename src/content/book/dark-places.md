@@ -3,8 +3,8 @@ title: "Dark Places"
 author: Gillian Flynn
 currentlyReading: false
 # startDate:
-finishDate: 2018 Oct 09
-added: 2018 Oct 09
+finishDate: 2018-10-09
+added: 2018-10-09
 notes: false
 coverImage: dark-places.webp
 library: https://share.libbyapp.com/title/199153

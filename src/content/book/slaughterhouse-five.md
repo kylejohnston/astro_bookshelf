@@ -3,8 +3,8 @@ title: "Slaughterhouse Five"
 author: Kurt Vonnegut
 currentlyReading: false
 #startDate:
-finishDate: 2016 May 06
-added: 2016 May 06
+finishDate: 2016-05-06
+added: 2016-05-06
 notes: false
 coverImage: slaughterhouse-five.webp
 library: https://share.libbyapp.com/title/260840

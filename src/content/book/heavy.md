@@ -3,8 +3,8 @@ title: "Heavy: An American Memoir"
 author: Kiese Laymon
 currentlyReading: false
 # startDate:
-finishDate: 2019 Sep 01
-added: 2019 Sep 01
+finishDate: 2019-09-01
+added: 2019-09-01
 notes: false
 coverImage: heavy.webp
 library: https://share.libbyapp.com/title/2621219

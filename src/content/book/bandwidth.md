@@ -3,8 +3,8 @@ title: "Bandwidth"
 author: Elliot Peper
 currentlyReading: false
 # startDate:
-finishDate: 2018 Apr 21
-added: 2018 Apr 21
+finishDate: 2018-04-21
+added: 2018-04-21
 notes: false
 coverImage: bandwidth.webp
 # library: 

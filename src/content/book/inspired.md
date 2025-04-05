@@ -2,8 +2,8 @@
 title: "Inspired, How to Create Tech Products Customers Love"
 author: Marty Cagan
 #startDate:
-finishDate: 2021 Mar 13
-added: 2021 Mar 13
+finishDate: 2021-03-13
+added: 2021-03-13
 notes: true
 coverImage: inspired.webp
 library: https://share.libbyapp.com/title/3310525

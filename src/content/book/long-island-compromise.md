@@ -2,9 +2,9 @@
 title: "Long Island Compromise"
 author: Taffy Brodesser-Akner
 currentlyReading: false
-startDate: 2025 Feb 23
-finishDate: 2025 Mar 13
-added: 2025 Mar 13
+startDate: 2025-02-23
+finishDate: 2025-03-13
+added: 2025-03-13
 notes: false
 coverImage: long-island-compromise.webp
 library: https://share.libbyapp.com/title/5727482

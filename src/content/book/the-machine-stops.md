@@ -2,9 +2,9 @@
 title: "The Machine Stops"
 author: E.M. Forster
 currentlyReading: false
-startDate: 2024 Jan 02
-finishDate: 2024 Jan 03
-added: 2024 Jan 03
+startDate: 2024-01-02
+finishDate: 2024-01-03
+added: 2024-01-03
 notes: true
 coverImage: the-machine-stops.webp
 # library: https://share.libbyapp.com/title/

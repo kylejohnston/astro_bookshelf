@@ -2,8 +2,8 @@
 title: "Station Eleven"
 author: Emily St. John Mandel
 #startDate:
-finishDate: 2021 Sep 12
-added: 2021 Sep 12
+finishDate: 2021-09-12
+added: 2021-09-12
 coverImage: station-eleven.webp
 library: https://share.libbyapp.com/title/1638062
 bookshop: https://bookshop.org/books/station-eleven-9781594138829/9780804172448

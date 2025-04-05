@@ -2,8 +2,8 @@
 title: "Moneyland"
 author: Oliver Bullough
 #startDate:
-finishDate: 2021 Dec 16
-added: 2021 Dec 16
+finishDate: 2021-12-16
+added: 2021-12-16
 coverImage: moneyland.webp
 library: https://share.libbyapp.com/title/4248114
 bookshop: https://bookshop.org/books/moneyland-the-inside-story-of-the-crooks-and-kleptocrats-who-rule-the-world/9781250621467

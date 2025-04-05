@@ -3,8 +3,8 @@ title: "A Grief Observed"
 author: C.S. Lewis
 currentlyReading: false
 # startDate:
-finishDate: 2020 Sep 26
-added: 2020 Sep 26
+finishDate: 2020-09-26
+added: 2020-09-26
 notes: false
 coverImage: a-grief-observed.webp
 library: https://share.libbyapp.com/title/247582

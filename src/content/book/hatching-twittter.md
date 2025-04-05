@@ -3,8 +3,8 @@ title: "Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal
 author: Nick Bilton
 currentlyReading: false
 #startDate:
-finishDate: 2016 Nov 12
-added: 2016 Nov 12
+finishDate: 2016-11-12
+added: 2016-11-12
 notes: false
 coverImage: hatching-twittter.webp
 library: https://share.libbyapp.com/title/1286723

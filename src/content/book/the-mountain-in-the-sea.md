@@ -2,9 +2,9 @@
 title: "The Mountain in the Sea"
 author: Ray Nayler
 currentlyReading: false
-startDate: 2023 Aug 12
-finishDate: 2023 Sep 03
-added: 2023 Sep 03
+startDate: 2023-08-12
+finishDate: 2023-09-03
+added: 2023-09-03
 notes: true
 coverImage: the-mountain-in-the-sea.webp
 library: https://share.libbyapp.com/title/8557446

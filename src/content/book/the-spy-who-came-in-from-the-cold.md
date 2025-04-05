@@ -2,8 +2,8 @@
 title: "The Spy Who Came in from the Cold"
 author: John Le Carré
 #startDate:
-finishDate: 2021 Apr 25
-added: 2021 Apr 25
+finishDate: 2021-04-25
+added: 2021-04-25
 coverImage: the-spy-who-came-in-from-the-cold.webp
 library: https://share.libbyapp.com/title/685890
 bookshop: https://bookshop.org/books/the-spy-who-came-in-from-the-cold/9780143124757

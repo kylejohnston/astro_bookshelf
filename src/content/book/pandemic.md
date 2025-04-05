@@ -3,8 +3,8 @@ title: "Pandemic (The Extinction Files Book 1)"
 author: A.G. Riddle
 currentlyReading: false
 # startDate:
-finishDate: 2018 Jan 27
-added: 2018 Jan 27
+finishDate: 2018-01-27
+added: 2018-01-27
 notes: false
 coverImage: pandemic.webp
 library: https://share.libbyapp.com/title/6463480

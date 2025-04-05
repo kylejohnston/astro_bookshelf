@@ -3,8 +3,8 @@ title: "The Great Gatsby"
 author: F. Scott Fitzgerald
 currentlyReading: false
 # startDate:
-finishDate: 2013 Sep 01
-added: 2013 Sep 01
+finishDate: 2013-09-01
+added: 2013-09-01
 notes: false
 coverImage: great-gatsby.webp
 library: https://share.libbyapp.com/title/58115

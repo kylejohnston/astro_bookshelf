@@ -2,9 +2,9 @@
 title: "Based on a True Story: Not a Memoir"
 author: Norm Macdonald
 currentlyReading: false
-startDate: 2022 Nov 04
-finishDate: 2022 Nov 12
-added: 2022 Nov 04
+startDate: 2022-11-04
+finishDate: 2022-11-12
+added: 2022-11-04
 notes: true
 coverImage: based-on-a-true-story.webp
 library: https://share.libbyapp.com/title/https://share.libbyapp.com/title/2637556

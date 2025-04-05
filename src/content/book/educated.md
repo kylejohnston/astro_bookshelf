@@ -3,8 +3,8 @@ title: "Educated"
 author: Tara Westover
 currentlyReading: false
 # startDate:
-finishDate: 2020 Apr 27
-added: 2020 Apr 27
+finishDate: 2020-04-27
+added: 2020-04-27
 notes: false
 coverImage: educated.webp
 library: https://share.libbyapp.com/title/3441378

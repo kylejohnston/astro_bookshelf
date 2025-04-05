@@ -3,8 +3,8 @@ title: "Dark Intelligence (Transformations)"
 author: Neal Asher
 currentlyReading: false
 #startDate:
-finishDate: 2016 Nov 30
-added: 2016 Nov 30
+finishDate: 2016-11-30
+added: 2016-11-30
 notes: false
 coverImage: dark-intelligence.webp
 library: https://share.libbyapp.com/title/

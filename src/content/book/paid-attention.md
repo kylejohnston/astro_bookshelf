@@ -3,8 +3,8 @@ title: "Paid Attention. Innovative Advertising for a Digital World"
 author: Faris Yakob
 currentlyReading: false
 #startDate:
-finishDate: 2015 Sep 07
-added: 2015 Sep 07
+finishDate: 2015-09-07
+added: 2015-09-07
 notes: true
 coverImage: paid-attention.webp
 # library: 

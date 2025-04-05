@@ -1,9 +1,9 @@
 ---
 title: "Kaiju Preservation Society"
 author: John Scalzi
-startDate: 2022 May 08
-finishDate: 2022 May 14
-added: 2022 May 14
+startDate: 2022-05-08
+finishDate: 2022-05-14
+added: 2022-05-14
 coverImage: kaiju-preservation-society.webp
 library: https://share.libbyapp.com/title/6195777
 bookshop: https://bookshop.org/books/the-kaiju-preservation-society-9798885780407/9780765389121

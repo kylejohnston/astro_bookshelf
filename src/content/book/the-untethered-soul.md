@@ -2,9 +2,9 @@
 title: "The Untethered Soul: The Journey Beyond Yourself"
 author: Michael A. Singer
 currentlyReading: false
-startDate: 2023 Mar 18
-finishDate: 2023 Apr 06
-added: 2023 Mar 18
+startDate: 2023-03-18
+finishDate: 2023-04-06
+added: 2023-03-18
 notes: false
 coverImage: the-untethered-soul.webp
 library: https://share.libbyapp.com/title/642586

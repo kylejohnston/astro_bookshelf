@@ -3,8 +3,8 @@ title: "Ten Arguments for Deleting Your Social Media Accounts Right Now"
 author: Jaron Lanier
 currentlyReading: false
 # startDate:
-finishDate: 2020 Oct 17
-added: 2020 Oct 17
+finishDate: 2020-10-17
+added: 2020-10-17
 notes: false
 coverImage: ten-arguments.webp
 library: https://share.libbyapp.com/title/3779021

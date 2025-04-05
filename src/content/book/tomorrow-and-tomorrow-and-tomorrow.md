@@ -2,9 +2,9 @@
 title: "Tomorrow, and Tomorrow, and Tomorrow"
 author: Gabrielle Zevin
 currentlyReading: false
-startDate: 2023 Jan 01
-finishDate: 2023 Jan 22
-added: 2023 Jan 01
+startDate: 2023-01-01
+finishDate: 2023-01-22
+added: 2023-01-01
 notes: true
 coverImage: tomorrow-and-tomorrow-and-tomorrow.webp
 library: https://share.libbyapp.com/title/7351331

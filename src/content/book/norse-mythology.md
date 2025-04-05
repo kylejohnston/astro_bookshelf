@@ -3,8 +3,8 @@ title: "Norse Mythology"
 author: Neil Gaiman
 currentlyReading: false
 # startDate:
-finishDate: 2018 Dec 15
-added: 2018 Dec 15
+finishDate: 2018-12-15
+added: 2018-12-15
 notes: false
 coverImage: norse-mythology.webp
 library: https://share.libbyapp.com/title/2833420

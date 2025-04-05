@@ -2,9 +2,9 @@
 title: "Creative Thinking: A Field Guide to Building Your Strategic Core"
 author: Angus Fletcher
 currentlyReading: false
-startDate: 2023 Nov 10
-finishDate: 2023 Nov 19
-added: 2023 Nov 19
+startDate: 2023-11-10
+finishDate: 2023-11-19
+added: 2023-11-19
 notes: false
 coverImage: creative-thinking.webp
 # library: https://share.libbyapp.com/title/

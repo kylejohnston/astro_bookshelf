@@ -2,9 +2,9 @@
 title: "Distrust That Particular Flavor"
 author: William Gibson
 currentlyReading: false
-startDate: 2024 Dec 24
-finishDate: 2024 Dec 29
-added: 2024 Dec 29
+startDate: 2024-12-24
+finishDate: 2024-12-29
+added: 2024-12-29
 notes: false
 coverImage: distrust-that-particular-flavor.webp
 library: https://share.libbyapp.com/title/630815

@@ -2,9 +2,9 @@
 title: "The Ghost Map"
 author: Steven Johnson
 currentlyReading: false
-startDate: 2023 Dec 15
-finishDate: 2023 Dec 18
-added: 2023 Dec 18
+startDate: 2023-12-15
+finishDate: 2023-12-18
+added: 2023-12-18
 notes: false
 coverImage: the-ghost-map.webp
 library: https://share.libbyapp.com/title/204469

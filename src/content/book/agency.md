@@ -3,8 +3,8 @@ title: "Agency"
 author: William Gibson
 currentlyReading: false
 startDate: 2024 Feb 18
-finishDate: 2024 Mar 12
-added: 2024 Mar 12
+finishDate: 2024-03-12
+added: 2024-03-12
 notes: false
 coverImage: agency.webp
 library: https://share.libbyapp.com/title/3255435

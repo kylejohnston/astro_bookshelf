@@ -3,8 +3,8 @@ title: "The Undoing Project"
 author: Michael Lewis
 currentlyReading: false
 # startDate:
-finishDate: 2019 Jul 03
-added: 2019 Jul 03
+finishDate: 2019-07-03
+added: 2019-07-03
 notes: false
 coverImage: undoing-project.webp
 library: https://share.libbyapp.com/title/2778101

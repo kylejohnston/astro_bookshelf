@@ -2,9 +2,9 @@
 title: "In Cold Blood"
 author: Truman Capote
 currentlyReading: false
-startDate: 2024 Apr 28
-finishDate: 2024 May 09
-added: 2024 May 09
+startDate: 2024-04-28
+finishDate: 2024-05-09
+added: 2024-05-09
 notes: false
 coverImage: in-cold-blood.webp
 library: https://share.libbyapp.com/title/5545

@@ -3,8 +3,8 @@ title: "The Fifth Risk: Undoing Democracy"
 author: Michael Lewis
 currentlyReading: false
 # startDate:
-finishDate: 2019 Jul 26
-added: 2019 Jul 26
+finishDate: 2019-07-26
+added: 2019-07-26
 notes: false
 coverImage: the-fifth-risk.webp
 library: https://share.libbyapp.com/title/4188453

@@ -3,8 +3,8 @@ title: "Artemis"
 author: Andy Weir
 currentlyReading: false
 #startDate:
-finishDate: 2019 Mar 03
-added: 2019 Mar 03
+finishDate: 2019-03-03
+added: 2019-03-03
 notes: false
 coverImage: artemis.webp
 library: https://share.libbyapp.com/title/3280473

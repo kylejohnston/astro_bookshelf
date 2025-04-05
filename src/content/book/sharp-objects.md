@@ -3,8 +3,8 @@ title: "Sharp Objects"
 author: Gillian Flynn
 currentlyReading: false
 # startDate:
-finishDate: 2018 Oct 03
-added: 2018 Oct 03
+finishDate: 2018-10-03
+added: 2018-10-03
 notes: false
 coverImage: sharp-objects.webp
 library: https://share.libbyapp.com/title/92818

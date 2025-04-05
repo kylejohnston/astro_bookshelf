@@ -2,9 +2,9 @@
 title: "Brave New World"
 author: Aldous Huxley
 currentlyReading: false
-startDate: 2022 Dec 13
-finishDate: 2022 Dec 21
-added: 2022 Dec 13
+startDate: 2022-12-13
+finishDate: 2022-12-21
+added: 2022-12-13
 notes: false
 coverImage: brave-new-world.webp
 library: https://share.libbyapp.com/title/1695615

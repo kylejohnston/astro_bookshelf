@@ -3,8 +3,8 @@ title: "Mo' Meta Blues"
 author: Ahmir "Questlove" Thompson
 currentlyReading: false
 # startDate:
-finishDate: 2013 Jul 13
-added: 2013 Jul 13
+finishDate: 2013-07-13
+added: 2013-07-13
 notes: false
 coverImage: mo-meta-blues.webp
 library: https://share.libbyapp.com/title/1139442

@@ -3,8 +3,8 @@ title: "The Man in the High Castle"
 author: Philip K. Dick
 currentlyReading: false
 # startDate:
-finishDate: 2018 Oct 18
-added: 2018 Oct 18
+finishDate: 2018-10-18
+added: 2018-10-18
 notes: false
 coverImage: the-man-in-the-high-castle.webp
 library: https://share.libbyapp.com/title/769247

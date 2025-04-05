@@ -2,9 +2,9 @@
 title: "In Ascension"
 author: Martin MacInnes
 currentlyReading: false
-startDate: 2024 Sep 12
-finishDate: 2024 Sep 22
-added: 2024 Sep 22
+startDate: 2024-09-12
+finishDate: 2024-09-22
+added: 2024-09-22
 notes: true
 coverImage: in-ascension.webp
 library: https://share.libbyapp.com/title/10250822

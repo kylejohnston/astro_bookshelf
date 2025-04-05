@@ -1,9 +1,9 @@
 ---
 title: "Neuromancer"
 author: William Gibson
-startDate: 2022 May 22
-finishDate: 2022 May 29
-added: 2022 May 29
+startDate: 2022-05-22
+finishDate: 2022-05-29
+added: 2022-05-29
 coverImage: neuromancer.webp
 library: https://share.libbyapp.com/title/612607
 bookshop: https://bookshop.org/books/neuromancer/9780441007462

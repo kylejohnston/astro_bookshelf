@@ -2,9 +2,9 @@
 title: "Wool"
 author: Hugh Howey
 currentlyReading: false
-startDate: 2024 Aug 07
-finishDate: 2024 Sep 02
-added: 2024 Sep 02
+startDate: 2024-08-07
+finishDate: 2024-09-02
+added: 2024-09-02
 notes: false
 coverImage: silo-wool.webp
 library: https://share.libbyapp.com/title/5507204

@@ -1,9 +1,9 @@
 ---
 title: "Tokyo Vice"
 author: Jake Adelstein
-startDate: 2022 Aug 25
-finishDate: 2022 Sep 10
-added: 2022 Sep 10
+startDate: 2022-08-25
+finishDate: 2022-09-10
+added: 2022-09-10
 notes: true
 coverImage: tokyo-vice.webp
 library: https://share.libbyapp.com/title/273183

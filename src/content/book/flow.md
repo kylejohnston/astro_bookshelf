@@ -3,8 +3,8 @@ title: "Flow, The Psychology of Optimal Experience"
 author: Mihaly Csikszentmihalyi
 currentlyReading: false
 # startDate:
-finishDate: 2019 Jan 20
-added: 2019 Jan 20
+finishDate: 2019-01-20
+added: 2019-01-20
 notes: false
 coverImage: flow.webp
 library: https://share.libbyapp.com/title/171077

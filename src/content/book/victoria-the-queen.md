@@ -3,8 +3,8 @@ title: "Victoria, The Queen"
 author: Julia Baird
 currentlyReading: false
 # startDate:
-finishDate: 2019 May 27
-added: 2019 May 27
+finishDate: 2019-05-27
+added: 2019-05-27
 notes: false
 coverImage: victoria-the-queen.webp
 library: https://share.libbyapp.com/title/2716119

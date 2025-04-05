@@ -2,9 +2,9 @@
 title: "Dust"
 author: Hugh Howey
 currentlyReading: false
-startDate: 2024 Sep 28
-finishDate: 2024 Oct 04
-added: 2024 Oct 04
+startDate: 2024-09-28
+finishDate: 2024-10-04
+added: 2024-10-04
 notes: true
 coverImage: silo-dust.webp
 library: https://share.libbyapp.com/title/5507202

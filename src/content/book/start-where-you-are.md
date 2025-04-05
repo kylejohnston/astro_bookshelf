@@ -3,8 +3,8 @@ title: "Start Where You Are"
 author: Pema Chödrön
 currentlyReading: false
 # startDate:
-finishDate: 2020 Sep 20
-added: 2020 Sep 20
+finishDate: 2020-09-20
+added: 2020-09-20
 notes: false
 coverImage: start-where-you-are.webp
 library: https://share.libbyapp.com/title/467564

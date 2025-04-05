@@ -3,8 +3,8 @@ title: "Hollow Kingdom"
 author: Kira Jane Buxton
 currentlyReading: false
 # startDate:
-finishDate: 2020 May 09
-added: 2020 May 09
+finishDate: 2020-05-09
+added: 2020-05-09
 notes: false
 coverImage: hollow-kingdom.webp
 library: https://share.libbyapp.com/title/4455339

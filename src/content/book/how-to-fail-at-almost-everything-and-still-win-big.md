@@ -3,8 +3,8 @@ title: "How to Fail at Almost Everything and Still Win Big. Kind of the Story of
 author: Scott Adams
 currentlyReading: false
 # startDate:
-finishDate: 2016 Nov 08
-added: 2016 Nov 08
+finishDate: 2016-11-08
+added: 2016-11-08
 notes: true
 coverImage: how-to-fail.webp
 library: https://share.libbyapp.com/title/1308871

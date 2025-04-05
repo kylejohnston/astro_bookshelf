@@ -2,9 +2,9 @@
 title: "Foucault's Pendulum"
 author: Umberto Eco
 currentlyReading: false
-startDate: 2022 Nov 25
-finishDate: 2022 Dec 13
-added: 2022 Nov 25
+startDate: 2022-11-25
+finishDate: 2022-12-13
+added: 2022-11-25
 notes: false
 coverImage: foucaults-pendulum.webp
 library: https://share.libbyapp.com/title/573552

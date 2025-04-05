@@ -3,8 +3,8 @@ title: "Talking to Strangers"
 author: Malcolm Gladwell
 currentlyReading: false
 # startDate:
-finishDate: 2020 Oct 06
-added: 2020 Oct 06
+finishDate: 2020-10-06
+added: 2020-10-06
 notes: false
 coverImage: talking-to-strangers.webp
 library: https://share.libbyapp.com/title/4570668

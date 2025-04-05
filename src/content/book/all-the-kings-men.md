@@ -3,8 +3,8 @@ title: "All the King’s Men"
 author: Robert Penn Warren
 currentlyReading: false
 # startDate:
-finishDate: 2018 Jul 24
-added: 2018 Jul 24
+finishDate: 2018-07-24
+added: 2018-07-24
 notes: false
 coverImage: all-the-kings-men.webp
 library: https://share.libbyapp.com/title/1546050

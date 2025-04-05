@@ -3,8 +3,8 @@ title: "Super Sad True Love Story"
 author: Gary Shteyngart
 currentlyReading: false
 # startDate:
-finishDate: 2020 Jul 07
-added: 2020 Jul 07
+finishDate: 2020-07-07
+added: 2020-07-07
 notes: false
 coverImage: super-sad-true-love-story.webp
 library: https://share.libbyapp.com/title/389390

@@ -3,8 +3,8 @@ title: "Gulp: Adventures on the Alimentary Canal"
 author: Mary Roach
 currentlyReading: false
 # startDate:
-finishDate: 2020 Aug 30
-added: 2020 Aug 30
+finishDate: 2020-08-30
+added: 2020-08-30
 notes: false
 coverImage: gulp.webp
 library: https://share.libbyapp.com/title/2313226

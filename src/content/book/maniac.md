@@ -2,9 +2,9 @@
 title: "The Maniac"
 author: Benjamin Labatut
 currentlyReading: false
-startDate: 2024 Sep 28
-finishDate: 2024 Oct 07
-added: 2024 Oct 07
+startDate: 2024-09-28
+finishDate: 2024-10-07
+added: 2024-10-07
 notes: false
 coverImage: maniac.webp
 library: https://share.libbyapp.com/title/9611953

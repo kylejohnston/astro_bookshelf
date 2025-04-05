@@ -2,9 +2,9 @@
 title: "Popisho"
 author: Leone Ross
 currentlyReading: false
-startDate: 2022 Oct 16
-finishDate: 2022 Nov 04
-added: 2022 Oct 16
+startDate: 2022-10-16
+finishDate: 2022-11-04
+added: 2022-10-16
 notes: true
 coverImage: popisho.webp
 library: https://share.libbyapp.com/title/5460586

@@ -2,9 +2,9 @@
 title: "XX"
 author: Rian Hughes
 currentlyReading: false
-startDate: 2022 Dec 15
-finishDate: 2022 Jan 29
-added: 2022 Dec 15
+startDate: 2022-12-15
+finishDate: 2022-01-29
+added: 2022-12-15
 notes: false
 coverImage: xx.webp
 # library: 

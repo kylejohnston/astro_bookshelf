@@ -2,9 +2,9 @@
 title: "The City We Became"
 author: N.K. Jemisin
 currentlyReading: false
-startDate: 2022 Dec 29
-finishDate: 2023 Jan 15
-added: 2022 Dec 29
+startDate: 2022-12-29
+finishDate: 2023-01-15
+added: 2022-12-29
 notes: false
 coverImage: the-city-we-became.webp
 library: https://share.libbyapp.com/title/4513535

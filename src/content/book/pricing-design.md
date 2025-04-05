@@ -3,8 +3,8 @@ title: "Pricing Design"
 author: Daniel Mall
 currentlyReading: false
 # startDate:
-finishDate: 2016 May 15
-added: 2016 May 15
+finishDate: 2016-05-15
+added: 2016-05-15
 notes: false
 coverImage: pricing-design.webp
 # library:

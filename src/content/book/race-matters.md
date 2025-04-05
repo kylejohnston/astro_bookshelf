@@ -3,8 +3,8 @@ title: "Race Matters"
 author: Cornel West
 currentlyReading: false
 # startDate:
-finishDate: 2020 Jun 21
-added: 2020 Jun 21
+finishDate: 2020-06-21
+added: 2020-06-21
 notes: true
 coverImage: race-matters.webp
 library: https://share.libbyapp.com/title/3369024

@@ -3,8 +3,8 @@ title: "Say Nothing: A True Story of Murder and Memory in Northern Ireland"
 author: Patrick Radden Keefe
 currentlyReading: false
 # startDate:
-finishDate: 2020 May 31
-added: 2020 May 31
+finishDate: 2020-05-31
+added: 2020-05-31
 notes: false
 coverImage: say-nothing.webp
 library: https://share.libbyapp.com/title/4229326

@@ -3,8 +3,8 @@ title: "The Curious Case of Benjamin Button"
 author: F. Scott Fitzgerald
 currentlyReading: false
 # startDate:
-finishDate: 2013 Sep 02
-added: 2013 Sep 02
+finishDate: 2013-09-02
+added: 2013-09-02
 notes: false
 coverImage: curious-case-of-benjamin-button.webp
 library: https://share.libbyapp.com/title/784928

@@ -3,8 +3,8 @@ title: "Colorless Tsukuru Tazaki and His Years of Pilgrimage"
 author: Haruki Murakami
 currentlyReading: false
 # startDate:
-finishDate: 2019 Aug 22
-added: 2019 Aug 22
+finishDate: 2019-08-22
+added: 2019-08-22
 notes: false
 coverImage: colorless-tsukuru-tazaki.webp
 library: https://share.libbyapp.com/title/1556607

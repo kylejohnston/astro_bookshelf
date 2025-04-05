@@ -2,9 +2,9 @@
 title: "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration"
 author: Ed Catmull and Amy Wallace
 currentlyReading: false
-startDate: 2015 May 28
-finishDate: 2015 May 28
-added: 2015 May 28
+startDate: 2015-05-28
+finishDate: 2015-05-28
+added: 2015-05-28
 notes: true
 coverImage: creativity-inc.webp
 library: https://share.libbyapp.com/title/1429683

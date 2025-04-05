@@ -2,9 +2,9 @@
 title: "The Big Leap"
 author: Gay Hendricks, PhD
 currentlyReading: false
-startDate: 2023 Jul 05
-finishDate: 2023 Jul 17
-added: 2023 Jul 17
+startDate: 2023-07-05
+finishDate: 2023-07-17
+added: 2023-07-17
 notes: true
 coverImage: the-big-leap.webp
 library: https://share.libbyapp.com/title/238273

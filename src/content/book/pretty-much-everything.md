@@ -2,9 +2,9 @@
 title: "Draplin Design Co.: Pretty Much Everything"
 author: Aaron James Draplin
 currentlyReading: false
-startDate: 2016 May 30
-finishDate: 2016 May 30
-added: 2016 May 30
+startDate: 2016-05-30
+finishDate: 2016-05-30
+added: 2016-05-30
 notes: false
 coverImage: pretty-much-everything.webp
 # library: https://share.libbyapp.com/title/

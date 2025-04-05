@@ -3,8 +3,8 @@ title: "Writing Down the Bones"
 author: Natalie Goldberg
 currentlyReading: false
 # startDate:
-finishDate: 2020 Dec 26
-added: 2020 Dec 26
+finishDate: 2020-12-26
+added: 2020-12-26
 notes: false
 coverImage: writing-down-the-bones.webp
 library: https://share.libbyapp.com/title/467573

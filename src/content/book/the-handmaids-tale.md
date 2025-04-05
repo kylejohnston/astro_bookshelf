@@ -3,8 +3,8 @@ title: "The Handmaid's Tale"
 author: Margaret Atwood
 currentlyReading: false
 #startDate:
-finishDate: 2017 May 25
-added: 2017 May 25
+finishDate: 2017-05-25
+added: 2017-05-25
 notes: false
 coverImage: the-handmaids-tale.webp
 library: https://share.libbyapp.com/title/574458

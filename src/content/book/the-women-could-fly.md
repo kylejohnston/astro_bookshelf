@@ -2,9 +2,9 @@
 title: "The Women Could Fly"
 author: Megan Giddings
 currentlyReading: false
-startDate: 2022 Nov 12
-finishDate: 2022 Nov 24
-added: 2022 Nov 12
+startDate: 2022-11-12
+finishDate: 2022-11-24
+added: 2022-11-12
 notes: true
 coverImage: the-women-could-fly.webp
 library: https://share.libbyapp.com/title/7675536

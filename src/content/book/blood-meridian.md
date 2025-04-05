@@ -3,8 +3,8 @@ title: "Blood Meridian"
 author: Cormac McCarthy
 currentlyReading: false
 # startDate:
-finishDate: 2020 Mar 07
-added: 2020 Mar 07
+finishDate: 2020-03-07
+added: 2020-03-07
 notes: false
 coverImage: blood-meridian.webp
 library: https://share.libbyapp.com/title/392199

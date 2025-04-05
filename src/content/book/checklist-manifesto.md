@@ -2,9 +2,9 @@
 title: "The Checklist Manifesto: How to Get Things Right"
 author: Atul Gawande
 currentlyReading: false
-startDate: 2011 Mar 5
-finishDate: 2011 Mar 5
-added: 2011 Mar 5
+startDate: 2011-03-5
+finishDate: 2011-03-5
+added: 2011-03-5
 notes: true
 coverImage: checklist-manifesto.webp
 library: https://share.libbyapp.com/title/513995

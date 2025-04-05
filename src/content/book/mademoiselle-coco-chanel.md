@@ -3,8 +3,8 @@ title: "Mademoiselle, Coco Chanel and the Pulse of History"
 author: Rhonda Garelick
 currentlyReading: false
 # startDate:
-finishDate: 2019 Jul 22
-added: 2019 Jul 22
+finishDate: 2019-07-22
+added: 2019-07-22
 notes: false
 coverImage: mademoiselle-coco-chanel.webp
 library: https://share.libbyapp.com/title/1681829

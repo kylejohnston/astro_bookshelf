@@ -3,8 +3,8 @@ title: "Acceptance"
 author: Jeff VanderMeer
 currentlyReading: false
 # startDate: 
-finishDate: 2020 Apr 19
-added: 2020 Apr 19
+finishDate: 2020-04-19
+added: 2020-04-19
 notes: false
 coverImage: acceptance.webp
 library: https://share.libbyapp.com/title/1576047

@@ -3,8 +3,8 @@ title: "The Topeka School"
 author: Ben Lerner
 currentlyReading: false
 # startDate:
-finishDate: 2020 Jun 13
-added: 2020 Jun 13
+finishDate: 2020-06-13
+added: 2020-06-13
 notes: false
 coverImage: topeka-school.webp
 library: https://share.libbyapp.com/title/4538761

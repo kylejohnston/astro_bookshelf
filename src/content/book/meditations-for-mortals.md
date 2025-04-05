@@ -2,9 +2,9 @@
 title: "Meditations for Mortals"
 author: Oliver Burkeman
 currentlyReading: false
-startDate: 2025 Jan 5
-finishDate: 2025 Jan 25
-added: 2025 Jan 25
+startDate: 2025-01-5
+finishDate: 2025-01-25
+added: 2025-01-25
 notes: true
 coverImage: meditations-for-mortals.webp
 library: https://share.libbyapp.com/title/10392817
