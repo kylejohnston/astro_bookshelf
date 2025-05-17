@@ -10,11 +10,14 @@ const pageTitle = `${title} by ${author}`;
 const permalink = [Astro.url];
 
 function formatDate(dateString) {
-	const date = new Date(dateString);
-	const year = date.getFullYear();
-	const month = date.toLocaleString('en-US', { month: 'short' });
-	const day = date.getDate();
-	return `${year} ${month} ${day}`;
+  if (!dateString) return '';
+  const date = new Date(dateString);
+  return date.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+    timeZone: 'UTC'
+  });
 }
 
 // Import all cover images

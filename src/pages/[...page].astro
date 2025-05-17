@@ -12,12 +12,14 @@ let description = 'A running list of the books I\'ve read.';
 let permalink = 'https://books.kyleio.com/';
 
 function formatDate(dateString) {
-    const date = new Date(dateString);
-    const year = date.getFullYear();
-    const month = date.toLocaleString('en-US', { month: 'short' });
-    const day = date.getDate();
-    const paddedDay = day.toString().padStart(2, '0');
-    return `${year} ${month} ${paddedDay}`;
+  if (!dateString) return '';
+  const date = new Date(dateString);
+  return date.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+    timeZone: 'UTC'
+  });
 }
 
 // 1. Generate a new path for every collection entry
