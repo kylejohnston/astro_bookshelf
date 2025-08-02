@@ -12,11 +12,13 @@
     "astro": "^5.5.2"
   },
   "dependencies": {
+    "@astrojs/mdx": "^4.3.3",
     "@astrojs/rss": "^4.0.12",
     "@tailwindcss/vite": "^4.0.8",
     "astro-pagefind": "^1.8.0",
     "markdown-it": "^14.1.0",
     "sanitize-html": "^2.13.1",
-    "tailwindcss": "^4.0.8"
+    "tailwindcss": "^4.0.8",
+    "ultrahtml": "^1.6.0"
   }
 }
