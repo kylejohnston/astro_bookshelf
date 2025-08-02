@@ -3,6 +3,8 @@ dist/
 
 # generated types
 .astro/
+.astro/data-store.json
+.astro/settings.json
 
 # dependencies
 node_modules/
@@ -25,3 +27,4 @@ _archive/
 .vscode/extensions.json
 .vscode/launch.json
 _books.code-workspace
+.gemini/
