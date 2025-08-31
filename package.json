@@ -9,10 +9,10 @@
     "preview": "astro preview"
   },
   "devDependencies": {
-    "astro": "^5.5.2"
+    "astro": "^5.13.5"
   },
   "dependencies": {
-    "@astrojs/rss": "^4.0.11",
+    "@astrojs/rss": "^4.0.12",
     "@tailwindcss/vite": "^4.0.8",
     "astro-pagefind": "^1.8.0",
     "markdown-it": "^14.1.0",
