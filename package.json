@@ -6,10 +6,13 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "deploy": "npm run build && wrangler deploy",
+    "dev:cf": "npm run build && wrangler dev"
   },
   "devDependencies": {
-    "astro": "^5.13.5"
+    "astro": "^5.13.5",
+    "wrangler": "^4.33.1"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.12",
