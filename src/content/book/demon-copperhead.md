@@ -8,7 +8,7 @@ added: 2025-09-21
 notes: false
 coverImage: demon-copperhead.webp
 library: https://share.libbyapp.com/title/8723752
-bookshop: https://bookshop.org/book/9788383570174
+bookshop: https://bookshop.org/book/9780063251984
 amazon: https://amazon.com/dp/8383570171
 # other: 
 ---
