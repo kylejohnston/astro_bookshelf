@@ -3,8 +3,8 @@ title: "Subtract"
 author: Leidy Klotz
 currentlyReading: false
 startDate: 2025-09-26
-finishDate: 2025-10-3
-added: 2025-10-3
+finishDate: 2025-10-03
+added: 2025-10-03
 notes: false
 coverImage: subtract.webp
 library: https://share.libbyapp.com/title/5650956
