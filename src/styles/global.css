@@ -60,11 +60,6 @@ nav a { @apply md:relative md:right-0.5; }
 .logo-tall { width: 24px; height: 65px; @apply hidden mb-2 md:block; }
 .logo-wide { width: 65px; height: 24px; @apply mr-2 md:hidden; }
 
-/* SEARCH */
-.search-wrapper { @apply mx-4 mt-6 my-2 relative rounded-lg md:mx-8; }
-.search-input   { @apply bg-[#FDFBF7] border border-gray-300 focus:border-[--primary] text-base py-2 px-4 rounded-md w-full focus:outline-none placeholder:text-gray-400 focus:text-gray-800; }
-.search-clear   { @apply absolute right-0 inset-y-0 bg-[--primary] pl-3 pr-3 rounded-tr-lg rounded-br-lg hidden; }
-
 /* CONTENT */
 main.content { @apply w-full; }
 
