@@ -6,6 +6,7 @@ startDate: 2025-04-26
 finishDate: 2025-04-28
 added: 2025-04-28
 notes: false
+favorite: true
 coverImage: elsewhere.webp
 library: https://share.libbyapp.com/title/588622
 bookshop: https://bookshop.org/book/9780312367466

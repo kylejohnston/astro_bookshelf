@@ -6,6 +6,7 @@ startDate: 2025-08-08
 finishDate: 2025-08-13
 added: 2025-08-13
 notes: false
+favorite: true
 coverImage: rejection-proof.webp
 library: https://share.libbyapp.com/title/2207306
 bookshop: https://bookshop.org/book/9780804141383

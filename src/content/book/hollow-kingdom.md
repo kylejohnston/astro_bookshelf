@@ -6,6 +6,7 @@ currentlyReading: false
 finishDate: 2020-05-09
 added: 2020-05-09
 notes: false
+favorite: true
 coverImage: hollow-kingdom.webp
 library: https://share.libbyapp.com/title/4455339
 bookshop: https://bookshop.org/books/hollow-kingdom/9781538745830

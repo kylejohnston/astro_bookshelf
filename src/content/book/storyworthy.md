@@ -6,6 +6,7 @@ startDate: 2025-10-10
 finishDate: 2025-10-12
 added: 2025-10-12
 notes: true
+favorite: true
 coverImage: storyworthy.webp
 library: https://share.libbyapp.com/title/3990836
 bookshop: https://bookshop.org/book/9781608685486

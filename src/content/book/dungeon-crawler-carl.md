@@ -6,6 +6,7 @@ startDate: 2025-09-01
 finishDate: 2025-09-06
 added: 2025-09-06
 notes: false
+favorite: true
 coverImage: dungeon-crawler-carl.webp
 library: https://share.libbyapp.com/title/11342637
 bookshop: https://bookshop.org/book/9780593820247
