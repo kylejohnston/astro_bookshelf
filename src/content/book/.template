@@ -6,6 +6,7 @@ startDate: 2025-01-01
 finishDate: 2025-01-01
 added: 2025-01-01
 notes: false
+favorite: false
 coverImage: file-name.webp
 library: https://share.libbyapp.com/title/
 bookshop: https://bookshop.org/book/[13-digit ISBN]

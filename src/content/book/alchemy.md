@@ -6,6 +6,7 @@ startDate: 2023-12-26
 finishDate: 2024-01-02
 added: 2024-01-02
 notes: true
+favorite: true
 coverImage: alchemy.webp
 library: https://share.libbyapp.com/title/3280529
 bookshop: https://bookshop.org/book/9780062388421

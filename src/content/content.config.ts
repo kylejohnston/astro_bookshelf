@@ -11,6 +11,7 @@ const bookCollection = defineCollection({
     finishDate: z.string().optional(),
     added: z.date(),
     currentlyReading: z.boolean().optional(),
+    favorite: z.boolean().optional(),
     notes: z.boolean().optional(),
     library: z.string().optional(),
     bookshop: z.string().optional(),

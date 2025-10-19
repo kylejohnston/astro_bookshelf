@@ -28,3 +28,4 @@ _archive/
 .vscode/launch.json
 _books.code-workspace
 .gemini/
+.claude/

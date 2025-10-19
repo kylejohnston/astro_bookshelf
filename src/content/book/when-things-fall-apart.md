@@ -5,6 +5,7 @@ author: Pema Chödrön
 finishDate: 2021-03-27
 added: 2021-03-27
 notes: true
+favorite: true
 coverImage: when-things-fall-apart.webp
 library: https://share.libbyapp.com/title/467572
 bookshop: https://bookshop.org/books/when-things-fall-apart-heart-advice-for-difficult-times-9781611803433/9781611803433
