@@ -15,6 +15,14 @@
     --light:  #D8D6D5;
     --color:  #CC3000;
 }
+
+/* Fix icon transitions */
+[transition\\:name="nav-heart-icon"] svg,
+[transition\\:name="nav-grid-icon"] svg {
+    width: 1.5rem !important;
+    height: 1.5rem !important;
+    transition: none !important;
+}
 body { @apply bg-gradient-to-b from-[#FDFBF7] to-[#F8F3E7] flex flex-col font-sans text-black md:flex-row; }
 /* TYPOGRAPHY */
 h1, .headline { font-size: clamp(2.813rem, 1.108rem + 8.52vw, 7.5rem) !important; @apply font-headline uppercase text-balance leading-[85%]; }
