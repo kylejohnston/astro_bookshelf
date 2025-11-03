@@ -1,0 +1,21 @@
+---
+title: "The Dungeon Anarchist's Cookbook: Dungeon Crawler Carl Book 3"
+author: Matt Dinniman
+currentlyReading: false
+startDate: 2025-10-24
+finishDate: 2025-11-02
+added: 2025-11-02
+notes: false
+favorite: false
+coverImage: dungeon-crawler-carl-book-three.webp
+# library: https://share.libbyapp.com/title/
+bookshop: https://bookshop.org/book/9780593820285
+amazon: https://amazon.com/dp/0593820282
+# other: 
+---
+
+Earth has been transformed into the set of the galaxy’s most watched game show: *Dungeon Crawler World*, a nightmarish, multilevel, video game–like dungeon filled with traps, monsters, and mind-bending puzzles. Carl and Donut have survived so far, but this fourth level is unlike anything they could imagine. The Iron Tangle: an impossibly complicated subway system tied together into a knot of trains of all kinds, from classic steam engines to sleek modern cars. Up is down. Down is up. Close is far. The cars are filled with monsters, the railway stations aren’t always what they seem, and the exit is perpetually just a few stops away.  
+
+The top ten list is populated, and Carl and Donut have made it. But that popularity comes with a price. They each now have a bounty on their head. They must work with other crawlers to solve the puzzle of the floor, but how can they do that when they don’t know who to trust? The secret to unraveling it all may be hidden in the pages of a seemingly useless book.  
+
+*Welcome, Crawlers. Welcome to the fourth floor of the dungeon.*  
