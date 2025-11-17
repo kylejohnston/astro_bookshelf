@@ -70,9 +70,9 @@ const books = (await getCollection('book')).sort((a, b) => {
 					<span class="text-base font-normal">{book.data.author}</span> &centerdot;  
 					<span class="text-base! text-gray-500">
 						Added {formatDate(book.data.added)}
-						{book.data.favorite ? <span> &centerdot; ♥︎</span> : <span></span> }
-						{book.data.notes ? <span> &centerdot; <a href={"/book/" + book.slug + "/"}>Notes</a></span> : <span></span> }
-						{book.data.currentlyReading && <span>📖 Currently Reading</span>}
+						{book.data.favorite ? <span> &centerdot; ♥︎</span> : '' }
+						{book.data.notes ? <span> &centerdot; <a href={"/book/" + book.slug + "/"}>Notes</a></span> : '' }
+						{book.data.currentlyReading ? <span>📖 Currently Reading</span> : '' }
 					</span>
 				</p>
 			))}
