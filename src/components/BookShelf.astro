@@ -17,8 +17,9 @@ const searchable = [post.data.title + post.data.author + post.data.finishDate];
 		{post.data.coverImage && <img src={bookCover} alt={altContent} width="480" height="100%" class="book-cover" decoding="async" transition:name={post.slug} transition:animate="slide" /> }
 	</a>
 		<p class="font-mono text-sm! text-center mt-3 text-gray-600">
-			{post.data.notes ? <span><a href={"/book/" + post.slug + "/"}>📝 Notes</a></span> : <span>&nbsp;</span> }
-			{post.data.currentlyReading && <span>📖 Currently Reading</span>}
+            {post.data.favorite && post.data.notes ? <span><a href={"/book/" + post.slug + "/"}>♥︎ &centerdot; 📝 Notes</a></span> : 
+             post.data.favorite ? <span><a href={"/book/" + post.slug + "/"}>♥︎</a></span> : 
+             post.data.notes ? <span><a href={"/book/" + post.slug + "/"}>📝 Notes</a></span> : <span>&nbsp;</span> }
 		</p>
 	<div class="hidden">{altContent}</div>
 </article>
