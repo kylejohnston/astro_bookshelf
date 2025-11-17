@@ -6,6 +6,7 @@ startDate: 2022-12-15
 finishDate: 2022-01-29
 added: 2022-12-15
 notes: false
+favorite: true
 coverImage: xx.webp
 # library: 
 bookshop: https://bookshop.org/p/books/xx-rian-hughes/17329179?ean=9781419750694

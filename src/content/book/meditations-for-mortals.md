@@ -6,6 +6,7 @@ startDate: 2025-01-5
 finishDate: 2025-01-25
 added: 2025-01-25
 notes: true
+favorite: true
 coverImage: meditations-for-mortals.webp
 library: https://share.libbyapp.com/title/10392817
 bookshop: https://bookshop.org/book/9780374611996
