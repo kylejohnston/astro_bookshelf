@@ -6,6 +6,7 @@ startDate: 2023-08-12
 finishDate: 2023-09-03
 added: 2023-09-03
 notes: true
+favorite: true
 coverImage: the-mountain-in-the-sea.webp
 library: https://share.libbyapp.com/title/8557446
 bookshop: https://bookshop.org/book/9781250872272

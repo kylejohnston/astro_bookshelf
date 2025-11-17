@@ -6,6 +6,7 @@ currentlyReading: false
 finishDate: 2017-06-08
 added: 2017-06-08
 notes: false
+favorite: true
 coverImage: they-call-me-supermensch.webp
 library: https://share.libbyapp.com/title/1903305
 bookshop: https://bookshop.org/books/they-call-me-supermensch-a-backstage-pass-to-the-amazing-worlds-of-film-food-and-rock-n-roll/9780062355966
