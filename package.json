@@ -8,10 +8,16 @@
     "build": "astro build",
     "preview": "astro preview",
     "deploy": "npm run build && wrangler deploy",
-    "dev:cf": "npm run build && wrangler dev"
+    "dev:cf": "npm run build && wrangler dev",
+    "admin": "tsx scripts/admin.ts",
+    "book:create": "tsx scripts/admin.ts create",
+    "book:finish": "tsx scripts/admin.ts finish"
   },
   "devDependencies": {
+    "@clack/prompts": "^0.11.0",
     "astro": "^5.16.11",
+    "gray-matter": "^4.0.3",
+    "tsx": "^4.21.0",
     "wrangler": "^4.33.1"
   },
   "dependencies": {
