@@ -2,9 +2,9 @@
 title: A Psalm for the Wild-Built
 author: Becky Chambers
 currentlyReading: false
-startDate: 2026-02-05T00:00:00.000Z
-finishDate: '2026-02-11'
-added: 2026-02-11T00:00:00.000Z
+startDate: 2026-02-05
+finishDate: 2026-02-11
+added: 2026-02-11
 notes: false
 favorite: false
 coverImage: psalm-for-the-wild-built.webp
