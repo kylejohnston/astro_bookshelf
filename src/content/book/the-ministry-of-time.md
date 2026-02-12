@@ -1,7 +1,7 @@
 ---
 title: "The Ministry of Time"
 author: Kaliane Bradley
-currentlyReading: true
+currentlyReading: false
 startDate: 2026-02-01
 finishDate: 2026-02-01
 added: 2026-02-01
