@@ -94,6 +94,40 @@ export function slugExists(slug: string): boolean {
 }
 
 /**
+ * Normalize a date value to YYYY-MM-DD string.
+ * gray-matter (js-yaml) coerces bare date strings to JS Date objects during
+ * parsing, so we must handle both string and Date inputs.
+ */
+function normalizeDate(value: string | Date | undefined): string {
+  if (!value) return '';
+  if (value instanceof Date) return value.toISOString().split('T')[0];
+  return String(value).split('T')[0];
+}
+
+/**
+ * Serialize frontmatter to a YAML block that matches the project's
+ * content guidelines: title quoted, dates as YYYY-MM-DD, URLs unquoted.
+ */
+function serializeFrontmatter(fm: BookFrontmatter): string {
+  const startDate = normalizeDate(fm.startDate as string | Date) || normalizeDate(fm.added as string | Date);
+  const finishDate = normalizeDate(fm.finishDate as string | Date) || normalizeDate(fm.added as string | Date);
+  return [
+    `title: "${fm.title}"`,
+    `author: ${fm.author}`,
+    `currentlyReading: ${fm.currentlyReading ?? false}`,
+    `startDate: ${startDate}`,
+    `finishDate: ${finishDate}`,
+    `added: ${normalizeDate(fm.added as string | Date)}`,
+    `notes: ${fm.notes ?? false}`,
+    `favorite: ${fm.favorite ?? false}`,
+    `coverImage: ${fm.coverImage}`,
+    `library: ${fm.library || 'https://share.libbyapp.com/title/'}`,
+    `bookshop: ${fm.bookshop || 'https://bookshop.org/book/[13-digit ISBN]'}`,
+    `amazon: ${fm.amazon || 'https://amazon.com/dp/[10-digit ISBN]'}`,
+  ].join('\n') + '\n';
+}
+
+/**
  * Create a new book entry
  * Uses string template to match .template file structure exactly
  */
@@ -103,25 +137,7 @@ export function createBook(
 ): string {
   const filepath = path.join(CONTENT_DIR, `${slug}.md`);
 
-  // Build file content matching .template structure
-  const fileContent = `---
-title: "${frontmatter.title}"
-author: ${frontmatter.author}
-currentlyReading: ${frontmatter.currentlyReading ?? true}
-startDate: ${frontmatter.startDate || frontmatter.added}
-finishDate: ${frontmatter.finishDate || frontmatter.added}
-added: ${frontmatter.added}
-notes: ${frontmatter.notes ?? false}
-favorite: ${frontmatter.favorite ?? false}
-coverImage: ${frontmatter.coverImage}
-library: ${frontmatter.library || 'https://share.libbyapp.com/title/'}
-bookshop: ${frontmatter.bookshop || 'https://bookshop.org/book/[13-digit ISBN]'}
-amazon: ${frontmatter.amazon || 'https://amazon.com/dp/[10-digit ISBN]'}
-# other:
----
-
-### Notes & Highlights
-`;
+  const fileContent = `---\n${serializeFrontmatter(frontmatter)}# other:\n---\n\n### Notes & Highlights\n`;
 
   fs.writeFileSync(filepath, fileContent);
 
@@ -139,8 +155,8 @@ export function updateBook(
   const raw = fs.readFileSync(filepath, 'utf-8');
   const { data, content } = matter(raw);
 
-  const updatedFrontmatter = { ...data, ...updates };
-  const fileContent = matter.stringify(content, updatedFrontmatter);
+  const updatedFrontmatter = { ...data, ...updates } as BookFrontmatter;
+  const fileContent = `---\n${serializeFrontmatter(updatedFrontmatter)}---\n${content}`;
   fs.writeFileSync(filepath, fileContent);
 
   return filepath;
