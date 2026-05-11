@@ -11,7 +11,7 @@ export async function GET(context) {
     description: 'A running list of the books I’ve read',
     site: context.site,
     items: book.map((post) => ({
-      link:    `/book/${post.slug}/`,
+      link:    `/book/${post.id.replace(/\.md$/, '')}/`,
       title:   post.data.title,
       pubDate: post.data.added,
       content: sanitizeHtml(parser.render(post.body)),
