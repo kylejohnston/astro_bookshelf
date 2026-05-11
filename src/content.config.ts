@@ -1,9 +1,10 @@
 // 1. Import utilities from `astro:content`
 import { z, defineCollection } from 'astro:content';
+import { glob } from 'astro/loaders';
 
 // 2. Define the book collection using the Content Layer API
 const book = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/*.md', base: './src/content/book' }),
   schema: z.object({
     title: z.string(),
     author: z.string(),

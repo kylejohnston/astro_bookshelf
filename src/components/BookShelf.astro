@@ -13,13 +13,13 @@ const searchable = [post.data.title + post.data.author + post.data.finishDate];
 ---
 
 <article class="post-preview searchable grid items-end">
-	<a href={"/book/" + post.slug + "/"}>
-		{post.data.coverImage && <img src={bookCover} alt={altContent} width="480" height="100%" class="book-cover" decoding="async" transition:name={post.slug} transition:animate="slide" /> }
+	<a href={"/book/" + post.id.replace(/\.md$/, '') + "/"}>
+		{post.data.coverImage && <img src={bookCover} alt={altContent} width="480" height="100%" class="book-cover" decoding="async" transition:name={post.id.replace(/\.md$/, '')} transition:animate="slide" /> }
 	</a>
 		<p class="font-mono text-sm! text-center mt-3 text-gray-600">
-            {post.data.favorite && post.data.notes ? <span><a href={"/book/" + post.slug + "/"}>♥︎ &centerdot; 📝 Notes</a></span> : 
-             post.data.favorite ? <span><a href={"/book/" + post.slug + "/"}>♥︎</a></span> : 
-             post.data.notes ? <span><a href={"/book/" + post.slug + "/"}>📝 Notes</a></span> : <span>&nbsp;</span> }
+            {post.data.favorite && post.data.notes ? <span><a href={"/book/" + post.id.replace(/\.md$/, '') + "/"}>♥︎ &centerdot; 📝 Notes</a></span> :
+             post.data.favorite ? <span><a href={"/book/" + post.id.replace(/\.md$/, '') + "/"}>♥︎</a></span> :
+             post.data.notes ? <span><a href={"/book/" + post.id.replace(/\.md$/, '') + "/"}>📝 Notes</a></span> : <span>&nbsp;</span> }
 		</p>
 	<div class="hidden">{altContent}</div>
 </article>
