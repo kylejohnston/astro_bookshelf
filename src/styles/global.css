@@ -67,6 +67,8 @@ nav a { @apply md:relative md:right-0.5; }
     nav .logo { font-variation-settings: 'wght' 400; @apply sticky md:[writing-mode:vertical-rl]; }
 .logo-tall { width: 24px; height: 65px; @apply hidden mb-2 md:block; }
 .logo-wide { width: 65px; height: 24px; @apply mr-2 md:hidden; }
+.col-span-3 { grid-column: 1 / span 3; }
+--pf-searchbox-max-width { margin-top: 6px; width: 100%; }
 
 /* CONTENT */
 main.content { @apply w-full; }
