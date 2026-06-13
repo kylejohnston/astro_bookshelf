@@ -4,6 +4,7 @@ author: Marty Cagan
 #startDate:
 finishDate: 2021-03-13
 added: 2021-03-13
+reread: 2026-05-31
 notes: true
 coverImage: inspired.webp
 library: https://share.libbyapp.com/title/3310525

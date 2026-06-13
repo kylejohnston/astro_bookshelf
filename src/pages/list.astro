@@ -24,8 +24,8 @@ function formatDate(dateString) {
 }
 
 const books = (await getCollection('book')).sort((a, b) => {
-	const dateA = new Date(a.data.added);
-	const dateB = new Date(b.data.added);
+	const dateA = new Date(a.data.reread ?? a.data.added);
+	const dateB = new Date(b.data.reread ?? b.data.added);
 	return dateB.valueOf() - dateA.valueOf();
 });
 ---
@@ -39,7 +39,7 @@ const books = (await getCollection('book')).sort((a, b) => {
 	<MainNav /> <!-- logo, nav -->
 	<main class="content">
 		<!-- search -->
-		<div class="grid grid-cols-3 justify-center items-start px-4 pt-4 text-lg text-gray-700 md:px-8 md:pt-8 md:justify-between;">
+		<div class="grid grid-cols-2 justify-center items-start px-4 pt-4 text-lg text-gray-700 md:px-8 md:pt-8 md:justify-between;">
 			<Search id="search" className="pagefind-ui col-span-2" uiOptions={{ showImages: false }} />
 			<div class="col-span-1 m-0 pl-4 py-3 flex gap-4 content-start justify-end items-start">
 				<a href="/favorites" aria-label="View favorites page">
@@ -69,7 +69,7 @@ const books = (await getCollection('book')).sort((a, b) => {
 					</a><br>
 					<span class="text-base font-normal">{book.data.author}</span> &centerdot;
 					<span class="text-base! text-gray-500">
-						Added {formatDate(book.data.added)}
+						{book.data.reread ? `Reread ${formatDate(book.data.reread)}` : `Added ${formatDate(book.data.added)}`}
 						{book.data.favorite ? <span> &centerdot; ♥︎</span> : '' }
 						{book.data.notes ? <span> &centerdot; <a href={"/book/" + book.id.replace(/\.md$/, '') + "/"}>Notes</a></span> : '' }
 						{book.data.currentlyReading ? <span>📖 Currently Reading</span> : '' }

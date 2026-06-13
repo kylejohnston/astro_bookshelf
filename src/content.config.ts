@@ -12,6 +12,7 @@ const book = defineCollection({
     startDate: z.coerce.date().optional(),
     finishDate: z.coerce.date().optional(),
     added: z.coerce.date(),
+    reread: z.coerce.date().optional(),
     currentlyReading: z.boolean().optional(),
     favorite: z.boolean().optional(),
     notes: z.boolean().optional(),
