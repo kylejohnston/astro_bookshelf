@@ -9,7 +9,7 @@ notes: true
 favorite: false
 coverImage: life-thats-waiting.webp
 library: https://share.libbyapp.com/title/11747628
-bookshop: https://bookshop.org/book/9781965820018
+# bookshop: https://bookshop.org/book/
 amazon: https://amazon.com/dp/1965820018
 # other: 
 ---
