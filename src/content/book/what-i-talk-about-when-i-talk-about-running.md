@@ -4,6 +4,7 @@ author: Haruki Murakami
 #startDate:
 finishDate: 2021-09-06
 added: 2021-09-06
+reread: 2026-06-20
 notes: true
 coverImage: what-i-talk-about-when-i-talk-about-running.webp
 library: https://share.libbyapp.com/title/148536
