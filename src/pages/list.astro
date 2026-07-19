@@ -67,7 +67,7 @@ const books = (await getCollection('book')).sort((a, b) => {
 					<a class="font-normal" href={"/book/" + book.id.replace(/\.md$/, '') + "/"}>
 						{book.data.title}
 					</a><br>
-					<span class="text-base font-normal">{book.data.author}</span> &centerdot;
+					<span class="text-base font-normal">{book.data.author}</span> &centerdot;{" "}
 					<span class="text-base! text-gray-500">
 						{book.data.reread ? `Reread ${formatDate(book.data.reread)}` : `Added ${formatDate(book.data.added)}`}
 						{book.data.favorite ? <span> &centerdot; ♥︎</span> : '' }
