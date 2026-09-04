@@ -2,6 +2,7 @@ import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
 import sanitizeHtml from 'sanitize-html';
 import MarkdownIt from 'markdown-it';
+import siteMeta from '../site-meta.config';
 const parser = new MarkdownIt();
 
 export async function GET(context) {
@@ -11,8 +12,8 @@ export async function GET(context) {
     return dateB.valueOf() - dateA.valueOf();
   });
   return rss({
-    title: "Kyle Johnston’s Bookshelf",
-    description: "A running list of the books I’ve read",
+    title: siteMeta.title,
+    description: siteMeta.description,
     site: context.site,
     items: book.map((post) => ({
       link:    `/book/${post.id.replace(/\.md$/, "")}/`,

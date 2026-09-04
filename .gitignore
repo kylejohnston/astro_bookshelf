@@ -5,6 +5,7 @@ dist/
 .astro/
 .astro/data-store.json
 .astro/settings.json
+worker-configuration.d.ts
 
 # dependencies
 node_modules/

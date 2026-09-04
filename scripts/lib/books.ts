@@ -107,10 +107,18 @@ function normalizeDate(value: string | Date | undefined): string {
 /**
  * Serialize frontmatter to a YAML block that matches the project's
  * content guidelines: title quoted, dates as YYYY-MM-DD, URLs unquoted.
+ *
+ * `withPlaceholders` fills blank link fields with a fill-in-the-blank
+ * reminder (matching .template) — only appropriate for brand-new entries.
+ * Updating an existing entry must never overwrite a blank field with a
+ * fake-looking placeholder URL.
  */
-function serializeFrontmatter(fm: BookFrontmatter): string {
+function serializeFrontmatter(fm: BookFrontmatter, withPlaceholders = false): string {
   const startDate = normalizeDate(fm.startDate as string | Date) || normalizeDate(fm.added as string | Date);
   const finishDate = normalizeDate(fm.finishDate as string | Date) || normalizeDate(fm.added as string | Date);
+  const library = fm.library || (withPlaceholders ? 'https://share.libbyapp.com/title/' : '');
+  const bookshop = fm.bookshop || (withPlaceholders ? 'https://bookshop.org/book/[13-digit ISBN]' : '');
+  const amazon = fm.amazon || (withPlaceholders ? 'https://amazon.com/dp/[10-digit ISBN]' : '');
   return [
     `title: "${fm.title}"`,
     `author: ${fm.author}`,
@@ -121,9 +129,9 @@ function serializeFrontmatter(fm: BookFrontmatter): string {
     `notes: ${fm.notes ?? false}`,
     `favorite: ${fm.favorite ?? false}`,
     `coverImage: ${fm.coverImage}`,
-    `library: ${fm.library || 'https://share.libbyapp.com/title/'}`,
-    `bookshop: ${fm.bookshop || 'https://bookshop.org/book/[13-digit ISBN]'}`,
-    `amazon: ${fm.amazon || 'https://amazon.com/dp/[10-digit ISBN]'}`,
+    `library: ${library}`,
+    `bookshop: ${bookshop}`,
+    `amazon: ${amazon}`,
   ].join('\n') + '\n';
 }
 
@@ -137,7 +145,7 @@ export function createBook(
 ): string {
   const filepath = path.join(CONTENT_DIR, `${slug}.md`);
 
-  const fileContent = `---\n${serializeFrontmatter(frontmatter)}# other:\n---\n\n### Notes & Highlights\n`;
+  const fileContent = `---\n${serializeFrontmatter(frontmatter, true)}# other:\n---\n\n### Notes & Highlights\n`;
 
   fs.writeFileSync(filepath, fileContent);
 

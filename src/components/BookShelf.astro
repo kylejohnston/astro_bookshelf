@@ -6,10 +6,9 @@ interface Props {
 	post: CollectionEntry<'book'>;
 }
 
-const { post, formattedDate } = Astro.props;
-const altContent = [post.data.title + " by " + post.data.author];
-const bookCover  = ["/covers/" + post.data.coverImage];
-const searchable = [post.data.title + post.data.author + post.data.finishDate];
+const { post } = Astro.props;
+const altContent = post.data.title + " by " + post.data.author;
+const bookCover  = "/covers/" + post.data.coverImage;
 const rotations  = ['2deg', '1deg', '-1deg', '-2deg'];
 const hash = post.id.split('').reduce((acc, c) => acc + c.charCodeAt(0), 0);
 const hoverRotate = rotations[hash % rotations.length];

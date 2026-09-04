@@ -9,6 +9,10 @@ export default defineConfig({
 
   site: 'https://books.kyleio.com/',
   integrations: [pagefind()],
+  prefetch: {
+    prefetchAll: true,
+    defaultStrategy: 'hover',
+  },
 
   vite: {
     plugins: [tailwindcss()],

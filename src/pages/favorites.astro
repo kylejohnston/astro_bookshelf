@@ -5,21 +5,11 @@ import BaseHead from '@components/BaseHead.astro';
 import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
 import BookShelf from '@components/BookShelf.astro';
+import siteMeta from '../site-meta.config';
 
-let pageTitle = "Kyle Johnston's Bookshelf · Favorites"
+let pageTitle = `${siteMeta.title} · Favorites`
 let description = 'My favorite books from the collection.';
-let permalink = 'https://books.kyleio.com/favorites/';
-
-function formatDate(dateString) {
-  if (!dateString) return '';
-  const date = new Date(dateString);
-  return date.toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'short',
-    day: 'numeric',
-    timeZone: 'UTC'
-  });
-}
+let permalink = new URL('/favorites/', Astro.site).href;
 
 // Get all favorite books, sorted by most recently added
 const favoriteBooks = (await getCollection('book'))
@@ -65,7 +55,7 @@ const favoriteBooks = (await getCollection('book'))
         {favoriteBooks.length > 0 ? (
         <section aria-label="Favorite Books" id="view-container"
             class="px-4 py-4 gap-4 grid grid-cols-2 items-end md:grid-cols-4 md:px-8 md:py-8 md:gap-8;">
-            {favoriteBooks.map((book) => <BookShelf post={book} formatDate={formatDate(book.data.added)} />)}
+            {favoriteBooks.map((book) => <BookShelf post={book} />)}
         </section>
         ) : (
         <section class="px-4 py-8 text-center md:px-8 md:py-16">

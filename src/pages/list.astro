@@ -5,23 +5,13 @@ import BaseHead from '@components/BaseHead.astro';
 import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
 import BookShelf from '@components/BookShelf.astro';
-import BookList from '@components/BookList.astro';
 import Search from "astro-pagefind/components/Search.astro";
+import { formatDate } from '../lib/format';
+import siteMeta from '../site-meta.config';
 
-let pageTitle = "Kyle Johnston's Bookshelf · List"
-let description = 'A running list of the books I\'ve read.';
-let permalink = 'https://books.kyleio.com/list';
-
-function formatDate(dateString) {
-  if (!dateString) return '';
-  const date = new Date(dateString);
-  return date.toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'short',
-    day: 'numeric',
-    timeZone: 'UTC'
-  });
-}
+let pageTitle = `${siteMeta.title} · List`
+let description = siteMeta.description;
+let permalink = new URL('/list', Astro.site).href;
 
 const books = (await getCollection('book')).sort((a, b) => {
 	const dateA = new Date(a.data.reread ?? a.data.added);
@@ -40,7 +30,7 @@ const books = (await getCollection('book')).sort((a, b) => {
 	<main class="content">
 		<!-- search -->
 		<div class="grid grid-cols-2 justify-center items-start px-4 pt-4 text-lg text-gray-700 md:px-8 md:pt-8 md:justify-between;">
-			<Search id="search" className="pagefind-ui col-span-2" uiOptions={{ showImages: false }} />
+			<Search className="pagefind-ui col-span-2" />
 			<div class="col-span-1 m-0 pl-4 py-3 flex gap-4 content-start justify-end items-start">
 				<a href="/favorites" aria-label="View favorites page">
 					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="icon" transition:name="toggleFaves" transition:animate="fade">

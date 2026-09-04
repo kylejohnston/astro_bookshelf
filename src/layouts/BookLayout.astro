@@ -1,24 +1,14 @@
 ---
-import { Image } from 'astro:assets';
 import BaseHead from '@components/BaseHead.astro'; // <head>
 import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
+import BuyBook from '@components/BuyBook.astro';
+import { formatDate } from '../lib/format';
 
 const { title, author, coverImage, added, reread, library, bookshop, amazon, other } = Astro.props;
 const bookCover = `/covers/${coverImage}`;
 const pageTitle = `${title} by ${author}`;
-const permalink = [Astro.url];
-
-function formatDate(dateString) {
-  if (!dateString) return '';
-  const date = new Date(dateString);
-  return date.toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'short',
-    day: 'numeric',
-    timeZone: 'UTC'
-  });
-}
+const permalink = Astro.url.href;
 ---
 
 <html lang="en">
@@ -42,19 +32,17 @@ function formatDate(dateString) {
             </div>
             <h3>Book Description</h3>
             <slot />
-            <h3 class="mt-8">Get a copy</h3>
-            {library   && <p><a href={library}>Local Library</a></p> }
-            {bookshop  && <p><a href={bookshop}>Bookshop.org</a></p> }
-            {amazon    && <p><a href={amazon}>Amazon</a></p> }
-            {other     && <p><a href={other}>Website</a></p> }
+            <BuyBook {library} {bookshop} {amazon} {other} />
           </section>
         </main>
         <div class="book-cover-col">
-            <Image
+            <img
               src={bookCover}
               alt={pageTitle}
-              width={480}
-              height={960}
+              width="480"
+              height="960"
+              loading="lazy"
+              decoding="async"
               class="book-cover sticky top-4"
               transition:name={Astro.props.slug}
               transition:animate="slide"

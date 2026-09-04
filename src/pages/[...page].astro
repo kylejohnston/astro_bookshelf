@@ -1,40 +1,31 @@
 ---
 // Homepage - display a paginated list of books
+import type { GetStaticPaths, InferGetStaticPropsType } from 'astro';
 import { getCollection } from 'astro:content';
 import BaseHead from '@components/BaseHead.astro';
 import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
 import BookShelf from '@components/BookShelf.astro';
 import Search from "astro-pagefind/components/Search.astro";
+import siteMeta from '../site-meta.config';
 
-let pageTitle = "Kyle Johnston's Bookshelf · Home"
-let description = 'A running list of the books I\'ve read.';
-let permalink = 'https://books.kyleio.com/';
-
-function formatDate(dateString) {
-  if (!dateString) return '';
-  const date = new Date(dateString);
-  return date.toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'short',
-    day: 'numeric',
-    timeZone: 'UTC'
-  });
-}
+let pageTitle = `${siteMeta.title} · Home`
+let description = siteMeta.description;
+let permalink = new URL('/', Astro.site).href;
 
 // 1. Generate a new path for every collection entry
-export async function getStaticPaths({ paginate }) {
+export const getStaticPaths = (async ({ paginate }) => {
     const books = (await getCollection('book')).sort((a, b) => {
         const dateA = new Date(a.data.reread ?? a.data.added);
         const dateB = new Date(b.data.reread ?? b.data.added);
         return dateB.valueOf() - dateA.valueOf();
     });
     return paginate(books, { pageSize: 24 });
-}
+}) satisfies GetStaticPaths;
 
 // 2. When it's time to render, you can get the entry directly from the prop
-const { page } = Astro.props;
-// const { Content } = await book.render();
+type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+const { page }: Props = Astro.props;
 ---
 
 <html lang="en">
@@ -47,7 +38,7 @@ const { page } = Astro.props;
     <MainNav />
     <main class="content">
 		<div class="grid grid-cols-4 justify-center items-start px-4 pt-4 text-lg text-gray-700 md:px-8 md:pt-8 md:justify-between;">
-			<Search id="search" className="pagefind-ui col-span-3" uiOptions={{ showImages: false }} />
+			<Search className="pagefind-ui col-span-3" />
 			<div class="col-span-1 m-0 pl-4 py-3 flex gap-4 content-start justify-end items-start">
 				<a href="/favorites" aria-label="Toggle favorites view">
 					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="icon" transition:name="toggleFaves" transition:animate="fade">
@@ -68,7 +59,7 @@ const { page } = Astro.props;
 
         <section aria-label="Bookshelf" id="view-container"
             class="px-4 py-4 gap-4 grid grid-cols-2 items-end md:grid-cols-4 md:px-8 md:py-8 md:gap-8;">
-            {page.data.map((book) => <BookShelf post={book} formatDate={formatDate(book.data.added)} />)}
+            {page.data.map((book) => <BookShelf post={book} />)}
         </section>
 
         <div
