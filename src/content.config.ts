@@ -19,6 +19,7 @@ const book = defineCollection({
     library: z.string().optional(),
     bookshop: z.string().optional(),
     amazon: z.string().optional(),
+    other: z.string().optional().nullable(),
   }),
 });
 

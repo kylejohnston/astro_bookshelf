@@ -4,16 +4,17 @@ import BookLayout from '../../layouts/BookLayout.astro';
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
   const bookEntries = await getCollection('book');
-  return bookEntries.map(book => ({
-    params: { slug: book.id.replace(/\.md$/, '') }, props: { book },
-  }));
+  return bookEntries.map(book => {
+    const slug = book.id.replace(/\.md$/, '');
+    return { params: { slug }, props: { book, slug } };
+  });
 }
 // 2. When it's time to render, you can get the entry directly from the prop
-const { book } = Astro.props;
+const { book, slug } = Astro.props;
 const { Content } = await render(book);
 ---
 
-<BookLayout {...book.data}>
+<BookLayout {...book.data} {slug}>
   <Content />
 </BookLayout>
 

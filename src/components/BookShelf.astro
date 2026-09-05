@@ -6,10 +6,9 @@ interface Props {
 	post: CollectionEntry<'book'>;
 }
 
-const { post, formattedDate } = Astro.props;
-const altContent = [post.data.title + " by " + post.data.author];
-const bookCover  = ["/covers/" + post.data.coverImage];
-const searchable = [post.data.title + post.data.author + post.data.finishDate];
+const { post } = Astro.props;
+const altContent = post.data.title + " by " + post.data.author;
+const bookCover  = "/covers/" + post.data.coverImage;
 const rotations  = ['2deg', '1deg', '-1deg', '-2deg'];
 const hash = post.id.split('').reduce((acc, c) => acc + c.charCodeAt(0), 0);
 const hoverRotate = rotations[hash % rotations.length];
@@ -17,7 +16,7 @@ const hoverRotate = rotations[hash % rotations.length];
 
 <article class="post-preview searchable grid items-end">
 	<a href={"/book/" + post.id.replace(/\.md$/, '') + "/"}>
-		{post.data.coverImage && <img src={bookCover} alt={altContent} width="480" height="100%" class="book-cover" style={`--hover-rotate: ${hoverRotate}`} decoding="async" transition:name={post.id.replace(/\.md$/, '')} transition:animate="slide" /> }
+		{post.data.coverImage && <img src={bookCover} alt={altContent} width="480" height="100%" class="book-cover" style={`--hover-rotate: ${hoverRotate}`} decoding="async" /> }
 	</a>
 		<p class="font-mono text-sm! text-center mt-3 text-gray-600">
             {post.data.favorite && post.data.notes ? <span><a href={"/book/" + post.id.replace(/\.md$/, '') + "/"}>♥︎ &centerdot; 📝 Notes</a></span> :

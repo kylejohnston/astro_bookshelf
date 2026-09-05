@@ -1,40 +1,31 @@
 ---
 // Homepage - display a paginated list of books
+import type { GetStaticPaths, InferGetStaticPropsType } from 'astro';
 import { getCollection } from 'astro:content';
 import BaseHead from '@components/BaseHead.astro';
 import Footer from '@components/Footer.astro';
 import MainNav from '@components/MainNav.astro'; // logo, nav
 import BookShelf from '@components/BookShelf.astro';
 import Search from "astro-pagefind/components/Search.astro";
+import siteMeta from '../site-meta.config';
 
-let pageTitle = "Kyle Johnston's Bookshelf · Home"
-let description = 'A running list of the books I\'ve read.';
-let permalink = 'https://books.kyleio.com/';
-
-function formatDate(dateString) {
-  if (!dateString) return '';
-  const date = new Date(dateString);
-  return date.toLocaleDateString('en-US', {
-    year: 'numeric',
-    month: 'short',
-    day: 'numeric',
-    timeZone: 'UTC'
-  });
-}
+let pageTitle = `${siteMeta.title} · Home`
+let description = siteMeta.description;
+let permalink = new URL('/', Astro.site).href;
 
 // 1. Generate a new path for every collection entry
-export async function getStaticPaths({ paginate }) {
+export const getStaticPaths = (async ({ paginate }) => {
     const books = (await getCollection('book')).sort((a, b) => {
         const dateA = new Date(a.data.reread ?? a.data.added);
         const dateB = new Date(b.data.reread ?? b.data.added);
         return dateB.valueOf() - dateA.valueOf();
     });
     return paginate(books, { pageSize: 24 });
-}
+}) satisfies GetStaticPaths;
 
 // 2. When it's time to render, you can get the entry directly from the prop
-const { page } = Astro.props;
-// const { Content } = await book.render();
+type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+const { page }: Props = Astro.props;
 ---
 
 <html lang="en">
@@ -47,17 +38,17 @@ const { page } = Astro.props;
     <MainNav />
     <main class="content">
 		<div class="grid grid-cols-4 justify-center items-start px-4 pt-4 text-lg text-gray-700 md:px-8 md:pt-8 md:justify-between;">
-			<Search id="search" className="pagefind-ui col-span-3" uiOptions={{ showImages: false }} />
+			<Search className="pagefind-ui col-span-3" />
 			<div class="col-span-1 m-0 pl-4 py-3 flex gap-4 content-start justify-end items-start">
 				<a href="/favorites" aria-label="Toggle favorites view">
-					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="icon" transition:name="toggleFaves" transition:animate="fade">
+					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="icon">
 						<title id="favoritesIconTitle">Toggle favorites view</title>
 						<desc>Toggle favorites view</desc>
 						<path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z" />
 					</svg>
 				</a>
                 <a href="/list" aria-label="Switch to list view">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="icon" transition:name="toggleView" transition:animate="fade">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="icon">
 						<title id="listIconTitle">Switch to list view</title>
 						<desc>Switch to list view</desc>
 						<path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25a2.25 2.25 0 0 1-2.25-2.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z" />
@@ -68,7 +59,7 @@ const { page } = Astro.props;
 
         <section aria-label="Bookshelf" id="view-container"
             class="px-4 py-4 gap-4 grid grid-cols-2 items-end md:grid-cols-4 md:px-8 md:py-8 md:gap-8;">
-            {page.data.map((book) => <BookShelf post={book} formatDate={formatDate(book.data.added)} />)}
+            {page.data.map((book) => <BookShelf post={book} />)}
         </section>
 
         <div

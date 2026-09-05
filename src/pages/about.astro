@@ -3,16 +3,11 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import MainNav from '../components/MainNav.astro'; // logo, nav
+import siteMeta from '../site-meta.config';
 
-// Component Script:
-// You can write any JavaScript/TypeScript that you'd like here.
-// It will run during the build, but never in the browser.
-// All variables are available to use in the HTML template below.
-let pageTitle = "About · Kyle Johnston's Bookshelf";
-let description = 'A running list of the books I\'ve read.';
-let permalink = 'https://books.kyleio.com/about';
-
-// Data Fetching: List all Markdown posts in the repo.
+let pageTitle = `About · ${siteMeta.title}`;
+let description = siteMeta.description;
+let permalink = new URL('/about', Astro.site).href;
 ---
 
 <html lang="en">
@@ -34,7 +29,7 @@ let permalink = 'https://books.kyleio.com/about';
 					<div class="grid md:grid-cols-2 gap-8 md:gap-16 mb-8" style="grid-template-rows: repeat(auto-fill, minmax(18rem, 1fr));">
 						<div>
 							<h3>Inspiration</h3>
-							<p>This project is an extension of my 'everything I read this year' posts (<a href="https://www.kylewjohnston.com/writing/all-of-the-things-i-read-in-2020/" target="_blank" rel="noopener">2020</a>, <a href="" target="_blank" rel="noopener">2019</a>, <a href="" target="_blank" rel="noopener">2018</a>). The end of year posts were a lot of work, so I created this website to save time ¯\_(ツ)_/¯ and maintain a real-time view of my reading journey. I was inspired by projects like <a href="https://reading.lol/" target="_blank" rel="noopener">reading.lol</a>, <a href="https://www.arcana.computer/catalogs/books" target="_blank" rel="noopener">arcana.computer</a>, and <a href="https://github.com/melanierichards/highlights" target="_blank" rel="noopener">Highlights</a>.</p>
+							<p>This project started with 'everything I read this year' posts I wrote from 2018–2020. They were a lot of work at the end of the year, so I created this website to save time ¯\_(ツ)_/¯ and maintain a real-time view of my reading journey. I was inspired by projects like <a href="https://reading.lol/" target="_blank" rel="noopener">reading.lol</a>, <a href="https://www.arcana.computer/catalogs/books" target="_blank" rel="noopener">arcana.computer</a>, and <a href="https://github.com/melanierichards/highlights" target="_blank" rel="noopener">Highlights</a>.</p>
 							<h3 class="mt-8">Navigation</h3>
 							<p>The colorful navigation bar is inspired by book spine design. On large screens, the vertical orientation emphasizes this concept.</p>
 							<h3 class="mt-8">Typography</h3>
