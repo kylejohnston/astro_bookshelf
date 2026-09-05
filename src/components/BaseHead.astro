@@ -1,6 +1,5 @@
 ---
 import '../styles/global.css';
-import { ClientRouter } from 'astro:transitions';
 
 export interface Props {
 	pageTitle: string;
@@ -44,5 +43,3 @@ const socialImage = new URL('/social.png?v=1', Astro.site).href;
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wdth,wght@8..144,36,550&family=Roboto+Mono&display=swap">
-
-<ClientRouter fallback="none" />

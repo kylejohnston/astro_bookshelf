@@ -35,7 +35,7 @@ const permalink = Astro.url.href;
             <BuyBook {library} {bookshop} {amazon} {other} />
           </section>
         </main>
-        <div class="book-cover-col">
+        <div class="book-cover-col sticky top-4">
             <img
               src={bookCover}
               alt={pageTitle}
@@ -43,9 +43,7 @@ const permalink = Astro.url.href;
               height="960"
               loading="lazy"
               decoding="async"
-              class="book-cover sticky top-4"
-              transition:name={Astro.props.slug}
-              transition:animate="slide"
+              class="book-cover"
               />
         </div>
       </div>
