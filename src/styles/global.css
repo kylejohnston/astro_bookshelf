@@ -23,6 +23,22 @@
     height: 1.5rem !important;
     transition: none !important;
 }
+.icon-link {
+    padding: 3px;
+    margin: -3px;
+    border-radius: 999px;
+    background: none;
+    transition: all 200ms ease-in-out;
+}
+.icon-link:hover {
+    padding: 8px;
+    margin: -8px;
+    background: white;
+    box-shadow:
+        0px 0px 0px 1px rgba(0, 0, 0, 0.08),
+        0px 1px 2px -1px rgba(0, 0, 0, 0.08),
+        0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+}
 body { @apply bg-gradient-to-b from-[#FDFBF7] to-[#F8F3E7] flex flex-col font-sans text-black md:flex-row; }
 /* TYPOGRAPHY */
 h1, .headline { font-size: clamp(2.813rem, 1.108rem + 8.52vw, 7.5rem) !important; @apply font-headline uppercase text-balance leading-[85%]; }
