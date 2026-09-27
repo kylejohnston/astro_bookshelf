@@ -20,6 +20,7 @@
   "devDependencies": {
     "@astrojs/check": "^0.9.10",
     "@clack/prompts": "^0.11.0",
+    "agentation": "^3.1.2",
     "astro": "^7.3.1",
     "gray-matter": "^4.0.3",
     "tsx": "^4.21.0",
@@ -27,10 +28,15 @@
     "wrangler": "^4.33.1"
   },
   "dependencies": {
+    "@astrojs/react": "^7.0.0",
     "@astrojs/rss": "^4.0.19",
     "@tailwindcss/vite": "^4.0.8",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
     "astro-pagefind": "^2.0.1",
     "markdown-it": "^14.1.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
     "sanitize-html": "^2.13.1",
     "tailwindcss": "^4.0.8"
   }
