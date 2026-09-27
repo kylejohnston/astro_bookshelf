@@ -3,12 +3,18 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@components/*": ["src/components/*"],
-      "@assets/*": ["src/assets/*"],
+      "@components/*": [
+        "src/components/*"
+      ],
+      "@assets/*": [
+        "src/assets/*"
+      ]
     },
-    // Add type definitions for our Vite runtime.
-    "types": ["vite/client"],
-    // TypeScript for Content Collections
+    "types": [
+      "vite/client"
+    ],
     "strictNullChecks": true,
+    "jsx": "react-jsx",
+    "jsxImportSource": "react"
   }
 }

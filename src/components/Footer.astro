@@ -1,1 +1,5 @@
+---
+import { Agentation } from 'agentation';
+---
 <script async defer src="https://scripts.withcabin.com/hello.js"></script>
+{import.meta.env.DEV && <Agentation client:only="react" endpoint="http://localhost:4747" />}
