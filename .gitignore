@@ -32,3 +32,6 @@ _books.code-workspace
 .gemini/
 .claude/
 COMMIT_CONVENTIONS.md
+.agents/skills/
+tasks/
+skills-lock.json
