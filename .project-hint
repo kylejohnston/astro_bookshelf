@@ -1,6 +1,6 @@
 
 📚 BOOKS ADMIN CLI AVAILABLE!
    npm run admin        - Interactive CLI
-   npm run book:create  - Create a new book
-   npm run book:finish  - Finish reading a book
+   npm run add     - Create a new book
+   npm run finish  - Finish reading a book
 
