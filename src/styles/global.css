@@ -106,12 +106,12 @@ main a:hover, main a:active { @apply underline underline-offset-8; }
     @apply rounded-xl;
     position: relative;
     z-index: 1;
-    transition: transform 430ms ease-in-out, z-index 0s 430ms;
+    transition: transform 128ms ease-in-out, z-index 0s 128ms;
 }
     main .book-cover:hover {
         transform: scale(1.1) rotate(var(--hover-rotate, -2deg));
         z-index: 10;
-        transition: transform 430ms ease-in-out, z-index 0s;
+        transition: transform 256ms ease-in-out, z-index 0s;
     }
 .book-details { @apply max-w-7xl mt-4 lg:mt-8 mb-16 px-4 lg:px-8; }
 .book-details header { @apply mb-8; }
