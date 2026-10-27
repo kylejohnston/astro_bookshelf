@@ -1,7 +1,6 @@
 ---
 title: "The Coaching Habit"
 author: Michael Bungay Stanier
-currentlyReading: false
 startDate: 2025-08-30
 finishDate: 2025-08-30
 added: 2025-08-30

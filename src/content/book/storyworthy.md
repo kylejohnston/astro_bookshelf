@@ -1,7 +1,6 @@
 ---
 title: "Storyworthy"
 author: Matthew Dicks
-currentlyReading: false
 startDate: 2025-10-10
 finishDate: 2025-10-12
 added: 2025-10-12

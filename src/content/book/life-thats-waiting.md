@@ -1,7 +1,6 @@
 ---
 title: "The Life That's Waiting"
 author: Brianna Wiest
-currentlyReading: false
 startDate: 2026-05-31
 finishDate: 2026-06-09
 added: 2026-06-09

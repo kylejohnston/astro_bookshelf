@@ -1,7 +1,6 @@
 ---
 title: "Branding in five and a half steps"
 author: Michael Johnson
-currentlyReading: false
 # startDate:
 finishDate: 2016-12-04
 added: 2016-12-04

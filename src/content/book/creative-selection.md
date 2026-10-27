@@ -1,7 +1,6 @@
 ---
 title: "Creative Selection: Inside Apple’s Design Process During the Golden Age of Steve Jobs"
 author: Ken Kocienda
-currentlyReading: false
 #startDate:
 finishDate: 2020-12-13
 added: 2020-12-13

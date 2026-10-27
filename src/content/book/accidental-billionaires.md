@@ -1,7 +1,6 @@
 ---
 title: "The Accidental Billionaires: The Founding of Facebook: A Tale of Sex, Money, Genius and Betrayal"
 author: Ben Mezrich
-currentlyReading: false
 # startDate: 
 finishDate: 2019-10-16
 added: 2019-10-16

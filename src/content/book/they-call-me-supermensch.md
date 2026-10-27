@@ -1,7 +1,6 @@
 ---
 title: "They Call Me Supermensch"
 author: Shep Gordon
-currentlyReading: false
 # startDate:
 finishDate: 2017-06-08
 added: 2017-06-08

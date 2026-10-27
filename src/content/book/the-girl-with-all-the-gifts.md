@@ -1,7 +1,6 @@
 ---
 title: "The Girl with All the Gifts"
 author: M.R. Carey
-currentlyReading: false
 startDate: 2023-12-19
 finishDate: 2023-12-25
 added: 2023-12-25

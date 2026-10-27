@@ -1,7 +1,6 @@
 ---
 title: "Analog In, Digital Out"
 author: Brendan Dawes
-currentlyReading: false
 startDate: 2007-03-14
 finishDate: 2007-03-14
 added: 2007-03-14

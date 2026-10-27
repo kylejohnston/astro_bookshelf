@@ -1,7 +1,6 @@
 ---
 title: "Dark Intelligence (Transformations)"
 author: Neal Asher
-currentlyReading: false
 #startDate:
 finishDate: 2016-11-30
 added: 2016-11-30

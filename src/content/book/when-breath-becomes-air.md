@@ -1,7 +1,6 @@
 ---
 title: "When Breath Becomes Air"
 author: Paul Kalanithi
-currentlyReading: false
 startDate: 2022-09-11
 finishDate: 2022-09-21
 added: 2022-09-11

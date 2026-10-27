@@ -1,7 +1,6 @@
 ---
 title: "Artificial Condition: The Murderbot Diaries"
 author: Martha Wells
-currentlyReading: false
 startDate: 2025-05-17
 finishDate: 2025-05-19
 added: 2025-05-19

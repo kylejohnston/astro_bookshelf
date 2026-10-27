@@ -1,7 +1,6 @@
 ---
 title: "Demon Copperhead"
 author: Barbara Kingsolver
-currentlyReading: false
 startDate: 2025-09-07
 finishDate: 2025-09-21
 added: 2025-09-21

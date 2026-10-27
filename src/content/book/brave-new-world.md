@@ -1,7 +1,6 @@
 ---
 title: "Brave New World"
 author: Aldous Huxley
-currentlyReading: false
 startDate: 2022-12-13
 finishDate: 2022-12-21
 added: 2022-12-13

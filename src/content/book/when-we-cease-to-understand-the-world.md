@@ -1,7 +1,6 @@
 ---
 title: "When We Cease to Understand the World"
 author: Benjamin Labatut
-currentlyReading: false
 startDate: 2024-04-01
 finishDate: 2024-04-07
 added: 2024-04-07

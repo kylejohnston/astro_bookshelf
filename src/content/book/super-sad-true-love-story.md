@@ -1,7 +1,6 @@
 ---
 title: "Super Sad True Love Story"
 author: Gary Shteyngart
-currentlyReading: false
 # startDate:
 finishDate: 2020-07-07
 added: 2020-07-07

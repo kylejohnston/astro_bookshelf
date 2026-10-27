@@ -1,7 +1,6 @@
 ---
 title: "The Martian"
 author: Andy Weir
-currentlyReading: false
 #startDate:
 finishDate: 2015-12-26
 added: 2015-12-26

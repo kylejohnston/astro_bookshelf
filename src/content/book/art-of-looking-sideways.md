@@ -1,7 +1,6 @@
 ---
 title: "The Art of Looking Sideways"
 author: Alan Fletcher
-currentlyReading: false
 # startDate:
 finishDate: 2015-07-26
 added: 2015-07-26

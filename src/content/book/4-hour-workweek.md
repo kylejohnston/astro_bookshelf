@@ -1,7 +1,6 @@
 ---
 title: "The 4-Hour Workweek"
 author: Timothy Ferriss
-currentlyReading: false
 startDate: 2015-11-01
 finishDate: 2015-11-01
 added: 2015-11-01

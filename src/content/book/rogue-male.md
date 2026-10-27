@@ -1,7 +1,6 @@
 ---
 title: "Rogue Male"
 author: Geoffrey Household
-currentlyReading: false
 startDate: 2026-04-10
 finishDate: 2026-05-05
 added: 2026-05-05

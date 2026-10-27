@@ -1,7 +1,6 @@
 ---
 title: "Blood Meridian"
 author: Cormac McCarthy
-currentlyReading: false
 # startDate:
 finishDate: 2020-03-07
 added: 2020-03-07

@@ -1,7 +1,6 @@
 ---
 title: "My Sister, The Serial Killer"
 author: Oyinkan Braithwaite
-currentlyReading: false
 # startDate:
 finishDate: 2020-01-25
 added: 2020-01-25

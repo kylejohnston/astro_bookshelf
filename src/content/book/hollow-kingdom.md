@@ -1,7 +1,6 @@
 ---
 title: "Hollow Kingdom"
 author: Kira Jane Buxton
-currentlyReading: false
 # startDate:
 finishDate: 2020-05-09
 added: 2020-05-09

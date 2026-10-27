@@ -1,7 +1,6 @@
 ---
 title: "Show Your Work!"
 author: Austin Kleon
-currentlyReading: false
 startDate: 2014-03-16
 finishDate: 2014-03-16
 added: 2014-03-16

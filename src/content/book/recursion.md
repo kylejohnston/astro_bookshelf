@@ -1,7 +1,6 @@
 ---
 title: "Recursion"
 author: Blake Crouch
-currentlyReading: false
 startDate: 2024-10-05
 finishDate: 2024-10-12
 added: 2024-10-12

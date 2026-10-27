@@ -1,7 +1,6 @@
 ---
 title: "Colorless Tsukuru Tazaki and His Years of Pilgrimage"
 author: Haruki Murakami
-currentlyReading: false
 # startDate:
 finishDate: 2019-08-22
 added: 2019-08-22

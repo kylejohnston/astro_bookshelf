@@ -1,7 +1,6 @@
 ---
 title: "Based on a True Story: Not a Memoir"
 author: Norm Macdonald
-currentlyReading: false
 startDate: 2022-11-04
 finishDate: 2022-11-12
 added: 2022-11-04

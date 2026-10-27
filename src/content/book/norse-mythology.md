@@ -1,7 +1,6 @@
 ---
 title: "Norse Mythology"
 author: Neil Gaiman
-currentlyReading: false
 # startDate:
 finishDate: 2018-12-15
 added: 2018-12-15

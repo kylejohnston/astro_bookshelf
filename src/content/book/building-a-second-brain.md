@@ -1,7 +1,6 @@
 ---
 title: "Building a Second Brain"
 author: Tiago Forte
-currentlyReading: false
 startDate: 2024 Feb 11
 finishDate: 2024 Feb 18
 added: 2024 Feb 18

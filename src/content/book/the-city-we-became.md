@@ -1,7 +1,6 @@
 ---
 title: "The City We Became"
 author: N.K. Jemisin
-currentlyReading: false
 startDate: 2022-12-29
 finishDate: 2023-01-15
 added: 2022-12-29

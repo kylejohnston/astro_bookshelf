@@ -1,7 +1,6 @@
 ---
 title: "Writing Down the Bones"
 author: Natalie Goldberg
-currentlyReading: false
 # startDate:
 finishDate: 2020-12-26
 added: 2020-12-26

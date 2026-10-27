@@ -1,7 +1,6 @@
 ---
 title: "21 Lessons for the 21st Century"
 author: Yuval Noah Harari
-currentlyReading: false
 # startDate: 
 finishDate: 2019-09-13
 added: 2019-09-13

@@ -1,7 +1,6 @@
 ---
 title: "A Conspiracy of Tall Men"
 author: Noah Hawley
-currentlyReading: false
 startDate: 2026-01-01
 finishDate: 2026-01-01
 added: 2026-01-01

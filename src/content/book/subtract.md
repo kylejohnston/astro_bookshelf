@@ -1,7 +1,6 @@
 ---
 title: "Subtract"
 author: Leidy Klotz
-currentlyReading: false
 startDate: 2025-09-26
 finishDate: 2025-10-03
 added: 2025-10-03

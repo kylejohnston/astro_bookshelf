@@ -1,7 +1,6 @@
 ---
 title: "The Ghost Map"
 author: Steven Johnson
-currentlyReading: false
 startDate: 2023-12-15
 finishDate: 2023-12-18
 added: 2023-12-18

@@ -1,7 +1,6 @@
 ---
 title: "Shark Heart"
 author: Emily Habeck
-currentlyReading: false
 startDate: 2026-02-14
 finishDate: 2026-02-23
 added: 2026-02-23

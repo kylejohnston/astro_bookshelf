@@ -1,7 +1,6 @@
 ---
 title: "How Google Works"
 author: Eric Schmidt, Jonathan Rosenberg
-currentlyReading: false
 # startDate:
 finishDate: 2015-01-02
 added: 2015-01-02

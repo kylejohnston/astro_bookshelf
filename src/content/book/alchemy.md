@@ -1,7 +1,6 @@
 ---
 title: "Alchemy: The Surprising Power of Ideas That Don't Make Sense"
 author: Rory Sutherland
-currentlyReading: false
 startDate: 2023-12-26
 finishDate: 2024-01-02
 added: 2024-01-02

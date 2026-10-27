@@ -1,7 +1,6 @@
 ---
 title: "The Courage to Start"
 author: John Bingham
-currentlyReading: false
 startDate: 2026-01-17
 finishDate: 2026-01-22
 added: 2026-01-22

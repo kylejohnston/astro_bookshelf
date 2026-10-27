@@ -1,7 +1,6 @@
 ---
 title: "The Making of the Atomic Bomb"
 author: Richard Rhodes
-currentlyReading: false
 startDate: 2026-08-27
 finishDate: 2026-09-25
 added: 2026-09-25

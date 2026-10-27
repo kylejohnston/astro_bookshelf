@@ -1,7 +1,6 @@
 ---
 title: "It Lasts Forever and Then It's Over"
 author: Anne de Marcken
-currentlyReading: false
 startDate: 2026-08-30
 finishDate: 2026-09-06
 added: 2026-09-06

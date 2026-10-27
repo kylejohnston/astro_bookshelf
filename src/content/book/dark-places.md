@@ -1,7 +1,6 @@
 ---
 title: "Dark Places"
 author: Gillian Flynn
-currentlyReading: false
 # startDate:
 finishDate: 2018-10-09
 added: 2018-10-09

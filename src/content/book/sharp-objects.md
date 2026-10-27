@@ -1,7 +1,6 @@
 ---
 title: "Sharp Objects"
 author: Gillian Flynn
-currentlyReading: false
 # startDate:
 finishDate: 2018-10-03
 added: 2018-10-03

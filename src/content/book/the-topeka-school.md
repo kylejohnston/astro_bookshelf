@@ -1,7 +1,6 @@
 ---
 title: "The Topeka School"
 author: Ben Lerner
-currentlyReading: false
 # startDate:
 finishDate: 2020-06-13
 added: 2020-06-13

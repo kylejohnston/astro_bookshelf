@@ -1,7 +1,6 @@
 ---
 title: "Other Minds"
 author: Peter Godfrey-Smith
-currentlyReading: false
 startDate: 2022-12-24
 finishDate: 2022-12-31
 added: 2022-12-24

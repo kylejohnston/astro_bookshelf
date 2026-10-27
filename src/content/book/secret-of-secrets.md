@@ -1,7 +1,6 @@
 ---
 title: "The Secret of Secrets"
 author: Dan Brown
-currentlyReading: false
 startDate: 2026-08-15
 finishDate: 2026-08-23
 added: 2026-08-23

@@ -1,7 +1,6 @@
 ---
 title: "Infinity Gate"
 author: M. R. Carey
-currentlyReading: false
 startDate: 2025-06-11
 finishDate: 2025-06-27
 added: 2025-06-27

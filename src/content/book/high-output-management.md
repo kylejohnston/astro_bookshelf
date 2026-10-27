@@ -1,7 +1,6 @@
 ---
 title: "High Output Management"
 author: Andrew S. Grove
-currentlyReading: false
 #startDate:
 finishDate: 2016-08-31
 added: 2016-08-31

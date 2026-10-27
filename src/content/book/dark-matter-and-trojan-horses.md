@@ -1,7 +1,6 @@
 ---
 title: "Dark Matter and Trojan Horses: A Strategic Design Vocabulary"
 author: Dan Hill
-currentlyReading: false
 finishDate: 2018-06-07
 added: 2018-06-07
 notes: true

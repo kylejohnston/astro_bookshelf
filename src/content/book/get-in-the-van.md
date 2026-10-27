@@ -1,7 +1,6 @@
 ---
 title: "Get in the Van"
 author: Henry Rollins
-currentlyReading: false
 startDate: 2025-01-30
 finishDate: 2025-05-25
 added: 2025-05-25

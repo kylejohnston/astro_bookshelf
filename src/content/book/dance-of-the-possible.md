@@ -1,7 +1,6 @@
 ---
 title: "The Dance of the Possible: The Mostly Honest and Completely Irreverent Guide to Creativity"
 author: Scott Berkun
-currentlyReading: false
 #startDate:
 finishDate: 2018-04-28
 added: 2018-04-28

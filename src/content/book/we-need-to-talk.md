@@ -1,7 +1,6 @@
 ---
 title: "We Need to Talk. How to Have Conversations That Matter"
 author: Celeste Headle
-currentlyReading: false
 startDate: 2023-01-22
 finishDate: 2023 Feb 06
 added: 2023-01-22

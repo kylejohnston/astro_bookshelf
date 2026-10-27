@@ -1,7 +1,6 @@
 ---
 title: "The Dungeon Anarchist's Cookbook: Dungeon Crawler Carl Book 3"
 author: Matt Dinniman
-currentlyReading: false
 startDate: 2025-10-24
 finishDate: 2025-11-02
 added: 2025-11-02

@@ -1,7 +1,6 @@
 ---
 title: "Elsewhere"
 author: Gabrielle Zevin
-currentlyReading: false
 startDate: 2025-04-26
 finishDate: 2025-04-28
 added: 2025-04-28

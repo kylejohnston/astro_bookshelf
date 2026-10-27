@@ -1,7 +1,6 @@
 ---
 title: "Daniels' Running Formula"
 author: Jack Daniels, PhD
-currentlyReading: false
 startDate: 2026-05-11
 finishDate: 2026-05-17
 added: 2026-05-17

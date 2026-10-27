@@ -1,7 +1,6 @@
 ---
 title: "Meditations for Mortals"
 author: Oliver Burkeman
-currentlyReading: false
 startDate: 2025-01-5
 finishDate: 2025-01-25
 added: 2025-01-25

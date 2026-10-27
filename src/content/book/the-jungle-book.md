@@ -1,7 +1,6 @@
 ---
 title: "The Jungle Book"
 author: Rudyard Kipling
-currentlyReading: false
 #startDate:
 finishDate: 2018-09-02
 added: 2018-09-02

@@ -1,7 +1,6 @@
 ---
 title: "Race Matters"
 author: Cornel West
-currentlyReading: false
 # startDate:
 finishDate: 2020-06-21
 added: 2020-06-21

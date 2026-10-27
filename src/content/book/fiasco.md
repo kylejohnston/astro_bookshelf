@@ -1,7 +1,6 @@
 ---
 title: "FIASCO: Blood in the Water on Wall Street"
 author: Frank Partnoy
-currentlyReading: false
 startDate: 2024-04-14
 finishDate: 2024-04-27
 added: 2024-04-27

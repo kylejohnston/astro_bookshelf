@@ -1,7 +1,6 @@
 ---
 title: "The End of the World Is Just the Beginning: Mapping the Collapse of Globalization"
 author: Peter Zeihan
-currentlyReading: false
 startDate: 2023-10-31
 finishDate: 2023-12-3
 added: 2023-12-3

@@ -1,7 +1,6 @@
 ---
 title: "Bossypants"
 author: Tina Fey
-currentlyReading: false
 # startDate:
 finishDate: 2018-06-17
 added: 2018-06-17

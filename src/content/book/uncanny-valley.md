@@ -1,7 +1,6 @@
 ---
 title: "Uncanny Valley. A Memoir"
 author: Anna Wiener
-currentlyReading: false
 startDate: 2022-10-09
 finishDate: 2022-10-14
 added: 2022-10-09

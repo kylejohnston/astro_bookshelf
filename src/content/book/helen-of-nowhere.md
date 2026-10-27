@@ -1,7 +1,6 @@
 ---
 title: "Helen of Nowhere"
 author: Makenna Goodman
-currentlyReading: true
 startDate: 2026-10-03
 finishDate: 2026-10-04
 added: 2026-10-04

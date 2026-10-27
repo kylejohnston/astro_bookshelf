@@ -1,7 +1,6 @@
 ---
 title: "You Look Like a Thing and I Love You"
 author: Janelle Shane
-currentlyReading: false
 startDate: 2025-03-27
 finishDate: 2025-03-31
 added: 2025-03-31

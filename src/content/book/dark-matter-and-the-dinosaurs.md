@@ -1,7 +1,6 @@
 ---
 title: "Dark Matter and the Dinosaurs: The astounding interconnectedness of the Universe"
 author: Lisa Randall
-currentlyReading: false
 # startDate:
 finishDate: 2018-09-04
 added: 2018-09-04

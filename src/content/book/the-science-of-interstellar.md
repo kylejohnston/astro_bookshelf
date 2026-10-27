@@ -1,7 +1,6 @@
 ---
 title: "The Science of Interstellar"
 author: Kip Thorne
-currentlyReading: false
 # startDate:
 finishDate: 2018-09-25
 added: 2018-09-25

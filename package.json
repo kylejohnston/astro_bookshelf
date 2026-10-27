@@ -14,8 +14,7 @@
     "deploy": "npm run build && wrangler deploy",
     "dev:cf": "npm run build && wrangler dev",
     "admin": "tsx scripts/admin.ts",
-    "add": "tsx scripts/admin.ts create",
-    "finish": "tsx scripts/admin.ts finish"
+    "add": "tsx scripts/admin.ts create"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.10",

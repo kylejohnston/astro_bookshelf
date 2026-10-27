@@ -1,7 +1,6 @@
 ---
 title: "The Fire Next Time"
 author: James Baldwin
-currentlyReading: false
 # startDate:
 finishDate: 2020-07-29
 added: 2020-07-29

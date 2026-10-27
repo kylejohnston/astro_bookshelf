@@ -1,7 +1,6 @@
 ---
 title: "How To Write One Song"
 author: Jeff Tweedy
-currentlyReading: false
 startDate: 2023-10-22
 finishDate: 2023-10-29
 added: 2023-10-29

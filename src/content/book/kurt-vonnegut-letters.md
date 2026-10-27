@@ -1,7 +1,6 @@
 ---
 title: "Kurt Vonnegut: Letters"
 author: Dan Wakefield
-currentlyReading: false
 startDate: 2026-07-26
 finishDate: 2026-08-13
 added: 2026-08-13

@@ -1,7 +1,6 @@
 ---
 title: "Termination Shock"
 author: Neal Stephenson
-currentlyReading: false
 startDate: 2024-07-08
 finishDate: 2024-08-06
 added: 2024-08-06

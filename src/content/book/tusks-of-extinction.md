@@ -1,7 +1,6 @@
 ---
 title: "The Tusks of Extinction"
 author: Ray Nayler
-currentlyReading: false
 startDate: 2025-04-07
 finishDate: 2025-04-08
 added: 2025-04-08

@@ -1,7 +1,6 @@
 ---
 title: "The Creative Act: A Way of Being"
 author: Rick Rubin
-currentlyReading: false
 startDate: 2023-01-30
 finishDate: 2023 Feb 25
 added: 2023-01-30

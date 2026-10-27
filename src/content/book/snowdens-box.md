@@ -1,7 +1,6 @@
 ---
 title: "Snowden's Box: Trust in the Age of Surveillance"
 author: Jessica Bruder and Dale Maharidge
-currentlyReading: false
 startDate: 2025-04-12
 finishDate: 2025-04-13
 added: 2025-04-13

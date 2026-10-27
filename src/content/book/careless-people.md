@@ -1,7 +1,6 @@
 ---
 title: "Careless People"
 author: Sarah Wynn-Williams
-currentlyReading: false
 startDate: 2025-07-26
 finishDate: 2025-08-02
 added: 2025-08-02

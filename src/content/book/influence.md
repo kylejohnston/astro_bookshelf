@@ -1,7 +1,6 @@
 ---
 title: "Influence, The Psychology of Persuasion"
 author: Robert B. Cialdini, Ph.D.
-currentlyReading: false
 #startDate:
 finishDate: 2017-03-05
 added: 2017-03-05

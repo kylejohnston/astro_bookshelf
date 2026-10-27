@@ -1,7 +1,6 @@
 ---
 title: "Wool"
 author: Hugh Howey
-currentlyReading: false
 startDate: 2024-08-07
 finishDate: 2024-09-02
 added: 2024-09-02

@@ -1,7 +1,6 @@
 ---
 title: "Moonwalking with Einstein, The Art and Science of Remembering Everything"
 author: Joshua Foer
-currentlyReading: false
 # startDate:
 finishDate: 2019-06-14
 added: 2019-06-14

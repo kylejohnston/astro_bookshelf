@@ -1,7 +1,6 @@
 ---
 title: "In Cold Blood"
 author: Truman Capote
-currentlyReading: false
 startDate: 2024-04-28
 finishDate: 2024-05-09
 added: 2024-05-09

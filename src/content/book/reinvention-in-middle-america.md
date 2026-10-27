@@ -1,7 +1,6 @@
 ---
 title: "Reinvention In Middle America — Innovation From the Interior"
 author: Sparks & Honey
-currentlyReading: false
 startDate: 2018 Feb 14
 finishDate: 2018 Feb 14
 added: 2018 Feb 14

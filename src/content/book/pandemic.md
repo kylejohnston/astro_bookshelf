@@ -1,7 +1,6 @@
 ---
 title: "Pandemic (The Extinction Files Book 1)"
 author: A.G. Riddle
-currentlyReading: false
 # startDate:
 finishDate: 2018-01-27
 added: 2018-01-27

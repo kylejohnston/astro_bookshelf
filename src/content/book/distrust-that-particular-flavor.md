@@ -1,7 +1,6 @@
 ---
 title: "Distrust That Particular Flavor"
 author: William Gibson
-currentlyReading: false
 startDate: 2024-12-24
 finishDate: 2024-12-29
 added: 2024-12-29

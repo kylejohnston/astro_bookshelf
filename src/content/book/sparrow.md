@@ -1,7 +1,6 @@
 ---
 title: "The Sparrow"
 author: Mary Doria Russell
-currentlyReading: false
 startDate: 2023-04-07
 finishDate: 2023-05-14
 added: 2023-04-07

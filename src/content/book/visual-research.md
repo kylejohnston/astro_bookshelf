@@ -1,7 +1,6 @@
 ---
 title: "Visual Research: An Introduction to Research Methodologies in Graphic Design"
 author: Ian Noble, Russell Bestley
-currentlyReading: false
 startDate: 2023-06-30
 finishDate: 2023 July 4
 added: 2023 July 4

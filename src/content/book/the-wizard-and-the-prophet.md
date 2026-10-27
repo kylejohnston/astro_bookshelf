@@ -1,7 +1,6 @@
 ---
 title: "The Wizard and the Prophet"
 author: Charles C. Mann
-currentlyReading: false
 # startDate:
 finishDate: 2019 Feb 20
 added: 2019 Feb 20

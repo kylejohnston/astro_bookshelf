@@ -1,7 +1,6 @@
 ---
 title: "Agency: Starting a Creative Firm in the Age of Digital Marketing"
 author: Rick Webb
-currentlyReading: false
 startDate: 2015-01-08
 finishDate: 2015-01-08
 added: 2015-01-08

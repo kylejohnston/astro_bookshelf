@@ -1,7 +1,6 @@
 ---
 title: "Disclosure"
 author: Michael Chrichton
-currentlyReading: false
 startDate: 2025-09-28
 finishDate: 2025-10-05
 added: 2025-10-05

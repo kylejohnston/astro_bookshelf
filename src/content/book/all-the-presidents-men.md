@@ -1,7 +1,6 @@
 ---
 title: "All the President's Men"
 author: Carl Bernstein & Bob Woodward
-currentlyReading: false
 startDate: 2022-06-05
 finishDate: 2022-06-24
 added: 2022-06-24

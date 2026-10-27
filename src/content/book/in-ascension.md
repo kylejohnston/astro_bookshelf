@@ -1,7 +1,6 @@
 ---
 title: "In Ascension"
 author: Martin MacInnes
-currentlyReading: false
 startDate: 2024-09-12
 finishDate: 2024-09-22
 added: 2024-09-22

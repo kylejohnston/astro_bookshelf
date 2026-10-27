@@ -1,7 +1,6 @@
 ---
 title: "When the Clock Broke: Con Men, Conspiracists, and How America Cracked Up in the Early 1990s"
 author: John Ganz
-currentlyReading: false
 startDate: 2024-06-26
 finishDate: 2024-07-07
 added: 2024-07-07

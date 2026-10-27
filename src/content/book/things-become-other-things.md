@@ -1,7 +1,6 @@
 ---
 title: "Things Become Other Things: A Walking Memoir"
 author: Craig Mod
-currentlyReading: false
 startDate: 2025-11-29
 finishDate: 2025-12-07
 added: 2025-12-07

@@ -1,7 +1,6 @@
 ---
 title: "Working the Command Line"
 author: Jeremy Keith
-currentlyReading: false
 startDate: 2016-12-31
 finishDate: 2016-12-31
 added: 2016-12-31

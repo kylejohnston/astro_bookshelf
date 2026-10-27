@@ -1,7 +1,6 @@
 ---
 title: "Authority"
 author: Jeff VanderMeer
-currentlyReading: false
 #startDate:
 finishDate: 2020-03-19
 added: 2020-03-19

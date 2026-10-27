@@ -1,7 +1,6 @@
 ---
 title: "Let My People Go Surfing: The Education of a Reluctant Businessman"
 author: Yvon Chouinard
-currentlyReading: false
 startDate: 2010-10-31
 finishDate: 2010-10-31
 added: 2010-10-31

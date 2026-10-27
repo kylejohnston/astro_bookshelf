@@ -1,7 +1,6 @@
 ---
 title: "Doomsday Book"
 author: Connie Willis
-currentlyReading: false
 startDate: 2025-08-14
 finishDate: 2025-08-27
 added: 2025-08-27

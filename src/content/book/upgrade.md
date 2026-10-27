@@ -1,7 +1,6 @@
 ---
 title: "Upgrade"
 author: Blake Crouch
-currentlyReading: false
 startDate: 2025-06-28
 finishDate: 2025-06-29
 added: 2025-06-29

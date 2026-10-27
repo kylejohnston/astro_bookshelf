@@ -48,7 +48,6 @@ const books = (await getCollection('book')).sort((a, b) => {
 						{book.data.reread ? `Reread ${formatDate(book.data.reread)}` : `Added ${formatDate(book.data.added)}`}
 						{book.data.favorite ? <span> &centerdot; ♥︎</span> : '' }
 						{book.data.notes ? <span> &centerdot; <a href={"/book/" + book.id.replace(/\.md$/, '') + "/"}>Notes</a></span> : '' }
-						{book.data.currentlyReading ? <span>📖 Currently Reading</span> : '' }
 					</span>
 				</p>
 			))}

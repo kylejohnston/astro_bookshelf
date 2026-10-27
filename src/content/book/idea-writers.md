@@ -1,7 +1,6 @@
 ---
 title: "The Idea Writers"
 author: Teressa Iezzi
-currentlyReading: false
 # startDate:
 finishDate: 2015-04-15
 added: 2015-04-15

@@ -15,7 +15,6 @@ export interface BookFrontmatter {
   added: string;
   startDate?: string;
   finishDate?: string;
-  currentlyReading?: boolean;
   favorite?: boolean;
   notes?: boolean;
   library?: string;
@@ -48,13 +47,6 @@ export function getAllBooks(): Book[] {
       content,
     };
   });
-}
-
-/**
- * Get books currently being read
- */
-export function getCurrentlyReading(): Book[] {
-  return getAllBooks().filter(book => book.frontmatter.currentlyReading === true);
 }
 
 /**
@@ -122,7 +114,6 @@ function serializeFrontmatter(fm: BookFrontmatter, withPlaceholders = false): st
   return [
     `title: "${fm.title}"`,
     `author: ${fm.author}`,
-    `currentlyReading: ${fm.currentlyReading ?? false}`,
     `startDate: ${startDate}`,
     `finishDate: ${finishDate}`,
     `added: ${normalizeDate(fm.added as string | Date)}`,
@@ -168,14 +159,4 @@ export function updateBook(
   fs.writeFileSync(filepath, fileContent);
 
   return filepath;
-}
-
-/**
- * Mark a book as finished
- */
-export function finishBook(slug: string, finishDate: string): string {
-  return updateBook(slug, {
-    currentlyReading: false,
-    finishDate,
-  });
 }

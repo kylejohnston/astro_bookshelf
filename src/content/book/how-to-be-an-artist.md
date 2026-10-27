@@ -1,7 +1,6 @@
 ---
 title: "How to Be an Artist"
 author: Jerry Saltz
-currentlyReading: false
 # startDate:
 finishDate: 2020-12-05
 added: 2020-12-05

@@ -1,7 +1,6 @@
 ---
 title: "Creative Superpowers: Equip Yourself for the Age of Creativity"
 author: Laura Jordan Bambach, Mark Earls, Danielle Fiandaca, Scott Morriso
-currentlyReading: false
 # startDate:
 finishDate: 2019 Feb 02
 added: 2019 Feb 02

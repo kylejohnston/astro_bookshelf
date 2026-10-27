@@ -1,7 +1,6 @@
 ---
 title: "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers"
 author: Alexander Osterwalder
-currentlyReading: false
 startDate: 2016-09-01
 finishDate: 2016-09-01
 added: 2016-09-01

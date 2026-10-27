@@ -1,7 +1,6 @@
 ---
 title: "Rogue Protocol: The Murderbot Diaries"
 author: Martha Wells
-currentlyReading: false
 startDate: 2025-11-22
 finishDate: 2025-11-22
 added: 2025-11-22

@@ -1,7 +1,6 @@
 ---
 title: "Foucault's Pendulum"
 author: Umberto Eco
-currentlyReading: false
 startDate: 2022-11-25
 finishDate: 2022-12-13
 added: 2022-11-25

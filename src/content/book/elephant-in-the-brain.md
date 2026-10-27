@@ -1,7 +1,6 @@
 ---
 title: "The Elephant in the Brain"
 author: Kevin Simler and Robin Hanson
-currentlyReading: false
 startDate: 2023-05-15
 finishDate: 2023-05-29
 added: 2023-05-30

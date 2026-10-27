@@ -1,7 +1,6 @@
 ---
 title: "The Candy House: A Novel"
 author: Jennifer Egan
-currentlyReading: false
 startDate: 2023-07-30
 finishDate: 2023-08-10
 added: 2023-08-10

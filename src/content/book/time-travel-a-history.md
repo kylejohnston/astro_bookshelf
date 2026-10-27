@@ -1,7 +1,6 @@
 ---
 title: "Time Travel: A History"
 author: James Gleick
-currentlyReading: false
 # startDate:
 finishDate: 2018-09-21
 added: 2018-09-21

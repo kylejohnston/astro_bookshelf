@@ -1,7 +1,6 @@
 ---
 title: "A Technique for Producing Ideas"
 author: James Webb Young
-currentlyReading: false
 #startDate:
 finishDate: 2016 Feb 27
 added: 2016 Feb 27

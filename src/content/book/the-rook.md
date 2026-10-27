@@ -1,7 +1,6 @@
 ---
 title: "The Rook"
 author: Daniel O'Malley
-currentlyReading: false
 startDate: 2025-05-04
 finishDate: 2025-05-16
 added: 2025-05-16
