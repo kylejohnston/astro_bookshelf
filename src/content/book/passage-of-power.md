@@ -1,7 +1,6 @@
 ---
 title: "The Passage of Power"
 author: Robert A. Caro
-currentlyReading: false
 # startDate:
 finishDate: 2019-04-15
 added: 2019-04-15

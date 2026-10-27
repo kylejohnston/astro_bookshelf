@@ -1,7 +1,6 @@
 ---
 title: "Tiny Experiments: How to Live Freely in a Goal-Obsessed World"
 author: Anne-Laure Le Cunff
-currentlyReading: false
 startDate: 2025-05-29
 finishDate: 2025-06-07
 added: 2025-06-07

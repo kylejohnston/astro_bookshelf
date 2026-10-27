@@ -1,7 +1,6 @@
 ---
 title: "Slaughterhouse Five"
 author: Kurt Vonnegut
-currentlyReading: false
 #startDate:
 finishDate: 2016-05-06
 added: 2016-05-06

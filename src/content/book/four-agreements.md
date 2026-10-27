@@ -1,7 +1,6 @@
 ---
 title: "The Four Agreements: A Practical Guide to Personal Freedom"
 author: Miguel Ruiz
-currentlyReading: false
 startDate: 2016-02-01
 finishDate: 2016-02-01
 added: 2016-02-01

@@ -1,7 +1,6 @@
 ---
 title: "Creative Quest"
 author: Questlove
-currentlyReading: false
 #startDate:
 finishDate: 2018-05-23
 added: 2018-05-23

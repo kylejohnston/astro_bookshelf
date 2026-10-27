@@ -1,7 +1,6 @@
 ---
 title: "Dust"
 author: Hugh Howey
-currentlyReading: false
 startDate: 2024-09-28
 finishDate: 2024-10-04
 added: 2024-10-04

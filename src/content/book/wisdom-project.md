@@ -1,7 +1,6 @@
 ---
 title: "The Wisdom Project"
 author: Merlin Mann
-currentlyReading: false
 startDate: 2025-05-26
 finishDate: 2025-05-26
 added: 2025-05-26

@@ -1,7 +1,6 @@
 ---
 title: "Box 88"
 author: Charles Cumming
-currentlyReading: true
 startDate: 2026-10-05
 finishDate: 2026-10-17
 added: 2026-10-17

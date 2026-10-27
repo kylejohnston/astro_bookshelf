@@ -1,7 +1,6 @@
 ---
 title: "The Women Could Fly"
 author: Megan Giddings
-currentlyReading: false
 startDate: 2022-11-12
 finishDate: 2022-11-24
 added: 2022-11-12

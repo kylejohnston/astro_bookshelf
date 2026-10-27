@@ -1,7 +1,6 @@
 ---
 title: "Long Island Compromise"
 author: Taffy Brodesser-Akner
-currentlyReading: false
 startDate: 2025-02-23
 finishDate: 2025-03-13
 added: 2025-03-13

@@ -1,7 +1,6 @@
 ---
 title: "The Three Body Problem"
 author: Cixin Liu
-currentlyReading: false
 startDate: 2023-12-04
 finishDate: 2023-12-15
 added: 2023-12-15

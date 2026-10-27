@@ -1,7 +1,6 @@
 ---
 title: "The Measure"
 author: Nikki Erlick
-currentlyReading: false
 startDate: 2023-05-30
 finishDate: 2023-07-30
 added: 2023-07-30

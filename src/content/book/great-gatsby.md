@@ -1,7 +1,6 @@
 ---
 title: "The Great Gatsby"
 author: F. Scott Fitzgerald
-currentlyReading: false
 # startDate:
 finishDate: 2013-09-01
 added: 2013-09-01

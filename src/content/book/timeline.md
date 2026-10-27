@@ -1,7 +1,6 @@
 ---
 title: "Timeline"
 author: Michael Crichton
-currentlyReading: false
 startDate: 2026-03-08
 finishDate: 2026-03-22
 added: 2026-03-22

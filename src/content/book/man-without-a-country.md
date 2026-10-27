@@ -1,7 +1,6 @@
 ---
 title: "A Man Without A Country"
 author: Kurt Vonnegut
-currentlyReading: false
 startDate: 2026-08-14
 finishDate: 2026-08-15
 added: 2026-08-15

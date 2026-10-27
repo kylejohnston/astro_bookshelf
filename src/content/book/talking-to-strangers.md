@@ -1,7 +1,6 @@
 ---
 title: "Talking to Strangers"
 author: Malcolm Gladwell
-currentlyReading: false
 # startDate:
 finishDate: 2020-10-06
 added: 2020-10-06

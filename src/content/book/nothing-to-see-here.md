@@ -1,7 +1,6 @@
 ---
 title: "Nothing to See Here"
 author: Kevin Wilson
-currentlyReading: false
 # startDate:
 finishDate: 2020-03-19
 added: 2020-03-19

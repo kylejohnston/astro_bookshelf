@@ -1,7 +1,6 @@
 ---
 title: "Carl’s Doomsday Scenario: Dungeon Crawler Carl Book 2"
 author: Matt Dinniman
-currentlyReading: false
 startDate: 2025-09-07
 finishDate: 2025-09-28
 added: 2025-09-28

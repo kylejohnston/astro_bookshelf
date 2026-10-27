@@ -1,7 +1,6 @@
 ---
 title: "AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference"
 author: Arvind Narayanan & Sayash Kapoor
-currentlyReading: false
 startDate: 2025-06-29
 finishDate: 2025-06-29
 added: 2025-07-09

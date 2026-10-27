@@ -1,7 +1,6 @@
 ---
 title: "Good Clean Fun: Misadventures in Sawdust at Offerman Woodshop"
 author: Nick Offerman
-currentlyReading: false
 startDate: 2025-11-02
 finishDate: 2025-11-16
 added: 2025-11-16

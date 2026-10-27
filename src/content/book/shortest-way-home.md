@@ -1,7 +1,6 @@
 ---
 title: "Shortest Way Home"
 author: Pete Buttigieg
-currentlyReading: false
 # startDate:
 finishDate: 2019-07-13
 added: 2019-07-13

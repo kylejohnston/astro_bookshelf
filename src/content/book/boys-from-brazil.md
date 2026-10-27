@@ -1,7 +1,6 @@
 ---
 title: "The Boys from Brazil"
 author: Ira Levin
-currentlyReading: false
 startDate: 2025-08-30
 finishDate: 2025-08-31
 added: 2025-08-31

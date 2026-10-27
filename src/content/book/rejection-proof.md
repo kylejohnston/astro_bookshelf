@@ -1,7 +1,6 @@
 ---
 title: "Rejection Proof"
 author: Jia Jiang
-currentlyReading: false
 startDate: 2025-08-08
 finishDate: 2025-08-13
 added: 2025-08-13

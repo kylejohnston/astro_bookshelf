@@ -1,7 +1,6 @@
 ---
 title: "The Mountain is You"
 author: Brianna Wiest
-currentlyReading: false
 startDate: 2026-05-06
 finishDate: 2026-05-17
 added: 2026-05-17

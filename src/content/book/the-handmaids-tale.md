@@ -1,7 +1,6 @@
 ---
 title: "The Handmaid's Tale"
 author: Margaret Atwood
-currentlyReading: false
 #startDate:
 finishDate: 2017-05-25
 added: 2017-05-25

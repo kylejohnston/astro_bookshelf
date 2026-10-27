@@ -1,7 +1,6 @@
 ---
 title: "Co-Intelligence: Living and Working with AI"
 author: Ethan Mollick
-currentlyReading: false
 startDate: 2024-06-02
 finishDate: 2024-06-07
 added: 2024-06-07

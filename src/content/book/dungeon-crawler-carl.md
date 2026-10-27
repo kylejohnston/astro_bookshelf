@@ -1,7 +1,6 @@
 ---
 title: "Dungeon Crawler Carl"
 author: Matt Dinniman
-currentlyReading: false
 startDate: 2025-09-01
 finishDate: 2025-09-06
 added: 2025-09-06

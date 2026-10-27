@@ -1,7 +1,6 @@
 ---
 title: "Acceptance"
 author: Jeff VanderMeer
-currentlyReading: false
 # startDate: 
 finishDate: 2020-04-19
 added: 2020-04-19

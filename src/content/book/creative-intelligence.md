@@ -1,7 +1,6 @@
 ---
 title: "Creative Intelligence"
 author: Greg Storey
-currentlyReading: false
 startDate: 2025-07-10
 finishDate: 2025-07-19
 added: 2025-07-19

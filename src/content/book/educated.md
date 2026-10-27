@@ -1,7 +1,6 @@
 ---
 title: "Educated"
 author: Tara Westover
-currentlyReading: false
 # startDate:
 finishDate: 2020-04-27
 added: 2020-04-27

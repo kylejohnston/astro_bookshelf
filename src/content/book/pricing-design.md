@@ -1,7 +1,6 @@
 ---
 title: "Pricing Design"
 author: Daniel Mall
-currentlyReading: false
 # startDate:
 finishDate: 2016-05-15
 added: 2016-05-15

@@ -1,7 +1,6 @@
 ---
 title: "Mo' Meta Blues"
 author: Ahmir "Questlove" Thompson
-currentlyReading: false
 # startDate:
 finishDate: 2013-07-13
 added: 2013-07-13

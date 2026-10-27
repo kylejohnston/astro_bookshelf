@@ -1,7 +1,6 @@
 ---
 title: "Start Where You Are"
 author: Pema Chödrön
-currentlyReading: false
 # startDate:
 finishDate: 2020-09-20
 added: 2020-09-20

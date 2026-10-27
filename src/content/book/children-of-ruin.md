@@ -1,7 +1,6 @@
 ---
 title: "Children of Ruin"
 author: Adrian Tchaikovsky
-currentlyReading: false
 startDate: 2026-06-28
 finishDate: 2026-07-25
 added: 2026-07-25

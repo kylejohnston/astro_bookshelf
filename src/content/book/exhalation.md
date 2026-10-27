@@ -1,7 +1,6 @@
 ---
 title: "Exhalation"
 author: Ted Chiang
-currentlyReading: false
 # startDate:
 finishDate: 2019-06-22
 added: 2019-06-22

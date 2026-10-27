@@ -1,7 +1,6 @@
 ---
 title: "All the King’s Men"
 author: Robert Penn Warren
-currentlyReading: false
 # startDate:
 finishDate: 2018-07-24
 added: 2018-07-24

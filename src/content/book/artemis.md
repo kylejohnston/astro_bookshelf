@@ -1,7 +1,6 @@
 ---
 title: "Artemis"
 author: Andy Weir
-currentlyReading: false
 #startDate:
 finishDate: 2019-03-03
 added: 2019-03-03

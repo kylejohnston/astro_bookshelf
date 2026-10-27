@@ -1,7 +1,6 @@
 ---
 title: "The Peripheral"
 author: William Gibson
-currentlyReading: false
 startDate: 2024-01-15
 finishDate: 2024 Feb 10
 added: 2024 Feb 10

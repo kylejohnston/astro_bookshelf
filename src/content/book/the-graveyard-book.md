@@ -1,7 +1,6 @@
 ---
 title: "The Graveyard Book"
 author: Neil Gaiman
-currentlyReading: false
 #startDate:
 finishDate: 2018-08-26
 added: 2018-08-26

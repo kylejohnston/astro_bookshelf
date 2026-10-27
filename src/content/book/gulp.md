@@ -1,7 +1,6 @@
 ---
 title: "Gulp: Adventures on the Alimentary Canal"
 author: Mary Roach
-currentlyReading: false
 # startDate:
 finishDate: 2020-08-30
 added: 2020-08-30

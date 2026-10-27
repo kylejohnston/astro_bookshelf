@@ -1,7 +1,6 @@
 ---
 title: "The Big Leap"
 author: Gay Hendricks, PhD
-currentlyReading: false
 startDate: 2023-07-05
 finishDate: 2023-07-17
 added: 2023-07-17

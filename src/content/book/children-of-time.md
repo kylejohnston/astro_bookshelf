@@ -1,7 +1,6 @@
 ---
 title: "Children of Time"
 author: Adrian Tchaikovsky
-currentlyReading: false
 startDate: 2024-01-04
 finishDate: 2024-01-14
 added: 2024-01-14

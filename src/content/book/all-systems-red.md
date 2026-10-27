@@ -1,7 +1,6 @@
 ---
 title: "All Systems Red: The Murderbot Diaries"
 author: Martha Wells
-currentlyReading: false
 startDate: 2025-05-04
 finishDate: 2025-05-07
 added: 2025-05-07

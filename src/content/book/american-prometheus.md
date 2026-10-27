@@ -1,7 +1,6 @@
 ---
 title: "American Prometheus: The Tragedy and Triumph of J. Robert Oppenheimer"
 author: Kai Bird and Martin J. Sherwin
-currentlyReading: false
 startDate: 2022-03-05
 finishDate: 2022-03-24
 added: 2022-03-24

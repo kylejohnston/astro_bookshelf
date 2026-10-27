@@ -1,7 +1,6 @@
 ---
 title: "Disrupted: My Misadventure in the Start-Up Bubble"
 author: Dan Lyons
-currentlyReading: false
 # startDate:
 finishDate: 2019-07-31
 added: 2019-07-31

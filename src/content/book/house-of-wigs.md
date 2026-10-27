@@ -1,7 +1,6 @@
 ---
 title: "The House of Wigs"
 author: Joshua Allen
-currentlyReading: false
 startDate: 2015-12-20
 finishDate: 2015-12-20
 added: 2015-12-20

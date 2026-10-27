@@ -1,7 +1,6 @@
 ---
 title: "Heavy: An American Memoir"
 author: Kiese Laymon
-currentlyReading: false
 # startDate:
 finishDate: 2019-09-01
 added: 2019-09-01

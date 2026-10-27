@@ -1,7 +1,6 @@
 ---
 title: "The Maniac"
 author: Benjamin Labatut
-currentlyReading: false
 startDate: 2024-09-28
 finishDate: 2024-10-07
 added: 2024-10-07

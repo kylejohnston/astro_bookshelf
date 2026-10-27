@@ -1,7 +1,6 @@
 ---
 title: "Agency"
 author: William Gibson
-currentlyReading: false
 startDate: 2024 Feb 18
 finishDate: 2024-03-12
 added: 2024-03-12

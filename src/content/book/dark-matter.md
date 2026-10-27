@@ -1,7 +1,6 @@
 ---
 title: "Dark Matter"
 author: Blake Crouch
-currentlyReading: false
 # startDate:
 finishDate: 2019-09-21
 added: 2019-09-21

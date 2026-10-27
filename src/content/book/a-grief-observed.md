@@ -1,7 +1,6 @@
 ---
 title: "A Grief Observed"
 author: C.S. Lewis
-currentlyReading: false
 # startDate:
 finishDate: 2020-09-26
 added: 2020-09-26

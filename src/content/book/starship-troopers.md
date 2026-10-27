@@ -1,7 +1,6 @@
 ---
 title: "Starship Troopers"
 author: Robert A. Heinlein
-currentlyReading: false
 startDate: 2025-04-13
 finishDate: 2025-04-26
 added: 2025-04-26

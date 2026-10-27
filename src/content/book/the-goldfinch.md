@@ -1,7 +1,6 @@
 ---
 title: "The Goldfinch"
 author: Donna Tartt
-currentlyReading: false
 # startDate:
 finishDate: 2020-01-04
 added: 2020-01-04

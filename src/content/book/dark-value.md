@@ -1,7 +1,6 @@
 ---
 title: "Dark Value: How to find hidden value in the digital economy"
 author: Grant McCracken
-currentlyReading: false
 startDate: 2016-06-01
 finishDate: 2016-06-01
 added: 2016-06-01

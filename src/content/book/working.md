@@ -1,7 +1,6 @@
 ---
 title: "Working"
 author: Robert A. Caro
-currentlyReading: false
 # startDate:
 finishDate: 2019-07-27
 added: 2019-07-27

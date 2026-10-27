@@ -1,7 +1,6 @@
 ---
 title: "Bad Blood: Secrets and Lies in a Silicon Valley Startup"
 author: John Carreyrou
-currentlyReading: false
 #startDate:
 finishDate: 2018-09-08
 added: 2018-09-08

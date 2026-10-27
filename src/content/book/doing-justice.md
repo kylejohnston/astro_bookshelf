@@ -1,7 +1,6 @@
 ---
 title: "Doing Justice. A Prosecutor’s Thoughts on Crime, Punishment, and the Rule of Law"
 author: Preet Bharara
-currentlyReading: false
 #startDate:
 finishDate: 2019-10-31
 added: 2019-10-31

@@ -1,7 +1,6 @@
 ---
 title: "The Diamond Age: Or, A Young Lady's Illustrated Primer"
 author: Neal Stephenson
-currentlyReading: false
 startDate: 2024-06-08
 finishDate: 2024-06-29
 added: 2024-06-29

@@ -1,7 +1,6 @@
 ---
 title: "Hum"
 author: Helen Phillips
-currentlyReading: false
 startDate: 2026-01-05
 finishDate: 2026-01-17
 added: 2026-01-17

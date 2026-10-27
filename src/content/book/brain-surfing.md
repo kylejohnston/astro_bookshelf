@@ -1,7 +1,6 @@
 ---
 title: "Brain Surfing: The Top Marketing Strategy Minds in the World"
 author: Heather LeFevre
-currentlyReading: false
 startDate: 2016-03-01
 finishDate: 2016-03-01
 added: 2016-03-01

@@ -1,7 +1,6 @@
 ---
 title: "Four Thousand Weeks. Time Management for Mortals"
 author: Oliver Burkeman
-currentlyReading: false
 startDate: 2022-10-09
 finishDate: 2022-10-15
 added: 2022-10-09

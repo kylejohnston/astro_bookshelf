@@ -1,7 +1,6 @@
 ---
 title: "The Serviceberry"
 author: Robin Wall Kimmerer
-currentlyReading: false
 startDate: 2026-06-11
 finishDate: 2026-06-20
 added: 2026-06-20

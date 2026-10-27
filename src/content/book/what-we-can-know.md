@@ -1,7 +1,6 @@
 ---
 title: "What We Can Know"
 author: Ian McEwan
-currentlyReading: false
 startDate: 2026-03-23
 finishDate: 2026-04-02
 added: 2026-04-18

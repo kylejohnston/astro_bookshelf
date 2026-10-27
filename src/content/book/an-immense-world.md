@@ -1,7 +1,6 @@
 ---
 title: "An Immense World"
 author: Ed Yong
-currentlyReading: false
 startDate: 2023-09-04
 finishDate: 2023-10-22
 added: 2023-10-22

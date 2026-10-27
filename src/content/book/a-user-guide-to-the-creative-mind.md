@@ -1,7 +1,6 @@
 ---
 title: "A User Guide to the Creative Mind"
 author: Dave Birss
-currentlyReading: false
 startDate: 2016-04-14
 finishDate: 2016-04-14
 added: 2016-04-14

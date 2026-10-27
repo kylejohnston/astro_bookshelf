@@ -1,7 +1,6 @@
 ---
 title: "The Da Vinci Code"
 author: Dan Brown
-currentlyReading: false
 startDate: 2025-12-21
 finishDate: 2025-12-27
 added: 2025-12-27

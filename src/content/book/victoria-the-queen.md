@@ -1,7 +1,6 @@
 ---
 title: "Victoria, The Queen"
 author: Julia Baird
-currentlyReading: false
 # startDate:
 finishDate: 2019-05-27
 added: 2019-05-27

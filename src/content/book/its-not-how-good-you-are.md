@@ -1,7 +1,6 @@
 ---
 title: "It's Not How Good You Are, It's How Good You Want To Be"
 author: Paul Arden
-currentlyReading: false
 startDate: 2016-06-01
 finishDate: 2016-06-01
 added: 2016-06-01

@@ -1,7 +1,6 @@
 ---
 title: "Transcription"
 author: Ben Lerner
-currentlyReading: false
 startDate: 2026-08-24
 finishDate: 2026-08-26
 added: 2026-08-24

@@ -1,7 +1,6 @@
 ---
 title: "The Machine Stops"
 author: E.M. Forster
-currentlyReading: false
 startDate: 2024-01-02
 finishDate: 2024-01-03
 added: 2024-01-03

@@ -1,7 +1,6 @@
 ---
 title: "Damn Good Advice (For People with Talent!)"
 author: George Lois
-currentlyReading: false
 startDate: 2013-06-01
 finishDate: 2013-06-01
 added: 2013-06-01

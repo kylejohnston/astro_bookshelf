@@ -1,7 +1,6 @@
 ---
 title: "Tools of the Titans"
 author: Tim Ferriss
-currentlyReading: false
 startDate: 2016-12-30
 finishDate: 2016-12-30
 added: 2016-12-30

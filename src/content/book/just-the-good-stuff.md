@@ -1,7 +1,6 @@
 ---
 title: "Just the Good Stuff"
 author: Jim VandeHei
-currentlyReading: false
 startDate: 2025-01-26
 finishDate: 2025 Feb 1
 added: 2025 Feb 1

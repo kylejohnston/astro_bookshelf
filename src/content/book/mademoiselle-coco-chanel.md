@@ -1,7 +1,6 @@
 ---
 title: "Mademoiselle, Coco Chanel and the Pulse of History"
 author: Rhonda Garelick
-currentlyReading: false
 # startDate:
 finishDate: 2019-07-22
 added: 2019-07-22

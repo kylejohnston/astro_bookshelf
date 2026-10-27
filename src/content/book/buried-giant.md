@@ -1,7 +1,6 @@
 ---
 title: "The Buried Giant"
 author: Kazuo Ishiguro
-currentlyReading: true
 startDate: 2026-09-25
 finishDate: 2026-10-02
 added: 2026-10-02

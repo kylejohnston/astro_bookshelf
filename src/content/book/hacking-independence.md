@@ -1,7 +1,6 @@
 ---
 title: "Hacking Independence: 40 Freelance Growth Hacking Tips to Try Right Now"
 author: And Co.
-currentlyReading: false
 # startDate:
 finishDate: 2018-01-05
 added: 2018-01-05

@@ -1,7 +1,6 @@
 ---
 title: "The Spy and the Traitor"
 author: Ben Macintyre
-currentlyReading: false
 startDate: 2026-02-24
 finishDate: 2026-03-08
 added: 2026-03-08

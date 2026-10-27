@@ -1,7 +1,6 @@
 ---
 title: "Lincoln in the Bardo"
 author: George Saunders
-currentlyReading: false
 startDate: 2024-05-27
 finishDate: 2024-06-03
 added: 2024-06-03

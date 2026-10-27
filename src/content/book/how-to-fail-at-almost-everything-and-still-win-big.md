@@ -1,7 +1,6 @@
 ---
 title: "How to Fail at Almost Everything and Still Win Big. Kind of the Story of My Life"
 author: Scott Adams
-currentlyReading: false
 # startDate:
 finishDate: 2016-11-08
 added: 2016-11-08

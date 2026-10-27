@@ -1,7 +1,6 @@
 ---
 title: "The Overstory"
 author: Richard Powers
-currentlyReading: false
 startDate: 2022-09-22
 finishDate: 2022-10-09
 added: 2022-09-22

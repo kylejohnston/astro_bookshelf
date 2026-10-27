@@ -1,7 +1,6 @@
 ---
 title: "Aurora"
 author: Kim Stanley Robinson
-currentlyReading: false
 startDate: 2025-10-05
 finishDate: 2025-10-22
 added: 2025-10-22

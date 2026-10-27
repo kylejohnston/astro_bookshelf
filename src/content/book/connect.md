@@ -1,7 +1,6 @@
 ---
 title: "Connect"
 author: David Bradford, PhD & Carole Robin, PhD
-currentlyReading: false
 startDate: 2025-03-17
 finishDate: 2025-04-07
 added: 2025-04-07

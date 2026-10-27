@@ -1,7 +1,6 @@
 ---
 title: "Misbehaving: The Making of Behavioral Economics"
 author: Richard H. Thaler
-currentlyReading: false
 #startDate:
 finishDate: 2018-01-03
 added: 2018-01-03

@@ -1,7 +1,6 @@
 ---
 title: "This is How You Lose the Time War"
 author: Amal El-Mohtar and Max Gladstone
-currentlyReading: false
 startDate: 2025-11-17
 finishDate: 2025-11-28
 added: 2025-11-28

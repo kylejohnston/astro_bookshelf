@@ -1,7 +1,6 @@
 ---
 title: "Tomorrow, and Tomorrow, and Tomorrow"
 author: Gabrielle Zevin
-currentlyReading: false
 startDate: 2023-01-01
 finishDate: 2023-01-22
 added: 2023-01-01

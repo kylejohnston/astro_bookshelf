@@ -1,7 +1,6 @@
 ---
 title: "The Man in the High Castle"
 author: Philip K. Dick
-currentlyReading: false
 # startDate:
 finishDate: 2018-10-18
 added: 2018-10-18

@@ -1,7 +1,6 @@
 ---
 title: "Annihilation"
 author: Jeff VanderMeer
-currentlyReading: false
 #startDate:
 finishDate: 2020 Feb 15
 added: 2020 Feb 15

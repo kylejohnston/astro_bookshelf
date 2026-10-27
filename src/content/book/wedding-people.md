@@ -1,7 +1,6 @@
 ---
 title: "The Wedding People"
 author: Alison Espach
-currentlyReading: false
 startDate: 2026-04-04
 finishDate: 2026-04-19
 added: 2026-04-19

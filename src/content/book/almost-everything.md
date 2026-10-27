@@ -1,7 +1,6 @@
 ---
 title: "Almost Everything. Notes on Hope."
 author: Anne Lamott
-currentlyReading: false
 startDate: 2024-10-13
 finishDate: 2024-10-15
 added: 2024-10-15

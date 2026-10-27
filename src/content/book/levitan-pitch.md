@@ -1,7 +1,6 @@
 ---
 title: "The Levitan Pitch. Buy This Book. Win More Pitches."
 author: Peter Levitan
-currentlyReading: false
 startDate: 2014-12-01
 finishDate: 2014-12-01
 added: 2014-12-01

@@ -1,7 +1,6 @@
 ---
 title: "The First 90 Days"
 author: Michael D. Watkins
-currentlyReading: false
 startDate: 2016-11-01
 finishDate: 2016-11-01
 added: 2016-11-01

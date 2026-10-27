@@ -1,7 +1,6 @@
 ---
 title: "The Andromeda Strain"
 author: Michael Crichton
-currentlyReading: false
 # startDate:
 finishDate: 2019-09-25
 added: 2019-09-25

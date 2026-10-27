@@ -1,7 +1,6 @@
 ---
 title: "Popisho"
 author: Leone Ross
-currentlyReading: false
 startDate: 2022-10-16
 finishDate: 2022-11-04
 added: 2022-10-16

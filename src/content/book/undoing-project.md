@@ -1,7 +1,6 @@
 ---
 title: "The Undoing Project"
 author: Michael Lewis
-currentlyReading: false
 # startDate:
 finishDate: 2019-07-03
 added: 2019-07-03

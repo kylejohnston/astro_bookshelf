@@ -1,7 +1,6 @@
 ---
 title: "Picture This: How Pictures Work"
 author: Molly Bang
-currentlyReading: false
 # startDate:
 finishDate: 2018-07-14
 added: 2018-07-14

@@ -5,7 +5,6 @@
  * Usage:
  *   npm run admin           # Interactive menu
  *   npm run admin create    # Add a new book
- *   npm run admin finish    # Mark a book as finished
  *   npm run admin edit      # Open a book in editor
  */
 
@@ -13,9 +12,7 @@ import * as p from '@clack/prompts';
 import { execSync } from 'node:child_process';
 import {
   getAllBooks,
-  getCurrentlyReading,
   createBook,
-  finishBook,
   slugExists,
   type BookFrontmatter,
 } from './lib/books.js';
@@ -24,7 +21,7 @@ import { generateSlug, today } from './lib/utils.js';
 // Editor command
 const EDITOR = 'code';
 
-type Command = 'create' | 'finish' | 'edit' | 'list';
+type Command = 'create' | 'edit' | 'list';
 
 async function main() {
   p.intro('📚 Book Collection Admin');
@@ -36,8 +33,7 @@ async function main() {
     const selected = await p.select({
       message: 'What would you like to do?',
       options: [
-        { value: 'create', label: 'Add a new book', hint: 'start reading' },
-        { value: 'finish', label: 'Finish a book', hint: 'mark as complete' },
+        { value: 'create', label: 'Add a new book', hint: 'log a book' },
         { value: 'edit', label: 'Edit a book', hint: 'open in editor' },
         { value: 'list', label: 'List books', hint: 'view collection stats' },
       ],
@@ -54,9 +50,6 @@ async function main() {
   switch (command) {
     case 'create':
       await handleCreate();
-      break;
-    case 'finish':
-      await handleFinish();
       break;
     case 'edit':
       await handleEdit();
@@ -175,7 +168,6 @@ async function handleCreate() {
     title,
     author,
     coverImage: coverImage || `${slug}.webp`,
-    currentlyReading: true,
     startDate: today(),
     added: today(),
     notes: false,
@@ -197,48 +189,6 @@ async function handleCreate() {
   if (!p.isCancel(openEditor) && openEditor) {
     execSync(`${EDITOR} "${filepath}"`);
   }
-}
-
-async function handleFinish() {
-  const currentlyReading = getCurrentlyReading();
-
-  if (currentlyReading.length === 0) {
-    p.log.warn('No books currently being read.');
-    return;
-  }
-
-  const selected = await p.select({
-    message: 'Which book did you finish?',
-    options: currentlyReading.map((book) => ({
-      value: book.slug,
-      label: book.frontmatter.title,
-      hint: book.frontmatter.author,
-    })),
-  });
-
-  if (p.isCancel(selected)) {
-    p.cancel('Operation cancelled.');
-    process.exit(0);
-  }
-
-  const finishDate = await p.text({
-    message: 'Finish date:',
-    placeholder: today(),
-    defaultValue: today(),
-    validate: (value) => {
-      if (!/^\d{4}-\d{2}-\d{2}$/.test(value)) {
-        return 'Use YYYY-MM-DD format';
-      }
-    },
-  });
-
-  if (p.isCancel(finishDate)) {
-    p.cancel('Operation cancelled.');
-    process.exit(0);
-  }
-
-  const filepath = finishBook(selected, finishDate);
-  p.log.success(`Marked as finished: ${filepath}`);
 }
 
 async function handleEdit() {
@@ -297,21 +247,12 @@ async function handleEdit() {
 
 async function handleList() {
   const allBooks = getAllBooks();
-  const currentlyReading = allBooks.filter((b) => b.frontmatter.currentlyReading);
   const favorites = allBooks.filter((b) => b.frontmatter.favorite);
   const withNotes = allBooks.filter((b) => b.frontmatter.notes);
 
   p.log.info(`📚 Total books: ${allBooks.length}`);
-  p.log.info(`📖 Currently reading: ${currentlyReading.length}`);
   p.log.info(`⭐ Favorites: ${favorites.length}`);
   p.log.info(`📝 With notes: ${withNotes.length}`);
-
-  if (currentlyReading.length > 0) {
-    p.log.step('Currently reading:');
-    currentlyReading.forEach((book) => {
-      console.log(`   • ${book.frontmatter.title} by ${book.frontmatter.author}`);
-    });
-  }
 }
 
 main().catch((err) => {
