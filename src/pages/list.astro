@@ -30,8 +30,8 @@ const books = (await getCollection('book')).sort((a, b) => {
 	<MainNav /> <!-- logo, nav -->
 	<main class="content">
 		<!-- search -->
-		<div class="grid grid-cols-2 justify-center items-start px-4 pt-4 text-lg text-gray-700 md:px-8 md:pt-8 md:justify-between;">
-			<Search className="pagefind-ui col-span-2" />
+		<div class="grid grid-cols-4 justify-center items-start px-4 pt-4 text-lg text-gray-700 md:px-8 md:pt-8 md:justify-between;">
+			<Search className="pagefind-ui col-span-3" />
 			<ViewToggle view="list" />
 		</div>
 		
